@@ -1,0 +1,78 @@
+---
+layout: default
+title: Project Investigators
+---
+
+<aside id="lbrnEventSidebar3">
+  <ul>
+    <div id="lbrnEventSidebarUl3">
+      <p>
+        <button class="btn mobilefilter dropdown-toggle" type="button" data-toggle="collapse" data-target="#filterex" aria-expanded="false" aria-controls="collapseExample">
+          Filters
+        </button>
+      </p>
+      <div class="collapse mobilefilter filters" id="filterex">
+        <li class="on pifp">Full Project</li>
+        <li class="on pipp">Pilot Project</li>
+        <li class="on pitp">Translational Project</li>
+        <li class="on pisp">Startup Project</li>
+        <li class="on pisip">Shared Instrument Project</li>
+        <li class="on piicp">INBRE COBRE Collaborative Project</li>
+          <li class="on peoplesort pilsc" id="pilsc">LBRN Steering Committee</li>
+      </div>
+    </div>
+  </ul>
+</aside>
+
+<aside id="lbrnEventSidebar2">
+      <button id="sideBug" class="btn" type="button" data-toggle="collapse" data-target="#lbrnEventSidebarUl" aria-expanded="false" aria-controls="collapseExample">
+        <img src="{{site.baseurl}}/images/menuClosed.png" alt="Menu Bug">
+      </button>
+      <div id="lbrnEventSidebarUl">
+        <div class="sidebar-holder">
+          <div class="dot-text-holder">
+            <li>Filter</li>
+          </div>
+        </div>
+        <ul class=" filters">
+            <li class="on pifp">Full Project</li>
+            <li class="on pisp">Startup Project</li>
+            <li class="on pisip">Shared Instrument Project</li>
+            <li class="on pipp">Pilot Project</li>
+            <li class="on pitp">Translational Project</li>
+            <li class="on piicp">INBRE COBRE Collaborative Project</li>
+            <li class="on pispp">Supplemental Project</li>
+
+        </ul>
+    </div>
+    <!-- <li><a href="#">top</a></li> -->
+  <div class="">
+    <li><a href="#">Top</a></li>
+  </div>
+</aside>
+
+
+<div class="content_tweek content ">
+
+
+<section class="directory" >
+  {% assign count = 0 %}
+
+  {% for people in site.data.pis_full %}
+        {% if people.active %}
+        {% assign count = count | plus: 1 %}
+          {% assign modcount = count | modulo: 2 %}
+
+            {% if modcount == 1  %}
+                {% include pidirectory-currentPi.html %}
+              {% else %}
+                {% include pidirectory-currentPi.html %}
+            {% endif %}
+            {%endif%}
+  {% endfor %}
+
+
+</section>
+
+</div>
+<section class="directory">

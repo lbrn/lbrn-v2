@@ -1,0 +1,45 @@
+<section>
+  {% if highlight.link != nil %}
+  <a href="{{highlight.link}}">
+    {% else %}
+
+  {% endif %}
+  <!-- <a href="{{ '/upcoming-events.html' | relative_url }}#{{highlight.date | date: '%d' }}{{highlight.date | date: '%b'}}"> -->
+
+
+  <!-- both the same for now -->
+    {% if highlight.img != nil %}
+    <div class="date">
+      <img src="{{highlight.img}}" alt="">
+    </div>
+    {% endif %}
+    {% if highlight.img != nil %}
+    <div class="details">
+    {% else %}
+    <div class="details notice">
+    {% endif %}
+
+    {% if highlight.categories contains "Event" %}
+      <p class="title space">{{highlight.title}}</p>
+
+
+      {% if highlight.eventDate != nil %}
+      <p class="date-time">{{highlight.eventDate}}</p>
+      {% endif %}
+
+      {% if highlight.startTime != nil %}
+      <p class="date-time">{{highlight.startTime}} to {{highlight.endTime}}</p>
+      {% endif %}
+    {% else %}
+    <p class="date-time space">{{highlight.title}}</p>
+    <!-- <p class="title">{{highlight.description}}</p> -->
+    {% endif %}
+
+  </div>
+  {% if highlight.link != nil %}
+  </a>
+  {% else %}
+
+  {% endif %}
+  <a class="natural-link" href="{{highlight.url | relative_url }}"><h5>View Full Highlight </h5></a>
+</section>

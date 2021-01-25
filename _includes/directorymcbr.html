@@ -1,0 +1,19 @@
+
+<article class="person" data-pType="{{people.project-type}}">
+  <img src="images/people/{{people.image}}" alt="{{people.author}}'s portrait photo.">
+  {% if people.author != "none" %}
+  <h4>{{people.author}}</h4>
+  {% endif %}
+  {% if people.mtitle != nil %}
+  <h5>{{people.mtitle}}</h5>
+  {% endif %}
+
+  <h5 style="margin-top: .6em;">{{people.school}}</h5>
+  <h6 style="margin-top: .6em; display: none;">{{people.project-type}}</h6>
+  <ul>
+    <!-- <li>{{people.zip}}</li> -->
+    <li>{{people.city}}, {{people.state}}, {{people.zip}}</li>
+    <li>{{people.email}}</li>
+    <li>{{people.phone}}</li>
+  </ul>
+</article>

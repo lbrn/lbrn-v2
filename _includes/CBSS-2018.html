@@ -1,0 +1,19 @@
+{% for speakers in site.data.CBSS-2018 %}
+<section>
+<a href="{{speakers.aboutlink}}">
+    <img src="{{speakers.img}}" alt="{{speakers.name}}">
+  </a>
+  <p>{{speakers.date}}</p>
+  <br>
+  <p>{{speakers.name}}</p>
+  <p>{{speakers.university}}</p>
+  <p>{{speakers.title}}</p>
+  <div id="speakerfaq">
+  	<p>Abstract:
+  	<ul>{{speakers.abstract}}</ul></p>
+  	<p>Bio:</p>
+  	<ul>{{speakers.bio}}</ul>
+  </div>
+</section>
+<hr>
+{% endfor %}

@@ -1,0 +1,51 @@
+- name: Emily Jane McTavish
+  date: February 21&#44; 2017
+  time: 5&colon;00 PM
+  university: University of California, Merced, Assistant Professor, Life and Environmental Sciences
+  title: Interrogating&#44; calibrating&#44; and integrating phylogenetic estimates
+  img: images/seminar-speakers/mctavish.png
+  abstract: "In order to answer biological questions about organisms it is necessary to understand their evolutionary history. Recent technological developments are have made it possible to generate sequence data rapidly and inexpensively. These data are providing new opportunities for phylogenetic inference, but are also creating new computational challenges. I will present on-going work in addressing these challenges in three areas- Using phylogenetically explicit simulations of genomic read data to assess the effects of choices in variant-calling procedures on inference, Rapidly estimating posterior probabilities for time calibrated phylogenies with hundreds or thousands of tips, and Extending the Open Tree of Life using a git-based approach to data curation. Together, these developments reduce impediments to accessing and analyzing the phylogenetic information which is essential to biological research today."
+  bio: "Education - University of Texas, Austin, Texas, USA
+Ph.D, Ecology, Evolution and Behavior May 2013
+McGill University, Montreal, Quebec, Canada BS, Honours Biology April 2006
+
+Professional Appointments-
+University of California, Merced, Merced, CA, USA; Assistant Professor, Life and Environmental Sciences
+University of Kansas, Lawrence, Kansas, USA; Postdoctoral researcher, Open Tree of Life Project, Department of Ecology and Evolutionary Biology
+Heidelberg Institute for Theoretical Studies, Heidelberg, Germany; Humboldt Research Fellow, Scientific Computing Group"
+
+- name: Christopher M. Taylor
+  date: March 29&#44; 2017
+  time: 5&colon;00 PM
+  university: LSUHSC-New Orleans
+  title: Visualization of Changes in the Vaginal Microbiome Over Time
+  img: images/seminar-speakers/taylor.jpg
+  abstract: "test"
+  bio: "test"
+
+- name: John Johnson
+  date: April 18&#44; 2017
+  time: 5&colon;00 PM
+  university: Biological Sciences, Louisiana State University
+  title: Identifying the Genetic Component Responsible for Salt-Induced Flowering in the Extremophyte Schrenkiella parvula
+  img: images/seminar-speakers/johnson.jpg
+  abstract: "test"
+  bio: "test"
+
+- name: Misagh Naderi
+  date: April 18&#44; 2017
+  time: 5&colon;00 PM
+  university: School of Veterinary Medicine, Louisiana State University
+  title: Models are imperfect, mostly wrong and surprisingly useful
+  img: images/seminar-speakers/naderi.jpg
+  abstract: "test"
+  bio: "test"
+
+- name: Carl H. Oliveros
+  date: April 18&#44; 2017
+  time: 5&colon;00 PM
+  university: Biological Sciences, Louisiana State University
+  title: How and when did the songbirds' global invasion begin?
+  img: images/seminar-speakers/oliveros.jpg
+  abstract: "test"
+  bio: "test"

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}} {{page.author}}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/css/screen.css{% include style.html %}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Louisiana Biomedical Research Network" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://lbrn.lsu.edu/" />
+	<meta property="og:image" content="https://lbrn.lsu.edu/images/LBRN_logo_wname.png" />
+	<meta property="og:image:alt" content="Louisiana Biomedical Research Network Square Logo Image depicting a high resoulution microscope, DNA helix, and image of the state of Louisiana with LBRN initials underneath." />
+  </head>
+  <body>
+
+
+    {% include dropdown.html %}
+
+
+
+    <main class="layout">
+      <section id="lbrnEventHeader">
+        <div class="imagebox">
+          <img src="{{page.headerImage}}" alt="{{page.title}}">
+
+        </div>
+        <div class="caption">
+          <h1>{{page.title}}</h1>
+          <p id="date">Event Date: {{page.eventDate}}</p>
+          <p>Location: {{page.eventLocation}}</p>
+        </div>
+      </section>
+      <div class="content">
+        {{content}}
+      </div>
+    </main>
+	{% include footer.html %}
+    {% include scriptfooter.html %}
+    {% include google-analytics.html %}
+  </body>
+</html>

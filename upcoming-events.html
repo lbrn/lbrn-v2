@@ -1,0 +1,13 @@
+---
+layout: default
+title: Events
+---
+<section class="events" id="eventsContainer">
+
+  {% assign eventsRev = site.events | reverse %}
+
+  {% for event in eventsRev %}
+    {% include events-list-item-long.html %}
+  {% endfor %}
+
+</section>
