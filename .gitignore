@@ -1,4 +1,16 @@
 _site/
+uploads/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_site/feed.xml
+.jekyll-cache
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+_site/feed.xml
+=======
+>>>>>>> gh-pages
+_site/feed.xml
+>>>>>>> 24fe493af357cfa420d7b7a851bbf334cc7587e9
+*.xml
