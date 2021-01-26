@@ -179,25 +179,30 @@ img:hover {
   line-height: 35px;
 }
 
-.content #lbrnEventSidebar2, .about #lbrnEventSidebar2 {
+.about #lbrnEventSidebar2,
+.content #lbrnEventSidebar2 {
   background-color: #8ECB91;
   float: right;
 }
-.content #lbrnEventSidebar2 ul, .about #lbrnEventSidebar2 ul {
+.about #lbrnEventSidebar2 ul,
+.content #lbrnEventSidebar2 ul {
   margin: 0;
   padding: 0;
 }
-.content #lbrnEventSidebar2 ul li, .about #lbrnEventSidebar2 ul li {
+.about #lbrnEventSidebar2 ul li,
+.content #lbrnEventSidebar2 ul li {
   border-bottom: 1px solid #2C3D6C;
 }
-.content #lbrnEventSidebar2 ul a, .about #lbrnEventSidebar2 ul a {
+.about #lbrnEventSidebar2 ul a,
+.content #lbrnEventSidebar2 ul a {
   text-align: left;
   /* margin-left:10px; */
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2x ease-in;
 }
-.content #lbrnEventSidebar2 li, .about #lbrnEventSidebar2 li {
+.about #lbrnEventSidebar2 li,
+.content #lbrnEventSidebar2 li {
   text-align: left;
   padding-left: 10px;
   padding-top: 0.5em;
@@ -209,16 +214,19 @@ img:hover {
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2x ease-in;
 }
-.content #lbrnEventSidebar2 li a, .about #lbrnEventSidebar2 li a {
+.about #lbrnEventSidebar2 li a,
+.content #lbrnEventSidebar2 li a {
   color: #2C3D6C;
 }
-.content #lbrnEventSidebar2 li a:hover, .about #lbrnEventSidebar2 li a:hover {
+.about #lbrnEventSidebar2 li a:hover,
+.content #lbrnEventSidebar2 li a:hover {
   background-color: transparent;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2x ease-in;
 }
-.content #lbrnEventSidebar2 li:hover, .about #lbrnEventSidebar2 li:hover {
+.about #lbrnEventSidebar2 li:hover,
+.content #lbrnEventSidebar2 li:hover {
   color: #5ab35e;
   text-decoration: none;
 }
@@ -1847,7 +1855,8 @@ header header.research {
   -webkit-filter: none;
           filter: none;
 }
-header header.cores, header header.home {
+header header.cores,
+header header.home {
   -webkit-filter: none;
           filter: none;
 }
@@ -1862,7 +1871,6 @@ header header.mcbr {
 header header img {
   float: left;
   margin: 1em 0;
-  margin-top: 1em;
   height: 5em;
 }
 
@@ -2081,9 +2089,7 @@ header h1 {
 }
 .navdropdown li.right > a {
   display: inline-block;
-  margin: 8px 0.2em;
-  margin-right: 0.4em;
-  margin-left: 0;
+  margin: 8px 0.4em 8px 0;
 }
 @media (max-width: 667px) {
   .navdropdown li.right > a {
@@ -2133,10 +2139,8 @@ header h1 {
   }
 }
 .navdropdown li.right .socialMedia a {
-  margin-left: auto;
-  margin-right: auto;
   margin: 0.5em 0;
-  padding: 0.2em 0.2em;
+  padding: 0.2em;
 }
 .navdropdown li.right .socialMedia a:first-child {
   color: red;
@@ -3340,17 +3344,41 @@ div.content .news.tne article .post-link {
       -ms-flex-item-align: start;
           align-self: flex-start;
 }
-#lbrnHighlightHeader #eventSummary, #lbrnHighlightHeader #eventMediaLink, #lbrnHighlightHeader #eventWhenAndWhere, #lbrnHighlightHeader #eventLodgingAndExpenses, #lbrnHighlightHeader #eventPresentations, #lbrnHighlightHeader #eventParticipants, #lbrnHighlightHeader #eventPastParticipants, #lbrnHighlightHeader #eventRegistration, #lbrnHighlightHeader #eventArchiveMedia {
+#lbrnHighlightHeader #eventArchiveMedia,
+#lbrnHighlightHeader #eventLodgingAndExpenses,
+#lbrnHighlightHeader #eventMediaLink,
+#lbrnHighlightHeader #eventParticipants,
+#lbrnHighlightHeader #eventPastParticipants,
+#lbrnHighlightHeader #eventPresentations,
+#lbrnHighlightHeader #eventRegistration,
+#lbrnHighlightHeader #eventSummary,
+#lbrnHighlightHeader #eventWhenAndWhere {
   position: relative;
   margin-bottom: 1.2em;
 }
-#lbrnHighlightHeader #eventSummary h2, #lbrnHighlightHeader #eventMediaLink h2, #lbrnHighlightHeader #eventWhenAndWhere h2, #lbrnHighlightHeader #eventLodgingAndExpenses h2, #lbrnHighlightHeader #eventPresentations h2, #lbrnHighlightHeader #eventParticipants h2, #lbrnHighlightHeader #eventPastParticipants h2, #lbrnHighlightHeader #eventRegistration h2, #lbrnHighlightHeader #eventArchiveMedia h2 {
+#lbrnHighlightHeader #eventArchiveMedia h2,
+#lbrnHighlightHeader #eventLodgingAndExpenses h2,
+#lbrnHighlightHeader #eventMediaLink h2,
+#lbrnHighlightHeader #eventParticipants h2,
+#lbrnHighlightHeader #eventPastParticipants h2,
+#lbrnHighlightHeader #eventPresentations h2,
+#lbrnHighlightHeader #eventRegistration h2,
+#lbrnHighlightHeader #eventSummary h2,
+#lbrnHighlightHeader #eventWhenAndWhere h2 {
   /* padding-right: 1.5em; */
   margin-top: unset;
   background-color: unset;
   cursor: pointer;
 }
-#lbrnHighlightHeader #eventSummary h2:hover, #lbrnHighlightHeader #eventMediaLink h2:hover, #lbrnHighlightHeader #eventWhenAndWhere h2:hover, #lbrnHighlightHeader #eventLodgingAndExpenses h2:hover, #lbrnHighlightHeader #eventPresentations h2:hover, #lbrnHighlightHeader #eventParticipants h2:hover, #lbrnHighlightHeader #eventPastParticipants h2:hover, #lbrnHighlightHeader #eventRegistration h2:hover, #lbrnHighlightHeader #eventArchiveMedia h2:hover {
+#lbrnHighlightHeader #eventArchiveMedia h2:hover,
+#lbrnHighlightHeader #eventLodgingAndExpenses h2:hover,
+#lbrnHighlightHeader #eventMediaLink h2:hover,
+#lbrnHighlightHeader #eventParticipants h2:hover,
+#lbrnHighlightHeader #eventPastParticipants h2:hover,
+#lbrnHighlightHeader #eventPresentations h2:hover,
+#lbrnHighlightHeader #eventRegistration h2:hover,
+#lbrnHighlightHeader #eventSummary h2:hover,
+#lbrnHighlightHeader #eventWhenAndWhere h2:hover {
   /* cursor: pointer; */
   -webkit-border-radius: 10px;
      -moz-border-radius: 10px;
@@ -5654,7 +5682,15 @@ footer span {
   }
 }
 @media (min-width: 667px) {
-  #eventSummary h2, #eventMediaLink h2, #eventWhenAndWhere h2, #eventLodgingAndExpenses h2, #eventPresentations h2, #eventParticipants h2, #eventPastParticipants h2, #eventRegistration h2, #eventArchiveMedia h2 {
+  #eventArchiveMedia h2,
+#eventLodgingAndExpenses h2,
+#eventMediaLink h2,
+#eventParticipants h2,
+#eventPastParticipants h2,
+#eventPresentations h2,
+#eventRegistration h2,
+#eventSummary h2,
+#eventWhenAndWhere h2 {
     background-color: white;
     cursor: auto;
   }
