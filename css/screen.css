@@ -2082,9 +2082,18 @@ header h1 {
     -webkit-flex-wrap: wrap;
         -ms-flex-wrap: wrap;
             flex-wrap: wrap;
-    -webkit-justify-content: space-around;
-        -ms-flex-pack: distribute;
-            justify-content: space-around;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+       -moz-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 0 11px;
+  }
+  .navdropdown li.right a {
+    margin: 0;
+  }
+  .navdropdown li.right .highlights {
+    margin-left: 26px;
   }
 }
 .navdropdown li.right > a {
@@ -2093,7 +2102,7 @@ header h1 {
 }
 @media (max-width: 667px) {
   .navdropdown li.right > a {
-    margin: 0 auto;
+    margin: 0;
   }
 }
 .navdropdown li.right > a:hover {
@@ -2131,22 +2140,35 @@ header h1 {
        -moz-box-ordinal-group: 2;
         -ms-flex-order: 1;
             order: 1;
-    -webkit-box-pack: space-evenly;
-    -webkit-justify-content: space-evenly;
-       -moz-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -webkit-box-pack: inherit;
+    -webkit-justify-content: inherit;
+       -moz-box-pack: inherit;
+        -ms-flex-pack: inherit;
+            justify-content: inherit;
   }
 }
 .navdropdown li.right .socialMedia a {
   margin: 0.5em 0;
   padding: 0.2em;
 }
-.navdropdown li.right .socialMedia a:first-child {
-  color: red;
+@media (max-width: 667px) {
+  .navdropdown li.right .socialMedia a:first-child {
+    margin-left: 20px;
+  }
+}
+@media (max-width: 667px) {
+  .navdropdown li.right .socialMedia a:nth-child(2) {
+    margin-left: 9px;
+  }
 }
 .navdropdown li.right .socialMedia a:last-child {
-  color: orange;
+  margin-right: 5px;
+}
+@media (max-width: 667px) {
+  .navdropdown li.right .socialMedia a:last-child {
+    margin-left: 0;
+    margin-right: 40px;
+  }
 }
 @media (max-width: 667px) {
   .navdropdown li.right .socialMedia a {
