@@ -58,7 +58,7 @@ Convert Binary with https://www.ConvertBinary.com (Text to Binary Translator)
 
 translated into DNA code
 
-GACACTGAGTTGATCTGTGATCTGTGACTGACTCTCACTAGCCATCTGTGTACACTATACCTGTCAACTATCAGCCACCTATGACTAACTCACTCACGTAGCCTCCTATAGATGTGTCACTCGTAATGATCA
+  GACACTGAGTTGATCTGTGATCTGTGACTGACTCTCACTAGCCATCTGTGTACACTATACCTGTCAACTATCAGCCACCTATGACTAACTCACTCACGTAGCCTCCTATAGATGTGTCACTCGTAATGATCA
 https://earthsciweb.org/js/bio/dna-writer/
 
 blue version of logo in top-center green
@@ -90,3 +90,38 @@ font-size: 1.2rem;
 
 //add pis to research after funding ops
 might change funding to just projects
+
+1-27-2021
+zoom priority
+adjust lbrn color too (dark blue/green)
+
+media templates
+
+center bottom row
+dna adjust colors , move off of image or move element off
+
+then cores
+
+pick green/blue , update binary
+second row center (adjust lbrn)
+top row
+lower right
+
+
+then header bg
+social media/news section
+media templates (update file)
+thumbnail image stretched on safari
+
+zoom
+then media templates
+then pulldown
+
+pulldown >
+cores training and support
+workshops
+core bucks
+resources for all those 4
+
+
+talkin about genelab page on old grant website, move to new site
