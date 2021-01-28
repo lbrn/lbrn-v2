@@ -1645,6 +1645,70 @@ float:left;
     font-size: 16pt;
     font-weight: 300;
   }
+
+
+
+  .presentation-templates {
+    &.two-card-responsive {
+      section {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        img {
+          margin-left: auto;
+          margin-right: auto;
+          align-self: flex-start;
+        }
+
+        h2 {
+          flex: 0 0 100%;
+        }
+
+        a.button {
+          flex: 1 0 30%;
+          margin-left: 5%;
+          margin-right: 5%;
+          font-size: 1em;
+          line-height: 27px;
+
+          &:only-of-type {
+            margin: auto 30%;
+            @media (max-width: $sm) {
+              margin: auto 5%;
+            }
+          }
+        }
+      }
+    }
+
+    section {
+      min-height: 0 !important;
+      text-align: center;
+      background-color: unset !important;
+      border-bottom: 10px solid $sexta;
+
+      img {
+        float: none !important;
+        margin: 0 auto;
+        max-width: 20em;
+      }
+
+      h2 {
+        clear: both;
+        padding: 0.2em 0;
+        text-align: center;
+      }
+
+      button {
+        float: none !important;
+        text-align: center;
+        margin: 0 auto;
+      }
+    }
+  }
+
+
   .slider {
     /* display: none; */
     -moz-box-sizing: border-box;
@@ -3189,23 +3253,23 @@ div.research img{
   .navdropdown#pi-filter ul .on:active {
     background-color: #4da651; }
 
-  .presentation-templates section {
-    min-height: 0px !important;
-    text-align: center;
-    background-color: unset !important;
-    border-bottom: 10px solid $sexta; }
-  .presentation-templates img {
-    float: none !important;
-    margin: 0 auto;
-    max-width: 20em; }
-  .presentation-templates h2 {
-    clear: both;
-    padding: .2em 0;
-    text-align: center; }
-  .presentation-templates button {
-    float: none !important;
-    text-align: center;
-    margin: 0 auto; }
+  // .presentation-templates section {
+  //   min-height: 0px !important;
+  //   text-align: center;
+  //   background-color: unset !important;
+  //   border-bottom: 10px solid $sexta; }
+  // .presentation-templates img {
+  //   float: none !important;
+  //   margin: 0 auto;
+  //   max-width: 20em; }
+  // .presentation-templates h2 {
+  //   clear: both;
+  //   padding: .2em 0;
+  //   text-align: center; }
+  // .presentation-templates button {
+  //   float: none !important;
+  //   text-align: center;
+  //   margin: 0 auto; }
 
   footer {
     -moz-box-sizing: border-box;
