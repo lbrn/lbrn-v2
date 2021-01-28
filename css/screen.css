@@ -2222,6 +2222,9 @@ header h1 {
 .presentation-templates.two-card-responsive section img {
   margin-left: auto;
   margin-right: auto;
+  -webkit-align-self: flex-start;
+      -ms-flex-item-align: start;
+          align-self: flex-start;
 }
 .presentation-templates.two-card-responsive section h2 {
   -webkit-box-flex: 0;
