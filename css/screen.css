@@ -2685,6 +2685,7 @@ main div.content #newsContainer.tne {
 }
 @media (max-width: 667px) {
   .events section .date {
+    border-right: 0;
     width: 100%;
   }
 }
@@ -2731,6 +2732,7 @@ main div.content #newsContainer.tne {
   float: right;
   font-family: "Ubuntu", sans-serif;
   color: #2C3D6C;
+  padding-left: 5%;
 }
 @media (max-width: 667px) {
   .events section .details {
@@ -5146,6 +5148,10 @@ width: 52.5%;
     -webkit-flex-wrap: wrap;
         -ms-flex-wrap: wrap;
             flex-wrap: wrap;
+  }
+  .events section a {
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 @media (min-width: 667px) and (max-width: 667px) {
