@@ -1957,14 +1957,24 @@ header h1 {
       display: flex;
       flex-direction: row;
       @media (max-width: $md) {
-        margin: 0.6em 0;
+        // margin: 0.6em 0;
         // display: block;
         // display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        padding: 0 11px;
+        margin: 15px 0;
+        // padding: 0 11px;
+
         a {
           margin: 0;
+          &.button {
+            &:first-child {
+                margin-left: 10px;
+              }
+            &:nth-child(3) {
+              margin-right: 10px;
+            }
+          }
         }
         .highlights {
           // color: red;
@@ -1998,16 +2008,21 @@ header h1 {
           flex: 0 0 100%;
           order: 1;
           justify-content: inherit;
+          border-top: 1px solid white;
+          margin-top: 15px;
         }
         /* padding-right:0.5em; */
         a {
           margin: 0.5em 0;
           padding: 0.2em;
+          @media (max-width: $md) {
+            padding: 0.2em 0;
+          }
 
           &:first-child {
             // color: red;
             @media (max-width: $md) {
-              margin-left: 20px;
+              margin-left: 30px;
             }
           }
           &:nth-child(2) {
@@ -2020,13 +2035,13 @@ header h1 {
             margin-right: 5px;
             @media (max-width: $md) {
               margin-left: 0;
-              margin-right: 40px;
+              margin-right: 50px;
 
             }
 
           }
           @media (max-width: $md) {
-            margin: 0.5em 5em;
+            margin: 0.5em 5em 0;
           }
           @media (max-width: 900px) and (min-width: $md) {
             display: none;
@@ -4403,17 +4418,7 @@ footer span {
     height: 0;
     padding-bottom: 50%;
   }
-  // .navdropdown ul.layout {
-  //   max-width: 90%;
-  // }
-  //
-  // .navdropdown ul li a {
-  //   text-transform: capitalize;
-  //   /* font-weight: normal; */
-  //   font-weight: 400;
-  //   /* font-size: 1.4em; */
-  //   line-height: 17px;
-  // }
+
   .strip section {
     /* width: 30%; */
     padding-bottom: 0;
