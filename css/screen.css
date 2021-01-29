@@ -2728,11 +2728,14 @@ main div.content #newsContainer.tne {
   transition: all 0.3s ease-in-out;
 }
 .events section .details {
-  width: 48%;
-  float: right;
   font-family: "Ubuntu", sans-serif;
   color: #2C3D6C;
   padding-left: 5%;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 48%;
+     -moz-box-flex: 0;
+      -ms-flex: 0 0 48%;
+          flex: 0 0 48%;
 }
 @media (max-width: 667px) {
   .events section .details {
@@ -2763,7 +2766,11 @@ main div.content #newsContainer.tne {
 .events section .details.notice {
   float: none;
   text-align: center;
-  width: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 100%;
+     -moz-box-flex: 0;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
 }
 .events section .details.notice .title {
   font-size: 1.5em;
@@ -5152,6 +5159,16 @@ width: 52.5%;
   .events section a {
     margin-left: auto;
     margin-right: auto;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 100%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
   }
 }
 @media (min-width: 667px) and (max-width: 667px) {

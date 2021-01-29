@@ -7,12 +7,38 @@
   {% if event.categories contains "events" %}
 
 
-
-  <div class="date">
-    <h3 class="date-day adjust"> {{event.date | date: '%d' }} {{event.date | date: '%b'}}</h3>
-    <!-- <h4 class="date-month">{{event.date | date: '%b'}}</h4> -->
-    <h4 class="date-month"> {{event.date | date: '%Y'}}</h4>
+  {% if event.eventEndDate != nil %}
+  <div class="date enddate">
+    <!-- {{event.eventEndDate}} -->
+    <h3 class="date-day adjust">
+      {{event.eventDate | date: '%d' }} {{event.eventDate | date: '%b'}}
+    </h3>
+    <h3 class="date-day adjust">
+      {{event.eventEndDate | date: '%d' }} {{event.eventEndDate | date: '%b'}}
+    </h3>
+    <h4 class="date-month"> {{event.eventDate | date: '%Y'}}</h4>
+    <h4 class="date-month"> {{event.eventEndDate | date: '%Y'}}</h4>
   </div>
+  {% else %}
+  <div class="date">
+    <!-- {{event.eventEndDate}} -->
+    <!-- nil -->
+    <h3 class="date-day adjust">
+      {{event.eventDate | date: '%d' }} {{event.eventDate | date: '%b'}}
+
+    </h3>
+    <h4 class="date-month"> {{event.eventDate | date: '%Y'}}</h4>
+  </div>
+  {% endif %}
+
+  <!-- <div class="date">
+    {{event.eventEndDate}}
+    <h3 class="date-day adjust">
+      {{event.date | date: '%d' }} {{event.date | date: '%b'}}
+
+    </h3>
+    <h4 class="date-month"> {{event.date | date: '%Y'}}</h4>
+  </div> -->
   <div class="details">
     <p class="title">{{event.title}}</p>
     <p class="description">{{event.description}}</p>

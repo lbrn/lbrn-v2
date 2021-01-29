@@ -2360,11 +2360,12 @@ float:left;
         transition: all .3s ease-in-out;
       }
       .details {
-        width: 48%;
-        float: right;
+        // width: 48%;
+        // float: right;
         font-family: $bodyFont;
         color: $primary;
         padding-left: 5%;
+        flex: 0 0 48%;
         // color: red;
         @media (max-width: $md){
           width: 100%;
@@ -2393,7 +2394,7 @@ float:left;
         &.notice {
           float: none;
           text-align: center;
-          width: 100%;
+          flex: 0 0 100%;
           .title {
             font-size: 1.5em;
           }
@@ -4337,6 +4338,8 @@ section.directory article.person{
       a {
         margin-left: auto;
         margin-right: auto;
+        flex: 0 0 100%;
+        display: flex;
       }
       @media (max-width: $md){
         flex-direction: column;
