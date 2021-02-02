@@ -111,17 +111,17 @@ lower right
 then header bg
 social media/news section
 media templates (update file)
-thumbnail image stretched on safari
+//thumbnail image stretched on safari
 
 //zoom
 //then media templates
 then pulldown/cores
 
-pulldown >
-cores training and support
-workshops
-core bucks
-resources for all those 4
+//pulldown >
+//cores training and support
+//workshops
+//core bucks
+//resources for all those 4
 
 
 talkin about genelab page on old grant website, move to new site
