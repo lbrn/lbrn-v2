@@ -2681,6 +2681,14 @@ div.content .news.tne article .post-link {
   background-color: white;
   width: 100%;
 }
+.events#eventsContainer section .details {
+  padding-right: 5%;
+}
+@media (max-width: 667px) {
+  .events#eventsContainer section .details {
+    padding-right: 0;
+  }
+}
 .events#eventsContainer section a {
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 100%;
