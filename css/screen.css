@@ -2482,6 +2482,13 @@ main div.content #newsContainer.tne {
   background-color: white;
   width: 100%;
 }
+.events#eventsContainer section a {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 100%;
+     -moz-box-flex: 0;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+}
 .events .feed {
   display: -webkit-box;
   display: -webkit-flex;
