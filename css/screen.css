@@ -2855,6 +2855,9 @@ main div.content #newsContainer.tne {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   margin-right: 5%;
+  -webkit-align-content: baseline;
+      -ms-flex-line-pack: baseline;
+          align-content: baseline;
 }
 @media (max-width: 667px) {
   .events section .date {
