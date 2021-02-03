@@ -2353,6 +2353,34 @@ header h1 {
   }
 }
 
+.slider {
+  /* display: none; */
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+  margin-bottom: 2em;
+}
+@media (min-width: 667px) {
+  .slider {
+    height: 0;
+    padding-bottom: 50%;
+  }
+}
+@media (min-width: 667px) {
+  .slider {
+    display: block;
+    width: 70%;
+    height: 24.75em;
+    padding-bottom: 5%;
+    /* padding-top: 5%; */
+  }
+}
+
 #newsContainer {
   padding-left: 5%;
   padding-right: 5%;
@@ -4871,11 +4899,6 @@ footer span {
     display: none !important;
   }
 
-  .slider {
-    height: 0;
-    padding-bottom: 50%;
-  }
-
   .strip section {
     /* width: 30%; */
     padding-bottom: 0;
@@ -5430,14 +5453,6 @@ footer span {
 
   header #navBug {
     display: none;
-  }
-
-  .slider {
-    display: block;
-    width: 70%;
-    height: 24.75em;
-    padding-bottom: 5%;
-    /* padding-top: 5%; */
   }
 
   main div.content .col-split {
