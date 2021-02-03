@@ -1720,6 +1720,19 @@ float:left;
     margin-right: 0;
     position: relative;
     margin-bottom: 2em;
+
+    //sm
+    @media (min-width: $md) {
+      height: 0;
+      padding-bottom: 50%;
+    }
+    @media (min-width: $md) {
+      display: block;
+      width: 70%;
+      height: 24.75em;
+      padding-bottom: 5%;
+      /* padding-top: 5%; */
+    }
   }
 
   .page-heading {
@@ -3784,9 +3797,9 @@ div.research img{
   }
 
 
-  .slider {
-    height: 0;
-    padding-bottom: 50%; }
+  // .slider {
+  //   height: 0;
+  //   padding-bottom: 50%; }
 
   .navdropdown ul.layout {
     max-width: 90%; }
@@ -4331,15 +4344,15 @@ section.directory article.person{
   .navdropdown li.right {
     float: right; }
 
-  .slider {
-    display: block;
-
-    width: 70%;
-    height: 24.75em;
-    padding-bottom: 5%;
-    /* padding-top: 5%; */
-
-  }
+  // .slider {
+  //   display: block;
+  //
+  //   width: 70%;
+  //   height: 24.75em;
+  //   padding-bottom: 5%;
+  //   /* padding-top: 5%; */
+  //
+  // }
 
   main div.content .col-split {
     width: 50%;

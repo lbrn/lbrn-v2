@@ -1990,6 +1990,21 @@ div.navdropdown li.socialMedia {
   position: relative;
   margin-bottom: 2em;
 }
+@media (min-width: 667px) {
+  .slider {
+    height: 0;
+    padding-bottom: 50%;
+  }
+}
+@media (min-width: 667px) {
+  .slider {
+    display: block;
+    width: 70%;
+    height: 24.75em;
+    padding-bottom: 5%;
+    /* padding-top: 5%; */
+  }
+}
 
 .page-heading {
   padding-left: 5%;
@@ -4564,11 +4579,6 @@ width: 52.5%;
     display: none !important;
   }
 
-  .slider {
-    height: 0;
-    padding-bottom: 50%;
-  }
-
   .navdropdown ul.layout {
     max-width: 90%;
   }
@@ -5216,15 +5226,6 @@ width: 52.5%;
 @media (min-width: 667px) {
   .navdropdown li.right {
     float: right;
-  }
-}
-@media (min-width: 667px) {
-  .slider {
-    display: block;
-    width: 70%;
-    height: 24.75em;
-    padding-bottom: 5%;
-    /* padding-top: 5%; */
   }
 }
 @media (min-width: 667px) {
