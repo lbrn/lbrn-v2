@@ -1710,28 +1710,32 @@ float:left;
 
 
   .slider {
-    /* display: none; */
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    width: 100%;
     float: left;
     margin-left: 0;
     margin-right: 0;
     position: relative;
     margin-bottom: 2em;
+    display: block;
+    width: 70%;
+    height: 24.75em;
+    padding-bottom: 5%;
+    @media (max-width: 1100px) {
+      height: 22em;
+    }
 
-    //sm
-    @media (min-width: $md) {
+    @media (max-width: $lg) {
+      height: 16em;
+    }
+
+
+    @media (max-width: $md) {
+      width: 100%;
+      height: unset;
+    }
+    @media (max-width: $sm) {
       height: 0;
       padding-bottom: 50%;
-    }
-    @media (min-width: $md) {
-      display: block;
-      width: 70%;
-      height: 24.75em;
-      padding-bottom: 5%;
-      /* padding-top: 5%; */
     }
   }
 
@@ -3797,10 +3801,6 @@ div.research img{
   }
 
 
-  // .slider {
-  //   height: 0;
-  //   padding-bottom: 50%; }
-
   .navdropdown ul.layout {
     max-width: 90%; }
 
@@ -4344,15 +4344,6 @@ section.directory article.person{
   .navdropdown li.right {
     float: right; }
 
-  // .slider {
-  //   display: block;
-  //
-  //   width: 70%;
-  //   height: 24.75em;
-  //   padding-bottom: 5%;
-  //   /* padding-top: 5%; */
-  //
-  // }
 
   main div.content .col-split {
     width: 50%;
