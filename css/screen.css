@@ -2536,6 +2536,15 @@ main div.content #newsContainer.tne {
           flex-direction: column;
   background-color: #c2e3c4;
 }
+.events .feed section .details .title.space {
+  font-size: 18px;
+}
+.events .feed section .date.enddate .date-day {
+  font-size: 22px;
+}
+.events .feed section .date.enddate .date-month {
+  font-size: 22px;
+}
 .events .feed.highlights {
   background-color: #def0df;
 }
