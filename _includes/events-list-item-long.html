@@ -11,12 +11,12 @@
     <div class="date enddate">
       <!-- {{event.eventEndDate}} -->
       <h3 class="date-day adjust">
-        {{event.eventDate | date: '%d' }} {{event.eventDate | date: '%b'}}
+        {{event.eventDate | date: '%d' }} - {{event.eventEndDate | date: '%d' }} {{event.eventDate | date: '%b'}}
       </h3>
-      <h3 class="date-day adjust">
+      <!-- <h3 class="date-day adjust">
         {{event.eventEndDate | date: '%d' }} {{event.eventEndDate | date: '%b'}}
-      </h3>
-      <h4 class="date-month"> {{event.eventDate | date: '%Y'}}</h4>
+      </h3> -->
+      <!-- <h4 class="date-month"> {{event.eventDate | date: '%Y'}}</h4> -->
       <h4 class="date-month"> {{event.eventEndDate | date: '%Y'}}</h4>
     </div>
     {% else %}
@@ -41,7 +41,7 @@
   </div> -->
   <div class="details">
     <p class="title">{{event.title}}</p>
-    <p class="description">{{event.description}}</p>
+    <p class="description">{{event.excerpt}}</p>
     {% if event.startTime != nil }
 
     <p class="date-time">{{event.startTime}} to {{event.endTime}}</p>
