@@ -2536,7 +2536,7 @@ div.content .news {
 
 
 
-.events {
+
   box-sizing: border-box;
   width: 30%;
   margin-left: 0;
@@ -2573,6 +2573,25 @@ div.content .news {
     display: flex;
     flex-direction: column;
     background-color: $quadiary;
+    section {
+      .details {
+        .title {
+          &.space {
+            font-size: 18px;
+          }
+        }
+      }
+      .date {
+        &.enddate {
+            .date-day {
+              font-size: 22px;
+            }
+            .date-month {
+              font-size: 22px;
+            }
+        }
+      }
+    }
     &.highlights {
       background-color: $pentia;
       section {
