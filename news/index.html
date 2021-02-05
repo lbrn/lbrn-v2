@@ -1,0 +1,47 @@
+---
+layout: default_nested
+pagination:
+  enabled: true
+  collection: posts
+---
+<button id="newsSidebarButton" class="btn newSidebarButton secondary" type="button" data-toggle="collapse" data-target="#newsSidebarmobile" aria-expanded="false" aria-controls="collapseExample">
+  <h1>Articles</h1>
+</button>
+<div id="newsSidebarmobile" class="navdropdown collapse">
+  <ul>
+    {% for post in paginator.posts %}
+      <a href="#{{post.date}}"><li>{{post.title}}</li></a>
+    {% endfor %}
+  </ul>
+</div>
+
+<section class="news" id="newsPageContainer">
+  {% for post in paginator.posts %}
+    {% include news-full-list-item.html %}
+  {% endfor %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        Previous
+      </a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+  </div>
+
+</section>
+<aside id="newsSidebar">
+  <ul>
+    {% for post in paginator.posts %}
+      <a href="#{{post.date}}"><li>{{post.title}}</li></a>
+    {% endfor %}
+  </ul>
+</aside>
