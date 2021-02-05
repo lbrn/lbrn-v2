@@ -2830,10 +2830,11 @@ div.content .news {
         }
         &.enddate {
           .date-day{
-            flex: 1 0 50%;
+            flex: 0 1 100%;
           }
           .date-month {
-            flex: 1 0 50%;
+            flex: 0 1 100%;
+            font-weight: normal;
           }
         }
         .date-day{
@@ -2901,6 +2902,7 @@ div.content .news {
           // font-size: 1em;
           // font-size: 1.4em;
           font-size: 16px;
+          font-weight: bold;
           @media (max-width: $md){
             font-size: 18px;
           }
