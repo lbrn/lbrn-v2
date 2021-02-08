@@ -452,7 +452,7 @@ main.research div.content h2 {
 }
 
 .fundingop {
-  width: 100%;
+  width: auto;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -465,32 +465,35 @@ main.research div.content h2 {
      -moz-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  margin-left: 0;
   margin-bottom: 20px;
   padding-bottom: 20px;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
+  margin-left: 40px;
 }
-
 .fundingop img {
   margin: 0;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 1 100%;
-     -moz-box-flex: 1;
-      -ms-flex: 1 1 100%;
-          flex: 1 1 100%;
-  width: 100%;
   height: auto;
+  -webkit-box-ordinal-group: 100;
+  -webkit-order: 99;
+     -moz-box-ordinal-group: 100;
+      -ms-flex-order: 99;
+          order: 99;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 30%;
+     -moz-box-flex: 1;
+      -ms-flex: 1 1 30%;
+          flex: 1 1 30%;
+  width: 30%;
   /* order:99; */
 }
-
 .fundingop .text {
   -webkit-box-flex: 1;
-  -webkit-flex: 1 1 100%;
+  -webkit-flex: 1 1 70%;
      -moz-box-flex: 1;
-      -ms-flex: 1 1 100%;
-          flex: 1 1 100%;
+      -ms-flex: 1 1 70%;
+          flex: 1 1 70%;
   font-size: 12pt;
   display: -webkit-box;
   display: -webkit-flex;
@@ -510,16 +513,13 @@ main.research div.content h2 {
           align-content: flex-start;
   line-height: normal;
 }
-
 .fundingop h2 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-
 .fundingop p {
   line-height: normal;
 }
-
 .fundingop a.btn {
   background-color: #def0df;
   color: #2C3D6C;
@@ -527,13 +527,32 @@ main.research div.content h2 {
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2x ease-in;
 }
-
 .fundingop a.btn:hover {
   background-color: #8ECB91;
   color: white;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2x ease-in;
+}
+@media (max-width: 667px) {
+  .fundingop {
+    margin-left: 0px;
+  }
+  .fundingop img {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 100%;
+       -moz-box-flex: 1;
+        -ms-flex: 1 0 100%;
+            flex: 1 0 100%;
+    width: 100%;
+  }
+  .fundingop .text {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 100%;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 100%;
+            flex: 1 1 100%;
+  }
 }
 
 .research .fundingop:nth-of-type(3) {

@@ -452,61 +452,69 @@ main.research div.content h2 {
   }
 }
 
-.fundingop {
-  width: 100%;
+.fundingop{
+  width: auto;
   display: flex;
   flex-direction: row;
-  margin-left: 0;
   margin-bottom: 20px;
   padding-bottom: 20px;
   // border-top: 2px solid $primary;
-  flex-wrap: wrap;
+  flex-wrap:wrap;
+  margin-left:40px;
+
+
+
+  img{
+   margin:0;
+   height:auto;
+   order:99;
+   flex: 1 1 30%;
+   width:30%;
+   /* order:99; */
+   }
+   .text{
+     flex: 1 1 70%;
+    font-size: 12pt;
+    display:flex;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    line-height: normal;
+    }
+    h2{
+     margin-top:10px;
+     margin-bottom:10px;
+     }
+    p{
+       line-height: normal;
+     }
+    a.btn{
+       background-color:$pentia;
+       color: $primary;
+       -moz-transition: all .2s ease-in;
+       -o-transition: all .2s ease-in;
+       -webkit-transition: all .2x ease-in;
+       &:hover {
+         background-color: $secondary;
+           color:white;
+         -moz-transition: all .2s ease-in;
+         -o-transition: all .2s ease-in;
+         -webkit-transition: all .2x ease-in;
+       }
+     }
+     @media (max-width: $md){
+       margin-left:0px;
+       img {
+         flex: 1 0 100%;
+         width:100%;
+       }
+       .text {
+         flex: 1 1 100%;
+       }
+     }
 }
 
-.fundingop img {
-  margin: 0;
-  flex: 1 1 100%;
-  width: 100%;
-  height: auto;
-  /* order:99; */
-}
-
-.fundingop .text {
-  flex: 1 1 100%;
-  font-size: 12pt;
-  display: flex;
-  display: flex;
-  flex-direction: column;
-  align-content: flex-start;
-  line-height: normal;
-}
-
-.fundingop h2 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.fundingop p {
-  line-height: normal;
-}
-
-.fundingop a.btn {
-  background-color: $pentia;
-  color: $primary;
-  -moz-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-  -webkit-transition: all 0.2x ease-in;
-}
-
-.fundingop a.btn:hover {
-  background-color: $secondary;
-  color: white;
-  -moz-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-  -webkit-transition: all 0.2x ease-in;
-}
-
-.research .fundingop:nth-of-type(3) {
+.research .fundingop:nth-of-type(3){
   border-top: none;
   /* background-color: red!important; */
   /* Not currently working */
