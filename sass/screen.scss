@@ -322,54 +322,67 @@ img{
 
 
   .fundingop{
-    width:100%;
+    width: auto;
     display: flex;
     flex-direction: row;
-    margin-left:0px;
     margin-bottom: 20px;
     padding-bottom: 20px;
     // border-top: 2px solid $primary;
     flex-wrap:wrap;
+    margin-left:40px;
 
+
+
+    img{
+     margin:0;
+     height:auto;
+     order:99;
+     flex: 1 1 30%;
+     width:30%;
+     /* order:99; */
+     }
+     .text{
+       flex: 1 1 70%;
+      font-size: 12pt;
+      display:flex;
+      display: flex;
+      flex-direction: column;
+      align-content: flex-start;
+      line-height: normal;
+      }
+      h2{
+       margin-top:10px;
+       margin-bottom:10px;
+       }
+      p{
+         line-height: normal;
+       }
+      a.btn{
+         background-color:$pentia;
+         color: $primary;
+         -moz-transition: all .2s ease-in;
+         -o-transition: all .2s ease-in;
+         -webkit-transition: all .2x ease-in;
+         &:hover {
+           background-color: $secondary;
+             color:white;
+           -moz-transition: all .2s ease-in;
+           -o-transition: all .2s ease-in;
+           -webkit-transition: all .2x ease-in;
+         }
+       }
+       @media (max-width: $md){
+         margin-left:0px;
+         img {
+           flex: 1 0 100%;
+           width:100%;
+         }
+         .text {
+           flex: 1 1 100%;
+         }
+       }
   }
 
-  .fundingop img{
-    margin:0;
-    flex: 1 1 100%;
-    width:100%;
-    height:auto;
-    /* order:99; */
-  }
-  .fundingop .text{
-    flex: 1 1 100%;
-    font-size: 12pt;
-    display:flex;
-    display: flex;
-    flex-direction: column;
-    align-content: flex-start;
-    line-height: normal;
-  }
-  .fundingop h2{
-    margin-top:10px;
-    margin-bottom:10px;
-  }
-  .fundingop p{
-    line-height: normal;
-  }
-  .fundingop a.btn{
-    background-color:$pentia;
-    color: $primary;
-    -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2x ease-in;
-  }
-  .fundingop a.btn:hover {
-    background-color: $secondary;
-      color:white;
-    -moz-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    -webkit-transition: all .2x ease-in;
-  }
   .research .fundingop:nth-of-type(3){
     border-top: none;
     /* background-color: red!important; */
@@ -1785,6 +1798,31 @@ float:left;
     padding-right: 30px;
     /* padding-top: 1em; */
     padding-bottom: 2em;
+
+    @media (min-width: $md) {
+      h3.small-text {
+        font-size: 1.2em;
+        border-left: none;
+        padding-left: 0;
+        text-align: center;
+      }
+      .col-split {
+       width: 50%;
+       padding: 0 2%; }
+    .col-split-right {
+       width: 50%;
+       padding: 0 2%;
+       float: right; }
+    }
+    @media (min-width: $lg) {
+      h3.small-text{
+       font-size: 0.9em;
+     }
+    }
+    @media (min-width: $xl){
+      padding-left: 0;
+      padding-right: 0;
+    }
     h2 {
      margin-top: .5em;
      font-family: $openFont;
@@ -1910,7 +1948,43 @@ float:left;
    }
 
   }
-
+  .pagination {
+    a {
+      background-color: $aboutcores;
+      color: $primary;
+      &.next, &.previous {
+        @media (max-width: $md){
+        margin: 0 auto;
+        }
+      }
+      &:hover {
+        background-color: $tertiary;
+        color: white;
+      }
+    }
+    span {
+      &.next, &.previous {
+        background-color: $pentia;
+        color: $primary;
+        border: 1px solid transparent;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: .25rem;
+        @media (max-width: $md){
+        margin: 0 auto;
+        }
+      }
+      &.page_number {
+        font-size: 20px;
+        margin: 0 15px;
+        @media (max-width: $md) {
+          font-size: 17px;
+          margin: 0 9px;
+        }
+      }
+    }
+  }
   #newsContainer {
     padding-left: 5%;
     padding-right: 5%;
@@ -1922,6 +1996,14 @@ float:left;
     margin-left: 0;
     margin-right: 0;
     order: 2;
+    @media (min-width: $md) {
+      width: 57.14286%;
+      float: left;
+      margin-right: 2.85714%;
+      padding-left: 5%;
+      padding-right: 0;
+    }
+
     &.tne {
       width:80%;
     }
@@ -1937,7 +2019,16 @@ float:left;
     float: left;
     margin-left: 0;
     margin-right: 0;
-    margin-bottom: 1.5em; }
+    margin-bottom: 1.5em;
+
+    @media (min-width: $md) {
+        width: 74.28571%;
+        float: left;
+        margin-right: 2.85714%;
+        padding-right: 0;
+    }
+
+  }
   .news, div.content .news {
     .view-all {
       -moz-box-sizing: border-box;
@@ -2057,10 +2148,19 @@ float:left;
       }
       @media (max-width: $md){
         article {
+          display: flex;
+          flex-direction: column;
           img {
-            width: 100%;
-            margin-left: 0;
-            margin-right: 0;
+            // width: 100%;
+            // margin-left: 0;
+            // margin-right: 0;
+            margin-left: auto;
+            margin-right: auto;
+            max-height: 200px;
+            max-width: 100%;
+            width: auto;
+            justify-self: center;
+            display: flex;
           }
         }
       }
@@ -4093,21 +4193,6 @@ div.research img{
 
   }
 
-
-
-  .fundingop img{
-    flex: 1 1 30%;
-    width:30%;
-    order:99;
-  }
-
-  .fundingop .text{
-    flex: 1 1 70%;
-  }
-  .fundingop{
-    flex-wrap:wrap;
-    margin-left:40px;
-  }
   .research a.btn{
     align-self: auto;
   }
@@ -4265,12 +4350,12 @@ div.research img{
     width: 30%;
   }
 
-  main div.content h3.small-text {
-    font-size: 1.2em;
-    border-left: none;
-    padding-left: 0;
-    text-align: center;
-  }
+  // main div.content h3.small-text {
+  //   font-size: 1.2em;
+  //   border-left: none;
+  //   padding-left: 0;
+  //   text-align: center;
+  // }
 
 
 
@@ -4366,32 +4451,32 @@ section.directory article.person{
     float: right; }
 
 
-  main div.content .col-split {
-    width: 50%;
-    padding: 0 2%; }
-  main div.content .col-split-right {
-    width: 50%;
-    padding: 0 2%;
-    float: right; }
+  // main div.content .col-split {
+  //   width: 50%;
+  //   padding: 0 2%; }
+  // main div.content .col-split-right {
+  //   width: 50%;
+  //   padding: 0 2%;
+  //   float: right; }
 
-  #newsContainer {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 57.14286%;
-    float: left;
-    margin-right: 2.85714%;
-    padding-left: 5%;
-    padding-right: 0; }
+  // #newsContainer {
+  //   -moz-box-sizing: border-box;
+  //   -webkit-box-sizing: border-box;
+  //   box-sizing: border-box;
+  //   width: 57.14286%;
+  //   float: left;
+  //   margin-right: 2.85714%;
+  //   padding-left: 5%;
+  //   padding-right: 0; }
 
-  #newsPageContainer {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 74.28571%;
-    float: left;
-    margin-right: 2.85714%;
-    padding-right: 0; }
+  // #newsPageContainer {
+  //   -moz-box-sizing: border-box;
+  //   -webkit-box-sizing: border-box;
+  //   box-sizing: border-box;
+  //   width: 74.28571%;
+  //   float: left;
+  //   margin-right: 2.85714%;
+  //   padding-right: 0; }
 
 
 
@@ -4728,9 +4813,9 @@ section.directory article.person{
 } */
 
 
-  main div.content h3.small-text{
-    font-size: 0.9em;
-  }
+  // main div.content h3.small-text{
+  //   font-size: 0.9em;
+  // }
 section.directory article.person {
   width: 40%;
   margin-left: 5%;
@@ -4757,7 +4842,7 @@ section.directory article.person {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    width: 27.42857%;
+    flex: 0 1 27.42857%;
     float: left;
     /* margin-right: 2.85714%;  */
       margin-right: 5.71428%;
@@ -4881,9 +4966,9 @@ width:95%;
     display: block;
     clear: both; }
 
-  main div.content {
-    padding-left: 0;
-    padding-right: 0; }
+  // main div.content {
+  //   padding-left: 0;
+  //   padding-right: 0; }
 
   #lbrnEventSidebar ul li div.chooseType label {
     width: 82%; }
