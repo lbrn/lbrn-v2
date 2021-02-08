@@ -5,5 +5,7 @@ categories: events
 eventDate: October 21, 2019
 startTime: 4:30pm
 endTime: 4:30pm
+excerpt_separator: <!--more-->
 description: LBRN Proposals for Full 2020-2023, Pilot 2020-2021, Shared Instrumentation 2020-2021, Start-up 2020, and Translational 2020-2021 Projects are Due October 21, 2019.
 ---
+LBRN Proposals for Full 2020-2023, Pilot 2020-2021, Shared Instrumentation 2020-2021, Start-up 2020, and Translational 2020-2021 Projects are Due October 21, 2019.
