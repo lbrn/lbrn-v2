@@ -1902,6 +1902,161 @@ header h1 {
   display: none;
 }
 
+main div.content {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.2em;
+  line-height: 1.8em;
+  /* color: red; */
+  /* cust */
+  color: #2C3D6C;
+  /* padding-top: 1em; */
+  padding-bottom: 2em;
+  padding-left: 0;
+  padding-right: 0;
+}
+@media (max-width: 667px) {
+  main div.content {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+main div.content h2 {
+  margin-top: 0.5em;
+  font-family: "Open Sans", sans-serif;
+  color: #2C3D6C;
+  line-height: 1.5em;
+}
+main div.content h3 {
+  font-size: 0.95em;
+  margin: 0.25em 0;
+  margin-top: 1.2em;
+  padding-left: 1em;
+  clear: both;
+  border-left: 8px solid #8ECB91;
+}
+main div.content h3:hover {
+  cursor: pointer;
+}
+main div.content h3:enabled {
+  background-color: #d4ebd5;
+}
+main div.content h3.small-text {
+  font-size: 0.9em;
+  border-left: none;
+  padding-left: 0;
+  text-align: center;
+}
+main div.content h4 {
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-top: 0.5em;
+}
+main div.content p {
+  /* color: red;//wow! cool */
+  margin-top: 1em;
+}
+main div.content p.small-text {
+  font-size: 1em;
+}
+main div.content p.sub-p {
+  margin-top: 0.25em;
+}
+main div.content #faq p {
+  margin-top: 0.25em;
+  border-bottom: 1px #2C3D6C solid;
+  cursor: pointer;
+}
+main div.content #faq p:hover {
+  color: #425ca2;
+  border-bottom: 1px #425ca2 solid;
+}
+main div.content #faq ul {
+  border-bottom: 3px #2C3D6C solid;
+  margin-left: 0;
+  padding-left: 2.8em;
+  display: none;
+}
+main div.content #speakerfaq p {
+  margin-top: 0.25em;
+  cursor: pointer;
+}
+main div.content #speakerfaq p:hover {
+  color: #425ca2;
+}
+main div.content #speakerfaq ul {
+  margin-left: 0;
+  padding-left: 2.8em;
+  display: none;
+}
+main div.content .important {
+  font-style: italic;
+  background-color: #def0df;
+  padding: 0.5em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+main div.content img.fit {
+  /* width: 50px; */
+  max-width: 100%;
+}
+main div.content .col-split {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 5%;
+}
+main div.content .col-split-right {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 5%;
+}
+main div.content .accordianTrigger {
+  margin-top: 0.25em;
+  border-bottom: 1px #2C3D6C solid;
+  cursor: pointer;
+}
+main div.content .accordianTrigger:hover {
+  color: #425ca2;
+  border-bottom: 1px #425ca2 solid;
+}
+main div.content .accordianSection {
+  border-bottom: 3px #2C3D6C solid;
+  margin-left: 0;
+  padding-left: 2.8em;
+  display: none;
+}
+main div.content #newsContainer {
+  width: 100%;
+  max-width: 800px;
+}
+main div.content #newsContainer.tne {
+  width: 80%;
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 5%;
+}
+@media (max-width: 667px) {
+  main div.content #newsContainer.tne {
+    width: 100%;
+  }
+}
+
 @media (min-width: 414px) {
   #navdropdownsmall {
     display: none;
@@ -2230,6 +2385,7 @@ header h1 {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
+  min-height: auto;
 }
 .presentation-templates.two-card-responsive section img {
   margin-left: auto;
@@ -5379,6 +5535,13 @@ footer span {
 
   section.directory img {
     width: 30%;
+  }
+
+  main div.content h3.small-text {
+    font-size: 1.2em;
+    border-left: none;
+    padding-left: 0;
+    text-align: center;
   }
 
   section.directory article.person {
