@@ -2953,7 +2953,14 @@ header h1 {
       @media (max-width: $md){
         flex: 0 0 100%;
         flex-direction: column;
-
+      }
+      .date {
+        h3 {    
+        &:hover {
+            color: #384d89;
+            cursor: pointer;
+        }
+      }
       }
     }
     .natural-link {
@@ -3056,8 +3063,10 @@ header h1 {
           }
 
         }
-        &:hover {
-            color: #384d89;
+        h3 {
+          &:hover {
+              cursor: auto;
+          }
         }
       }
     &:hover {

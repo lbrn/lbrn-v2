@@ -3259,6 +3259,10 @@ main div.content #newsContainer.tne {
             flex-direction: column;
   }
 }
+.events section a .date h3:hover {
+  color: #384d89;
+  cursor: pointer;
+}
 .events section .natural-link {
   text-align: center;
   padding-left: 50%;
@@ -3406,8 +3410,8 @@ main div.content #newsContainer.tne {
     font-size: 1.2em;
   }
 }
-.events section .date:hover {
-  color: #384d89;
+.events section .date h3:hover {
+  cursor: auto;
 }
 .events section:hover {
   -webkit-border-radius: 7px;
