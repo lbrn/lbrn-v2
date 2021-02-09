@@ -1749,6 +1749,12 @@ body a {
 body a:hover {
   color: #5ab35e;
 }
+body a.green {
+  color: #5ab35e;
+}
+body a.green:hover {
+  color: #459548;
+}
 @media (max-width: 667px) {
   body.homepage {
     display: -webkit-box;
@@ -4710,10 +4716,15 @@ footer span {
 .nihlinks h2 {
   font-size: 0.95em;
   margin: 1.2em 0 0.25em;
-  padding-left: 1em;
+  padding-left: 11px;
   clear: both;
+  font-size: 21px;
   border-left: 8px solid #8ECB91;
   font-family: "Ubuntu", sans-serif !important;
+}
+.nihlinks ul li {
+  line-height: 26px;
+  font-size: 19px;
 }
 
 .profile-txt h2 {

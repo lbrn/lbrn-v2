@@ -1617,9 +1617,14 @@ body {
   a {
     text-decoration: none;
     color: $secondary;
-
     &:hover {
       color: $viewall;
+    }
+    &.green {
+      color: $viewall;
+      &:hover {
+        color: darken($viewall, 10%);
+      }
     }
   }
 
@@ -1641,21 +1646,6 @@ body {
     }
   }
 }
-// body p {
-//   font-weight: 400; }
-// body p.natural-link a {
-//   text-decoration: none;
-//   color: $primary; }
-// body p.natural-link:hover a {
-//   color: #161e36; }
-// body h1 {
-//   font-weight: 700;
-//   font-style: $openFont; }
-// body a {
-//   text-decoration: none;
-//   color: $secondary; }
-// body a:hover {
-//   color: $viewall; }
 
 a.button {
   padding: 0.2em 1.2em;
@@ -4243,13 +4233,22 @@ footer span {
   background-color: red;
 }
 
-.nihlinks h2 {
-  font-size: 0.95em;
-  margin: 1.2em 0 0.25em;
-  padding-left: 1em;
-  clear: both;
-  border-left: 8px solid $secondary;
-  font-family: $bodyFont !important;
+.nihlinks {
+  h2 {
+    font-size: 0.95em;
+    margin: 1.2em 0 0.25em;
+    padding-left: 11px;
+    clear: both;
+    font-size: 21px;
+    border-left: 8px solid $secondary;
+    font-family: $bodyFont !important;
+  }
+  ul {
+    li {
+      line-height: 26px;
+      font-size: 19px;
+    }
+  }
 }
 
 .profile-txt h2 {
