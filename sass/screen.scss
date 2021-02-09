@@ -2955,12 +2955,12 @@ header h1 {
         flex-direction: column;
       }
       .date {
-        h3 {    
-        &:hover {
-            color: #384d89;
-            cursor: pointer;
+          h3 {
+          &:hover {
+              color: #384d89;
+              cursor: pointer;
+          }
         }
-      }
       }
     }
     .natural-link {
