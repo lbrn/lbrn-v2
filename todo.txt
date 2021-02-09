@@ -133,19 +133,31 @@ might change funding to just projects
 
 
 notes:
-new news section, unstyeld buttons
-conerted main dev.content to sass layout
-same with news thing
-fixed some issues with that
-fixed date displays
-new news setup to fit both
+//new news section, unstyeld buttons
+//conerted main dev.content to sass layout
+//same with news thing
+//fixed some issues with that
+//fixed date displays
+//new news setup to fit both
 
 ============================
-img on lbrn events page needs to be changed to the one that we used
+//img on lbrn events page needs to be changed to the one that we used
 newsletter page could use pagination too
 cvs pdf thumbnail etc
 
 edit the carousel img for it to be the right resolution
 can crop out the top
 
-index of classes
+index of classes we use like btn etc
+keep notice at the top
+hide section if nothing
+
+make the entire events icon on the events page clicable
+
+
+-annuam meeting update on carousel
+-fix events page issue link thing
+
+then priority:
+events page a pagination page
+newsletter stuff? page thing?
