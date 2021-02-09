@@ -3,7 +3,7 @@ layout: post
 title: 19th LBRN Annual Meeting
 categories: events
 eventDate: February 12, 2021
-eventEndDate: Febuary 13, 2021
+eventEndDate: February 13, 2021
 startTime:
 endTime:
 excerpt_separator: <!--more-->
