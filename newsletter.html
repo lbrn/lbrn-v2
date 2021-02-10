@@ -6,12 +6,16 @@ title: LBRN Newsletters
 
 
 <div class="three-card-responsive resources">
+
+
+  {% for post in site.data.newsletter %}
     <section>
-     <a href="downloads/newsletters/LBRN Newsletter 2021-01.pdf" target="_blank" ><h2><center>January 2021</center></h2>
-    	<img src="downloads/thumbnails/LBRN Newsletter 2021-01.png" alt="lbrn newsletter January 2021">
+     <a href="downloads/newsletters/{{post.file}}" target="_blank" ><h2><center>{{post.date}}</center></h2>
+      <img src="downloads/thumbnails/{{post.cover}}" alt="lbrn newsletter {{post.date}}">
     </a>
     </section>
-    <section>
+  {% endfor %}
+    <!-- <section>
     	<a href="downloads/newsletters/LBRN Newsletter 2020-12.pdf" target="_blank" ><h2><center>December 2020</center></h2>
     	<img src="downloads/thumbnails/LBRN Newsletter 2020-12.png" alt="lbrn newsletter December 2020">
     </a>
@@ -66,7 +70,7 @@ title: LBRN Newsletters
       <img src="downloads/thumbnails/LBRN Newsletter 2020-04.png" alt="lbrn newsletter April 2020">
       </a>
     </section>
-   
+
 	<section>
     	<a href="downloads/newsletters/LBRN Newsletter 2020-03.pdf" target="_blank" ><h2><center>March 2020</center></h2>
     	<img src="downloads/thumbnails/LBRN Newsletter 2020-03.png" alt="lbrn newsletter March 2020">
@@ -259,3 +263,4 @@ title: LBRN Newsletters
 		</a>
 	</section>
 </div>
+ -->
