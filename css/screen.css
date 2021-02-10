@@ -1927,6 +1927,54 @@ header h1 {
   display: none;
 }
 
+.page-heading {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.page-heading h1 {
+  margin-top: 0.75em;
+  float: left;
+  font-size: 2em;
+  font-family: "Open Sans", sans-serif;
+  color: #2C3D6C;
+}
+
+.mediapage p {
+  font-size: 16pt;
+  font-weight: 300;
+}
+
+.content ul {
+  margin-left: 2.8em;
+}
+
+.content ul ul {
+  margin-left: 2em;
+}
+
+.content ul ul li {
+  list-style: circle;
+}
+
+.content li {
+  font-weight: 300;
+  list-style: square;
+}
+
+.content .bold {
+  font-weight: 500;
+}
+
+.content .buttons-centered {
+  margin: 1em 0;
+  text-align: center;
+}
+
+.content .buttons-centered button {
+  margin-top: 0;
+}
+
 main div.content {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -2451,45 +2499,71 @@ main div.content #newsContainer.tne {
     margin: auto 5%;
   }
 }
-.presentation-templates #faq p {
+.presentation-templates section {
+  min-height: 0 !important;
+  text-align: center;
+  background-color: unset !important;
+  border-bottom: 10px solid #d4ebd5;
+}
+.presentation-templates section img {
+  float: none !important;
+  margin: 0 auto;
+  max-width: 20em;
+}
+.presentation-templates section h2 {
+  clear: both;
+  padding: 0.2em 0;
+  text-align: center;
+}
+.presentation-templates section button {
+  float: none !important;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#faq p {
   margin-top: 0.25em;
   border-bottom: 1px #2C3D6C solid;
   cursor: pointer;
 }
-.presentation-templates #faq p:hover {
+#faq p:hover {
   color: #425ca2;
   border-bottom: 1px #425ca2 solid;
 }
-.presentation-templates #faq ul {
+#faq ul {
   border-bottom: 3px #2C3D6C solid;
   margin-left: 0;
   padding-left: 2.8em;
   display: none;
 }
-.presentation-templates #speakerfaq p {
+
+#speakerfaq p {
   margin-top: 0.25em;
   cursor: pointer;
 }
-.presentation-templates #speakerfaq p:hover {
+#speakerfaq p:hover {
   color: #425ca2;
 }
-.presentation-templates #speakerfaq ul {
+#speakerfaq ul {
   margin-left: 0;
   padding-left: 2.8em;
   display: none;
 }
-.presentation-templates .important {
+
+.important {
   font-style: italic;
   background-color: #def0df;
   padding: 0.5em;
   margin-top: 0.25em;
   margin-bottom: 0.25em;
 }
-.presentation-templates img.fit {
+
+img.fit {
   /* width: 50px; */
   max-width: 100%;
 }
-.presentation-templates .col-split {
+
+.col-split {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -2499,7 +2573,8 @@ main div.content #newsContainer.tne {
   margin-right: 0;
   padding: 0 5%;
 }
-.presentation-templates .col-split-right {
+
+.col-split-right {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -2509,35 +2584,22 @@ main div.content #newsContainer.tne {
   margin-right: 0;
   padding: 0 5%;
 }
-.presentation-templates .accordianTrigger {
+
+.accordianTrigger {
   margin-top: 0.25em;
   border-bottom: 1px #2C3D6C solid;
   cursor: pointer;
 }
-.presentation-templates .accordianTrigger:hover {
+.accordianTrigger:hover {
   color: #425ca2;
   border-bottom: 1px #425ca2 solid;
 }
-.presentation-templates .accordianSection {
+
+.accordianSection {
   border-bottom: 3px #2C3D6C solid;
   margin-left: 0;
   padding-left: 2.8em;
   display: none;
-}
-.presentation-templates #newsContainer {
-  width: 100%;
-  max-width: 800px;
-}
-.presentation-templates #newsContainer.tne {
-  width: 80%;
-  margin-right: 0;
-  margin-left: 0;
-  padding-right: 5%;
-}
-@media (max-width: 667px) {
-  .presentation-templates #newsContainer.tne {
-    width: 100%;
-  }
 }
 
 .slider {
@@ -2623,6 +2685,7 @@ main div.content #newsContainer.tne {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  max-width: 800px;
   width: 100%;
   float: left;
   margin-left: 0;
@@ -2644,6 +2707,14 @@ main div.content #newsContainer.tne {
 }
 #newsContainer.tne {
   width: 80%;
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 5%;
+}
+@media (max-width: 667px) {
+  #newsContainer.tne {
+    width: 100%;
+  }
 }
 
 #newsPageContainer {
