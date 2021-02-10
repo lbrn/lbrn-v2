@@ -1,0 +1,29 @@
+---
+layout: default_nested
+title: Events
+pagination:
+  enabled: true
+  collection: events
+---
+<section class="events" id="eventsContainer">
+  {% for event in paginator.posts %}
+    {% include events-list-item-long.html %}
+  {% endfor %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous btn">
+        Previous
+      </a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next btn">Next</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+  </div>
+</section>
