@@ -2410,22 +2410,6 @@ header h1 {
     display: none;
   }
 
-  #newsContainer {
-    width: 100%;
-    max-width: 800px;
-
-    &.tne {
-      width: 80%;
-      margin-right: 0;
-      margin-left: 0;
-      padding-right: 5%;
-      @media (max-width: $md) {
-        width: 100%;
-      }
-    }
-  }
-
-
 
 .slider {
   box-sizing: border-box;
@@ -2494,12 +2478,15 @@ header h1 {
     }
   }
 }
+
+
 #newsContainer {
   padding-left: 5%;
   padding-right: 5%;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  max-width: 800px;
   width: 100%;
   float: left;
   margin-left: 0;
@@ -2515,6 +2502,12 @@ header h1 {
 
   &.tne {
     width:80%;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 5%;
+    @media (max-width: $md) {
+      width: 100%;
+    }
   }
 }
 
