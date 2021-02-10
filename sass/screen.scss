@@ -1793,6 +1793,51 @@ header h1 {
   display: none;
 }
 
+.page-heading {
+  padding-left: 5%;
+  padding-right: 5%; }
+.page-heading h1 {
+  margin-top: .75em;
+  float: left;
+  font-size: 2em;
+  font-family: $openFont;
+  color: $primary; }
+
+  .mediapage p {
+    font-size: 16pt;
+    font-weight: 300;
+  }
+
+  // .slider {
+  //   /* display: none; */
+  //   -moz-box-sizing: border-box;
+  //   -webkit-box-sizing: border-box;
+  //   box-sizing: border-box;
+  //   width: 100%;
+  //   float: left;
+  //   margin-left: 0;
+  //   margin-right: 0;
+  //   position: relative;
+  //   margin-bottom: 2em;
+  // }
+
+.content ul {
+  margin-left: 2.8em; }
+.content ul ul {
+  margin-left: 2em; }
+.content ul ul li {
+  list-style: circle; }
+.content li {
+  font-weight: 300;
+  list-style: square; }
+.content .bold {
+  font-weight: 500; }
+.content .buttons-centered {
+  margin: 1em 0;
+  text-align: center; }
+.content .buttons-centered button {
+  margin-top: 0; }
+
   main div.content{
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -2246,7 +2291,31 @@ header h1 {
       }
     }
   }
+  section {
+      min-height: 0 !important;
+      text-align: center;
+      background-color: unset !important;
+      border-bottom: 10px solid $sexta;
 
+      img {
+        float: none !important;
+        margin: 0 auto;
+        max-width: 20em;
+      }
+
+      h2 {
+        clear: both;
+        padding: 0.2em 0;
+        text-align: center;
+      }
+
+      button {
+        float: none !important;
+        text-align: center;
+        margin: 0 auto;
+      }
+    }
+  }
 
 
   #faq {
@@ -2341,21 +2410,6 @@ header h1 {
     display: none;
   }
 
-  #newsContainer {
-    width: 100%;
-    max-width: 800px;
-
-    &.tne {
-      width: 80%;
-      margin-right: 0;
-      margin-left: 0;
-      padding-right: 5%;
-      @media (max-width: $md) {
-        width: 100%;
-      }
-    }
-  }
-}
 
 .slider {
   box-sizing: border-box;
@@ -2424,12 +2478,15 @@ header h1 {
     }
   }
 }
+
+
 #newsContainer {
   padding-left: 5%;
   padding-right: 5%;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  max-width: 800px;
   width: 100%;
   float: left;
   margin-left: 0;
@@ -2445,6 +2502,12 @@ header h1 {
 
   &.tne {
     width:80%;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 5%;
+    @media (max-width: $md) {
+      width: 100%;
+    }
   }
 }
 
