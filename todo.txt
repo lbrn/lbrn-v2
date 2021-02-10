@@ -155,9 +155,9 @@ hide section if nothing
 make the entire events icon on the events page clicable
 
 
--annuam meeting update on carousel
--fix events page issue link thing
+//-annuam meeting update on carousel
+//-fix events page issue link thing
 
 then priority:
-events page a pagination page
+//events page a pagination page
 newsletter stuff? page thing?
