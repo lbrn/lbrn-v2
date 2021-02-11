@@ -2494,6 +2494,11 @@ main div.content #newsContainer.tne {
 .presentation-templates.two-card-responsive section a.button:only-of-type {
   margin: auto 30%;
 }
+@media (max-width: 860px) {
+  .presentation-templates.two-card-responsive section a.button:only-of-type {
+    margin: auto;
+  }
+}
 @media (max-width: 414px) {
   .presentation-templates.two-card-responsive section a.button:only-of-type {
     margin: auto 5%;
