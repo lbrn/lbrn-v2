@@ -160,4 +160,4 @@ make the entire events icon on the events page clicable
 
 then priority:
 //events page a pagination page
-newsletter stuff? page thing?
+//newsletter stuff? page thing?
