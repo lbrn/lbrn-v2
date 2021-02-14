@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 19th LBRN Annual Meeting
-categories: featured
+categories: news
 featuredImageUrl: images/postImages/2021-AM-2020.12.21.png
 featuredImageUrlSquare: images/postImages/2021-AM-2020.12.21.png
 excerpt_separator: <!--more-->
