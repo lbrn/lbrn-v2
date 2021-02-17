@@ -1,56 +1,7 @@
-===============
-12-23-2020
------==========
-mid-janiary zoom backgrounds
-2-3 weeks from now
-4 weeks
-certificate style too
-2 from certificate style and 2 from ehader style
-include lbrn logo
-
-hired effective the 17th- to the date i put in hours
-
-start break tomorrow
-holiday to the 1st
-
-update from main
-
-remember guide for tagging
-
-
-in the logo for cores page: maginify glass, state, dna helix on page
-we should
-improve the logos on the LBRN logo
-different versions playing with the colors we use for mcbr/bbc background while having the same or different image
-
-hexagon logo pieced together which groups are represented based on logo
-blue/green versions of the others
-
-small version of dna helix
-
-use the elements we have explored via banneretc
-new hexagon versions
-ties to zoom: affiliated with different cores
-diff color versions
-
-social media thing below highlights, also consider thicker font or change typeface
-
-add news section
-add news to the thing and move social media down
-
-break up news via pages on jekyll
-
-outline seems a bit heavy, and thing is a bit dark
-up the opacity a bit? etc
 
 ==============
-1-12-2020
+Useful things
 ==============
-
-news highlights newsletter, move SM icons out from underneath
-
-zooooooom
-make 0s and ones disappear more in network blue left lower
 
 LBRN binary ascii hexidecimal binary
 01001100 01101111 01110101 01101001 01110011 01101001 01100001 01101110 01100001 00100000 01000010 01101001 01101111 01101101 01100101 01100100 01101001 01100011 01100001 01101100 00100000 01010010 01100101 01110011 01100101 01100001 01110010 01100011 01101000 00100000 01001110 01100101 01110100 01110111 01101111 01110010 01101011
@@ -61,103 +12,20 @@ translated into DNA code
   GACACTGAGTTGATCTGTGATCTGTGACTGACTCTCACTAGCCATCTGTGTACACTATACCTGTCAACTATCAGCCACCTATGACTAACTCACTCACGTAGCCTCCTATAGATGTGTCACTCGTAATGATCA
 https://earthsciweb.org/js/bio/dna-writer/
 
-blue version of logo in top-center green
-
-pick two design elements and leave it
-shading on the circle throws john off
-angle/horizontal dna
-
-//powerpoint background and image background
-
-1-20-2021
-==================
-
-click to open/click to close
-move down to guidles
-remove old arrows
-
-priorities:
-//==update ramesh branch with those
--zoom last
-
-
-update css update version number
-
-=========
-1-25-2021
-=========
-font-size: 1.2rem;
-
-//add pis to research after funding ops
-might change funding to just projects
-
-1-27-2021
-zoom priority
-adjust lbrn color too (dark blue/green)
-
-media templates
-
-center bottom row
-dna adjust colors , move off of image or move element off
-
-then cores
-
-pick green/blue , update binary
-second row center (adjust lbrn)
-top row
-lower right
-
-
-then header bg
-social media/news section
-media templates (update file)
-//thumbnail image stretched on safari
-
-//zoom
-//then media templates
-then pulldown/cores
-
-//pulldown >
-//cores training and support
-//workshops
-//core bucks
-//resources for all those 4
-
 
 talkin about genelab page on old grant website, move to new site
 
+===========
+Done list:
 
-
-add pis to research after funding ops
-might change funding to just projects
-
-
-notes:
-//new news section, unstyeld buttons
-//conerted main dev.content to sass layout
-//same with news thing
-//fixed some issues with that
-//fixed date displays
-//new news setup to fit both
-
-============================
-//img on lbrn events page needs to be changed to the one that we used
-newsletter page could use pagination too
-cvs pdf thumbnail etc
-
-edit the carousel img for it to be the right resolution
-can crop out the top
-
-index of classes we use like btn etc
-keep notice at the top
-hide section if nothing
-
-make the entire events icon on the events page clicable
-
-
+//make the entire events icon on the events page clicable
 //-annuam meeting update on carousel
 //-fix events page issue link thing
-
-then priority:
 //events page a pagination page
 //newsletter stuff? page thing?
+=======
+To-do
+=======
+Clean up sass
+Guide on classes (btn, green, etc) we can use
+-can do both while going through sass 
