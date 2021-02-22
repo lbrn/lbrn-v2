@@ -4073,7 +4073,6 @@ img.fit {
   position: relative;
   margin-bottom: 1.2em;
 }
-
 #eventArchiveMedia h2,
 #eventLodgingAndExpenses h2,
 #eventMediaLink h2,
@@ -4359,13 +4358,11 @@ div.chooseTypeInline div label:hover {
   margin-top: 0.5em;
   display: inline-block;
 }
-
 #mobileChooseType div.chooseType p {
   display: block;
   margin: auto;
   font-weight: 700;
 }
-
 #mobileChooseType div.chooseType input {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -4385,16 +4382,13 @@ div.chooseTypeInline div label:hover {
   position: relative;
   top: 0.25em;
 }
-
 #mobileChooseType div.chooseType input:checked {
   border: 6px solid #2C3D6C;
 }
-
 #mobileChooseType div.chooseType input:hover {
   color: #425ca2;
   cursor: pointer;
 }
-
 #mobileChooseType div.chooseType label {
   padding: 0;
   margin: 0.1em 0;
@@ -6129,8 +6123,6 @@ footer span {
     margin-right: 0;
     overflow: hidden;
   }
-}
-@media (min-width: 667px) {
   #eventArchiveMedia h2,
 #eventLodgingAndExpenses h2,
 #eventMediaLink h2,
@@ -6143,8 +6135,6 @@ footer span {
     background-color: white;
     cursor: auto;
   }
-}
-@media (min-width: 667px) {
   #eventArchiveMedia h2:hover,
 #eventLodgingAndExpenses h2:hover,
 #eventMediaLink h2:hover,
@@ -6184,8 +6174,6 @@ footer span {
     top: 0;
     z-index: 1000;
   }
-}
-@media (min-width: 667px) {
   #lbrnEventSidebar ul {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -6201,8 +6189,6 @@ footer span {
     top: 2em;
     z-index: 1000;
   }
-}
-@media (min-width: 667px) {
   #lbrnEventSidebar ul div {
     font-family: "Ubuntu", sans-serif;
     font-size: 1em;
