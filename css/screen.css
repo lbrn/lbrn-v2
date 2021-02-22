@@ -5478,46 +5478,11 @@ footer span {
     /* background-color: #120103; */
   }
 
-  #lbrnEventSidebar3 {
-    display: inline;
-    /* background-color:; */
-    padding: 0;
-    margin: 0;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    /* width: 22.85714%; */
-    width: 100%;
-    float: left;
-    margin-right: 0;
-    /* background-color: $secondary; */
-    /* height: 3000px; */
-    height: auto;
-    position: relative;
-    /* color: red; */
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    text-decoration: none;
-    border-bottom: 1px solid #2C3D6C;
-    border-top: 1px solid #2C3D6C;
-    /* font-weight: 300; */
-  }
-}
-@media (min-width: 414px) and (max-width: 860px) {
-  #lbrnEventSidebar3 {
-    background: white;
-    top: 41px;
-  }
-}
-@media (min-width: 414px) {
   .bar {
     background-color: green;
     margin-bottom: 10em;
   }
-}
-@media (min-width: 414px) {
+
   .navdropdown ul li ul {
     max-width: 5em;
   }
@@ -5536,8 +5501,7 @@ footer span {
     text-align: left;
     padding-left: 0.7em;
   }
-}
-@media (min-width: 414px) {
+
   .bar a {
     text-decoration: none;
     color: white;
@@ -5545,8 +5509,7 @@ footer span {
     padding: 15px;
     display: inline-block;
   }
-}
-@media (min-width: 414px) {
+
   .navdropdownbig ul li {
     display: inline-block;
     width: 100%;
@@ -5804,32 +5767,6 @@ footer span {
     display: block;
     width: 20%;
     padding: unset;
-  }
-
-  #lbrnEventSidebar3 {
-    display: none;
-    padding: 0;
-    margin: 0;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    /* width: 22.85714%; */
-    width: 20%;
-    float: left;
-    margin-right: 0;
-    /* background-color: $secondary; */
-    /* height: 3000px; */
-    height: auto;
-    position: relative;
-    /* color: red; */
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    text-decoration: none;
-    border-bottom: 1px solid #2C3D6C;
-    border-top: 1px solid #2C3D6C;
-    /* font-weight: 300; */
   }
 
   .slide a {
