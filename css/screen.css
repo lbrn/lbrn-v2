@@ -4088,7 +4088,6 @@ img.fit {
   background-color: unset;
   cursor: pointer;
 }
-
 #eventArchiveMedia h2:hover,
 #eventLodgingAndExpenses h2:hover,
 #eventMediaLink h2:hover,
@@ -4115,7 +4114,6 @@ img.fit {
   margin-left: 0;
   margin-right: 0;
 }
-
 #eventLodgingAndExpenses .map-icon,
 #eventWhenAndWhere .map-icon {
   -moz-box-sizing: border-box;
@@ -4127,7 +4125,6 @@ img.fit {
   margin-top: 0.25em;
   font-size: 2em;
 }
-
 #eventLodgingAndExpenses .map-address,
 #eventWhenAndWhere .map-address {
   -moz-box-sizing: border-box;
@@ -4142,7 +4139,6 @@ img.fit {
   overflow: hidden;
   *zoom: 1;
 }
-
 #speakers section {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4152,7 +4148,6 @@ img.fit {
   margin-left: 0;
   margin-right: 0;
 }
-
 #speakers h3 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4163,7 +4158,6 @@ img.fit {
   clear: unset;
   margin-top: 0.8em;
 }
-
 #speakers p {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4174,7 +4168,6 @@ img.fit {
   margin-top: 0.25em;
   line-height: 1.4;
 }
-
 #speakers img {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4196,12 +4189,10 @@ img.fit {
   margin-left: 0;
   margin-right: 0;
 }
-
 .seminar-speaker img {
   margin: auto;
   display: block;
 }
-
 .seminar-speaker h3 {
   margin-top: 1em;
   -moz-box-sizing: border-box;
@@ -4212,7 +4203,6 @@ img.fit {
   margin-left: 0;
   margin-right: 0;
 }
-
 .seminar-speaker div {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4224,7 +4214,6 @@ img.fit {
   margin-top: 1em;
   position: relative;
 }
-
 .seminar-speaker div i {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4236,7 +4225,6 @@ img.fit {
   text-align: center;
   margin-top: 0.3em;
 }
-
 .seminar-speaker div p {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4298,12 +4286,10 @@ div.chooseTypeInline {
       -ms-flex-pack: distribute;
           justify-content: space-around;
 }
-
 div.chooseTypeInline p {
   width: 100%;
   padding-bottom: 1em;
 }
-
 div.chooseTypeInline div {
   width: 30%;
   height: 50px;
@@ -4329,18 +4315,15 @@ div.chooseTypeInline div {
      -moz-border-radius: 5px;
           border-radius: 5px;
 }
-
 div.chooseTypeInline div input {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
   display: none;
 }
-
 div.chooseTypeInline div label {
   cursor: pointer;
 }
-
 div.chooseTypeInline div label:hover {
   color: #4a66b4;
 }
@@ -4357,7 +4340,6 @@ div.chooseTypeInline div label:hover {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-
 #mobileChooseType.down {
   top: 0;
   -webkit-transition: top 0.3s ease-in-out;
@@ -4365,7 +4347,6 @@ div.chooseTypeInline div label:hover {
   -moz-transition: top 0.3s ease-in-out;
   transition: top 0.3s ease-in-out;
 }
-
 #mobileChooseType:hover {
   -webkit-transition: opacity 0.3s ease-in-out;
   -o-transition: opacity 0.3s ease-in-out;
