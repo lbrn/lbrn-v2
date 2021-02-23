@@ -28,4 +28,7 @@ To-do
 =======
 Clean up sass
 Guide on classes (btn, green, etc) we can use
--can do both while going through sass 
+-can do both while going through sass
+
+
+-change content-tweek from 80% cus it shrinks the area for a sidebar that isnt there
