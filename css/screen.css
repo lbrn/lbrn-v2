@@ -444,7 +444,8 @@
           justify-content: center;
 }
 #core-list .horiline-r {
-  margin-left: 46.5%;
+  margin-left: 49%;
+  width: 51.5%;
 }
 #core-list .container {
   width: 100%;
@@ -510,7 +511,7 @@
   margin-left: unset;
 }
 #core-list .quintblock h1 {
-  font-size: 11pt;
+  font-size: 14pt;
 }
 #core-list .quintblock h2 {
   font-size: 11pt;
@@ -530,11 +531,11 @@
           flex-direction: column;
   margin-left: unset;
   border: #8ECB91;
-  border-style: solid none none none;
-  width: 50%;
+  border-top-style: none;
+  width: 14.28%;
 }
 #core-list .sevenblock .horiline {
-  display: none;
+  display: block;
 }
 #core-list .sevenblock .horiline-r.down {
   -webkit-box-flex: 1;
@@ -542,7 +543,7 @@
      -moz-box-flex: 1;
       -ms-flex: 1 1 2em;
           flex: 1 1 2em;
-  border-style: none none none solid;
+  border-style: solid none none solid;
 }
 #core-list .sevenblock .horiline-l.down {
   -webkit-box-flex: 1;
@@ -550,26 +551,21 @@
      -moz-box-flex: 1;
       -ms-flex: 1 1 2em;
           flex: 1 1 2em;
-  border-style: none solid none none;
-}
-#core-list .sevenblock:nth-of-type(odd) {
-  border: #8ECB91;
-  border-top-style: solid;
-}
-#core-list .sevenblock:nth-of-type(even) {
-  border: #8ECB91;
-  border-top-style: solid;
+  border-style: solid solid none none;
 }
 #core-list .sevenblock h1 {
   font-size: 12pt;
   margin-bottom: 0;
 }
+#core-list .sevenblock h2 {
+  font-size: 11pt;
+}
 #core-list h1 {
-  font-size: 15pt;
+  font-size: 17pt;
   margin-bottom: 0;
 }
 #core-list h2 {
-  font-size: 11pt;
+  font-size: 13pt;
   margin-top: 1px;
   margin-bottom: 1px;
 }
@@ -585,7 +581,7 @@
   line-height: 1.5;
 }
 #core-list li {
-  font-size: 9pt;
+  font-size: 11pt;
   list-style: none;
 }
 #core-list .vertline {
@@ -682,35 +678,66 @@
   width: 100%;
   display: block;
 }
-@media (min-width: 414px) {
-  #core-list .quintblock h1 {
-    font-size: 14pt;
-  }
-  #core-list .sevenblock {
-    border: none;
-    width: 14.28%;
-  }
-  #core-list .sevenblock:nth-of-type(even) {
-    border-top-style: none;
-  }
+@media (max-width: 860px) {
   #core-list .horiline-r {
     margin-left: 48.5%;
-    width: 51.5%;
-  }
-  #core-list li {
-    font-size: 11pt;
-  }
-  #core-list h1 {
-    font-size: 17pt;
-    /* color:red; */
-  }
-  #core-list h2 {
-    font-size: 13pt;
   }
 }
-
-#testaddsass {
-  color: red;
+@media (max-width: 667px) {
+  #core-list .quintblock h1 {
+    font-size: 11pt;
+  }
+  #core-list .horiline-r {
+    margin-left: 46.5%;
+  }
+  #core-list .sevenblock {
+    width: 50%;
+    border-style: solid none none none;
+  }
+  #core-list .sevenblock .horiline {
+    display: none;
+  }
+  #core-list .sevenblock .horiline-r.down {
+    border-style: none none none solid;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 2em;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 2em;
+            flex: 1 1 2em;
+  }
+  #core-list .sevenblock .horiline-l.down {
+    border-style: none solid none none;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 2em;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 2em;
+            flex: 1 1 2em;
+    display: block;
+  }
+  #core-list .sevenblock h1 {
+    font-size: 12pt;
+    margin-bottom: 0;
+  }
+  #core-list .sevenblock h2 {
+    font-size: 11pt;
+  }
+  #core-list li {
+    font-size: 9pt;
+  }
+  #core-list h1 {
+    font-size: 15pt;
+  }
+  #core-list h2 {
+    font-size: 11pt;
+  }
+}
+@media (max-width: 414px) {
+  #core-list .sevenblock .horiline-r.down {
+    border-style: none none none solid;
+  }
+  #core-list .sevenblock .horiline-l.down {
+    border-style: none solid none none;
+  }
 }
 
 #campusmap {
@@ -1993,17 +2020,6 @@ main.research div.content h2 {
 .LBRNe article {
   min-height: 5em;
   padding-bottom: 1em;
-}
-
-#campusmap li {
-  padding-left: 0.5em;
-  list-style: none;
-  font-size: 25pt;
-  font-family: roundedMplus1cExtraBold;
-  color: #157262;
-  z-index: 2;
-  position: absolute;
-  height: 100%;
 }
 
 .mobilefilter {

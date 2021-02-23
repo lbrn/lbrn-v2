@@ -5,7 +5,8 @@
   align-content: center;
   justify-content: center;
   .horiline-r {
-    margin-left: 46.5%;
+    margin-left: 49%;
+    width: 51.5%;
   }
   .container {
    width: 100%;
@@ -45,42 +46,39 @@
     flex-direction: column;
     margin-left: unset;
     border: $secondary;
-    border-style: solid none none none;
-    width: 50%;
+    border-top-style: none;
+    width: 14.28%;
     .horiline {
-     display: none;
+     display: block;
     }
     .horiline-r {
       &.down {
         flex: 1 1 2em;
-        border-style: none none none solid;
+
+        border-style: solid none none solid;
       }
     }
     .horiline-l {
       &.down {
         flex: 1 1 2em;
-        border-style: none solid none none;
+
+        border-style: solid solid none none;
       }
-    }
-    &:nth-of-type(odd) {
-      border: $secondary;
-      border-top-style: solid;
-    }
-    &:nth-of-type(even) {
-      border: $secondary;
-      border-top-style: solid;
     }
     h1 {
       font-size: 12pt;
       margin-bottom: 0;
     }
-   }
+    h2 {
+      font-size: 11pt;
+    }
+  }//7
    h1 {
-     font-size: 15pt;
+     font-size: 17pt;
      margin-bottom: 0;
    }
    h2 {
-     font-size: 11pt;
+     font-size: 13pt;
      margin-top: 1px;
      margin-bottom: 1px;
    }
@@ -96,7 +94,7 @@
      }
    }
    li {
-     font-size: 9pt;
+     font-size: 11pt;
      list-style: none;
    }
    .vertline {
@@ -170,82 +168,78 @@
     width: 100%;
     display: block;
   }
-  @media (max-width: $md){
-
+  @media (max-width: $lg) {
+    .horiline-r{
+      margin-left: 48.5%;
+    }
   }
-  @media (max-width: $sm){
+  @media (max-width: $md){
     .quintblock {
       h1 {
         font-size: 11pt;
       }
-     }
-  }
-  @media (min-width: $lg) {
-    .horiline-r{
-      margin-left: 49%;
     }
-  }
-  @media (min-width: $sm) {
-    .quintblock {
-      h1 {
-        // font-size: 14pt;
-      }
-     }
-    .sevenblock {
-     border: none;
-     width: 14.28%;
-     &:nth-of-type(even) {
-       border-top-style: none;
-     }
-     &:nth-of-type(odd) {
-       border: none;
-     }
-     .horiline {
-      display: block;
-     }
-     .horiline-r {
-       .down {
-         border-style: solid none none solid;
-         flex: 1 1 2em;
-       }
-     }
-     .horiline-l {
-       .down {
-         border-style: solid solid none none;
-         flex: 1 1 2em;
-         display: block;
-       }
-     }
-     h1 {
-       font-size: 12pt;
-       margin-bottom: 0;
-     }
-     h2 {
-       font-size: 11pt;
-     }
-   }
     .horiline-r {
-      // margin-left: 48%;
-      margin-left: 48.5%;
-      width: 51.5%;
+      margin-left: 46.5%;
+    }
+    .sevenblock {
+      flex: 1 1 50%;
+      border-style: solid none none none;
+      .horiline {
+       display: none;
+      }
+      .horiline-r {
+        &.down {
+          border-style: none none none solid;
+
+          flex: 1 1 2em;
+        }
+      }
+      .horiline-l {
+        &.down {
+          border-style: none solid none none;
+
+          flex: 1 1 2em;
+          display: block;
+        }
+      }
+      h1 {
+        font-size: 12pt;
+        margin-bottom: 0;
+      }
+      h2 {
+        font-size: 11pt;
+      }
     }
     li {
+      font-size: 9pt;
+    }
+    h1 {
+      font-size: 15pt;
+    }
+    h2 {
       font-size: 11pt;
     }
 
-    h1 {
-      font-size: 17pt;
-      /* color:red; */
+  }//md
+  @media (max-width: $sm){
+    .sevenblock {
+      .horiline-r {
+        &.down {
+          border-style: none none none solid;
+        }
+      }
+      .horiline-l {
+        &.down {
+          border-style: none solid none none;
+        }
+      }
     }
 
-    h2 {
-      font-size: 13pt;
-    }
   }
+
 }//core-list
-#testaddsass{
-  color: red;
-}
+
 #campusmap {
   background-position: top;
   background-size: cover;
@@ -261,7 +255,7 @@
         opacity: 0.7;
       }
       li {
-        font-family: roundedMplus1cLight;
+        font-family: $mapfont;
         color: #212529;
       }
     }
@@ -279,7 +273,7 @@
   }
   h1 {
     margin-top: 12%;
-    font-family: roundedMplus1cLight;
+    font-family: $mapfont;
     color: #157262;
     z-index: 3;
     position: relative;
@@ -292,7 +286,7 @@
     padding-left: 0.5em;
     list-style: none;
     font-size: 25pt;
-    font-family: roundedMplus1cExtraBold;
+    font-family: $mapfontbold;
     color: #157262;
     z-index: 2;
     position: absolute;
