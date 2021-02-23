@@ -905,9 +905,6 @@ main.research div.content h2 {
   }
 }
 
-// #core-list .horiline-r {
-//   margin-left: 46.5%;
-// }
 
 .npi.soff.coff {
   display: none!important;
@@ -919,55 +916,6 @@ main.research div.content h2 {
 }
 
 // #campusmap {
-//   /* background:url(../images/campus-map.svg); */
-//   /* height: 10vh; */
-//   /* min-height: 500px; */
-//   background-position: top;
-//   background-size: cover;
-//   background-repeat: no-repeat;
-//   position: relative;
-// }
-
-#campusmap .bgholder {
-  height: 3em;
-  width: 50%;
-  position: relative;
-  display: inline-block;
-}
-
-#campusmap .bg {
-  background-color: white;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  opacity: 0.5;
-  z-index: 1;
-  border: solid;
-  border-width: 1px;
-  border-color: black;
-}
-
-#campusmap h1 {
-  margin-top: 12%;
-  font-family: roundedMplus1cLight;
-  color: #157262;
-  z-index: 3;
-  position: relative;
-}
-
-#campusmap ul {
-  padding-left: unset;
-  position: relative;
-}
-
-#campusmap .bgholder:nth-child(even) .bg {
-  opacity: 0.7;
-}
-
-#campusmap .bgholder:nth-child(even) li {
-  font-family: roundedMplus1cLight;
-  color: #212529;
-}
 
 #campusmap li {
   padding-left: 0.5em;
@@ -980,249 +928,16 @@ main.research div.content h2 {
   height: 100%;
 }
 
-.mapcontainer {
-  top: 0;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-
-  a div {
-    opacity: 0.5;
-    // border-top: solid 1.5px $primary;
-    border-bottom: solid 1.5px $primary;
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2x ease-in;
-
-    &:hover {
-      background-color: transparentize($secondary, .8);
-      -moz-transition: all 0.2s ease-in;
-      -o-transition: all 0.2s ease-in;
-      -webkit-transition: all 0.2x ease-in;
-      border: solid 1.5px $primary;
-      border-radius: 6px;
-    }
-  }
-
-  .sus {
-    height: 4%;
-    width: 6%;
-    margin-top: 3%;
-    margin-left: 9%;
-    position: absolute;
-  }
-
-  .lsuhsc-s {
-    height: 4%;
-    width: 13%;
-    margin-top: 6.5%;
-    margin-left: 15%;
-    position: absolute;
-  }
-
-  .la-tech {
-    height: 4%;
-    width: 11%;
-    margin-top: 5%;
-    margin-left: 37%;
-    position: absolute;
-  }
-
-  .ulm {
-    height: 4%;
-    width: 7%;
-    margin-top: 16%;
-    margin-left: 43%;
-    position: absolute;
-  }
-
-  .lsu-s {
-    height: 4%;
-    width: 8%;
-    margin-top: 20%;
-    margin-left: 11%;
-    position: absolute;
-  }
-
-  .grambling {
-    height: 4%;
-    width: 13%;
-    margin-top: 20.5%;
-    margin-left: 25%;
-    position: absolute;
-  }
-
-  .nsu {
-    height: 4%;
-    width: 6%;
-    margin-top: 35%;
-    margin-left: 19%;
-    position: absolute;
-  }
-
-  .centenary {
-    height: 4%;
-    width: 13%;
-    margin-top: 24%;
-    margin-left: 8%;
-    position: absolute;
-  }
-
-  .lacollege {
-    height: 4%;
-    width: 14%;
-    margin-top: 31%;
-    margin-left: 34%;
-    position: absolute;
-  }
-
-  .lsu-a {
-    height: 4%;
-    width: 9%;
-    margin-top: 46%;
-    margin-left: 29%;
-    position: absolute;
-  }
-
-  .mcneese {
-    height: 4%;
-    width: 11%;
-    margin-top: 52%;
-    margin-left: 19%;
-    position: absolute;
-  }
-
-  .ololc {
-    height: 4%;
-    width: 10%;
-    margin-top: 37%;
-    margin-left: 50.5%;
-    position: absolute;
-  }
-
-  .subr {
-    height: 4%;
-    width: 8%;
-    margin-top: 41%;
-    margin-left: 49%;
-    position: absolute;
-  }
-
-  .brcc {
-    height: 4%;
-    width: 8%;
-    margin-top: 44.5%;
-    margin-left: 50%;
-    position: absolute;
-  }
-
-  .lsu {
-    height: 4%;
-    width: 9%;
-    margin-top: 46%;
-    margin-left: 29%;
-    position: absolute;
-  }
-
-  .ull {
-    height: 4%;
-    width: 6%;
-    margin-top: 62.75%;
-    margin-left: 36%;
-    position: absolute;
-  }
-
-  .selu {
-    height: 4%;
-    width: 8%;
-    margin-top: 43.5%;
-    margin-left: 65%;
-    position: absolute;
-  }
-
-  .pbrc {
-    height: 4%;
-    width: 7%;
-    margin-top: 59%;
-    margin-left: 50%;
-    position: absolute;
-  }
-
-  .tnprc {
-    height: 4%;
-    width: 9%;
-    margin-top: 48%;
-    margin-left: 70%;
-    position: absolute;
-  }
-
-  .uno {
-    height: 4%;
-    width: 6%;
-    margin-top: 52%;
-    margin-left: 74%;
-    position: absolute;
-  }
-
-  .suno {
-    height: 4%;
-    width: 8%;
-    margin-top: 54%;
-    margin-left: 82%;
-    position: absolute;
-  }
-
-  .dillard {
-    height: 4%;
-    width: 9%;
-    margin-top: 57%;
-    margin-left: 76%;
-    position: absolute;
-  }
-
-  .lsuhsc {
-    height: 4%;
-    width: 10%;
-    margin-top: 62.5%;
-    margin-left: 75%;
-    position: absolute;
-  }
-
-  .nicholls {
-    height: 4%;
-    width: 11%;
-    margin-top: 70.5%;
-    margin-left: 50%;
-    position: absolute;
-  }
-
-  .tulane {
-    height: 4%;
-    width: 9%;
-    margin-top: 66.5%;
-    margin-left: 67%;
-    position: absolute;
-  }
-
-  .xavier {
-    height: 4%;
-    width: 9%;
-    margin-top: 70.5%;
-    margin-left: 66%;
-    position: absolute;
-  }
-}
 
 .mobilefilter {
   cursor: pointer;
   border-radius: 6px;
-}
-
-.mobilefilter li {
-  border-radius: 6px;
-  background-color: white;
-  margin-top: 5%;
-  list-style: none;
+  li {
+    border-radius: 6px;
+    background-color: white;
+    margin-top: 5%;
+    list-style: none;
+  }
 }
 
 .npi {
@@ -1355,23 +1070,17 @@ main.research div.content h2 {
 .profilepage {
   /* padding-top: unset; */
   padding-top: 2%;
+  p {
+    margin-top: unset !important;
+    margin-bottom: unset !important;
+    line-height: 165%;
+  }
+  h2,
+  h5 {
+    margin: unset !important;
+  }
 }
 
-.profilepage p {
-  margin-top: unset !important;
-  margin-bottom: unset !important;
-  line-height: 165%;
-}
-
-.profilepage h2,
-h5 {
-  margin: unset !important;
-}
-
-.testslide {
-  background-color: red;
-  /* opacity: 0.5; */
-}
 
 .pubmed-link {
   background-color: $sexta;
@@ -4504,270 +4213,31 @@ footer span {
 }
 
 
-#core-list {
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: center;
-}
-
-#core-list div {
-  /* width: 40%;
-  	margin-left: 30%; */
-}
-
-#core-list .container {
-  width: 100%;
-  margin: unset;
-  padding: unset;
-}
-
-#core-list .container .row {
-  width: 100%;
-  margin: unset;
-}
-
-.admin-core-list div {
-  /* height:10em; */
-}
-
-#core-list .container {
-  flex-direction: row;
-  display: inline-flex;
-  max-width: 100%;
-  flex-wrap: wrap;
-}
-
-#core-list .triblock {
-  flex: 1 1 auto;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  width: 30%;
-  margin-left: unset;
-}
-
-#core-list .quintblock {
-  display: inline-flex;
-  flex-direction: column;
-  width: 20%;
-  margin-left: unset;
-}
-
-#core-list .quintblock h1 {
-  font-size: 11pt;
-}
-
-#core-list .quintblock h2 {
-  font-size: 11pt;
-  /* color: red; */
-}
-/* #core-list .quintblock h1:nth-of-type(2){ */
-/* color: red; */
-/* height: 2em;
-  } */
-
-#core-list .sevenblock {
-  display: inline-flex;
-  flex-direction: column;
-  /* width: 14.28%; */
-  margin-left: unset;
-  /* test */
-}
-/* MOVE THE NEXT 2 TO SMALL */
-
-#core-list .sevenblock {
-  border: $secondary;
-  border-style: solid none none none;
-  width: 50%;
-}
-
-#core-list .sevenblock .horiline {
-  display: none;
-}
-
-#core-list .sevenblock .horiline-r.down {
-  flex: 1 1 2em;
-  border-style: none none none solid;
-}
-
-#core-list .sevenblock .horiline-l.down {
-  flex: 1 1 2em;
-  border-style: none solid none none;
-}
-
-#core-list .sevenblock:nth-of-type(odd) {
-  border: $secondary;
-  /* border-right-style:solid; */
-  border-top-style: solid;
-}
-
-#core-list .sevenblock:nth-of-type(even) {
-  border: $secondary;
-  /* border-left-style:solid; */
-  border-top-style: solid;
-}
-
-#core-list .sevenblock h1 {
-  font-size: 12pt;
-  margin-bottom: 0;
-}
-/* end */
-/* #core-list .sevenblock h1{
-    font-size:12pt;
-  }
-  #core-list .sevenblock h2{
-    font-size:11pt;
-  } */
-
-#core-list h1 {
-  font-size: 15pt;
-  margin-bottom: 0;
-}
-
-#core-list h2 {
-  font-size: 11pt;
-  margin-top: 1px;
-  margin-bottom: 1px;
-}
-
-#core-list ul {
-  background-color: unset;
-  margin-bottom: 0;
-}
-
-#core-list .vertline {
-  flex: 1 1 2em;
-  /* height:2em; */
-  border: $secondary;
-  border-style: none none none solid;
-  height: 2em;
-  width: 52%;
-  margin-left: 50%;
-}
-
-#core-list .horiline {
-  /* height:2em; */
-  border: $secondary;
-  border-style: none none solid none;
-  /* height: 2em; */
-  width: 100%;
-}
-
-#core-list .horiline-l {
-  border: $secondary;
-  border-style: none none solid none;
-  margin-right: 50%;
-  width: 50%;
-}
-/* #core-list .horiline-r{
-  border: $secondary;
-  border-style: none none solid none;
-  margin-left: 47.5%;
-  width: 52.5%;
-  } */
-
-#core-list .horiline-r {
-  border: $secondary;
-  border-style: solid none none none;
-  margin-left: 47.5%;
-  width: 52.5%;
-}
-
-#core-list .horiline-r.down {
-  border-style: solid none none solid;
-  flex: 1 1 2em;
-  margin-left: 50%;
-  width: 50%;
-}
-
-#corelist .horiline-r.down {
-  border-style: none none none solid;
-}
-
-#core-list .horiline-l.down {
-  border-style: solid solid none none;
-  flex: 1 1 2em;
-  margin-right: 50%;
-  width: 50%;
-}
-
-#core-list .horiline-r.up {
-  border-style: none none solid solid;
-  flex: 1 1 2em;
-  margin-left: 50%;
-  width: 50%;
-}
-
-#core-list .horiline-l.up {
-  border-style: none solid solid none;
-  flex: 1 1 2em;
-  margin-right: 50%;
-  width: 50%;
-}
-
-#core-list .vertline.left {
-  border-style: none solid none none;
-  flex: 1 1 2em;
-  margin-right: 0;
-  width: 50%;
-  margin-left: 0;
-}
-
-#core-list .horiline.bot {
-  border-style: none none solid none;
-  height: 100%;
-}
-
-#core-list span {
-  border: $secondary;
-  border-style: solid none none none;
-  height: unset;
-  width: 100%;
-  display: block;
-}
-
-#core-list ul li {
-  width: unset;
-  padding: unset;
-  float: none;
-  height: unset;
-  line-height: 1.5;
-}
-
-#core-list li {
-  font-size: 9pt;
-  list-style: none;
-}
 
 .header {
   width: 100%;
   content: " ";
   display: block;
   clear: both;
+  .hero {
+   width: 100%;
+   background-image: url("../images/slider/3.jpg");
+   height: 10em;
+   background-position: center;
+   background-size: cover;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   float: left;
+   margin-left: 0;
+   margin-right: 0;
+   position: relative;
+ }
 }
 
-.header .hero {
-  width: 100%;
-  background-image: url("../images/slider/3.jpg");
-  height: 10em;
-  background-position: center;
-  background-size: cover;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  position: relative;
-}
-// }
 /* end 0 */
 @media (min-width: $sm) {
-  #core-list .horiline-r {
-    margin-left: 48%;
-  }
+
 
   .content_tweek {
     width: 80% !important;
@@ -4895,6 +4365,8 @@ footer span {
   .about,
   .research {
     .content .content {
+      width: auto;
+      padding-right: 30px;
       width: 80%;
       padding-right: 5%;
     }
@@ -4965,66 +4437,7 @@ footer span {
   // .header h1 {
   //   font-size: 2.5rem;
   // }
-  #core-list .sevenblock:nth-of-type(even) {
-    border-top-style: none;
-  }
 
-  #core-list .horiline-r {
-    margin-left: 48.5%;
-    width: 51.5%;
-  }
-
-  #core-list .quintblock h1 {
-    font-size: 14pt;
-  }
-
-  #core-list li {
-    font-size: 11pt;
-  }
-
-  #core-list h1 {
-    font-size: 17pt;
-    /* color:red; */
-  }
-
-  #core-list h2 {
-    font-size: 13pt;
-  }
-
-  #core-list .sevenblock {
-    border: none;
-    width: 14.28%;
-  }
-
-  #core-list .sevenblock .horiline {
-    display: block;
-  }
-
-  #core-list .sevenblock .horiline-r.down {
-    border-style: solid none none solid;
-    flex: 1 1 2em;
-    /* border: red; */
-    /* display:block; */
-  }
-
-  #core-list .sevenblock .horiline-l.down {
-    border-style: solid solid none none;
-    flex: 1 1 2em;
-    display: block;
-  }
-
-  #core-list .sevenblock:nth-of-type(odd) {
-    border: none;
-  }
-
-  #core-list .sevenblock h1 {
-    font-size: 12pt;
-    margin-bottom: 0;
-  }
-
-  #core-list .sevenblock h2 {
-    font-size: 11pt;
-  }
 
   .navdropdownbig ul li {
     width: unset;
@@ -5387,10 +4800,6 @@ footer span {
 }
 /* end of min-iwdth section*/
 @media (min-width: $lg) {
-
-  #core-list .horiline-r{
-    margin-left: 49%;
-  }
 
   .peoplewrap {
     width: 100%;
