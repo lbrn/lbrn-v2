@@ -18,17 +18,11 @@ talkin about genelab page on old grant website, move to new site
 ===========
 Done list:
 
-//make the entire events icon on the events page clicable
-//-annuam meeting update on carousel
-//-fix events page issue link thing
-//events page a pagination page
-//newsletter stuff? page thing?
+-cleaned up about page cores area, fixed some issues
 =======
 To-do
 =======
 Clean up sass
 Guide on classes (btn, green, etc) we can use
--can do both while going through sass
-
 
 -change content-tweek from 80% cus it shrinks the area for a sidebar that isnt there
