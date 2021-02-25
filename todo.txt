@@ -26,3 +26,4 @@ Clean up sass
 Guide on classes (btn, green, etc) we can use
 
 -change content-tweek from 80% cus it shrinks the area for a sidebar that isnt there
+-check this in general 
