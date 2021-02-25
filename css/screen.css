@@ -4020,8 +4020,7 @@ img.fit {
 #lbrnHighlightHeader #eventPresentations,
 #lbrnHighlightHeader #eventRegistration,
 #lbrnHighlightHeader #eventSummary,
-#lbrnHighlightHeader #eventWhenAndWhere,
-#lbrnHighlightHeader #eventAwards {
+#lbrnHighlightHeader #eventWhenAndWhere {
   position: relative;
   margin-bottom: 1.2em;
 }
@@ -4033,8 +4032,7 @@ img.fit {
 #lbrnHighlightHeader #eventPresentations h2,
 #lbrnHighlightHeader #eventRegistration h2,
 #lbrnHighlightHeader #eventSummary h2,
-#lbrnHighlightHeader #eventWhenAndWhere h2,
-#lbrnHighlightHeader #eventAwards h2 {
+#lbrnHighlightHeader #eventWhenAndWhere h2 {
   /* padding-right: 1.5em; */
   margin-top: unset;
   background-color: unset;
@@ -4048,8 +4046,7 @@ img.fit {
 #lbrnHighlightHeader #eventPresentations h2:hover,
 #lbrnHighlightHeader #eventRegistration h2:hover,
 #lbrnHighlightHeader #eventSummary h2:hover,
-#lbrnHighlightHeader #eventWhenAndWhere h2:hover,
-#lbrnHighlightHeader #eventAwards h2:hover {
+#lbrnHighlightHeader #eventWhenAndWhere h2:hover {
   /* cursor: pointer; */
   -webkit-border-radius: 10px;
      -moz-border-radius: 10px;
@@ -4072,8 +4069,7 @@ img.fit {
 #eventPresentations,
 #eventRegistration,
 #eventSummary,
-#eventWhenAndWhere,
-#eventAwards {
+#eventWhenAndWhere {
   position: relative;
   margin-bottom: 1.2em;
 }
@@ -4086,8 +4082,7 @@ img.fit {
 #eventPresentations h2,
 #eventRegistration h2,
 #eventSummary h2,
-#eventWhenAndWhere h2,
-#eventAwards h2 {
+#eventWhenAndWhere h2 {
   /* padding-right: 1.5em; */
   margin-top: unset;
   background-color: unset;
@@ -4102,8 +4097,7 @@ img.fit {
 #eventPresentations h2:hover,
 #eventRegistration h2:hover,
 #eventSummary h2:hover,
-#eventWhenAndWhere h2:hover,
-#eventAwards h2:hover {
+#eventWhenAndWhere h2:hover {
   background-color: #e5f3e6;
   /* cursor: pointer; */
   -webkit-border-radius: 10px;
@@ -6144,8 +6138,7 @@ footer span {
 #eventPresentations,
 #eventRegistration,
 #eventSummary,
-#eventWhenAndWhere,
-#eventAwards {
+#eventWhenAndWhere {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -6165,8 +6158,7 @@ footer span {
 #eventPresentations h2,
 #eventRegistration h2,
 #eventSummary h2,
-#eventWhenAndWhere h2,
-#eventAwards h2 {
+#eventWhenAndWhere h2 {
     background-color: white;
     cursor: auto;
   }
@@ -6180,8 +6172,7 @@ footer span {
 #eventPresentations h2:hover,
 #eventRegistration h2:hover,
 #eventSummary h2:hover,
-#eventWhenAndWhere h2:hover,
-#eventAwards h2:hover {
+#eventWhenAndWhere h2:hover {
     background-color: unset;
   }
 }
