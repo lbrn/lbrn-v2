@@ -27,3 +27,7 @@ Guide on classes (btn, green, etc) we can use
 
 -change content-tweek from 80% cus it shrinks the area for a sidebar that isnt there
 -check this in general
+====================
+link on lbrn highlight awards page
+adjust ids on annual meetings pages to use class not id
+hide registration link when no link 
