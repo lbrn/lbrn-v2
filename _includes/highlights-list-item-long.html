@@ -1,6 +1,8 @@
 <section id="{{highlight.date | date: '%d' }}{{highlight.date | date: '%b'}}">
   {% if highlight.link != nil %}
   <a href="{{highlight.link}}">
+    {% else %}
+  <a href="{{highlight.url | relative_url }}">
     {% endif %}
     {% if highlight.categories contains "Event" %}
 
@@ -41,15 +43,15 @@
   {% if highlight.link != nil %}
   </a>
   {% else %}
-
+  </a>
   {% endif %}
 
     {% if highlight.img != nil %}
-    <a class="natural-link" href="{{highlight.url | relative_url }}">
+    <!-- <a class="natural-link" href="{{highlight.url | relative_url }}"> -->
     {% else %}
-    <a class="natural-link noticelink" href="{{highlight.url | relative_url }}">
+    <!-- <a class="natural-link noticelink" href="{{highlight.url | relative_url }}"> -->
     {% endif %}
-      <h6>View Full Highlight </h6>
-    </a>
+      <!-- <h6>View Full Highlight </h6> -->
+    <!-- </a> -->
 
 </section>

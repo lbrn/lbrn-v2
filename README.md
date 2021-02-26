@@ -38,7 +38,7 @@ General code:
 --The screen.scss is the main file for the sass. it contains all the basic rules, and at the time of writing, a mix of css style code and nested sass style code. Variables used here - $md, $primary, etc, are defined in the "variables" file. You can use a compiler like Prepros  (or Codekit if on a mac) to compile the sass files into screen.css. These programs both have autoprefixer options- meaning if you enter a line of code that has a different version for, say, safari, it will automatically add the safari version when compiling.
 
 
--The header menu has two seperate "include" files, depending on if the page files are nested or not. dropdown.html and dropdown_nested.html, due to requiring different linking methods if they're a folder deeper. It is also  first thing to break if bootstrap isn't linked correctly.
+-The header menu has two seperate "include" files, depending on if the page files are nested or not. dropdown.html and dropdown.html, due to requiring different linking methods if they're a folder deeper. It is also  first thing to break if bootstrap isn't linked correctly.
 
 -The site's been updated to use the latest version of bootstrap, which allows access to any features included. Currently, the carousel on the main page, and the dropdowns on various pages are powered by it. They've been reworked from the old version that used a custom script due to definition conflicts.
 
@@ -55,7 +55,7 @@ Other code notes:
 COLOR CHANGING
 -the "variables" file tags all the color variables as !default. This means that they can be over-written by another imported sheet loaded in after they're declared. Currently, the partials/blm sheet is commented out, but loading in a new sheet that replaces those colors will allow you to change the colorscheme by simply re-declarinng the colors you wanna change.
 
--Note that the only change not included in the sheet is the black version of the site logo. It's seperate and must be changed in includes/dropdown.html and dropdown_nested.html.
+-Note that the only change not included in the sheet is the black version of the site logo. It's seperate and must be changed in includes/dropdown.html and dropdown.html.
 
 
 Homepage
