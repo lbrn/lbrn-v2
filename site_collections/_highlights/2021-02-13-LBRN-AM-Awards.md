@@ -8,6 +8,7 @@ endTime:
 img: images/postImages/2021-AM-2020.12.21.png
 ftimg: images/postImages/2021-AM-2020.12.21.png
 description: 2021 LBRN 19th Annual Meeting Awards are made for Poster presentations for Summer Program Participants in the Graduate and Undergraduate categories. One Graduate student and one Full Project presenter is awarded for their oral presentations.
+link: https://lbrn.lsu.edu/highlights/2021-02-13-LBRN-AM-Awards.html
 ---
 
 For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2021.html">2021 LBRN 19th Annual Meeting</a>. 
