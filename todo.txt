@@ -30,4 +30,9 @@ Guide on classes (btn, green, etc) we can use
 ====================
 link on lbrn highlight awards page
 adjust ids on annual meetings pages to use class not id
-hide registration link when no link 
+hide registration link when no link
+replace lbrn-events conference img with nayong's new one for conerefence on biology and informatics
+fix pis page, check ended project
+update lbrn highlights image
+social media meta-code
+media template  - videos/photos/presentations 
