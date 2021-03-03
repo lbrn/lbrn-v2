@@ -2889,7 +2889,7 @@ header h1 {
        }
      }
    }
-   &#eventSummary p {
+   &#eventSummary p, &#eventRegistration p {
      // margin-top: 0.5em;
      font-size: 0.85em;
    }
@@ -3454,72 +3454,60 @@ section.directory {
   float: left;
   margin-left: 0;
   margin-right: 0;
+  img {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 20%;
+    float: left;
+    margin-right: 3.44828%;
+    margin-top: 4%;
+    padding-left: 2.5%;
+  }
+  article.person {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 95%;
+    float: left;
+    margin: 2.5%;
+  }
+  h4, h5, h6, ul {
+    font-family: $openFont;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 65%;
+    float: right;
+    margin-right: 0;
+    border: none;
+    line-height: 1.3;
+  }
+  h4 {
+    font-weight: bold;
+    font-size: 0.9em !important;
+    /* padding-bottom: .2em;  */
+  }
+  h5 {
+    margin-bottom: 0;
+    font-size: 0.7em;
+    padding-bottom: 0.5em;
+  }
+  h6 {
+    font-size: 0.6em;
+    font-weight: 600;
+  }
+  ul {
+    margin-left: 0;
+    li {
+      font-size: 0.6em;
+      list-style: none;
+      border: none;
+
+    }
+  }
 }
 
-section.directory img {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 20%;
-  float: left;
-  margin-right: 3.44828%;
-  margin-top: 4%;
-  padding-left: 2.5%;
-}
-
-section.directory article.person {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 95%;
-  float: left;
-  margin: 2.5%;
-}
-
-section.directory h4,
-section.directory h5,
-section.directory h6,
-section.directory ul {
-  font-family: $openFont;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 65%;
-  float: right;
-  margin-right: 0;
-  border: none;
-  line-height: 1.3;
-}
-
-section.directory ul {
-  margin-left: 0;
-}
-
-section.directory ul li {
-  /* color: red; */
-  font-size: 0.6em;
-}
-
-section.directory h4 {
-  font-weight: bold;
-  font-size: 0.9em !important;
-  /* padding-bottom: .2em;  */
-}
-
-section.directory h5 {
-  font-size: 0.7em;
-  padding-bottom: 0.5em;
-}
-
-section.directory h6 {
-  font-size: 0.6em;
-  font-weight: 600;
-}
-
-section.directory ul li {
-  list-style: none;
-  border: none;
-}
 
 .people h3 {
   padding: 0.2em 0;
