@@ -4883,6 +4883,9 @@ img.fit {
     background-color: unset;
   }
 }
+.content .eventsection#eventSummary p {
+  font-size: 0.85em;
+}
 .content div.caption {
   padding-left: 20px;
 }
