@@ -1,8 +1,445 @@
+
+-
+  name: Rami Al-Horani
+  active: true
+  origin: Xavier University
+  image: RAl-Horani.jpg
+  project_title: Inhibition of Factor XIIIa by Sulfonated Glycosaminoglycan Mimetics as Potential Avenue to Novel Anticoagulants
+  mentors:
+    -
+      name: Rinku Majumder
+      origin: LSUHSC-NO
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2019 - August 18, 2020
+    -
+      name: Startup Project
+      period: May 1, 2018 - April 30, 2019
+  abstract: |
+      Venous thromboembolism (VTE) remains a major public health crisis. VTE is the third most common cardiovascular disease and annually affects about 1 million people in the US. VTE is responsible for more than 100,000 annual deaths in the US. Furthermore, a 2-way link between VTE and cancer has also been confirmed. Patients with cancer have at least 4-fold increased risk for VTE in comparison with patients without cancer. Nevertheless, clinically used anticoagulants are plagued with a number of drawbacks including the life-threatening risk of internal bleeding. New approaches to safely prevent and/or treat VTE are highly clinically significant. Factor XIIIa (FXIIIa) is a transglutaminase procoagulant that is different from all other physiologic procoagulants which are serine proteases. This unique biochemical aspect of FXIIIa has been under investigation in the context of VTE mechanism. Venous thrombi from FXIII-deficient mice were found to be significantly smaller in size. Various studies also suggested that specific FXIIIa polymorphism provides a moderate protection against VTE and that heterozygous FXIII-deficient mice do not show signs of excessive bleeding. Therefore, FXIIIa may serve as a potential therapeutic target to develop a new effective treatment for VTE that does not significantly increase the bleeding risk. In vitro experiments show that treating normal human blood with a transglutaminase active site inhibitor dose-dependently increases RBC extrusion from contracting clots and reduces clot size. Yet, it remains unclear whether FXIIIa inhibition is a viable approach for anticoagulation in vivo. At present, these studies are hindered, in part, by the lack of specific FXIIIa inhibitors. In fact, very few FXIIIa inhibitors have been reported thus far, most of which are not selective as they target the thiol-containing active site. Thus, I have proposed sulfonated glycosaminoglycan (GAG) mimetics as a platform to discover and subsequently rationally design FXIIIa inhibitors. These GAG mimetics are projected to potently and selectively inhibit FXIIIa through allosteric modulation, a mechanism often exploited by nature to achieve specific regulation. In preliminary studies, I discovered two sulfonated GAG mimetics that inhibit FXIIIa with micromolar potencies. Not only that, but these two molecules also inhibited FXIIIa-mediated polymerization of fibrin(ogen) which is one of the physiologic functions of human FXIIIa. Molecular modeling studies projected a plausible binding site for these molecules on FXIIIa. Therefore, in this proposal, I specifically aim to use a multidisciplinary approach to further establish the principles of effective and selective inhibition of FXIIIa by sulfonated GAG mimetics. I will synthesize an advanced library of sulfonated GAG mimetics and evaluate their biochemical, biophysical, and biological aspects to determine their anticoagulant potentials. The long-term goal of research in this area is to develop potent and specific inhibitors of FXIIIa so as to 1) enhance our understanding of FXIIIa contribution to the whole coagulation physiology and pathology and 2) investigate an alternative approach to modulate FXIIIa through allostery so as to pave the way to a novel and transforming potent and safe anticoagulant therapy to prevent and/or treat thrombotic disorders.
+-
+  name: Daniel Barnes
+  active: true
+  origin: Southeastern Louisiana University
+  image: DBarnes.jpg
+  project_title: Kinetic Analysis of the Impact of LDH on Cancer and HGPRT Inhibition for Malaria
+  mentors:
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2019 - April 30, 2021
+  abstract: |
+      The key to understanding the core of human health is in understanding the enzymatic mechanisms that underlie illnesses. This proposal seeks the resources to establish research projects aimed at key enzymes in the development of cancer and Malaria. By constructing bacterial hosts for the expression of human enzymes responsible, information regarding differential inhibitors can be uncovered. The expression vectors and hosts constructed through this project will contribute a sustainable supply of enzymes for research as well as provide the potential for mutational analysis of the expressed proteins. Additionally, protein isolation and characterization are excellent tools for instructing undergraduate students in research methodologies and critical thinking skills. Through the LBRN, the PI and students will be able to collaborate with researchers throughout the region and continue to grow through the network.
+-
+  name: Joseph Chaney
+  active: true
+  origin: Xavier University
+  image: JChaney.jpg
+  project_title: Understanding the Role of the Conformational Changes in the Kinesin-5 on Processivity and Inhibition
+  mentors:
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2018 -  August 18, 2020
+  abstract: |
+      Human Kinesin-5, an anticancer drug target, is key to the assembly of the bipolar spindle during mitosis. This research project seeks to define the mechanism of mechanical output by kinesin motor proteins. Our interest is in the neck-linker, a 12-15 residue segment at the N-terminus of kinesin plays an important role in processivity. However, it is not well understood the importance of the conformational change that forms a short β-sheet from a floppy region to its inhibition by anticancer drugs nor its influence on the coil-coil domain, the region necessary for oligomerization. The goal of this project is to determine the effects of substitutions and insertions in the neck-linker of kinesin-5, including human polymorphic variants, on in vitro measurements of catalytic activity and motion and whether the neck-linker controls structural asymmetry and initiation of the coil-coil, necessary for kinesin oligomerization. AIM1: We will insert three residues (DAL) into various places along the neck-linker of dimeric Kinesin-5 construct (Eg5-513) followed by expression and purification of the mutants in a bacterial system. We predict that the loss of the neck-linker will start the result in lower processivity of the chimera as the conformational change. Our experimental readout will be MT gliding by the mutant Kinesin-5. We will quantitate MT-gliding velocities for each mutant Kinesin-5 motor as well as WT Kinesin-5 for control. We expect that perturbations to the individual β-strands will prevent the extension of the central β-sheet by the cover neck bundle and reduce the motility of the motor along MT tracks. The anticipated result is that we expect a loss of interaction between β7 and β10 as a result of the glycine mutations. We anticipate that this will lead to total loss of kinesin motility. We will then test the response to inhibition by current anticancer inhibitor STLC AIM 2: We will generate mutations to the dimeric Kinesin-5 construct (Eg5-513) in β7 (E254G, L255G, V256G, K257G, I258G) by site-directed mutagenesis followed by expression and purification of the mutants in a bacterial system. It has been ignored that the docking of the NL and cover-neck to the motor head coordinates an interaction with β7. We will test the inhibitory effects of these mutations with the inhibitor STC on ATPase activity and processivity. The result of these experiments will provide a framework for understanding the role of the neck-linker as well as the cover neck bundle in Eg5 and may be expended to other kinesins and motor proteins which also exhibit conformational switching.
+-
+  name: Jean Christopher Chamcheu
+  active: true
+  origin: University of Louisiana at Monroe
+  image: JChamcheu.jpg
+  project_title: Role of mTOR and its targeting by fisetin for treating psoriasis
+  mentors:
+  collaborator: Sonika Patial
+  funding:
+    -
+      name: INBRE COBRE Collaborative Project
+      period: 08-01-2019 to 8-18-2020
+    -
+      name: Pilot Project
+      period: 05-01-2018 to 04-30-2019
+  abstract: |
+      The primary objective of this proposal is to validate the critical role of the mTOR and secondary signaling in skin inflammation with emphasis on psoriasis pathogenesis and to test fisetin, a common natural dietary ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects an estimated 3% of the world population3, 4,5 with > 8 million afflicted individuals in the US alone3, 4. Psoriasis etiology is incompletely understood, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune cells and the skin, featuring epidermal hyperplasia, immune cell infiltration, immune-mediators orchestration and skin barrier dysfunction3, 4. The past several decades have recorded a skyrocketing increase in new psoriasis cases, associated with significant decline in patients’ quality of life and an increased risk of arthritis and cardiovascular diseases6. Being multifactorial, curative treatments for mild/moderate psoriasis have proved frustrating and still remain elusive, thus it is unlikely that hitting a single target will effectively control the disease. Thus, there remains a dire need to develop novel and effective mechanisms and target-based strategies for long-term patient benefits. Our preliminary data suggest that amongst multiple signaling networks implicated in psoriasis, the phospho-inositol- 3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR) and MAPK pathways, which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis7, 8. We observed that PI3K/Akt/mTOR signaling is hyperactivated in both human psoriatic and imiquimod (IMQ)-induced murine psoriasis-like skin lesions compared to unaffected tissues7, 8. Likewise, our pilot studies on competitive binding, Kd’s and in-silico docking analyses identified fisetin as a potent dual mTOR kinase inhibitor that physically interacts and competitively binds mTOR and p70S6K1 with binding energies of -7 to -10.5Kcal/mol9. In addition, fisetin alone or in combination with activating agents, induced differentiation in normal human epidermal keratinocytes (NHEKs) and inhibited 1) NHEK proliferation, 2) PI3K/Akt/mTOR activation, 3) mTOR activity, 4) secretion of pro-inflammatory cytokines by NHEKs, peripheral blood mononuclear cells (PBMCs) and a CD4+T activated 3 dimensional (3D) Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that “PI3K/Akt/mTOR and MAPK networks are critical in psoriasis pathogenesis and, fisetin will inhibit the activation of these pathways, suppress proliferation, inflammation and neo-vascularization, and concomitantly induce differentiation to efficiently alleviate psoriasiform disease”.
+-
+  name: Urska Cvek
+  active: true
+  origin: Louisiana State University, Shreveport
+  image: UCvek.jpg
+  project_title: Women's Health in IDEA States
+  mentors:
+    -
+      name: Nadejda Korneeva
+      origin: LSUHSC-S
+    -
+      name: Brian Cornelius
+      origin: Ochsner LSU Health Sciences Center, Shreveport
+  funding:
+    -
+      name: ORWH Maternal Health
+      period: August 1, 2020 – April 30, 2021
+    -
+      name: Translational
+      period: May 1, 2019 - August 18, 2020
+  abstract: |
+      The goal of this research is to design, implement and in the long-term evaluate the application of mobile technology to improve detection of undiagnosed diabetes and pre-diabetes. Specifically, we would like to develop this app that is an innovation on the current available set of apps. We believe that the addition of an app on smart phones in outpatient settings to the current standard practice will lead to improved diagnosis of diabetes and pre-diabetes in these patients.
+-
+  name: Waneene Dorsey
+  active: true
+  origin: Grambling State University
+  image: WDorsey.jpg
+  project_title: Role and Regulation of Autophagy during Pentachlorophenol Exposure
+  mentors:
+    -
+      name: Sanjay Batra
+      origin: SUBR
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2018 - April 30, 2021
+    -
+      name: Pilot Project
+      period: May 1, 2016 - April 30, 2017
+  abstract: |
+      Cancer patients can encounter difficulty and resilience when receiving chemotherapy. It is not that the medication is ineffective, but there are some inherent mechanisms that cause cancer cells to thrive in the presence of anticancer treatment. As a result, the patient's doctor now has to combine several medicines to target the cancer cells. I am investigating the autophagy response, which is a necessary event for recycling old and damaged cell parts. This activity helps the cell maintain its integrity and promotes cell survival. We can say that autophagy is a friend to the cell. On the other hand, autophagy becomes an enemy because it establishes an adaptation mechanism for cancer cells and causes them to thrive in the presence of chemotherapy. Therefore, understanding autophagy mechanisms associated with the progression of cancer can be helpful in finding new therapeutic medicines. In my research, I am using human lung cells and mouse liver cells to expose them to an organochlorine fungicide called pentachlorophenol (PCP). I am using this approach because 90% of all cancer cases are caused by chemical exposure. Exposure to PCP will cause an autophagy response in the lung cells and liver cells. Upon exposure to these cells, I am able to observe the various expressions of autophagy proteins such as Beclin-1, an essential initiator of autophagy, and p62/SQSTM, an autophagy marker. These findings will be helpful in preparing efficient chemotherapy outcomes for cancer patients.
+-
+  name: Srinivas Garlapati
+  active: true
+  origin: University of Louisiana at Monroe
+  image: SGarlapati.jpg
+  project_title: Mechanism of translation initiation in protozoan parasite Giardia lamblia
+  mentors:
+    -
+      name: Yong-Hwan Lee
+      origin: LSU
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2019 - April 30, 2022
+    -
+      name: Pilot Project
+      period: May 1, 2017 - April 30, 2018
+    -
+      name: Startup Project
+      period: May 1, 2015 - April 30, 2017
+  abstract: |
+      Giardia lamblia is a flagellated protozoan parasite that causes gastrointestinal disease giardiasis in humans and is responsible for major waterborne outbreaks of diarrhea in the United States. Metronidazole (Flagyl) has been the drug of choice for treating giardiasis, however adverse side effects and development of drug resistance strains have necessitated search for new drugs. Translation machinery of Giardia is significantly different from mammals and yeast and hence could serve as a potential drug target. The long-term goal of this project is to understand the mechanism of translation initiation of Giardia.Giardia mRNAs have very short 5'UTRs (0 - 6 nts) and lacks some key translation initiation factors. In mammals and yeast, translation initiation factor eIF4G forms a trimeric complex eIF4F by binding with two proteins, a 5' cap-binding protein eIF4E and RNA helicase eIF4A. Initiation factor eIF4G is a key player in binding pre-initiation complexes to 5' end of mRNA by interacting with eIF3. Homology searches of Giardia genome database have identified homologues for eIF4E and eIF4A but not eIF4G. Therefore, it is not clear as to how pre-initiation complexes are recruited to the mRNA in the absence of eIF4G. Since GleIF4E2 (cap-binding homolog of eIF4E) and GleIF4A (RNA helicase homolog of eIF4A) bind in close proximity to the initiation codon due to short 5'UTRs, we hypothesized that GleIF4E2 and GleIF4A could directly interact with the components of the pre-initiation complex and facilitate its binding to the initiation codon. This hypothesis was supported by our preliminary studies using yeast two hybrid assays that have identified two novel protein-protein interactions; (a) interaction of GleIF4E2 with GleIF2β, a subunit of GleIF2 and (b) interaction of GleIF4A with GleIF3i, a subunit of GleIF3 complex. Both GleIF2 and GleIF3 are key components of pre-initiation complex. These results suggest that the recruitment of pre-initiation complexes to the 5'end of the mRNA may follow a different pathway compared to that of mammals and yeast. The short-term goal is to assess the role of these novel protein-protein interactions in translation initiation of Giardia. In addition, we will examine the composition of GleIF3 complex of Giardia as homologues of several key subunits required for translation initiation in mammals and yeast could not be identified in Giardia genome database. Specific aim #1: To validate protein-protein interactions identified by yeast two-hybrid assays. To validate the interactions observed between the two pairs of proteins in yeast two-hybrid assays, we will use proximity-dependent biotin ligation assays, co-immunoprecipiation (Co-IP) assays and proximity dependent ligation (PLA) assays. Specific aim #2: To investigate the role of protein-protein interactions between GleIF4E2 and GleIF2β in translation initiation. Computational methods (SWISS-MODEL and ZDOCK) will be used to identify amino acid residues of GleIF4E2 involved in interaction with GleIF2β. Site-directed mutagenesis will be performed to alter predicted amino acids to alanine. The mutated GleIF4E2 will be checked for its interaction with GleIF2β using yeast two-hybrid assay. Alternatively, a genetic screen of randomly mutagenized clones of GleIF4E2 will be performed to identify mutants that lack the ability to interact with GleIF2. These mutants will be then further confirmed for their lack of interactions using proximity dependent biotin ligation assay, co-immunoprecipitation assays and PLA assay. The GleIF4E2 mutants that failed to interact with GleIF2β will be overepxressed to test their effect on translation of a reporter gene in Giardia. Specific aim #3: To investigate the role of protein-protein interactions between GleIF4A and GleIF3i in translation initiation. Similar to specific aim #2, to identify amino acids residues of GleIF4A involved in binding to GleIF4A, site-direct mutagenesis and genetic screen of randomly mutagenized clones will be used. The mutants that fail to interact with GleIF3i will be overexpressed to test their effect on translation of a reporter gene in Giardia. In addition, we will determine whether GleIF3i stimulate the ATPase and helicase activity of GleIF4A in vitro. Specific aim #4: To characterize the components of GleIF3 complex from Giardia lamblia. We will affinity purify the GleIF3 complexes from Giardia cells using PTP tagged GleIF3 subunits and identify the components by mass spectrometry. In addition we will perform yeast two hybrid assays to determine the binary interactions between six subunits identified by homology searches of Giardia genome database.
+-
+  name: Seetharama D. Jois
+  active: true
+  origin: University of Louisiana at Monroe
+  image: SJois.jpg
+  project_title: Immunomodulation by plant-based grafted cyclic peptides; Implications in treating chronic inflammation
+  mentors:
+    -
+      name: Gus Kousoulas
+      origin: LSU
+  funding:
+    -
+      name: Translational Project
+      period: May 1, 2019 - August 18, 2020
+    -
+      name: Full Project
+      period: May 1, 2011 - April 30, 2015
+    -
+      name: Pilot Project
+      period: Jan 2, 2008 - April 30, 2011
+  abstract: |
+      Our objective is to use a plant-based peptide template to design stable peptide molecules to modulate the protein-protein interactions (PPI). The designed molecules can be used as a tool to modulate the inflammatory immune response. As a model system, we will use cell adhesion molecular pairs CD2 and CD58 (CD48 in rodents) that help to enhance T cell-antigen-presenting cells (APC) adhesion and thus promote T-cell activation. Our strategy is to design grafted peptides from a CD2 protein epitope that will inhibit protein-protein interactions in the key regions of the CD2-CD58 interactions. The novelty of grafted peptides is that they are chemically, thermally, and enzymatically stable. A multicyclic peptide (SFTIa-DBF) designed inhibits the adhesion between cells that express CD2 and CD58 at nanomolar concentrations. However, the stability of the peptide in vitro and in vivo and its biodistribution are not well understood. The molecular mechanism of signaling by CD2 upon blocking of protein-protein interaction between CD2-CD58 and the release of cytokines has not been studied. The molecular mechanism of the way that inhibition of CD2-CD58 interaction leads to suppression of signaling for cytokines and inflammatory response will also be investigated in cellular assays. As a proof of the usefulness of the peptide, immunomodulatory effects of the designed peptide will be evaluated using an animal model of the inflammatory disease Rheumatoid Arthritis (RA). Our approach is novel in the sense that, instead of antibodies and fusion proteins, the smallest stable framework of the multicyclic peptide (14 amino acids) will be used to block the cell adhesion interactions. To achieve goals, we propose the following specific aims. 1) To evaluate the thermal, enzymatic, and in vivo stability of the designed peptide; 2) To investigate the ability of grafted peptides to suppress inflammatory autoimmune response in DBA/1 mice model. Thus, the designed grafted peptides are new, and present a novel way of treating autoimmune diseases compared to the existing biologic therapies. Hence the project has clinical translational value.
+-
+  name: Devaiah Kambiranda
+  active: true
+  origin: Southern University (Baton Rouge)
+  image: DKambiranda.jpg
+  project_title: Anti-inflammatory effects of ellagitannin metabolites on Electronic Cigarette Vapor Condensate challenged lung epithelial cells
+  mentors:
+    -
+      name: Gus Kousoulas
+      origin: LSU
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2019 - August 18, 2020
+  abstract:
+-
+  name: Paul Kim
+  active: true
+  origin: Grambling State University
+  image: PKim.jpg
+  project_title: Mechanisms underlying nonalcoholic fatty liver disease
+  mentors:
+    -
+      name: Jacqueline Stephens
+      origin: Pennington
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - April 30, 2021
+  abstract: |
+      Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease in the US. The Hallmark of NAFLD is the buildup of excess fat in the liver. NAFLD is a progressive disease that can lead to fibrosis, cirrhosis, and ultimately liver failure [1]. The growing prevalence of NAFLD is associated with the obesity epidemic, but the molecular mechanisms underlying disease development and progression are not fully understood. A growing body of evidence suggests that disruption of endoplasmic reticulum homeostasis, termed ER stress, may play a role in NAFLD pathogenesis [2-4]. ER stress activates the unfolded protein response (UPR), which acts to restore ER homeostasis. Importantly, UPR activation has been reported in the livers of humans with obesity and NAFLD [5-7] and its activation can trigger lipid biosynthesis, insulin resistance, inflammation, and apoptosis, all characteristic features of NAFLD [8,9]. Moreover, murine models of obesity have shown that increasing the amount of saturated fatty acids in circulation or in the liver induces ER stress, apoptosis, and liver injury [10-12]. Taken together, these data suggest that elevated levels of circulating fatty acids, typical of obesity, contribute to NAFLD pathogenesis by inducing ER stress. Given that ER stress results from the accumulation of unfolded proteins in the ER lumen, elevated fatty acid levels may induce ER stress by increasing the load of ER client proteins (i.e. protein synthesis), or decreasing the capacity to process that load (i.e., protein folding or degradation), or both. My pilot project tested the hypothesis that excess saturated fatty acids mediate ER stress by stimulating protein synthesis. We found that in both hepatocyte and rodent models of obesity and NAFLD, excess saturated fatty acids did not alter rates of protein synthesis (manuscript in preparation). This has led to the hypothesis that excess saturated fatty acids mediate ER stress by impairing protein folding or degradation.
+-
+  name: Anup Kundu
+  active: true
+  origin: Xavier University
+  image: AKundu.jpg
+  project_title: Formulation of a targeted nanoparticle system for the treatment of breast cancer
+  mentors:
+    -
+      name: Srikanta Dash
+      origin: Tulane-Mentor
+    -
+      name: Tarun Mandal
+      origin: Xavier-Collab
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2018 - April 30, 2021
+    -
+      name: Pilot Project
+      period: May 1, 2017 - April 30, 2018
+  abstract: |
+      The goal of this proposal is to develop a targeted nanoparticle system for the treatment of breast cancer. Chemotherapy remains one of the major treatment options for metastatic breast cancer; however, acquired resistance to chemotherapeutic agents such as doxorubicin is a major reason for cancer treatment failure. The overexpression of ATP binding cassette (ABC) transporters, including P-gp (ABCB1 gene), multidrug resistance protein (MRP) (ABCC gene) and breast cancer resistance protein (BCRP) (ABCG2 gene) is one of the most common causes of multidrug resistance. Down regulating nuclear expression of MDR (multi-drug resistant) genes (i.e. P-gp, MRP-1, BCRP etc.) by siRNA-encapsulated nanoparticles could increase the delivery of doxorubicin, however, it will be more effective if the particles are selectively targeted to the cancer cells. So, we plan to overcome this problem by developing a targeted nanocarrier delivery system for siRNAs into breast cancer cells. For targeted delivery, Her-2 specific aptamer will be used that will bind specifically to the overexpressed Her-2 receptors on the breast cancer cells. The efficacy of targeted (aptamer-labeled) versus non-targeted (non-aptamer-labeled) delivery of siRNA (to knock-down multidrug resistant genes) by nanoparticles into the breast cancer cells will be examined. The major goal of this proposal is to examine whether silencing the multidrug resistant genes such as P-gp or MRP-1 alone or both together by aptamer-labeled nanoparticles could synergistically enhance the delivery of doxorubicin into breast cancer cells. Our hypothesis is that conjugating nanoparticles with a cancer cell specific aptamer would enhance the knock-down of multidrug resistant genes which will increase the delivery of doxorubicin into breast cancer cells leading to enhanced cellular toxicity and antitumor effect as compared to unconjugated nanoparticles. This hypothesis will be tested by the following two specific aims. Specific Aim I: Formulation of nanoparticle-aptamer conjugates for targeted delivery of siRNAs to enhance the knock-down of multidrug resistant genes in breast cancer cells. Specific Aim II: To determine whether silencing the expression of multidrug resistant genes by aptamer-labeled siRNA nanoparticles could enhance the delivery of doxorubicin into breast cancer cells in culture.
+-
+  name: Georgios Matthaiolampakis
+  active: true
+  origin: University of Louisiana at Monroe
+  image: GMatthaiolampakis.jpg
+  project_title: Novel Gene Delivery System and miRNA treatment against Pancreatic Cancer
+  mentors:
+    -
+      name: Karen Briski
+      origin: ULM
+    -
+      name: Gus Kousoulas
+      origin: LSU
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2019 - August 18, 2020
+    -
+      name: Pilot Project
+      period: May 1, 2018 - April 30, 2019
+    -
+      name: Startup Project
+      period: May 1, 2017 - April 30, 2019
+  abstract:
+-
+  name: David Mills
+  active: true
+  origin: Louisiana Tech University
+  image: DMills.jpg
+  project_title: 3D Printed Nanoclay Enhanced Medical Devices for Reconstruction of Craniofacial Bone Defect
+  mentors:
+    -
+      name: Jennifer Woerner
+      origin: LSUHSC-S Collab
+  funding:
+    -
+      name: Translational Project
+      period: May 1, 2019 - August 18, 2020
+  abstract: |
+      Craniomaxillofacial (CMF) surgeons treat bone defects using autografts, allografts, and even xenografts in an attempt to restore functionality and aesthetic appearance. Metallic biomaterials are also employed in various forms as substitutes for damaged bones, to hold bones together, strengthen tendons and ligaments or attach them to the bone, and replace diseased bone. These materials are also bioinert, possess little biological activity in vivo, with subsequent poor tissue integration, increased incidence of inflammation and infection, and implant loosening and failure due to infection. Further, ions can leach from the implants due to metal wear debris, resulting from corrosion, wear, and attrition from the metallic surfaces. The same degradation processes can lead to the loss of mechanical integrity and robustness, with the implant failing to perform the intended function. 3D printing can be used to create prostheses to replace or repair damaged tissues. Reconstructive surgery can also leverage 3D-printing technologies to develop custom cutting guides, fixation devices, practice models and implanted medical devices to improve patient outcomes. Recent advances in our lab have led to the development of a 3D printing technique able to fabricate an implantable medical device capable of delivering therapeutic drugs (antibiotics, chemotherapeutics, hormones, and steroids) directly to the intended target and then degrade safely in the body. The objective of this research is to fabricate a customized drug-eluting and biodegradable implant (e.g., resorbable bone mesh, screws and plates) using 3D printing technology. Our polymer nanocomposite will couple the treatment of infection while simultaneously encouraging tissue regeneration. The nanocomposite will consist of a polycaprolactone (PCL) and polyethylene oxide (PEO) polymer blend, and a calcium phosphate cement (CPC) enhanced with halloysite nanotubes (HNTs). The PCL/PEO blend will have controlled degradation and will be coupled with HNTs doped with antimicrobials and osteoinductive/osteogenic growth factors (hereafter termed bioactive agents). It can also serve as an orthobiologic. When applied or implanted into bone tissue, it will facilitate disease remediation, osteogenesis, matrix formation, mineralization, and biointegration. This project will produce a novel, cost-effective and customizable medical devices for use in the treatment of developmental or traumatic CMF defects or injuries.
+-
+  name: Siva Murru
+  active: true
+  origin: University of Louisiana at Monroe
+  image: SMurru.jpg
+  project_title: Design, Synthesis and Evaluation of Nitrogen Heterocyclic Compounds for Anti-Cancer Activity
+  mentors:
+    -
+      name: George Stanley
+      origin: LSU
+    -
+      name: Seetharama Jois
+      origin: ULM
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2019 - August 18, 2020
+    -
+      name: Startup Project
+      period: May 1, 2018 - April 30, 2019
+  abstract: |
+      Cancer is one of the most difficult ailments and it became leading causes of death around the world. Anticancer agents that target DNA are generally the most effective agents in clinical use, but they are extremely toxic. Consequently, much effort has been put into finding robust anti-cancer agents that are more selective and less toxic. Along those lines, we recently obtained some interesting preliminary results on anticancer activity of our heterocyclic compounds. Currently we are planning on synthesizing new set of nitrogen heterocycles with different substitution patterns, and evaluate them for anticancer activity. Based on the preliminary results and the rationality of pyrazole moiety with known bioactive molecules, we will design and synthesize a new library of heterocycles with unique substitution patterns and evaluate for anticancer activity using variety of biological assays. The long-term goal of this project is to find novel anticancer agents for lung cancer therapy. In addition to that, we will be developing several synthetic approaches that will ultimately provide new chemical tools for the diverse range of synthetic chemists and biomedical researchers in academia and industry.
+-
+  name: Nektarios Barabutis
+  active: true
+  origin: University of Louisiana at Monroe
+  image: NBarabutis.jpg
+  project_title: Elucidation of the Mechanisms which are involved in the anti-inflammatory action of Hsp90 inhibitors in the vasculature
+  mentors:
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2018 - August 18, 2020
+  abstract: |
+      Inflammation is the main cause of major cardiovascular diseases, including acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). While glucocorticosteroids possess a strong anti-inflammatory activity, their side effects restrict their wide-spread use to only severe circumstances. On the other hand, single-target anti-inflammatory agents (e.g., COX inhibitors) lack serious side effects but are void of broad-spectrum anti-inflammatory activity. Strong anti-inflammatory agents with limited side effects would be of great significance in the prevention and management of cardiovascular disease. Hsp90 inhibitors have already completed Phase I and II trials for cancer and represent an exciting new possibility as clinically useful anti- inflammatory drugs. Vascular endothelium forms a barrier that controls the extravasation of solutes, macromolecules and leukocytes. Endothelial barrier dysfunction (EBD) leads to capillary hyper-permeability, which, in the lung, is a hallmark of acute lung injury (ALI) and of the acute respiratory distress syndrome (ARDS). Frequently, EBD results from the re-arrangement of the actin cytoskeleton, from a cortical architecture to the formation of actin stress fibers that "pull apart" adjacent endothelial cells to increase paracellular permeability. Recent data suggest that Hsp90 inhibitors exert a strong anti - inflammatory activity, and that can protect the endothelium against inflammatory insults; such as LPS. We have recently discovered that the wild type P53 mediates the protective effect of the hsp90 inhibitors in the vasculature. In the current grant application we report our findings on the discovery of new mechanisms by which Hsp90 inhibition protects against the LPS induced barrier dysfunction.
+-
+  name: Matthew Overturf
+  active: true
+  origin: University of Louisiana at Monroe
+  image: MOverturf.jpg
+  project_title: The Effects of Environmental Contaminants on the Development of Neurobehavioral Disorders
+  mentors:
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2018 -  August 18, 2020
+  abstract: |
+      The effects of environmental contaminant (e.g., bisphenol A, organochlorine pesticides, phthalates, etc.) exposure are detrimental to organisms at two major life stages, adult or developing organism. However, there is a lack of understanding to the degree at which maternal transfer of environmental contaminants during pregnancy or even early exposure to these compounds may have on the potential to cause neurobehavioral disorders. Thus, the goal of this project will be to determine if exposure to environmental contaminants early in development or if maternal transfer of contaminants result in neurobehavioral disorders such as those relating to learning ability, emotional distress, and memory. The model organism for these studies will be the zebrafish (Danio rerio). Zebrafish are an ideal model because they are small and robust, cheaper to maintain than mice, and share similar genetic homology to humans. These fish have also been used to assess behavioral abnormalities relating to exposure of environmental contaminants. These compounds will be delivered through either food-borne or water-borne exposures to mimic direct (ingestion) or indirect exposures, respectively. In addition to behavior studies, mechanisms to which the contaminants impair neurobehavioral changes will be assessed to define novel biomarkers for the early onset of neurobehavioral disorders. Results from this study may provide insight into potential adverse effects of environmental contaminants on neurobehavioral changes in humans such as attention-deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), and aggression. In addition, the detection of new biomarkers relating to early onset of neurobehavioral impairments may be identified which can greatly benefit early diagnosis of these disorders.
+-
+  name: Sonika Patial
+  active: true
+  origin: Louisiana State University School of Veterinary Medicine
+  image: SPatial.jpg
+  project_title: Role of mTOR and its targeting by fisetin for treating psoriasis
+  mentors:
+  funding:
+    -
+      name: INBRE COBRE Collaborative Project
+      period: August 1, 2019 - August 18, 2020
+  collaborator: Jean Christopher Chamcheu
+  abstract: |
+      The primary objective of this proposal is to validate the critical role of the mTOR and secondary signaling in skin inflammation with emphasis on psoriasis pathogenesis and to test fisetin, a common natural dietary ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects an estimated 3% of the world population3, 4,5 with > 8 million afflicted individuals in the US alone3, 4. Psoriasis etiology is incompletely understood, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune cells and the skin, featuring epidermal hyperplasia, immune cell infiltration, immune-mediators orchestration and skin barrier dysfunction3, 4. The past several decades have recorded a skyrocketing increase in new psoriasis cases, associated with significant decline in patients’ quality of life and an increased risk of arthritis and cardiovascular diseases6. Being multifactorial, curative treatments for mild/moderate psoriasis have proved frustrating and still remain elusive, thus it is unlikely that hitting a single target will effectively control the disease. Thus, there remains a dire need to develop novel and effective mechanisms and target-based strategies for long-term patient benefits. Our preliminary data suggest that amongst multiple signaling networks implicated in psoriasis, the phospho-inositol- 3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR) and MAPK pathways, which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis7, 8. We observed that PI3K/Akt/mTOR signaling is hyperactivated in both human psoriatic and imiquimod (IMQ)-induced murine psoriasis-like skin lesions compared to unaffected tissues7, 8. Likewise, our pilot studies on competitive binding, Kd’s and in-silico docking analyses identified fisetin as a potent dual mTOR kinase inhibitor that physically interacts and competitively binds mTOR and p70S6K1 with binding energies of -7 to -10.5Kcal/mol9. In addition, fisetin alone or in combination with activating agents, induced differentiation in normal human epidermal keratinocytes (NHEKs) and inhibited 1) NHEK proliferation, 2) PI3K/Akt/mTOR activation, 3) mTOR activity, 4) secretion of pro-inflammatory cytokines by NHEKs, peripheral blood mononuclear cells (PBMCs) and a CD4+T activated 3 dimensional (3D) Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that “PI3K/Akt/mTOR and MAPK networks are critical in psoriasis pathogenesis and, fisetin will inhibit the activation of these pathways, suppress proliferation, inflammation and neo-vascularization, and concomitantly induce differentiation to efficiently alleviate psoriasiform disease”.
+-
+  name: Vonny Salim
+  active: true
+  origin: Louisiana State University-Shreveport
+  image: VSalim.jpg
+  project_title: Probing Biosynthetic Machineries of Anticancer Agents-Producing Plants for Drug Discovery
+  mentors:
+    -
+      name: Urska Cvek
+      origin: LSU-S
+    -
+      name: Xiuping Yu
+      origin: LSUHSC-S
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2019 - August 18, 2020
+  abstract: |
+      Plants have been known as sources of immensely diverse specialized metabolites with substantial medicinal properties. Among the unique phytochemicals are monoterpene indole alkaloids (MIAs), which have been used in chemotherapy treatments. While there is an increasing demand for anticancer drugs, their production still depends on isolation of natural product precursors from medicinal plants. Alternative production of these drugs in microbial systems via metabolic engineering requires comprehensive knowledge of biosynthetic and regulatory machineries in plants. Our research focuses on the elucidation of biosynthetic pathways at the molecular and enzymatic level for more efficient production of cytotoxic compounds used in cancer treatments. The variety of biochemical pathways in MIA-producing plants also results in the diversity of plant natural products that is being investigated for discovery of drugs with new mechanisms of action. Currently, we integrate omics and biochemical approaches to understand biosynthesis of camptothecin, a monoterpene indole alkaloid in the medicinal plant Camptotheca acuminata, as well as other potential bioactive compounds with anticancer properties.
+-
+  name: Omer Soysal
+  active: true
+  origin: Southeastern Louisiana University
+  image: OSoysal.jpg
+  project_title: Development of a proto-type fNIRspectroscopy for brain activity recognition
+  mentors:
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2018 -  August 18, 2020
+  abstract: |
+      Understanding the link between brain function and behavior is crucial to addressing neurological disorders. In this respect, developing tools that can measure the dynamics of the brain's activities plays an important role. This proposal aims to build an fNIR (functional near infrared) signal detection and recording system to be used for brain activity recognition. After developing the fNIR system, the PI will collaborate with researchers in the Department of Kinesiology and Health Studies and the Department of Psychology at Southeastern Louisiana University and Louisiana State University to test the system. In addition, the PI will work closely with undergraduate and graduate students to prepare them for the work force. In this regard, the PI will develop a curriculum that teaches students how to conduct scientific research and translate the outcome of the research into technology. The equipment requested in this proposal will also be used to build a Data Science Research and Technology Lab in the Department of Computer Science and Industrial Technology. The specific aims are: Aim-1: Developing an NIR imaging system to measure brain hemodynamics. Aim-2: Developing a phantom model to simulate the optical properties of a brain structure. Aim-3: Developing a blood circulation simulator. Aim-4: Testing the performance of the system and exploring the effect of parameters. Aim-5: Building a Data Science Research and Technology Lab.
+-
+  name: April Wright
+  active: true
+  origin: Southeastern Louisiana University
+  image: AWright.jpg
+  project_title: Modeling Heterogeneous Data Sources for Time-Scaling Phylogenetic Trees
+  mentors:
+    -
+      name: Jeremy Brown
+      origin: LSU
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2019 - April 30, 2022
+    -
+      name: Pilot Project
+      period: May 1, 2018 - April 30, 2019
+  abstract: |
+      Inference of phylogenetic trees is of interest to researchers in many areas of biology. Phylogenetic trees are used in population-level analyses of evolution and ecology, studies of agriculture, and the study of medicine. Time-scaling of phylogenetic trees allows researchers to put absolute ages on the nodes in a phylogeny. In time-scaling a phylogeny, researchers disentangle the relationship between evolutionary rate and the time since lineages diverged (i.e., an ancestral population became two independent daughter lineages). This allows researchers to test hypotheses about the rate at which evolutionary change accumulates, how lineages diversify, and how phenotypic and genomic features evolve. These analyses, while powerful, are also parameter-rich and complex. While researchers are looking to perform increasingly complicated phylogenetic analyses, datasets are also growing larger and more heterogeneous. Molecular datasets often encompass many loci, if not whole genomes. Time-scaling a phylogeny involves external data sources from which absolute time can be derived. This means that researchers are often incorporating data that address the absolute age of lineages, such as geological features or occurrence records, into these analyses, substantially increasing the complexity of the models needed to describe the data. As a result, researchers are dealing with more and more data, while simultaneously attempting increasingly parameter-rich methods. Ants (Formicidae) are an excellent system to test if recent methodological advancements can be used more widely. There are large molecular, morphological, and age data resources available. Ants display many characteristics analogous to pathogenic evolution, such as periods of rapid lineage accumulation and strong among-lineage variation in their rate of evolution. It is, therefore, possible to test the predictive ability and analytical capability of new methods for modeling heterogeneous data in this system, and to make recommendations of broader applicability.
+-
+  name: Xiaoping Yi
+  active: true
+  origin: Southern University (Baton Rouge)
+  image: XYi.jpg
+  project_title: Apoptosis pathway induced by RES and anticancer drug in 3D culture of prostate cancer cells
+  mentors:
+    -
+      name: Gus Kousoulas
+      origin: LSU
+    -
+      name: Eduardo Martinez-Ceballos
+      origin: SUBR
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2018 - April 30, 2021
+    -
+      name: Pilot Project
+      period: May 1, 2017 - April 30, 2018
+  abstract: |
+      Prostate cancer is the most common cancer among American men. Researchers do not know exactly what causes prostate cancer but, on a basic level, prostate cancer is caused by changes in the DNA of a normal prostate cell. Defects in apoptosis regulation are one main cause of cancer development and may result from overexpression of anti-apoptotic proteins such as inhibitor of apoptosis proteins. Although new treatments for prostate cancer continue to be investigated, no definitive cure has been found yet for the advanced aggressive stages. Resveratrol (RES, trans-3,5,4′ -trihydroxystilbene), a well-known natural polyphenolic phytoalexin present abundantly in red wine and other plants, is a component of Asian traditional medicine used to treat cardiovascular diseases. Recently, RES has gained considerable attention as an anticancer agent. Its potential use in chemoprevention and chemotherapy for various cancer forms relies on its effects on cell growth, apoptosis, angiogenesis, and cancer metastasis. As RES appears to have many anti-tumor effects on different cancer cell types, the molecular basis of these effects needs to be extensively studied using a cell culture model that best resembles the tumor environment in the body. This will allow us to better understand its mechanism of action and its potential use as a coadjuvant drug for established cancer treatments. To address this problem, we hypothesized that RES may be effective in inducing apoptosis by inhibiting/ acting some signaling pathways and represses the activation of drug resistant mechanisms by effective binding some proteins in prostate cancer cells. These hypotheses will be addressed in the experiments of the following Specific Aims: to (1) investigate the molecular mechanism of RES action on the activation of cell apoptotic pathways; (2) to investigate different expression of Cancer stem cell marker genes and identify different signaling molecules and survival molecules; (3) to identify the direct RES protein receptors responsible for its effect on apoptosis and inhibition of anticancer resistant pathways. The results obtained from this project will help us to understand the role of RES and anticancer drug metabolism in chemotherapy resistance but also its importance for the development of new important approaches and also may be applicable to other types of cancer and more importantly may enhance our ability to fight cancer progression.
+-
+  name: William Yu
+  active: true
+  origin: Louisiana State University-Shreveport
+  image: WYu.jpg
+  project_title: Medical Imaging by Enhanced Fluorescent Nanoclusters
+  mentors:
+    -
+      name: Shile Huang
+      origin: LSUHSC-S
+    -
+      name: Urksa Cvek
+      origin: LSU-S
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2015 - August 18, 2020
+  abstract: |
+      Super small metal particles (<2nm, thereinafter referred as nanoclusters) represent an emerging new type of alternative fluorescent probes due to their excellent biocompatibility, tunable emission, large Stokes shift, and long fluorescence lifetime. However, the low quantum yield being the most serious weakness limits their practical applications. The goal of this project is to develop a hybridized hierarchical nanostructure which contains metal particles of 20_50nm (thereinafter referred as nanoparticles) and small metal nanoclusters to greatly enhance the fluorescence emission of the small metal nanoclusters by coupling surface plasmon resonance of the big metal nanoparticles. This project focuses on increasing the fluorescence quantum yield of metal nanoclusters for bioimaging applications by utilizing metal surface plasmon resonances through controlling the morphology and size of the big metal nanoparticles, as well as the distance between the nanoparticles and the nanoclusters. This study investigates the mechanism of fluorescence coupling with surface plasmon resonance, establishes a basic theoretical understanding for solving the low quantum yield issue of metal nanoclusters. The research outcomes will help to develop efficient targeting fluorescent nanoprobes for imaging and diagnosis of tumors for medical application.
+-
+  name: Kun (Karen) Zhang
+  active: true
+  origin: Xavier University
+  image: KZhang.jpg
+  project_title: Detecting Race-Relevant Molecular Biomarkers with Clinical Utilities Using Multi- Omics Data Across Tumor Types
+  mentors:
+    -
+      name: Erik Flemington
+      origin: Tulane
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2018 - April 30, 2021
+    -
+      name: Pilot Project
+      period: May 1, 2010 – April 30, 2012
+  abstract: |
+      Significant progress has been achieved to date in our understanding of the role of socioeconomic factors in cancer racial disparities. Ever-increasing evidence is now suggesting that a number of intrinsic molecular factors specific to malignant cells must also partly account for the observed health inequalities. Although research has begun to explore the biological bases of cancer disparities, most existing work is limited to several common cancer types and does not methodically explore whether the observed genetic and molecular differences represent the clinically-meaningful racial disparities in other fatal human cancers. Moreover, massive amounts of multi-faceted omics data generated by high-throughput technologies have not been fully utilized and well integrated with clinical data to search for race-specific molecular characteristics, biomarkers or even drug targets. The goal of this LBRN full project is therefore to address these significant limitations by establishing a pan-cancer, race-relevant assemblage of mutation spectra, DNA methylation patterns and gene regulation network modules, some of which will hold significance and promise for clinical utility, via novel algorithm, pipeline and database development. To this end, we plan to accomplish the following specific aims: 1). To elucidate race-specific genetic variations by correlating somatic mutations in tumor genomes with patient race and/or patient survival via a novel cancer-driver-gene mutation based clustering algorithm; 2). To reveal race-specific epigenetic alterations by linking tumor DNA methylation to patient race and/or patient survival via a hybrid Gaussian Mixture Model; 3) To divulge race-specific differences in gene (and microRNA) expression by associating gene expression regulation in tumor cells with patient race and/or patient survival by a unique pipeline; and 4) To validate the identified biomarkers for prostate cancer using human specimens. Moreover, we will implement a database for the pinpointed biomarkers, facilitating cancer researchers to interrogate how multiple-level molecular variations may alter gene functions in different cancers and races. A set of efficient and powerful analytical tools for predicting patient outcomes and analyzing health disparities in cancer will be also made publicly available as open source software.
+-
+  name: Jamie Newman
+  active: true
+  origin: Louisiana Tech University
+  image: JNewman.jpg
+  project_title: Comparing Treatment of Adipose Stem Cells for the Differentiation of Clinically Relevant Cells
+  mentors:
+    -
+      name: Bruce Bunell
+      origin: Tulane University
+    -
+      name: Jeff Gimbel
+      origin: Tulane University
+  funding:
+    -
+      name: Translational
+      period: May 1, 2019 - August 18, 2020
+
+    -
+      name: Full Project
+      period: May 1, 2015 - April 30, 2018
+  abstract: |
+      Human adipose-derived stem cells are the easiest adult stem cells to access, harvest, and isolate, providing the largest supply of autologous stem cells for clinical application1–4. As stem cells, hASCs have the ability to self-renew, differentiate, and suppress inflammation. These cells are being used along with other components of the stromal vascular fraction (SVF) to treat autoimmune conditions, inflammatory diseases, and specific injuries. In clinical trials, these cells are being isolated and expanded to treat a similar set of health conditions with a more targeted interest in regeneration. In addition to these on-going clinical studies there is also research being performed to generate tissue patches that can aid in the repair of significant injury to tissue including heart and skeletal muscle. With the interest in using isolated stem cells in cell-based treatments and in areas of tissue engineering and regenerative medicine it is critical that we find efficient and clinically relevant methods for maintaining and differentiating stem cells. To accomplish this, the proposed project brings together an interdisciplinary, university-industry collaborative team consisting of investigators from Biological Sciences and Biomedical Engineering at Louisiana Tech University, Medicine at Tulane University, and LaCell LLC, a Louisiana based biotechnology company that focuses on promoting a wider usage of primary human stromal/stem cell cultures as a more reliable, clinically relevant stem cell source.
 -
   name: Sanjay Batra
   active: false
   origin: Southern University and A&amp;M College, Department of Environmental Toxicology
-  image: batra.jpg
+  image: SBatra.jpg
   project_title: HDACs regulate inflammatory responses against microbial toxins & CSE exposure
   funding:
     -
@@ -17,7 +454,7 @@
   name: Shuju Bai
   active: false
   origin: Southern University and A&amp;M College, Department of Computer Science
-  image: bai.jpg
+  image: SBai.jpg
   project_title: Modeling Protein-Substrate Interactions in the Lipoxygenase Family Using Computational Approaches
   mentors:
     -
@@ -39,9 +476,9 @@
 -
   name: Kui Chen
   active: false
-  origin: Louisiana State University in Shreveport, Department of Chemistry &amp; Physics
-  image: chen.jpg
-  project_title: Nanosensors for Reactive Oxygen Species and their Roles in Carcinogenesis
+  origin: "Southern University and A&amp;M College, Department of Biological Science"
+  image: KChen.jpg
+  project_title: Hdacs Regulate Inflammatory Responses Against Microbial Toxins &amp; Cse Exposure
   mentors:
     -
       name: Marcia E. Newcomer, Ph.D.
@@ -61,7 +498,7 @@
   name: Alan Chiu
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
-  image: chiu.jpg
+  image: AChiu.jpg
   project_title: Adaptive Coupled Neural System Model for Hippocampal Function Restoration
   mentors:
     -
@@ -82,9 +519,9 @@
 
 -
   name: Cecily DeFreece
-  image: defreece.jpg
-  active: true
-  origin: Xavier University
+  image: CDefreece.jpg
+  active: false
+  origin: Xavier University, Department of Biology
   project_title: Characterizing inhibitors of the mutagenic retrotransposon LINE1 endonuclease
   abstract: |
     There is compelling evidence that the endonuclease (EN) encoded by the retrotransposon Long interspersed element 1 (LINE1) is a powerful causative agent of genetic instability. Expression of the LINE1 EN has been demonstrated to induce DNA double strand breaks (DSBs), damage that is known to be mutagenic and induce diseases such as cancer. In addition, the increased mobilization and expression of LINE1 elements has been observed in germ line, and in some somatic and tumor tissues. However, no studies have shown direct evidence that LINE1-induced DNA DSBs contribute to the induction or progression of diseases because there is currently no tool to specifically limit LINE1 EN activity in cells. Traditional techniques such as RNA knockdown are not feasible due to the large number of LINE1 elements and the location of some of the elements near or in coding regions of the genome. The best tool for deciphering the role of LINE1 EN in genetic instability and disease would be a potent and specific inhibitor of its activity, but no such inhibitor has been discovered yet. In our laboratory, we have been working on screening small molecules from a NIH library. Structural analogs of a promising molecule were made, and we have thus far identified three candidates that inhibit the activity of the lINE1 EN in vitro, have limited cellular toxicity and are able to reduce LINE1 mobilization in HeLa cells. However, further characterization in different types of cells needs to be done before the general use of these inhibitors in the study of LINE1 induced disease in animals.
@@ -94,7 +531,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - Present
+      period: May 1, 2015 - April 30, 2018
     -
       name: Full Project
       period: May 1, 2014 - April 30, 2015
@@ -114,7 +551,7 @@
   name: June Feng
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
-  image: feng.jpg
+  image: JFeng.jpg
   project_title: Understanding the Molecular Mechanism of Alzheimer's Disease - Quantitative Proteomics of Oxidatively Modified Proteins using iTRAQ Analysis and a Novel Proteomic Reactor
   mentors:
     -
@@ -128,11 +565,12 @@
       origin: Louisiana State University, Department of Chemistry
   funding:
     -
-      name: Pilot Project
-      period: May 1, 2009 – April 30, 2010
-    -
       name: Project R3
       period: May 1, 2010 - April 30, 2012
+
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
   abstract: |
     Alzheimer's Disease (AD), the most common form of dementia in the elderly, may manifest as neuropathological changes and cognitive decline long before it is diagnosed. Oxidative stress induced by Reactive Oxygen Species (ROS) has been implicated as a contributing factor to Alzheimer's disease. ROS attack on proteins can lead to protein-bound carbonyl by oxidation of the amino acid side group. Protein carbonyl formation is increased in severely affected regions of the AD brain and may be an early event in the neurodegenerative process. This is considered a marker of oxidative stress in Alzheimer's disease. Although carbonylated proteins have been strongly implicated in the aging brain and pathogenesis of AD, the identities of specific protein targets of oxidative damage remain largely unknown.
 
@@ -142,7 +580,7 @@
   name: Ann Findley
   active: false
   origin: Univeristy of Louisiana at Monroe, Department of Biology
-  image: findley.jpg
+  image: AFindley.jpg
   project_title: Acquisition of Real-Time PCR and Gel Documentation Systems for ULM Biology
   funding:
     -
@@ -151,28 +589,12 @@
   abstract: |
     This shared equipment proposal submitted by ULM School of Sciences faculty represents a long-standing commitment among these biomedical research-active faculty to cooperate in the purchase and usage of high- end laboratory instrumentation. Indeed, we are fully cognizant of the fact that at a PUI the size of ULM, faculty research success is often critically tied to personal flexibility both in shared equipment usage schedules and in the selection of actual research problems that are pursued. The development of a common molecular biology equipment space has involved the concerted effort of all stakeholders and has resulted in the proposal of multiple novel research projects. As an example, we can cite ULM’s involvement as a Cohort I member of the HHMI SEA PHAGES program. Although neither of the faculty initially responsible for this program had a background in bacteriophage isolation and genome annotation, both recognized the unique opportunity afforded by the program’s goal of engaging beginning students in the research process. Our participation not only benefitted multiple student participants but has also resulted in a number of M.S.-level thesis projects, and faculty- and student-authored research papers. Our involvement has also elevated the visibility of ULM, in general, and the biology program specifically, and has resulted in our students being actively recruited by graduate and professional programs alike. ULM would not have had the opportunity to capitalize on the SEA PHAGES project if it were not for the availability of several previously-acquired shared equipment resources including a gel documentation system, adequate DNA gel electrophoresis equipment, large-capacity shaking incubators, and basic PCR units. Building upon this experience, we have continued to pursue additional funding opportunities to acquire shared equipment resources that can positively impact and grow the biomedical research presence within the School of Sciences. The RT-PCR and Gel Documentation systems requested in the current proposal represents the next step in the upgrade and further development of our shared equipment resources.
 
--
-  name: Srinivas Garlapati
-  active: true
-  origin: University of Louisiana at Monroe, School of Sciences
-  image: garlapati.jpg
-  project_title: Mechanism of translation initiation in protozoan parasite Giardia lamblia
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2017 – April 30, 2018
-    -
-      name: Startup Project
-      period: May 1, 2015 – April 30, 2017
-  abstract: |
-    <i>Giardia lamblia</i>, a flagellated protozoan parasite, is the causative agent of gastrointestinal disease giardiasis in humans and is responsible for major waterborne outbreaks of diarrhea in the United States. Metronidazole has been the drug choice for treating the disease, however adverse side effects and the development of drug resistance strains have necessitated the search for new drugs. Preliminary observations have indicated that Giardia mRNAs have very short 5’UTRs and that translation initiation in Giardia occurs via direct ribosome binding, without the elaborate transcript scanning process that is typical in higher eukaryotes. In yeast and mammals, translation initiation factor eIF4G forms a trimeric complex eIF4F by binding with two other proteins, a 5’ cap-binding protein eIF4E and a ATP-dependent RNA helicase eIF4A and eIF4G is a key player in binding pre- initiation complexes to 5’end of mRNA. However, homology based searches of Giardia genome database have identified eIF4E and eIF4A homologs but failed to identify a homolog for eIF4G. It is not clear as to how pre-initiation complexes are recruited to the mRNA in the absence of a key initiation factor eIF4G. Since, GleIF4E2, a cap-binding homolog of eIF4E, binds in close proximity to the initiation codon, it is hypothesized that GleIF4E2 interacts with the components of the pre-initiation complex and facilitates direct binding of the pre-initiation complex to initiation codon. We will use two complementary approaches to identify the GleIF4E2 interacting proteins in the pre-initiaition complex. The proteins will be purified by these two approaches will be identified by mass spectrometry. The interaction of GleIF4E2 with identified proteins will be validated by co-immunoprecipitation, GST-pull down assays and yeast-two hybrid analysis. Characterizing the GleIF4E2 interacting proteins will help us understand the process of translation initiation in Giardia. Although scanning mechanism is absent in Giardia, presence of eIF4A homolog GleIF4A in Giardia suggests that it has a role in translation initiation. We will investigate the role of GleIF4A in translation by knocking down the gene expression and using eIF4A inhibitors hippuristionl and pateamine A.
-
 
 -
   name: Rebecca Giorno-McConnell
-  origin: Louisiana Tech University
-  image: giorno.png
-  active: true
+  origin: Louisiana Tech University, Biological Sciences & Center for Biomedical Engineering and Rehabilitation Sciences
+  image: RGiorno.jpg
+  active: false
   project_title: "Spore outer structures: Contribution to germination heterogeneity"
   abstract: |
     Bacillus spp. and Clostridium spp. form a specialized, dormant cell type called a spore, during a multistep differentiation process initiated in response to starvation. Multiple diseases from these two genera (such as anthrax and antibiotic-associated diarrhea) begin with internalization of a spore and can have deadly outcomes (34).  Spores are resistant to many common disinfection processes making them problematic for re-infection as well as infecting new individuals.  Although the spore is the etiological particle, the spores must break their dormant state through a process called germination and resume active metabolism to initiate an infection.  One possible complication for inhalational anthrax infections is that dormant spores can be isolated from animals’ lungs weeks after exposure (20, 31).  For Clostridium difficile infections, dormant spores in the colon can germinate and cause disease after antibiotic treatment to a patient. We seek to understand the roles of two spore structures in germination: the exosporium (which encases the spore) and the coat (which lies beneath). Previously, we had shown that mutations in the Bacillus anthracis exosporium can alter the ability of spores to germinate either positively or negatively (17, 18). Others have shown that the exosporium influences spore adherence to lung epithelial cells as well as persistence in mouse lungs (7, 25).  In addition, C. difficile spore surface proteins are required for adherence to Caco-2 cells (a human epithelial colorectal adenocarcinoma cell line) (44).  These phenotypes illustrate the role of the spore coat and exosporium in germination, persistence and adherence which are required steps for infections.
@@ -196,8 +618,8 @@
 -
   name: Chris R. Gissendanner
   active: false
-  origin: ULM College of Pharmacy, Department of Basic Pharmaceutical Sciences
-  image: gissendanner.jpg
+  origin: University of Louisiana at Monroe, College of Pharmacy, Department of Basic Pharmaceutical Sciences
+  image: CGissendanner.jpg
   project_title: NR4A Regulation of Organ Morphogenesis
   mentors:
     -
@@ -214,7 +636,7 @@
   name: Kinesha Harris
   active: false
   origin: Southern University and A&amp;M College
-  image: harris.png
+  image: KHarris.png
   project_title: Identification and Characterization of Kola Acuminate (Bizzy nut)-Specific Biomarkers for Prostate Cancer Prevention
   mentors:
     -
@@ -233,7 +655,7 @@
 -
   name: Thomas Huckaba
   origin: Xavier University of Louisiana, Department of Biology
-  image: huckaba.jpg
+  image: THuckaba.jpg
   active: false
   project_title: Mechanistic analysis of KifSA mutations that cause hereditary spastic paraplegia
   abstract: |
@@ -266,13 +688,13 @@
 -
   name: Keith Jackson
   active: false
-  image: jackson.jpg
-  origin: University of Louisiana at Monroe
+  image: KJackson.jpg
+  origin: University of Louisiana at Monroe, College of Pharmacy, School of Basic Pharmaceutical and Toxicological Sciences
   mentors:
     -
       name: Joseph Francis
       origin: LSU Vet School
-  project_title: Role of heme oxygenase in the renal control of hypertension
+  project_title: Role Of Heme Oxygenase In The Renal Control Of Hypertension
   abstract: |
     The proposed studies in this LBRN proposal will investigate the renal functional significance of the heme-heme oxygenase (HO)-carbon monoxide (CO) system during recurrent insulin-induced hypoglycemia (RIIH). HO catalyzes the conversion of heme to iron, biliverdin and CO. Biliverdin is rapidly reduced to bilirubin, which is a major antioxidant in mammalian systems. CO inhibits vascular smooth muscle cell growth and apoptosis, relaxes vascular smooth muscle, and promotes diuresis. Two major HO isozymes have been identified: HO-1 is an inducible heat shock protein (HSP32), while HO-2 is constitutive.
 
@@ -293,7 +715,7 @@
   name: Amal Khalil Kaddoumi
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
-  image: kaddoumi.png
+  image: AKaddoumi.png
   project_title: Targeting Beta Amyloid Clearance as Therapeutic Approach for Alzheimer's Disease
   mentors:
     - name: Jeffrey Keller, PhD.
@@ -313,9 +735,9 @@
 
 -
   name: Hye-Young Kim
-  active: true
-  image: kim.jpg
-  origin: Southeastern Louisiana University
+  active: false
+  image: HKim.jpg
+  origin: Southeastern Louisiana University, Department of Chemistry and Physics
   mentors:
     -
       name: Jacqueline Stephens
@@ -330,35 +752,10 @@
       period: May 1, 2015 - April 30, 2018
 
 -
-  name: Paul Kim
-  active: true
-  image: pkim.jpg
-  origin: Grambling State University
-  mentors:
-    -
-      name: Jacqueline Stephens
-      origin: Louisiana State University
-  project_title: Mechanisms underlying nonalcoholic fatty liver disease
-  abstract: |
-    Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease in the US. The Hallmark of NAFLD is the buildup of excess fat in the liver. NAFLD is a progressive disease that can lead to fibrosis, cirrhosis, and ultimately liver failure [1]. The growing prevalence of NAFLD is associated with the obesity epidemic, but the molecular mechanisms underlying disease development and progression are not fully understood. A growing body of evidence suggests that disruption of endoplasmic reticulum homeostasis, termed ER stress, may play a role in NAFLD pathogenesis [2-4].
-
-    ER stress activates the unfolded protein response (UPR), which acts to restore ER homeostasis. Importantly, UPR activation has been reported in the livers of humans with obesity and NAFLD [5-7] and its activation can trigger lipid biosynthesis, insulin resistance, inflammation, and apoptosis, all characteristic features of NAFLD [8,9]. Moreover, murine models of obesity have shown that increasing the amount of saturated fatty acids in circulation or in the liver induces ER stress, apoptosis, and liver injury [10-12]. Taken together, these data suggest that elevated levels of circulating fatty acids, typical of obesity, contribute to NAFLD pathogenesis by inducing ER stress.
-
-    Given that ER stress results from the accumulation of unfolded proteins in the ER lumen, elevated  fatty acid levels may induce ER stress by increasing the load of ER client proteins (i.e. protein synthesis), or decreasing the capacity to process that load (i.e., protein folding or degradation), or both. My pilot project tested the hypothesis that excess saturated fatty acids mediate ER stress by stimulating protein synthesis. We found that in both hepatocyte and rodent models of obesity and NAFLD, excess saturated fatty acids did not alter rates of protein synthesis (manuscript in preparation). This has led to the hypothesis that excess saturated fatty acids mediate ER stress by impairing protein folding or degradation.
-
-  funding:
-    -
-      name: Full Project
-      period: May 1, 2017 - April 30, 2020
-    -
-      name: Pilot Project
-      period: May 1, 2015 - April 30, 2016
-
--
   name: Yong-Yu Liu
   active: false
   origin: University of Louisiana at Monroe, College of Pharmacy
-  image: liu.jpg
+  image: YLiu.jpg
   project_title: Epigenetic Effects of Ceramide Glycosylation and Drug-Resistant Cancer Stem Cell
   mentors:
     -
@@ -375,19 +772,22 @@
   name: Elahe Mahdavian
   active: false
   origin: Louisiana State University in Shreveport, Department of Computer Science
-  image: mahdavian.jpg
-  project_title: Development of Novel Anti-Cancer Agents
+  image: EMahdavian.jpg
+  project_title: Combination Cancer Therapeutics Based on Fusarochromanone
   mentors:
     -
       name: Christopher Kevil, Ph.D.
       origin: LSU Health Sciences Center in Shreveport, Department of Molecular and Cellular Physiology
   funding:
     -
+      name: Translational Project
+      period: May 1, 2018-	April 30, 2019
+    -
+      name: Full Project
+      period: May 1, 2010 - April 30, 2015
+    -
       name: Pilot Project
       period: May 1, 2009 – April 30, 2010
-    -
-      name: Project R7
-      period: May 1, 2010 - April 30, 2015
   abstract: |
     The primary goal of this research is to develop novel anti-cancer agents based on fusarochromanone (FC101a), a natural mycotoxin with potent anti-angiogenic and direct anti-tumor activity. Like most other bioactive natural compounds, the potency of FC101a is compromised in-vivo, suggesting rapid metabolism and/or poor bioavailability and distribution. Dr. Mahdavian has expertise in the synthesis of flavonoids and the derivatization of chroman compounds, and she is working together with Drs. Clifford and Kevil to evaluate the mechanism of this compound’s biological activity. Subsequent investigations will include synergistic effects of FC101a and alpha-TAM, a mitochondrial-targeted anti-cancer compound (mitocan) in a liposomal formulation. Like FC101a, alpha-TAM demonstrates both anti-angiogenic and direct anti-tumor activity, but through a different biological mechanism.
 
@@ -397,7 +797,7 @@
   name: Eduardo Martinez-Ceballos
   active: false
   origin: Southern University and A&M College, Department of Pathobiological Science
-  image: martinez.jpg
+  image: EMartinez.jpg
   project_title: Regulation of Mouse ES Cell Differentiation into Neurons by Hoxa1
   mentors:
     -
@@ -405,11 +805,11 @@
       origin: Louisiana State University, Department of Pathobiological Science
   funding:
     -
-      name: Pilot Project
-      period: May 1, 2009 – April 30, 2010
-    -
       name: Project R8
       period: May 1, 2010 - April 30, 2015
+    -
+      name: Pilot Project
+      period: May 1, 2009 – April 30, 2010
   abstract: |
     The long-term goal of this project is to elucidate and characterize the molecular mechanism by which the Hoxa1 transcription factor directs the differentiation of embryonic stem cells into neurons. Expression of the Hoxa1 gene in cells and tissues can be activated by retinoic acid (RA), a derivative of vitamin A. Inactivation of both alleles of the Hoxa1 gene in mice results in numerous developmental defects, including hindbrain deficiencies and abnormal skull ossification, and ultimately, in neonatal death. In humans, truncating mutations of the HOXA1 gene have been associated to autism susceptibility. This project will characterize the function of Hoxa1 during the RA-induced differentiation of mouse embryonic stem (ES) cells grown in suspension as embryoid bodies (EBs). We hypothesize that RA can induce the differentiation of mouse ES cells into all three germ layers and that the role of Hoxa1 is to promote neuronal cell differentiation by repressing endodermal and/or mesodermal cell lineages. We will test this hypothesis with the following specific aims: Aim 1 will employ retinoic acid receptor (RAR) agonists to determine the mechanism of RA-induced expression of Hoxa1 in EBs; Aim 2 will characterize the role of Hoxa1 as a repressor of endodermal differentiation and as an inducer of neuronal gene expression; Aim 3 will characterize the role of RA isomers during the differentiation of ES cells into neurons. The results obtained from these studies may result in novel differentiation strategies for the generation in culture of homogeneous neuronal cell populations. Because the results obtained using our murine system can be applied to human cells, the knowledge obtained from this project will have an important vertical impact on the treatment of spinal cord or brain injuries in humans.
 
@@ -417,7 +817,7 @@
   name: Harris McFerrin
   active: false
   origin: Xavier University of Louisiana, Department of Biology
-  image: mcferrin.jpg
+  image: HMcferrin.jpg
   project_title: Inhibition of HSV-1 Associated Ocular Neovascularization by Antiangiogenic Agents
   mentors:
     -
@@ -441,7 +841,7 @@
   name: Teresa Murray
   active: false
   origin: Louisiana Tech University, Department of Biomedical Engineering
-  image: murray.jpg
+  image: TMurray.jpg
   project_title: Newly discovered neural receptor's role in Aβ1-42 pathogenesis of Alzheimer's disease
   mentors:
     -
@@ -459,10 +859,9 @@
 
 -
   name: Subramanyam Murthy
-  active: true
-  image: murthy.jpg
+  active: false
+  image: SMurthy.jpg
   origin: Southern University and A&M College
-  image: murthy.jpg
   project_title: DPP4 inhibitors in combating the effects of homocysteine and cholesterol
   mentors:
     -
@@ -471,7 +870,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2015 - April 30, 2018
+      period: May 1, 2015 - April 30, 2019
 
   abstract: |
     Incretins are gut hormones secreted from enteroendocrine cells into the blood rapidly following ingestion of food, and are known to regulate insulin secretion. The two known incretins are glucose-dependent insulinotropic peptide (GIP) and glucagon-like peptide-1 (GLP-1). Both incretins are rapidly inactivated by dipeptidyl peptidase 4 (DPP4). The GLP agonists and DPP-4 inhibitors are drugs that augment the incretin system representing a novel class of anti-hyperglycemic agents which also have been shown to elicit pleotropic effects such as improvement of hepatic inflammation and hepatosteatosis, insulin resistance, help cardiac health, weight loss and induce satiety. Hypercholesterolemia and hyperhomocysteinemia (HHcy) are among the widely documented risk factors for the development and progression of atherosclerosis and cardiovascular diseases (CVDs). Homocysteine (Hcy), an intermediate in the metabolism of the essential amino acid methionine (Met) has been implicated in various age related pathologies such as heart disease, Alzheimers disease, osteoporosis, stroke, and end stage renal disease. Hyperhomocysteinemia can result from deficiencies of vitamins like folate, B6 and B12 or enzyme defects (Met metabolizing) or dietary excess of Met. High serum Cholesterol (Chol) or hypercholesterolemia that contributes to the development of atherosclerosis is also considered to be caused due to inflammatory processes. Among others, increased levels of Chol are known to impair endothelium-dependent vasodilatation, exaggerate the pressor response to stress and contribute to blood pressure increase. Interestingly, both Met and Chol are rich in meat and dairy based products (extensively consumed in US and components of staple diet), and are invariably consumed together. Therefore, studying the effects of a dietary combination of Met and Chol is very important especially in the context of nutrition and atherosclerosis. The DPP4 inhibitors reduce post-prandial glycemia via inhibition of the degradation of GLP-1. In addition to their antidiabetic action, DPP-4 inhibitors have pleiotropic cardiovascular protective effects. Feeding rats with diets rich in L-Met and Chol, we will test the hypothesis Hyperhomocysteinemia in high Cholesterol fed rats potentiates development of atherosclerosis, and can be alleviated by DPP4 inhibitors' with two specific aims; a) To determine the effects of feeding a dietary excess of Cholesterol and Methionine on the vascular (aorta) structural/atherosclerotic changes; and b) To evaluate if treatment with a DPP-4 inhibitor sitagliptin alleviates inflammation and the atherosclerotic processes, and study the mechanistic aspects involved. Four groups of male Sprague Dawley rats weighing between 250-275g will be fed i) normal feed (without any enrichment), ii) a diet enriched with 1% L-methionine, iii) a diet enriched with 2% Chol, and iv) a diet enriched with 1% L-Met and 2% Chol. Each group will comprise of 10 rats on the respective dietary regimen and the feeding will be carried out for a period of 5 weeks. A similar protocol will be followed with 4 additional groups of 10 rats each, and administered an aqueous suspension of sitagliptin (300 mg/kg/d) by oral gavage from day 15 till the end of the experiment. The overall goals of this proposal are to evaluate the effects of manipulating the dietary content of Met and Chol and identify key events involved in the interplay of risk factors responsible for the development of cardiovascular pathology. An additional goal is to determine if treatment with sitagliptin, a DPP-4 inhibitor, ameliorates the development of these risk factors, and understand the mechanistic aspects. These studies will yield useful information in understanding the development of vascular complications during the combined consumption of Met and Chol (rich in Western diets), and if DPP4 inhibitors help in recession of problems and for better patient management.
@@ -479,8 +878,8 @@
 -
   name: Sami Nazzal
   active: false
-  image: nazzal.jpg
-  origin: University of Louisiana at Monroe
+  image: SNazzal.jpg
+  origin: University of Louisiana at Monroe, School of Pharmacy
   mentors:
     -
       name: James Cardelli
@@ -493,34 +892,12 @@
       name: Pilot Project
       period: May 1, 2015 - April 30, 2016
 
--
-  name: Jamie Newman
-  active: true
-  origin: Louisiana Tech University
-  image: newman.jpg
-  project_title: Comparing Treatment of Adipose Stem Cells for the Differentiation of Clinically Relevant Cells
-  abstract: Human adipose-derived stem cells are the easiest adult stem cells to access, harvest, and isolate, providing the largest supply of autologous stem cells for clinical application1–4. As stem cells, hASCs have the ability to self-renew, differentiate, and suppress inflammation. These cells are being used along with other components of the stromal vascular fraction (SVF) to treat autoimmune conditions, inflammatory diseases, and specific injuries. In clinical trials, these cells are being isolated and expanded to treat a similar set of health conditions with a more targeted interest in regeneration. In addition to these on-going clinical studies there is also research being performed to generate tissue patches that can aid in the repair of significant injury to tissue including heart and skeletal muscle. With the interest in using isolated stem cells in cell-based treatments and in areas of tissue engineering and regenerative medicine it is critical that we find efficient and clinically relevant methods for maintaining and differentiating stem cells. To accomplish this, the proposed project brings together an interdisciplinary, university-industry collaborative team consisting of investigators from Biological Sciences and Biomedical Engineering at Louisiana Tech University, Medicine at Tulane University, and LaCell LLC, a Louisiana based biotechnology company that focuses on promoting a wider usage of primary human stromal/stem cell cultures as a more reliable, clinically relevant stem cell source.
-
-  mentors:
-    -
-      name: Bruce Bunell
-      origin: Tulane University
-    -
-      name: Jeff Gimbel
-      origin: Tulane University
-  funding:
-    -
-      name: Full Project
-      period: May 1, 2015 - April 30, 2018
-    -
-      name: Translational
-      period: May 1, 2019  April 1, 2020
 
 -
   name: Adarsh Radadia
   active: false
   origin: Louisiana Tech University
-  image: radadia.jpg
+  image: ARadadia.jpg
   project_title: Point-of-Care Microelectronic Diagnostics for Early Phase Rickettsial Infections
   mentors:
     -
@@ -538,9 +915,9 @@
 
 -
   name: Brian Salvatore
-  active: true
-  image: salvatore.jpg
-  origin: Louisiana State University, Shreveport
+  active: false
+  image: BSalvatore.jpg
+  origin: Louisiana State University, Shreveport, Department of Chemistry and Physics
   mentors:
     -
       name: Shile Huang
@@ -560,36 +937,16 @@
       period: May 1, 2015 - April 30, 2018
 
 -
-  name: Seetharama D Jois
-  active: false
-  origin: University of Louisiana at Monroe, College of Pharmacy
-  image: jois.png
-  project_title: Role of Extracellular Domain IV of HER2 Protein in Cell Signaling
-  mentors:
-    -
-      name: Marcia Newcomer, Ph.D.
-      origin: Department of Biological Sciences, Louisiana State University
-    -
-      name: Maria da Graça H.Vicente, Ph.D.
-      origin: Department of Chemistry, Louisiana State University
-  funding:
-    -
-      name: Project R11
-      period: May 1, 2011 - April 30, 2015
-    -
-      name: Pilot Project
-      period: Jan 2, 2008 – April 30, 2011
-  abstract: |
-    The long-term objective of this research project is to understand the role of extracellular domains of proteins in protein-protein interactions for cell signaling. The short-term objective of this project is to understand the role of domain IV of human epidermal growth factor receptor 2 (HER2) extracellular domain in protein-protein interaction with other epidermal growth factor receptors (EGFRs) in signaling for cell growth. Our hypothesis is that protein-protein interaction surfaces have small core regions which are hydrophobic in nature and protein-protein interactions can be modulated by small molecules that interact with core regions to modulate the signaling for cell growth. As a model system we will investigate protein-protein interactions on EGFR extracellular domains. In particular, we will investigate the interaction of HER2 protein with other EGFRs (EGFR/HER1, HER3). Protein-protein interactions are critical for many biological processes. The interfaces of these protein-protein interactions may have cavities or flat surfaces that are dominated by non-covalent interactions. Analyses of the structures and sequences using bioinformatics approaches have revealed that, although the interacting surfaces are large (700 to 3,000), there are core regions in the surface that facilitate high-affinity interactions. These core regions are dominated by amino acids such as tyrosine, phenylalanine. Thus, small molecules that are targeted to these core regions can be used to modulate protein-protein interactions and may have clinical significance. The protein HER2 is known to interact with other EGFRs to form dimers/heteromers. HER2-mediated heterodimerization leads to signals for cell growth. Deregulation of the signaling pathway via HER2 is known to occur in some tumor cells. HER2 interaction with HER3 and EGFR is known to be dominant in HER2-overexpressing tumors. Blockade of the interaction of HER2 with other receptors ultimately leads to control of cell growth. The extracellular domain of EGFRs consists of four domains, of which domain II and domain IV are known to be involved in the dimerization process. Crystal structures of the extracellular domains of EGFR and HER2-4 are available. The homodimer of the crystal structure of EGFR extracellular domain has been elucidated. However, it lacks domain IV and, thus, the importance of domain IV in dimerization is not understood. Hence, these proteins will serve as good models to understand protein-protein interaction for cell signaling. Furthermore, blocking of domain IV of HER2 protein has clinical significance and, hence, the results from the proposed research can be applicable as â€œtranslational research. The studies presented here can be extended to other protein-protein interactions of biological importance. In the preliminary studies we have carried out, we have shown that a small hydrophobic molecule binds to domain IV of HER2 protein and also inhibits HER2-HER3 interaction in surface plasmon resonance experiments. In the proposed research project, our goal is to understand the importance of domain IV of HER2 in protein-protein interactions and the core region that is critical for dimerization and its modulation for cell signaling.
-
--
   name: Prerna Sethi Dua
   active: false
-  origin: Department of Health Information Management
+  origin: Louisiana Tech University, Department of Health Information Management
   university: Louisiana Tech University
-  image: sethi.jpg
-  project_title: Rule-based Data Mining for Knowledge Discovery in Alzheimer’s Disease using Microarray Databases
+  image: PSethi.jpg
+  project_title: A Predictive Modeling Framework for Continued Investigation of Disparity in Colorectal Cancer Screening
   mentors:
+    -
+      name: Ronald Horswell
+      origin: PBRC
     -
       name: Walter J. Lukiw, Ph.D.
       origin: LSU Health Science Center in New Orleans, Neuroscience Center of Excellence
@@ -597,6 +954,9 @@
       name: Mark DeCoster, Ph.D.
       origin: Louisiana Tech University
   funding:
+    -
+      name: Translational
+      period: May 1, 2018 - April 30, 2019
     -
       name: Project R9
       period: May 1, 2010 - April 30, 2015
@@ -607,12 +967,68 @@
     Microarray gene expression analysis, an important component in the design of in-silico molecular medicine methods, has made possible to monitor the expression level of thousands of genes under different samples (conditions) at the same time. The analysis can yield novel information regarding cellular mechanisms, regulatory functions of genes, functions of genes and proteins, gene network structure, and pathways, and can relate the risk of being affected by diseases to gene expression profiles which are characteristics for phenomenon such as Alzheimer’s Disease (AD). Particularly in AD where the effective diagnosis includes annotation, early detection, distinction, and prediction, data mining and statistical approaches offer the promise for precise, accurate, and functionally robust analysis of gene and protein expression data. In this proposal we will investigate into the miRNA expressions of AD patients and age-matched controls by designing and developing algorithms to discover correlated and co-regulated sets of miRNA patterns that have a biologically significant role in the progression of Alzheimer’s. Our approach lies in the design and development of computationally efficient algorithms for dimensionality and noise reduction followed by supervised classification of gene expression data using the theory of association rules and clustering with the biological characterization of sets of genes discovered. We hypothesize that rank-based associations for unsupervised clustering can provide biologically significant correlations among co-regulated miRNA profiles with a higher specificity and sensitivity. The proposed approach will have the following algorithmic components as specific aims: a) Design algorithms for dimensionality reduction of gene expression data using the statistical indicators of “housekeeping” genes as the underlying factor of control, b) Design and develop algorithms for finding correlations in subspaces of high dimensional gene, protein expression data using theory of association rules, c) Design and develop metrics for clustering to synopsize the high dimensional gene correlations for better biological interpretation, d)Perform validation for evaluation for the discovered sets of genes for their biological significance, and e) Develop an open-source tool-kit, by incorporating the developed algorithms.
 
     We will objectively achieve the aims of the Computational and Structural Biology core of LA-INBRE by fostering new collaborations across the State and extensively leveraging the computational resources made available through the Data Mining laboratory in the College and LONI for the design and development of algorithms.
-
+-
+  name: Lidiya Dubytska
+  active: false
+  origin: Southern University and A&amp;M College
+  university: Southern University and A&amp;M College
+  image: LDubytska.jpg
+  project_title: Legionella pneumophilia T4SS (lvh) system and its role in virulence
+  mentors:
+    -
+      name: Eduardo Ceballos-Martinez
+      origin: SUBR
+    -
+      name: Sanjay Batra
+      origin: SUBR
+    -
+      name: Gus Kousoulas
+      origin: LSU
+  funding:
+    -
+      name: Pilot Project
+      period: 5/1/2018 - 4/30/2019
+  abstract:
+-
+  name: Galina Goloverda
+  active: false
+  origin: Xavier University of Louisiana
+  university: Xavier University of Louisiana
+  image: GGoloverda.jpg
+  project_title: Toward development of a novel cancer diagnostic tool
+  mentors:
+    -
+      name: Vladimir Kolesnichenko
+      origin: Xavier University of Louisiana
+  funding:
+    -
+      name: Pilot Project
+      period: 5/1/2018 - 4/30/2019
+  abstract:
+-
+  name: Marjan Trutschl
+  active: true
+  origin: Louisiana State University, Shreveport
+  university: Louisiana State University, Shreveport
+  image: MTrutschl.jpg
+  project_title: Computational Modeling of Blood Metabolomics Biomarkers Addressing Racial Disparity
+  mentors:
+    -
+      name: Hyung Nam
+      origin: LSUHSC-S
+  funding:
+    -
+      name: INBRE COBRE Collaborative (Supplement)
+      period: August 1, 2020 – April 30, 2021
+    -
+      name: Translational
+      period: May 1, 2018 – April 30, 2019
+  abstract:
 -
   name: Maureen Shuh
   active: false
   origin: Xavier University, College of Pharmacy
-  image: shuh.jpg
+  image: MShuh.jpg
   project_title: The Molecular Mechanisms of Adult T cell Leukemia Induction by HTLV-I Tax
   mentors:
     -
@@ -627,9 +1043,9 @@
 
 -
   name: Jayalakshmi Sridhar
-  active: true
+  active: false
   origin: Xavier University of Louisiana, Department of Chemistry
-  image: sridhar.jpg
+  image: JSridhar.jpg
   project_title: Development of Casein Kinase 1 Inhibitors as Therapeutics for Alzheimer's Disease
   mentors:
     -
@@ -647,9 +1063,9 @@
 
 -
   name: Matthew Talbert
-  active: true
+  active: false
   origin: University of Louisiana at Monroe
-  image: talbert.jpg
+  image: MTalbert.jpg
   project_title:  Diet induced obesity in flies; a genomic search for modifiers of pathogenesis
   mentors:
     -
@@ -658,7 +1074,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2017 – April 30, 2018
+      period: May 1, 2017 – April 30, 2019
     -
       name: Pilot Project
       period: May 1, 2015 – April 30, 2017
@@ -670,7 +1086,7 @@
   name: Tara Williams-Hart
   active: false
   origin:  Louisiana State University in Shreveport, Department of Biological Sciences
-  image: williams.jpg
+  image: TWilliams.jpg
   project_title: Assessment of the Molecular Target of Fusarochromanone and its Analogues
   mentors:
     -
@@ -693,7 +1109,7 @@
   name: Shizhong Yang
   active: false
   origin: Southern University and A&amp;M College, Department of Computer Science
-  image: yang.jpg
+  image: SYang.jpg
   project_title: Molecular dynamics simulation on the interaction between domain I of gK and extracellular domain IV of UL20
   mentors:
     -
@@ -712,81 +1128,10 @@
     This research has two specific aims: specific aim 1 will focus on model setup and HPC simulation of the domain I of herpes simplex virus type 1 gK and the extracellular domain IV of UL20 through computational methods. Specific aim 2 will focus on analyzing the domain I gK homologs, delineate conserved and divergent structural features, and the gK/membraneinteraction properties. A graduate student will be involved in this research.
 
 -
-  name: Kun Zhang
-  active: false
-  origin: Xavier University, Department of Computer Science
-  image: zhang.jpg
-  project_title: Enhancement of microRNA Research through Bioinformatics Tool Development
-  mentors:
-    -
-      name: Prescott Deininger, Ph.D.
-      origin: Tulane University, Cancer Center
-    -
-      name: Erik Flemington, Ph.D.
-      origin: Tulane University, Department of Pathology and Laboratory Medicine
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2010 – April 30, 2012
-  abstract: |
-    MicroRNAs (miRNAs) are very small (approx. 20-22 nt) noncoding RNA molecules that regulate mRNA translation through binding to 7-8 base sequences of the respective 3’ UTRs.  miRNAs have only recently been found to exist in higher eukaryotes.  In the short time since this discovery, the profound significance that miRNAs have in pathway regulation, cell fate, differentiation, development and disease states such as cancer have already been well established. To date, most of the bioinformatics approaches in miRNA research are developed to tackle two major tasks, miRNA detection and miRNA target prediction. Compared to miRNA detection, computational miRNA target prediction are far more challenging due to the lack of strict sequence complementarity between miRNAs and their targets, as well as the scarcity of experimentally validated gene targets to guide algorithm design.
-
--
-  name: William Yu
-  active: true
-  origin: Louisiana State University, Shreveport, Department of Chemistry and Physics
-  image: yu.jpg
-  project_title: Medical Imaging by Enhanced Fluorescent Nanoclusters
-  mentors:
-    -
-      name: Shile Huang, Ph.D.
-      origin: LSU Health Sciences Center Shreveport
-    -
-      name: Urska Cvek, Ph.D.
-      origin: Louisiana State University, Shreveport, Department of Computer Science
-  funding:
-    -
-      name: Full Project
-      period: May 1, 2016 – April 30, 2019
-  abstract: |
-    Super small metal particles (<2nm, thereinafter referred as nanoclusters) represent an emerging new type of alternative fluorescent probes due to their excellent biocompatibility, tunable emission, large Stokes shift, and long fluorescence lifetime. However, the low quantum yield being the most serious weakness limits their practical applications. The goal of this project is to develop a hybridized hierarchical nanostructure which contains metal particles of 20–50nm (thereinafter referred as nanoparticles) and small metal nanoclusters to greatly enhance the fluorescence emission of the small metal nanoclusters by coupling surface plasmon resonance of the big metal nanoparticles. This project focuses on increasing the fluorescence quantum yield of metal nanoclusters for bioimaging applications by utilizing metal surface plasmon resonances through controlling the morphology and size of the big metal nanoparticles, as well as the distance between the nanoparticles and the nanoclusters. This study investigates the mechanism of fluorescence coupling with surface plasmon resonance, establishes a basic theoretical understanding for solving the low quantum yield issue of metal nanoclusters. The research outcomes will help to develop efficient targeting fluorescent nanoprobes for imaging and diagnosis of tumors for medical application.
-
--
-  name: Urska Cvek
-  active: true
-  origin: Louisiana State University, Shreveport, Department of Chemistry and Physics
-  image: BBC-Core/BBC-Urska-Cvek.jpg
-  project_title: Design and application of mobile app to improve detection of undiagnosed and pre- diabetes
-  mentors:
-    -
-      name: Jerry McLarty
-      origin: Feist-Weiller Cancer Center, Shreveport
-    -
-  funding:
-    -
-      name: Full Project
-      period: May 1, 2016 – April 30, 2019
-  abstract: |
-    The goal of this research is to design, implement and in the long-term evaluate the application of mobile technology to  improve detection of undiagnosed diabetes and pre-diabetes. Specifically, we would like to develop this app that is an innovation on the current available set of apps. We believe that the addition of an app on smart phones in outpatient settings to the current standard practice will lead to improved diagnosis of diabetes and pre-diabetes in these patients.
-
--
-  name: Waneene Dorsey
-  active: true
-  origin: Grambling University, Department of Biology
-  image: dorsey.png
-  project_title: Identification of Stress Signaling Molecules in TIB-73 Mouse Hepatocytes
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2016 – April 30, 2017
-  abstract: |
-    Altering genes that control cell division is recognized as the major cause of cancer. The initiation- or progression phase of carcinogenesis is caused by the inactivation or loss of certain tumour suppressor genes. Organochlorine compounds are persistent in the environment and heighten the risk of cancer among animals and humans. Most organochlorine chemicals have endocrine-disrupting properties that trigger the activation of stress response genes. Much of what is known about genomic and proteomic responses in mammalian cells is attained from cellular adjustment to deleterious forms of stress. It is believed that changes in gene expression can be linked to specific classes of toxic compounds with unique fingerprints that aid in characterizing various mechanisms of action. Identification of stress-response genes provides the necessary link between a stimulus from the external environment and the events that occur among intracellular components. The effort devoted to identifying stress-response genes as a response to environmental contaminants can be of extreme importance because stress-response genes can be used as potential biomarkers for monitoring organochlorine exposure. The functionality of stress-response genes is orchestrated by their own signaling mechanisms. Pentachlorophenol (PCP) is an organochlorine herbicide and prevalent wood preservative in the United States (U.S.). The biocidal action of PCP protects timber from fungal rot and wood-boring insects, thus extending the life of wood products. PCP is one of the most heavily used organochlorine pesticides in the U.S. preceded by the herbicides atrazine, and alachlor. Noticeable interest is drawn to PCP for its ability to induce systemic toxicity and carcinogenesis . This proposal focuses on the toxicity of PCP to the extent that it may alter gene expressions in hepatocyte culture. The goal to be reached by the end of this grant period is to identify stress-response genes that contribute to cell proliferation and programmed cell death in PCP-treated TIB-73 mouse hepatocytes. This project is driven by the hypothesis that that exposure to sublethal concentrations of PCP will cause the transcriptional activation of stress­response genes in our established in vitro TIB-73 mouse hepatocyte model system.
-
--
   name: Jean Fotie
-  active: true
+  active: false
   origin: Southeastern Louisiana University, Department of Chemistry and Physics
-  image: fotie.jpg
+  image: JFotie.jpg
   project_title: Rational Design of Selective Small-Molecules as Potential IMPDH Inhibitors
   funding:
     -
@@ -797,38 +1142,10 @@
     The aim of this pilot project is to establish the foundation of a longterm biomedical research program within the Department of Chemistry and Physics at Southeastern Louisiana University, exploiting Plasmodium IMPDH and HGPRT as potential targets for the development of a new generation of antimalarial agents. As a proof of concept, a library of small molecules will be screened on these enzymes, with a goal of discovering new and selective inhibitors of Plasmodium IMPDH and/or HGPRT. Toward this goal, HGPRT will need to be expressed and purified, and the inhibition assays optimized, while IMPDH from Plasmodium will be cloned and expressed for the first time, and thus will need to be characterized before been  used  in assays.  Furthermore, although  HGPRT  is a  well studies  and  confirmed  drug target  in Plasmodium, 2•  3   only a handful of inhibitors have been developed so far, many of which are nucleoside­based. As a result, they act more as substrates, and thus are not very selective. This project aims to develop non-nucleoside-based   inhibitors, with different electronic profiles and selective binding mechanisms.
 
 -
-  name: Xiaoping Yi
-  active: true
-  origin: Southern University and A&amp;M College, Department of Biology
-  image: yi.jpg
-  project_title: Molecular mechanisms of antioxidant on gene regulation in prostate cancer cells
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2017 – April 30, 2018
-  abstract: |
-    Prostate cancer begins when cells in the prostate gland start to grow uncontrollably. Other than skin cancer, prostate cancer is the most common cancer among American men. Researchers do not know exactly what causes prostate cancer but, on a basic level, prostate cancer is caused by changes in the DNA of a normal prostate cell. Although new treatments for prostate cancer continue to be investigated, no definitive cure has been found yet for the advanced aggressive stages.
-    Resveratrol (RES, trans-3,5,4' -trihydroxystilbene), a well-known natural polyphenolic phytoalexin present abundantly in red wine and other plants,  is a component of Asian traditional medicine used to treat cardiovascular diseases. Recently, RES has gained considerable attention as an anticancer agent since a report was published by Jang and coworkers in 1997. Its potential use in chemoprevention and chemotherapy for various cancer forms relies on its effects on cell growth, apoptosis, angiogenesis, and cancer metastasis. As RES appears to have many anti-tumor effects on different cancer cell types, the molecular basis of these effects needs to be extensively studied using a cell culture model that best resembles the tumor environment in the body. This will allow us to better understand its mechanism of action and its potential use as a coadjuvant drug for established cancer treatments.
-    Our first goal is to investigate the dose-response effect of RES on the morphology  (apoptosis and differentiation) of prostate cancer cells cultured as spheroids (30 cultures) . The second goal is to investigate the molecular mechanism of RES action by repeating the above treatments and performing  transcriptome and proteomic analyses on treated versus control spheroids. Proteomic analyses will be performed using commercial antibody microarrays. The RNA sequencing and proteomic results will be validated by quantitative PCR and Western blot analyses, respectively . The long term goal is to investigate themolecular mechanism of RES action on 30 cancer cell cultures and to identify the main Cell Signaling pathways activated by this flavonoid compound.
-
--
-  name: Anup Kundu
-  active: true
-  origin: Xavier University
-  image: kundu.jpg
-  project_title: Formulation of a targeted nanoparticle system for the treatment of breast cancer
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2017 – April 30, 2018
-  abstract: |
-    The goal of the proposal is to develop a targeted nanoparticle system for the treatment of breast cancer. Chemotherapy remains one of the major treatment options for metastatic breast cancer; however, acquired resistance to chemotherapeutic agents such as doxorubicin is a major reason for cancer treatment failure. Recently, it has been shown that knocking down the expression of MDR1 P-glycoprotein (P-gp) by P-gp specific siRNA could increase the delivery of doxorubicin to doxorubicin resistant breast cancer cells which could improve the metastatic breast cancer treatment. However, it will be more effective if the particles are selectively targeted to the cancer cells. The aptamer surface labeling will be used to selectively deliver both p-gp siRNA encapsulated nanoparticles and doxorubicin encapsulated nanoparticles to metastatic cancer cells. The efficacy of targeted versus non-targeted delivery of siRNA and doxorubicin nanoparticles to breast cancer cells will be examined. Our hypothesis is that conjugating nanoparticles with a cancer cell specific aptamer should allow selective delivery of therapeutic drugs to tumor cells leading to enhanced cellular toxicity and antitumor effect as compared to unconjugated nanoparticles. This hypothesis will be tested by the following two specific aims. Specific Aim 1: Formulation of nanoparticle-aptamer conjugates for targeted delivery of P-gp siRNA to breast cancer cells. Specific Aim II; Formulation of doxorubicin encapsulated nanoparticles with surface aptamer for targeted delivery to breast cancer cells.
-
--
   name: Scott Poh
-  active: true
-  origin: Louisiana Tech University
-  image: poh.jpg
+  active: false
+  origin: Louisiana Tech University, Center for Biomedical Engineering and Rehabilitation Sciences
+  image: SPoh.jpg
   project_title: Targeting of Macrophages in Inflammation With Thermosensitive Biopolymers
   funding:
     -
@@ -839,54 +1156,13 @@
     For this purpose, we propose designing a nanoscale drug carrier that function as selective targeting and ability to protect peptide drug from enzymatic degradation, thus increasing the half-life of the peptide for diagnostics and therapeutic treatment. By combining folate-targeting and biopolymer as a carrier, we examined whether folate-targeted thermosensit ive polymer (FTSP) loaded with fluorescent and therapeutic cargos could selectively target folate receptor positive (FR+) activated macrophages, presenting the opportunity to both visualize and suppressing pro-inflammatory mediators, with little or no collateral toxicity to healthy cells.
 
 -
-  name: Siva Murru
+  name: Hyung Nam
   active: true
-  origin: University of Louisiana at Monroe
-  image: murru.jpeg
-  project_title: Design and synthesis of heterocyclic compounds and their metal-complexes for evaluation of anti-cancer and anti-microbial activity
+  origin: LSUHSC-S
+  image: HNam.jpg
+  project_title: Computational Modeling of Blood Metabolomics Biomarkers Addressing Racial Disparity
   funding:
     -
-      name: Startup Project
-      period: May 1, 2017 – April 30, 2018
-  abstract: |
-    Cancer and antibiotic resistance are some of the most difficult ailments and they became leading causes of death around the world. Anticancer agents that target DNA are generally the most effective agents in clinical use and have produced significant increases in the survival of cancer patients, but they are extremely toxic. Also, some of the bacterial species are becoming resistant to most of the traditional antibiotics. Consequently, much effort has been put into finding robust inhibitors that are more selective, less toxic and less susceptible to drug resistance. Havi ng experience in the field of heterocyclic synthesis and medicinal chemistry, we recently obtained some interesti ng preliminary results on anticancer activity of our Ru-pyrazole complexes from NCI-screening. (vide infra) The results indicate that some of our compounds exhibit anticancer activity, mainly towards non small cell  J ung cancer (NSCLC) cell lines. Currentl y we are planning on synthesizing new set of pyrazoles with different substitution patterns and their metal complexes, and screen them for anticancer activity. In parallel to  the anticancer activity studies. we have also tested set of substituted quinolines for anti bacterial activity and they found to have considerable inhibition effect on the growth of the E. coli. Based on these preliminary results and the biological significance of pyrazole pharmacophore, we envisage that combining both pyrazole and quinoline moieties together may increase the therapeutic efficacy. Accordingly, we plan to develop a library of novel quinoline-pyrazole  bis-heterocycles  and evaluate their antibacterial activities .
-    The general aim of our overall project is to design and synthesize nitrogen heterocycles and their metal complexes to evaluate for anticancer and antibacterial activities. These are mainly two independent goals, but they can be accomplished by complimentary approaches because of the common synthetic ground. The long term goal of this project is to find novel anticancer agents for lung cancer treatment and antibiotics that are less susceptible to drug resistance with the main focus on MRSA strains. In addition to that, we will be developing several synthetic approaches that wi ll u ltimately provide new chemica l tools for the diverse range of synthetic chemists and biomedical researchers in academia and industry.
-
--
-  name: Rami Al-Horani
-  active: true
-  origin: Xavier University
-  image: al-horani.jpg
-  project_title: Development of Factor Xllla Allosteric Inhibitors as a Paradigm-Shifting Treatment for Venous Thromboembolism
-  funding:
-    -
-      name: Startup Project
-      period: May 1, 2017 – April 30, 2018
-  abstract: |
-    Venous thromboembolism (VTE) remains a major public health crisis which severely impacts several ethnic communities in the US. Furthermore, a 2-way link between VTE and cancer has also been confirmed. In fact, cancer patients constitute 15-20% of all patients diagnosed with VTE. Anticoagulants are the mainstay of VTE treatment. Nevertheless, clinically used anticoagulants are plagued with a number of drawbacks including a life-threatening risk of internal bleeding. New approaches to safely prevent and/or treat VTE are highly clinically significant. Factor Xllla (FXllla) is a transglutaminase procoagulant that is different from all other physiologic procoagulants which are serine proteases. This unique biochemical aspect of FXllla has been under investigation in the context of VTE mechanism. Venous thrombi from FXlll-deficient mice were found to be significantly smaller in size. Various studies also suggested that specific FXllla polymorphism provides a moderate protection against VTE and that heterozygous FXlll-deficient mice do not show signs of excessive bleeding. Therefore, FXllla may serve as a potential therapeutic target for a new VTE treatment, yet with no risk of the deadly bleeding side effect. Very few FXllla inhibitors have been reported thus far, most of which are not selective as they target the active site. I propose to consider sulfated/sulfonated glycosaminoglycan (GAG) mimetics platform to discover and subsequently rationally design FXllla inhibitors. These GAG mimetics are projected to potently and selectively inhibit FXllla through allosteric modulation , a mechanism often exploited by nature to achieve specific regulation. In preliminary studies , I independently discovered that suramin, a sulfonated GAG mimetic and an approved antiparasitic drug, inhibits FXllla with an IC50 value of 85 µM. This proposal specifically aims to use a multidisciplinary approach to establish the principles of effective and selective inhibition of FXllla by suramin and its analogs . The overall goal of research in this area is to 1) enhance our understanding of FXllla role in the coagulation physiology and pathology and 2) investigate an alternative approach to modulate FXllla through allostery so as to pave the way to a transforming potent and safe anticoagulant therapy to prevent and/or treat thrombotic disorders.
-
--
-  name: Georgios Matthaiolampakis
-  active: true
-  origin: Xavier University
-  image: matthaiolampakis.jpg
-  project_title: Combinatorial treatment of miRNAs and novel palatinate against lung cancer
-  funding:
-    -
-      name: Startup Project
-      period: May 1, 2017 – April 30, 2018
-  abstract: |
-    Gene therapy carries the strongest potential for the realization of the ""personalized  treatment''. Uniquely, each gene therapy application stems from and depends on the expression of key genes or driver mutations present in the cancer. Its application spans from downregulation of specific genes to activation of tumor suppressor pathways for inhibition of tumor growth, chemoresistance and metastasis. Unfortunately, no clinically actionable gene therapy approaches have emerged so far and the need for research on this field is ever direr. Similarly, in lung cancer (LC), the leading cause of cancer deaths worldwide, gene therapy can have a significant impact in controlling tumor growth. With non-small-cell lung cancer accounting for >85% of all lung cancer cases, our clinical approach is commonly limited to identical therapies among different patients, primarily the use of platinum based drugs, such as cisplatin. Despite significant efforts for early detection and treatment, we practically disregard the biological background of the disease. microRNAs (miR) are looked upon as a novel class of biologicals to synergistically complement the chemotherapy, as they can simultaneously affect multiple pathways involved in cancer progression and metastasis. miR-34a, a downstream target of TP53, is capable of restoring the tumor suppressor function of an otherwise highly mutated and non-functional TP53 protein. Interestingly, TP53 aberrations have been detected in >50% of cancer patients. Furthermore, miR-30a downregulation  is associated with establishment of the metastatic niche and promotion of metastasis. These two miRNAs are often downregulated in the majority of lung cancer tissues, and their exogenous delivery can prove beneficial. However, nucleic-acid delivery is limited by poor bioavailability, rapid metabolism and low cellular-uptake . We will entrap miR-34a and miR-30a mimics inside a novel tocopherol-PEl-PEG (TPP) nanovector that can encapsulate, protect and deliver multiple loads, i.e. oligonucleotides and active drugs, to the tumor mass in vivo. We will decorate the nanovectors with the tumor cell-targeting peptide, Chlorotoxin, to achieve active targeting and enhance intracellular delivery. Chlorotoxin is known to strongly discriminate between tumor and normal cells, including in lung cancer. The treatment will be combined with a novel lipid-modified platinum compound, CDDP-c8, which demonstrates higher lipophilicity, thus higher encapsulation efficiency in nanocarriers, and more importantly, has superior selective cytotoxicity, compared to cisplatin, against cisplatin-resistant cells of lung cancer.
-
--
-  name: David Mills
-  active: true
-  origin: Louisiana Tech University
-  image: dmills.jpg
-  project_title: Instrumentation in Support of a New 3D Printing Lab
-  funding:
-    -
-      name: Shared Instrument
-      period: May 1, 2016 – April 30, 2018
-  abstract: |
-    "Researchers at Louisiana Tech have recently developed several new bio- and tissue engineered technologies. Dr.David Mills' lab has developed a manufacturing method for fabricating drug-doped customized thermoplastic filaments that are bioactive and can be produced at low cost. This method is not constrained to one particular material, but is capable of being easily modified to encompass metal particles, ceramic nanotubes, and bioactive powders that retain integrity and functionality through the 3D printing process. The advantage of such a process is the level of customization achievable by the designer allowing fabrication of the desired material characteristics without complex modification. Dr. Mills this approach believe this approach will open many new clinical treatments enhance dental and orthopedic implant integration and longevity promising an increase in the quality of life for many patients.
+      name: INBRE COBRE Collaborative (Supplement)
+      period: August 1, 2020 – April 30, 2021
+  abstract:
