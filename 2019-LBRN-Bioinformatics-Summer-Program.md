@@ -65,7 +65,7 @@ The entire summer program will be delivered remotely including all sessions and 
 
 ### Registration deadline: June 27, 2019 (extended)
 
- <section id="eventRegistration">
+ <section id="eventRegistration" class="eventsection">
     <i class="collapseTrigger fa fa-2x fa-chevron-right" aria-hidden="true"></i>
     <h2 class="event-section-head">Registration</h2>
     <div class= "collapse">

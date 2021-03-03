@@ -3549,106 +3549,55 @@ header h1 {
       align-self: flex-start;
     }
   }
+}
+  // #eventArchiveMedia,
+  // #eventLodgingAndExpenses,
+  // #eventMediaLink,
+  // #eventParticipants,
+  // #eventPastParticipants,
+  // #eventPresentations,
+  // #eventRegistration,
+  // #eventSummary,
+  // #eventWhenAndWhere ,
+  // #eventAwards,
+  .content {
 
-  #eventArchiveMedia,
-  #eventLodgingAndExpenses,
-  #eventMediaLink,
-  #eventParticipants,
-  #eventPastParticipants,
-  #eventPresentations,
-  #eventRegistration,
-  #eventSummary,
-  #eventWhenAndWhere,
-  #eventAwards {
+  .eventsection {
     position: relative;
     margin-bottom: 1.2em;
+    h2 {
+     // padding-left: 1em;
+     /* padding-right: 1.5em; */
+     margin-top: unset;
+     background-color: unset;
+     cursor: pointer;
+     &:hover {
+       // background-color: #e5f3e6;
+       /* cursor: pointer; */
+       border-radius: 10px;
+     }
+   }
+   @media (min-width: $md){
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+     width: 100%;
+     float: left;
+     margin-left: 0;
+     margin-right: 0;
+     overflow: hidden;
+     h2 {
+       // padding-left: 0;
+       background-color: white;
+       cursor: auto;
+       &:hover {
+         background-color: unset;
+       }
+     }
+   }
   }
+ }
 
-  #eventArchiveMedia h2,
-  #eventLodgingAndExpenses h2,
-  #eventMediaLink h2,
-  #eventParticipants h2,
-  #eventPastParticipants h2,
-  #eventPresentations h2,
-  #eventRegistration h2,
-  #eventSummary h2,
-  #eventWhenAndWhere h2,
-  #eventAwards h2 {
-    // padding-left: 1em;
-    /* padding-right: 1.5em; */
-    margin-top: unset;
-    background-color: unset;
-    cursor: pointer;
-  }
-
-  #eventArchiveMedia h2:hover,
-  #eventLodgingAndExpenses h2:hover,
-  #eventMediaLink h2:hover,
-  #eventParticipants h2:hover,
-  #eventPastParticipants h2:hover,
-  #eventPresentations h2:hover,
-  #eventRegistration h2:hover,
-  #eventSummary h2:hover,
-  #eventWhenAndWhere h2:hover,
-  #eventAwards h2:hover {
-    // background-color: #e5f3e6;
-    /* cursor: pointer; */
-    border-radius: 10px;
-  }
-
-  div.caption {
-    padding-left: 20px;
-    @media (max-width: $md) {
-      padding-left: 0;
-    }
-  }
-}
-
-#eventArchiveMedia,
-#eventLodgingAndExpenses,
-#eventMediaLink,
-#eventParticipants,
-#eventPastParticipants,
-#eventPresentations,
-#eventRegistration,
-#eventSummary,
-#eventWhenAndWhere,
-#eventAwards {
-  position: relative;
-  margin-bottom: 1.2em;
-}
-
-#eventArchiveMedia h2,
-#eventLodgingAndExpenses h2,
-#eventMediaLink h2,
-#eventParticipants h2,
-#eventPastParticipants h2,
-#eventPresentations h2,
-#eventRegistration h2,
-#eventSummary h2,
-#eventWhenAndWhere h2,
-#eventAwards h2 {
-  // padding-left: 1em;
-  /* padding-right: 1.5em; */
-  margin-top: unset;
-  background-color: unset;
-  cursor: pointer;
-}
-
-#eventArchiveMedia h2:hover,
-#eventLodgingAndExpenses h2:hover,
-#eventMediaLink h2:hover,
-#eventParticipants h2:hover,
-#eventPastParticipants h2:hover,
-#eventPresentations h2:hover,
-#eventRegistration h2:hover,
-#eventSummary h2:hover,
-#eventWhenAndWhere h2:hover,
-#eventAwards h2:hover {
-  background-color: #e5f3e6;
-  /* cursor: pointer; */
-  border-radius: 10px;
-}
 
 #eventLodgingAndExpenses section,
 #eventWhenAndWhere section {
@@ -5470,55 +5419,6 @@ footer span {
     margin-right: 2.85714%;
   }
 
-  #eventArchiveMedia,
-  #eventLodgingAndExpenses,
-  #eventMediaLink,
-  #eventParticipants,
-  #eventPastParticipants,
-  #eventPresentations,
-  #eventRegistration,
-  #eventSummary,
-  #eventWhenAndWhere {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 100%;
-    float: left;
-    margin-left: 0;
-    margin-right: 0;
-    overflow: hidden;
-  }
-
-  #eventArchiveMedia h2,
-  #eventLodgingAndExpenses h2,
-  #eventMediaLink h2,
-  #eventParticipants h2,
-  #eventPastParticipants h2,
-  #eventPresentations h2,
-  #eventRegistration h2,
-  #eventSummary h2,
-  #eventWhenAndWhere h2 {
-    // padding-left: 0;
-    background-color: white;
-    cursor: auto;
-  }
-
-  #eventArchiveMedia h2:hover,
-  #eventLodgingAndExpenses h2:hover,
-  #eventMediaLink h2:hover,
-  #eventParticipants h2:hover,
-  #eventPastParticipants h2:hover,
-  #eventPresentations h2:hover,
-  #eventRegistration h2:hover,
-  #eventSummary h2:hover,
-  #eventWhenAndWhere h2:hover {
-    background-color: unset;
-  }
-  // .collapsetstyle {
-  //   color: white; }
-  .collapsenobs {
-    height: inherit;
-  }
 
   #lbrnEventSidebar {
     /* display: block; */

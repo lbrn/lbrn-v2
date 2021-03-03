@@ -28,11 +28,14 @@ Guide on classes (btn, green, etc) we can use
 -change content-tweek from 80% cus it shrinks the area for a sidebar that isnt there
 -check this in general
 ====================
-link on lbrn highlight awards page
-adjust ids on annual meetings pages to use class not id
-hide registration link when no link
-replace lbrn-events conference img with nayong's new one for conerefence on biology and informatics
+//link on lbrn highlight awards page
+//adjust ids on annual meetings pages to use class not id
+//hide registration link when no link
+//replace lbrn-events conference img with nayong's new one for conerefence on biology and informatics
+//update lbrn highlights image on homepage slider
 fix pis page, check ended project
-update lbrn highlights image
+
+flexbox people page 
+
 social media meta-code
-media template  - videos/photos/presentations 
+media template  - videos/photos/presentations

@@ -2,7 +2,7 @@
   {% if highlight.link != nil %}
   <a href="{{highlight.link}}">
     {% else %}
-
+  <a href="{{highlight.url | relative_url }}">
   {% endif %}
   <!-- <a href="{{ '/events/' | relative_url }}#{{highlight.date | date: '%d' }}{{highlight.date | date: '%b'}}"> -->
 
@@ -39,7 +39,7 @@
   {% if highlight.link != nil %}
   </a>
   {% else %}
-
+  </a>
   {% endif %}
-  <a class="natural-link" href="{{highlight.url | relative_url }}"><h5>View Full Highlight </h5></a>
+  <!-- <a class="natural-link" href="{{highlight.url | relative_url }}"><h5>View Full Highlight </h5></a> -->
 </section>
