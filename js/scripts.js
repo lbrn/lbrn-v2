@@ -40,9 +40,6 @@ $( document ).ready(function() {
       $('#navtog').css('display','none')
     }
     //this hides it immediately when the window resizes. I've turned this off for now
-
-    // contentHeight = $('#matchHeight').css('height');
-    // $('#lbrnEventSidebar').css('height', contentHeight);
     // height issue 2
   });
   // collapsable sections
