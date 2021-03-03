@@ -1,0 +1,546 @@
+.about {
+  .content {
+    .content {
+          width: 80%;
+          padding-right: 5%;
+      @media (max-width: $lg) {
+
+        width: auto;
+        padding-right: 30px;
+      }
+    }
+    p {
+      font-size: 19.2px;
+      line-height: 35px;
+    }
+  }
+}
+
+#core-list {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  .horiline-r {
+    margin-left: 49%;
+    width: 51.5%;
+  }
+  .container {
+   width: 100%;
+   margin: unset;
+   padding: unset;
+   flex-direction: row;
+   display: inline-flex;
+   max-width: 100%;
+   flex-wrap: wrap;
+   .row {
+    width: 100%;
+    margin: unset;
+  }
+ }
+ .triblock {
+   flex: 1 1 auto;
+   display: flex;
+   flex-direction: column;
+   height: 100%;
+   width: 30%;
+   margin-left: unset;
+ }
+ .quintblock {
+  display: inline-flex;
+  flex-direction: column;
+  width: 20%;
+  margin-left: unset;
+  h1 {
+      font-size: 14pt;
+    }
+  h2 {
+     font-size: 11pt;
+    }
+  }
+  .sevenblock {
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: unset;
+    border: $secondary;
+    border-top-style: none;
+    width: 14.28%;
+    .horiline {
+     display: block;
+    }
+    .horiline-r {
+      &.down {
+        flex: 1 1 2em;
+
+        border-style: solid none none solid;
+      }
+    }
+    .horiline-l {
+      &.down {
+        flex: 1 1 2em;
+
+        border-style: solid solid none none;
+      }
+    }
+    h1 {
+      font-size: 12pt;
+      margin-bottom: 0;
+    }
+    h2 {
+      font-size: 11pt;
+    }
+  }//7
+   h1 {
+     font-size: 17pt;
+     margin-bottom: 0;
+   }
+   h2 {
+     font-size: 13pt;
+     margin-top: 1px;
+     margin-bottom: 1px;
+   }
+   ul {
+     background-color: unset;
+     margin-bottom: 0;
+     li {
+       width: unset;
+       padding: unset;
+       float: none;
+       height: unset;
+       line-height: 1.5;
+     }
+   }
+   li {
+     font-size: 11pt;
+     list-style: none;
+   }
+   .vertline {
+     flex: 1 1 2em;
+     /* height:2em; */
+     border: $secondary;
+     border-style: none none none solid;
+     height: 2em;
+     width: 52%;
+     margin-left: 50%;
+     &.left {
+       border-style: none solid none none;
+       flex: 1 1 2em;
+       margin-right: 0;
+       width: 50%;
+       margin-left: 0;
+     }
+   }
+   .horiline {
+     /* height:2em; */
+     border: $secondary;
+     border-style: none none solid none;
+     /* height: 2em; */
+     width: 100%;
+     &.bot {
+       border-style: none none solid none;
+       height: 100%;
+     }
+   }
+   .horiline-l {
+     border: $secondary;
+     border-style: none none solid none;
+     margin-right: 50%;
+     width: 50%;
+     &.down {
+       border-style: solid solid none none;
+       flex: 1 1 2em;
+       margin-right: 50%;
+       width: 50%;
+     }
+     &.up {
+       border-style: none solid solid none;
+       flex: 1 1 2em;
+       margin-right: 50%;
+       width: 50%;
+     }
+   }
+   .horiline-r {
+     border: $secondary;
+     border-style: solid none none none;
+     margin-left: 47.5%;
+     width: 52.5%;
+     &.down {
+       // border-style: none none none solid;
+       border-style: solid none none solid;
+       flex: 1 1 2em;
+       margin-left: 50%;
+       width: 50%;
+     }
+     &.up {
+       border-style: none none solid solid;
+       flex: 1 1 2em;
+       margin-left: 50%;
+       width: 50%;
+     }
+   }
+   span {
+    border: $secondary;
+    border-style: solid none none none;
+    height: unset;
+    width: 100%;
+    display: block;
+  }
+  @media (max-width: $lg) {
+    .horiline-r{
+      margin-left: 48.5%;
+    }
+  }
+  @media (max-width: $md){
+    .quintblock {
+      h1 {
+        font-size: 11pt;
+      }
+    }
+    .horiline-r {
+      margin-left: 46.5%;
+    }
+    .sevenblock {
+      flex: 1 1 50%;
+      border-style: solid none none none;
+      .horiline {
+       display: none;
+      }
+      .horiline-r {
+        &.down {
+          border-style: none none none solid;
+
+          flex: 1 1 2em;
+        }
+      }
+      .horiline-l {
+        &.down {
+          border-style: none solid none none;
+
+          flex: 1 1 2em;
+          display: block;
+        }
+      }
+      h1 {
+        font-size: 12pt;
+        margin-bottom: 0;
+      }
+      h2 {
+        font-size: 11pt;
+      }
+    }
+    li {
+      font-size: 9pt;
+    }
+    h1 {
+      font-size: 15pt;
+    }
+    h2 {
+      font-size: 11pt;
+    }
+
+  }//md
+  @media (max-width: $sm){
+    .sevenblock {
+      .horiline-r {
+        &.down {
+          border-style: none none none solid;
+        }
+      }
+      .horiline-l {
+        &.down {
+          border-style: none solid none none;
+        }
+      }
+    }
+
+  }
+
+}//core-list
+
+#campusmap {
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  .bgholder {
+    height: 3em;
+    width: 50%;
+    position: relative;
+    display: inline-block;
+    &:nth-child(even) {
+      .bg {
+        opacity: 0.7;
+      }
+      li {
+        font-family: $mapfont;
+        color: #212529;
+      }
+    }
+  }
+  .bg {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.5;
+    z-index: 1;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+  }
+  h1 {
+    margin-top: 12%;
+    font-family: $mapfont;
+    color: #157262;
+    z-index: 3;
+    position: relative;
+  }
+  ul {
+    padding-left: unset;
+    position: relative;
+  }
+  li {
+    padding-left: 0.5em;
+    list-style: none;
+    font-size: 25pt;
+    font-family: $mapfontbold;
+    color: #157262;
+    z-index: 2;
+    position: absolute;
+    height: 100%;
+  }
+}
+
+.mapcontainer {
+  top: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  a div {
+    opacity: 0.5;
+    // border-top: solid 1.5px $primary;
+    border-bottom: solid 1.5px $primary;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2x ease-in;
+
+    &:hover {
+      background-color: transparentize($secondary, .8);
+      -moz-transition: all 0.2s ease-in;
+      -o-transition: all 0.2s ease-in;
+      -webkit-transition: all 0.2x ease-in;
+      border: solid 1.5px $primary;
+      border-radius: 6px;
+    }
+  }
+
+  .sus {
+    height: 4%;
+    width: 6%;
+    margin-top: 3%;
+    margin-left: 9%;
+    position: absolute;
+  }
+
+  .lsuhsc-s {
+    height: 4%;
+    width: 13%;
+    margin-top: 6.5%;
+    margin-left: 15%;
+    position: absolute;
+  }
+
+  .la-tech {
+    height: 4%;
+    width: 11%;
+    margin-top: 5%;
+    margin-left: 37%;
+    position: absolute;
+  }
+
+  .ulm {
+    height: 4%;
+    width: 7%;
+    margin-top: 16%;
+    margin-left: 43%;
+    position: absolute;
+  }
+
+  .lsu-s {
+    height: 4%;
+    width: 8%;
+    margin-top: 20%;
+    margin-left: 11%;
+    position: absolute;
+  }
+
+  .grambling {
+    height: 4%;
+    width: 13%;
+    margin-top: 20.5%;
+    margin-left: 25%;
+    position: absolute;
+  }
+
+  .nsu {
+    height: 4%;
+    width: 6%;
+    margin-top: 35%;
+    margin-left: 19%;
+    position: absolute;
+  }
+
+  .centenary {
+    height: 4%;
+    width: 13%;
+    margin-top: 24%;
+    margin-left: 8%;
+    position: absolute;
+  }
+
+  .lacollege {
+    height: 4%;
+    width: 14%;
+    margin-top: 31%;
+    margin-left: 34%;
+    position: absolute;
+  }
+
+  .lsu-a {
+    height: 4%;
+    width: 9%;
+    margin-top: 46%;
+    margin-left: 29%;
+    position: absolute;
+  }
+
+  .mcneese {
+    height: 4%;
+    width: 11%;
+    margin-top: 52%;
+    margin-left: 19%;
+    position: absolute;
+  }
+
+  .ololc {
+    height: 4%;
+    width: 10%;
+    margin-top: 37%;
+    margin-left: 50.5%;
+    position: absolute;
+  }
+
+  .subr {
+    height: 4%;
+    width: 8%;
+    margin-top: 41%;
+    margin-left: 49%;
+    position: absolute;
+  }
+
+  .brcc {
+    height: 4%;
+    width: 8%;
+    margin-top: 44.5%;
+    margin-left: 50%;
+    position: absolute;
+  }
+
+  .lsu {
+    height: 4%;
+    width: 9%;
+    margin-top: 46%;
+    margin-left: 29%;
+    position: absolute;
+  }
+
+  .ull {
+    height: 4%;
+    width: 6%;
+    margin-top: 62.75%;
+    margin-left: 36%;
+    position: absolute;
+  }
+
+  .selu {
+    height: 4%;
+    width: 8%;
+    margin-top: 43.5%;
+    margin-left: 65%;
+    position: absolute;
+  }
+
+  .pbrc {
+    height: 4%;
+    width: 7%;
+    margin-top: 59%;
+    margin-left: 50%;
+    position: absolute;
+  }
+
+  .tnprc {
+    height: 4%;
+    width: 9%;
+    margin-top: 48%;
+    margin-left: 70%;
+    position: absolute;
+  }
+
+  .uno {
+    height: 4%;
+    width: 6%;
+    margin-top: 52%;
+    margin-left: 74%;
+    position: absolute;
+  }
+
+  .suno {
+    height: 4%;
+    width: 8%;
+    margin-top: 54%;
+    margin-left: 82%;
+    position: absolute;
+  }
+
+  .dillard {
+    height: 4%;
+    width: 9%;
+    margin-top: 57%;
+    margin-left: 76%;
+    position: absolute;
+  }
+
+  .lsuhsc {
+    height: 4%;
+    width: 10%;
+    margin-top: 62.5%;
+    margin-left: 75%;
+    position: absolute;
+  }
+
+  .nicholls {
+    height: 4%;
+    width: 11%;
+    margin-top: 70.5%;
+    margin-left: 50%;
+    position: absolute;
+  }
+
+  .tulane {
+    height: 4%;
+    width: 9%;
+    margin-top: 66.5%;
+    margin-left: 67%;
+    position: absolute;
+  }
+
+  .xavier {
+    height: 4%;
+    width: 9%;
+    margin-top: 70.5%;
+    margin-left: 66%;
+    position: absolute;
+  }
+}

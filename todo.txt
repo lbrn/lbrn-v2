@@ -35,7 +35,7 @@ Guide on classes (btn, green, etc) we can use
 //update lbrn highlights image on homepage slider
 fix pis page, check ended project
 
-flexbox people page 
+flexbox people page
 
 social media meta-code
 media template  - videos/photos/presentations
