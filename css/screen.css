@@ -3114,13 +3114,13 @@ main div.content #newsContainer.tne {
     width: 100%;
   }
 }
-main div.content.content_tweek {
+main div.content.content-sidebar {
   padding-left: 5%;
   padding-right: 5%;
   width: 80%;
 }
 @media (max-width: 860px) {
-  main div.content.content_tweek {
+  main div.content.content-sidebar {
     width: 100%;
   }
 }
