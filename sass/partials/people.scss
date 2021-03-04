@@ -1,0 +1,140 @@
+.peoplewrap {
+
+  width: 100%;
+  // min-height: 8em;
+  // display: inline-block;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  h3 {
+    width: 100%;
+  }
+
+}
+
+
+section.directory {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  img {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 30%;
+
+    float: left;
+    margin-right: 3.44828%;
+    margin-top: 4%;
+    padding-left: 2.5%;
+  }
+  article.person {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    height: unset;
+    flex: 0 1 40%;
+    margin-top: 1%;
+    margin-bottom: auto;
+    overflow: visible;
+    word-wrap: normal;
+    &:nth-child(even) {
+      margin-right: 5%;
+    }
+    &:nth-child(odd) {
+      margin-left: 5%;
+    }
+    &.npi {
+      margin-bottom:10px;
+    }
+  }
+  h4, h5, h6, ul {
+    font-family: $openFont;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 65%;
+    float: right;
+    margin-right: 0;
+    border: none;
+    line-height: 1.3;
+  }
+  h4 {
+    font-weight: bold;
+    font-size: 0.9em !important;
+    /* padding-bottom: .2em;  */
+  }
+  h5 {
+    margin-bottom: 0;
+    font-size: 0.7em;
+    padding-bottom: 0.5em;
+  }
+  h6 {
+    font-size: 0.6em;
+    font-weight: 600;
+  }
+  ul {
+    margin-left: 0;
+    li {
+      font-size: 0.6em;
+      list-style: none;
+      border: none;
+
+    }
+  }
+  @media (max-width: $sm) {
+    article.person {
+      // min-height: 12em;
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      text-align: center;
+      h4, h5, h6, ul {
+        width: unset;
+        flex: 1 1 100%;
+      }
+    }
+
+    img {
+      width: 45%;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+    }
+
+  }
+  @media (max-width: $md) {
+    img {
+      width: 30%;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+    }
+    article.person {
+      flex: 0 1 100%;
+      margin: 2.5%;
+      // min-height: 12em;
+      padding: 0 10px;
+    }
+  }
+  @media (max-width: $lg) {
+    article.person {
+      flex: 0 1 100%;
+      margin: 5%;
+      margin-top:2%;
+      margin-bottom: 2%;
+    }
+    img {
+      margin-bottom: 4%;
+      width: 25%;
+    }
+
+  }
+
+}

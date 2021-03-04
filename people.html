@@ -6,346 +6,210 @@ title: Cores
 
 
 <aside id="lbrnEventSidebar">
-      <button id="sideBug" class="btn" type="button" data-toggle="collapse" data-target="#lbrnEventSidebarUl" aria-expanded="false" aria-controls="collapseExample">
-        <img src="{{site.baseurl}}/images/menuClosed.png" alt="Menu Bug">
-      </button>
-      <div id="lbrnEventSidebarUl">
+  <button id="sideBug" class="btn" type="button" data-toggle="collapse" data-target="#lbrnEventSidebarUl" aria-expanded="false" aria-controls="collapseExample">
+    <img src="{{site.baseurl}}/images/menuClosed.png" alt="Menu Bug">
+  </button>
+  <div id="lbrnEventSidebarUl">
 
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li>Go To</li>
-          </div>
-        </div>
+    <div class="sidebar-holder">
+      <div class="dot-text-holder">
+        <li>Go To</li>
+      </div>
+    </div>
     <ul>
 
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li class="active"><a href="#lbrnAdminCore">Admin Core</a></li>
-          </div>
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li class="active"><a href="#lbrnAdminCore">Admin Core</a></li>
+        </div>
+      </div>
+
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li>
+            <a href="#lbrnBbcCore">BBC Core</a>
+          </li>
+        </div>
+      </div>
+
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li><a href="#lbrnMcbrCore">MCBR Core</a>
+          </li>
+        </div>
+      </div>
+
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li><a href="#currentlyFunded">Currently Funded PIs</a>
+          </li>
         </div>
 
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li>
-              <a href="#lbrnBbcCore">BBC Core</a>
-            </li>
-          </div>
+      </div>
+
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li><a href="#previouslyFunded">Previously Funded PIs</a>
+          </li>
         </div>
 
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li><a href="#lbrnMcbrCore">MCBR Core</a>
-            </li>
-          </div>
+      </div>
+
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li><a href="#LbrnSteering">LBRN Steering Committee</a>
+          </li>
         </div>
+      </div>
 
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li><a href="#currentlyFunded">Currently Funded PIs</a>
-            </li>
-          </div>
-
+      <div class="sidebar-holder">
+        <div class="dot-text-holder">
+          <li><a href="#LbrnEAC">LBRN EAC</a>
+          </li>
         </div>
-
-        <div class="sidebar-holder">
-          <div class="dot-text-holder">
-            <li><a href="#previouslyFunded">Previously Funded PIs</a>
-            </li>
-          </div>
-
-        </div>
-
-              <div class="sidebar-holder">
-                <div class="dot-text-holder">
-                  <li><a href="#LbrnSteering">LBRN Steering Committee</a>
-                  </li>
-                </div>
-              </div>
-
-              <div class="sidebar-holder">
-                <div class="dot-text-holder">
-                  <li><a href="#LbrnEAC">LBRN EAC</a>
-                  </li>
-                </div>
-              </div>
+      </div>
 
 
-            </ul>
-          </div>
-    <div class="">
-      <li><a href="#">Top</a></li>
-    </div>
+    </ul>
+  </div>
+  <div class="">
+    <li><a href="#">Top</a></li>
+  </div>
 </aside>
 
 <div class="content_tweek content ">
 
-      <h2 id="peopleCore">LBRN Core Personnel</h2>
+  <h2 id="peopleCore">LBRN Core Personnel</h2>
 
 
 
 
-<div class="people" id="matchHeight">
+  <div class="people" id="matchHeight">
     <div class="relative">
       <h3 id="lbrnAdminCore" class="piac ptitle" aria-expanded="true">
         Admin Core
         <div class="caret dropdown-toggle"></div>
       </h3>
       <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin"></i> -->
-      <section class="directory collapsenobs Adcore">
+      <section class="directory collapsenobs Adcore peoplewrap">
+
 
         {% for people in site.admin_core %}
-          {% assign loopindex = forloop.index | modulo: 2 %}
-          {% if loopindex == 1 %}
-          <div class="peoplewrap">
-            {% include directory.html %}
-          {% else %}
-              {% include directory.html %}
-            </div>
-          {% endif %}
+        {% include directory.html %}
+        {% endfor %}
+
+      </section>
+    </div>
+    <div class="relative">
+      <h3 id="lbrnBbcCore" class="pibc ptitle">
+        BBC Core
+        <div class="caret dropdown-toggle">
+      </h3>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs BBcore peoplewrap">
+        <!-- site.data.LBRN-BBC-Core -->
+        {% for people in site.bbc_core %}
+        {% include directory.html %}
         {% endfor %}
       </section>
     </div>
-  <div class="relative">
-    <h3 id="lbrnBbcCore" class="pibc ptitle">
-      BBC Core
-      <div class="caret dropdown-toggle">
-    </h3>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs BBcore">
-      <!-- site.data.LBRN-BBC-Core -->
-      {% for people in site.bbc_core %}
-        {% assign loopindex = forloop.index | modulo: 2 %}
-        {% if loopindex == 1 %}
-          <div class="peoplewrap">
-          {% include directory.html %}
-        {% else %}
-            {% include directory.html %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </section>
-  </div>
-  <div class="relative">
-    <h3 id="lbrnMcbrCore" class="pimc ptitle">
-      MCBR Core
-      <div class="caret dropdown-toggle"></div>
-    </h3>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs MCcore">
-      {% for people in site.MCBR_core %}
-      {% assign loopindex = forloop.index | modulo: 2 %}
-      {% if loopindex == 1 %}
-        <div class="peoplewrap">
+    <div class="relative">
+      <h3 id="lbrnMcbrCore" class="pimc ptitle">
+        MCBR Core
+        <div class="caret dropdown-toggle"></div>
+      </h3>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs MCcore peoplewrap">
+        {% for people in site.MCBR_core %}
         {% include directory.html %}
-      {% else %}
-          {% include directory.html %}
-        </div>
-      {% endif %}
-    {% endfor %}
-
-    </section>
-  </div>
-  <h2 class="pielement" id="peoplePI">Project Investigators</h2>
-  <div class="relative">
-    <h3 id="currentlyFunded" class="picrp ptitle" >Currently Funded PIs
-            <div class="caret dropdown-toggle"></div>
-            </h3>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs CRP" >
-      {% assign count = 0 %}
-          {% for people in site.data.pis_full %}
-            {% if people.active == true %}
-                {% assign count = count | plus: 1 %}
-                  {% assign modcount = count | modulo: 2 %}
-                    {% if modcount == 1  %}
-                    <div class="peoplewrap">
-                        {% include n-directory-currentPi.html %}
-                      {% else %}
-                        {% include n-directory-currentPi.html %}
-                    </div>
-                    {% endif %}
-
-                    {% endif %}
-          {% endfor %}
-
-
-    </section>
-
-  </div>
-  <div class="relative">
-    <h3 id="previouslyFunded" class="pippi ptitle">Previously Funded PIs
+        {% endfor %}
+      </section>
+    </div>
+    <h2 class="pielement" id="peoplePI">Project Investigators</h2>
+    <div class="relative">
+      <h3 id="currentlyFunded" class="picrp ptitle">Currently Funded PIs
         <div class="caret dropdown-toggle"></div>
-    </h3>
-
-    <section class="directory collapsenobs PrevPPi">
-
-      {% assign count = 0 %}
-          {% for people in site.data.pis_full %}
-            {% if people.active == false %}
-                {% assign count = count | plus: 1 %}
-                  {% assign modcount = count | modulo: 2 %}
-                    {% if modcount == 1  %}
-                    <div class="peoplewrap">
-                        {% include n-directory-PrevPi.html %}
-                      {% else %}
-                        {% include n-directory-PrevPi.html %}
-                    </div>
-                    {% endif %}
-
-                    {% endif %}
-          {% endfor %}
-
-    </section>
-  </div>
-  <!-- <div class="relative">
-    <h3 id="previouslyFunded" class="pippi ptitle">Previously Funded PIs
-        <div class="caret dropdown-toggle"></div>
-    </h3>
-
-    <section class="directory collapsenobs PrevPPi">
-
-      {% assign count = 0 %}
-
-      {% for people in site.project_investigators %}
-          {% if people.active == false %}
-            {% assign count = count | plus: 1 %}
-              {% assign modcount = count | modulo: 2 %}
-
-                {% if modcount == 1  %}
-                <div class="peoplewrap">
-                  {% include directory-pi-page.html %}
-                  {% else %}
-                  {% include directory-pi-page.html %}
-                </div>
-                {% endif %}
-
-
-
-          {% endif %}
-      {% endfor %}
-
-    </section>
-  </div> -->
-
-  <!-- Obeselete -->
-  <div class="relative Parti" style="display: none;">
-    <h2 id="partnerInstitutes dropdown-toggle">Partner Institutes</h2>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin2" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs">
-      {% for people in site.partner_Institutes %}
-      {% assign loopindex = forloop.index | modulo: 2 %}
-      {% if loopindex == 1 %}
-        <div class="peoplewrap">
-        {% include directory-partner-institutes.html  %}
-      {% else %}
-          {% include directory-partner-institutes.html  %}
-        </div>
-      {% endif %}
-    {% endfor %}
-
-    </section>
-  </div>
-  <div class="relative">
-    <h3 id="LbrnSteering" class="pilsc ptitle">LBRN Steering Committee
-      <div class="caret dropdown-toggle"></div>
-    </h3>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs LBRNsc">
-      <!-- site.data.LBRN-Steering-Committee -->
-      {% for people in site.LBRN_Steering_Committee %}
-      {% assign loopindex = forloop.index | modulo: 2 %}
-      {% if loopindex == 1 %}
-      <div class="peoplewrap">
-        {% include directory-committee-members.html  %}
-        {% else %}
-        {% include directory-committee-members.html  %}
-      </div>
-      {% endif %}
-      {% endfor %}
-
-    </section>
-  </div>
-  <h2 class="cmelement">Committee Members</h2>
-  <div class="relative">
-    <h3 id="LbrnEAC" class="pile ptitle">LBRN External Advisory Committee
-              <div class="caret dropdown-toggle">
-    </h3>
-    <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
-    <section class="directory collapsenobs LBRNe">
-      <!-- site.data.LBRN-EAC -->
-
-      {% assign loopindex = 0 | modulo: 2 %}
-
-      {% for people in site.committee-members %}
-
-        {%  assign loop2 = loopindex | modulo: 2 %}
-
-        {% if people.category != "Former EAC Members"%}
-
-          {% if loopindex == 0 %}
-
-          <div class="peoplewrap">
-
-            {% include directory-committee-members.html  %}
-
-          {% else %}
-
-          {% include directory-committee-members.html  %}
-        </div>
-
-          {% endif %}
-
-          {% assign loopindex = loopindex | plus: 1  | modulo: 2 %}
+      </h3>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs CRP peoplewrap">
+        {% for people in site.data.pis_full %}
+        {% if people.active == true %}
+        {% include n-directory-currentPi.html %}
         {% endif %}
-
-      {% endfor %}
-      {% if loopindex == 1%}
-  </div>
-{%endif%}
+        {% endfor %}
 
 
+      </section>
+
+    </div>
+    <div class="relative">
+      <h3 id="previouslyFunded" class="pippi ptitle">Previously Funded PIs
+        <div class="caret dropdown-toggle"></div>
+      </h3>
+
+      <section class="directory collapsenobs PrevPPi peoplewrap">
+
+        {% for people in site.data.pis_full %}
+        {% if people.active == false %}
+        {% include n-directory-PrevPi.html %}
+        {% endif %}
+        {% endfor %}
+
+      </section>
+    </div>
 
 
-    <!-- ADD IF = CATEGORY Former -->
-    <!-- seperate them -->
+    <div class="relative Parti" style="display: none;">
+      <h2 id="partnerInstitutes dropdown-toggle">Partner Institutes</h2>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin2" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs peoplewrap">
+        {% for people in site.partner_Institutes %}
+        {% include directory-partner-institutes.html %}
+        {% endfor %}
 
-    <h3>Former EAC Members</h3>
+      </section>
+    </div>
+    <div class="relative">
+      <h3 id="LbrnSteering" class="pilsc ptitle">LBRN Steering Committee
+        <div class="caret dropdown-toggle"></div>
+      </h3>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs LBRNsc peoplewrap">
+        <!-- site.data.LBRN-Steering-Committee -->
+        {% for people in site.LBRN_Steering_Committee %}
+        {% include directory-committee-members.html %}
+        {% endfor %}
 
-    {% assign loopindex = 0 | modulo: 2 %}
-    {% for people in site.committee-members %}
+      </section>
+    </div>
+    <h2 class="cmelement">Committee Members</h2>
+    <div class="relative">
+      <h3 id="LbrnEAC" class="pile ptitle">LBRN External Advisory Committee
+        <div class="caret dropdown-toggle">
+      </h3>
+      <!-- <i class="collapsetstyle fa fa-2x fa-chevron-right icon-margin" aria-hidden="true"></i> -->
+      <section class="directory collapsenobs LBRNe peoplewrap">
+        <!-- site.data.LBRN-EAC -->
 
-      {%  assign loop2 = loopindex | modulo: 2 %}
+        {% for people in site.committee-members %}
+          {% if people.category != "Former EAC Members"%}
+          {% include directory-committee-members.html %}
+          {% endif %}
+        {% endfor %}
 
-      {% if people.category == "Former EAC Members"%}
-
-        {% if loopindex == 0 %}
-
+        <h3>Former EAC Members</h3>
         <div class="peoplewrap">
 
-          {% include directory-committee-members.html  %}
+          {% for people in site.committee-members %}
+            {% if people.category == "Former EAC Members"%}
+            {% include directory-committee-members.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
 
-        {% else %}
+      </section>
 
-        {% include directory-committee-members.html  %}
-      </div>
-
-        {% endif %}
-
-        {% assign loopindex = loopindex | plus: 1  | modulo: 2 %}
-      {% endif %}
-
-    {% endfor %}
-    {% if loopindex == 1%}
+    </div>
   </div>
-{%endif%}
 
-
-      <!-- directory-committee-members.html  -->
-
-    </section>
-
-  </div>
-</div>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/scrollMenu.js"></script>
 </div>

@@ -14,7 +14,7 @@
   <ul>
     <!-- <li>{{people.zip}}</li> zxzxz -->
     <li>{{people.city}}, {{people.state}}, {{people.zip}}</li>
-    <li>{{people.email}}</li>
+    <li>{{people.email | replace: "@", "@&#8203;" }}</li>
     <li>{{people.phone}}</li>
   </ul>
 </article>
