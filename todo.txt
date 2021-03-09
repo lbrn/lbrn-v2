@@ -36,7 +36,8 @@ Guide on classes (btn, green, etc) we can use
 //fix pis page, check ended project
 
 //flexbox people page
-dropdown overflow and layered under sidebar
+//dropdown overflow and layered under sidebar
+proje investigators page 
 
 social media meta-code
 media template  - videos/photos/presentations
