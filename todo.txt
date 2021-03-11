@@ -37,7 +37,10 @@ Guide on classes (btn, green, etc) we can use
 
 //flexbox people page
 //dropdown overflow and layered under sidebar
-proje investigators page 
+//proje investigators page
+
+News, events page, people profile pages updated, check
+
 
 social media meta-code
 media template  - videos/photos/presentations

@@ -1,0 +1,81 @@
+//
+// #newsContainer{
+//  width: 100%;
+//  max-width: 800px;
+//  &.tne {
+//    width:80%;
+//    margin-right:0;
+//    margin-left:0;
+//    padding-right:5%;
+//    @media (max-width: $md){
+//      width:100%;
+//
+//    }
+//  }
+//
+// }
+
+
+.slider {
+  box-sizing: border-box;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+  margin-bottom: 2em;
+  display: block;
+  width: 70%;
+  height: 24.75em;
+  padding-bottom: 5%;
+  @media (max-width: 1100px) {
+    height: 22em;
+  }
+
+  @media (max-width: $lg) {
+    height: 16em;
+  }
+
+
+  @media (max-width: $md) {
+    width: 100%;
+    height: unset;
+  }
+  @media (max-width: $sm) {
+    height: 0;
+    padding-bottom: 50%;
+  }
+}
+
+#newsContainer {
+  padding-left: 5%;
+  padding-right: 5%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  max-width: 800px;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  order: 2;
+  @media (min-width: $md) {
+    width: 57.14286%;
+    float: left;
+    margin-right: 2.85714%;
+    padding-left: 5%;
+    padding-right: 0;
+  }
+
+  &.tne {
+    width:80%;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 5%;
+    @media (max-width: $md) {
+      width: 100%;
+    }
+  }
+}
+@media (min-width: $md) {
+
+}
