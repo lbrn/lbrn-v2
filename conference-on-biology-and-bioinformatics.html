@@ -7,18 +7,19 @@ eventDate: April 15 - 17, 2021
 eventTime: Multiple Times
 eventLocation: Virtual
 eventAddress:
-eventDeadlines: TBD
----
+eventDeadlines: March 31, 2021 (Registration/Abstracts)
 
+---
 <aside id="lbrnEventSidebar2">
   <ul id="lbrnEventSidebarUl">
     <li class="active"><a href="#eventSummary">about</a></li>
-<!--	<li><a href="#eventParticipants">speakers</a></li> -->
-    <li class="active"><a href="#eventWhenAndWhere">when and where</a></li>
-<!--    <li><a href="#eventPresentations">presentations</a></li> -->
-    <li class="active"><a href="#eventRegistration">registration</a></li>
-    <li class="active"><a href="#eventArchiveMedia">previous meetings</a></li>
-<!--     <li><a href="#eventMediaLink">Event Media</a></li> -->
+    <li><a href="#eventParticipants">speakers</a></li>
+    <li><a href="#eventWhenAndWhere">when and where</a></li>
+<!--    <li><a href="#eventLodgingAndExpenses">lodging and expenses</a></li> -->
+    <li><a href="#eventRegistration">registration</a></li>
+    <li><a href="#eventArchiveMedia">previous conferences</a></li>
+    <!-- <li><a href="#eventMediaLink">Event Media Page</a></li> -->
+
   </ul>
 </aside>
 
@@ -26,77 +27,89 @@ eventDeadlines: TBD
 <div class="content_tweek">
 
 	<section id="eventSummary">
-	<br>
+
     	<h2 class="event-section-head">About</h2>
     	<div id="eventAbout">
 
 <!--      <p><a href="downloads/2020_8thannual_ccbb_2020-02-07.pdf" target="_blank" ><img src="images/2020_8thannual_ccbb_2020-02-07.png" alt="2020 8th Annual Louisiana Conference on Computational Biology and Bioinformatics Flier (2020-02-07)" style="float:right;width:300px;border:0;padding-left:20px;"></a>
 -->
 
-		<p>The 2021 Annual Louisiana Conference on Computational Biology and Bioinformatics is being held {{page.eventDate}} {{page.eventLocation}}. The conference is co-sponsored by the Louisiana Biomedical Research Network (LBRN), the LSU-Tulane Center for Experimental Infectious Disease Research (CEIDR), and the LSU Center for Computation and Technology (CCT). The conference aims to expose Louisiana to the cutting edge of Computational Biology, Bioinformatics Research and Applications while also providing a platform for exchange of information and technical knowledge among Louisiana-based scientists involved in different aspects of computational biology & bioinformatics.</p>
+			<p>The 2021 Annual Louisiana Conference on Computational Biology and Bioinformatics is being held {{page.eventDate}} {{page.eventLocation}}. The conference is co-sponsored by the Louisiana Biomedical Research Network (LBRN), the LSU-Tulane Center for Experimental Infectious Disease Research (CEIDR), and the LSU Center for Computation and Technology (CCT). The conference aims to expose Louisiana to the cutting edge of Computational Biology, Bioinformatics Research and Applications while also providing a platform for exchange of information and technical knowledge among Louisiana-based scientists involved in different aspects of computational biology & bioinformatics.</p>
 
-<!--      <p><a href="downloads/2019-7thannual_ccbb-2019-02-26.pdf" target="_blank" >Conference Flier PDF (updated 2019.02.26)</a></p> -->
+<!--      <p><a href="downloads/2019-7thannual_ccbb-2019-02-26.pdf" target="_blank" >Conference Flier PDF (updated 2019.02.26)</a></p>
+
+-->
+
+			<br>
+			<h3>Tentative Conference Schedule (all times are CDT):</h3>
+			<ul>
+      			<li>April 15th, Thursday from 12:30pm to 5:30pm CDT</li>
+        		<li>April 16th, Friday from 12:30pm to 5:30pm CDT</li>
+        		<li>April 17th, Saturday from 9:00am to 12:00pm CDT</li>
+    		</ul>
+
+
+<!--     <h3>Conference Program:</h3>
+      <p>Download the 2019 Digital Conference Program <a href="downloads/2019-LA-Conf-Bioinformatics-Program.pdf" target="_blank" >2019 LA Conf Bioinformatics Program.pdf (2019.04.05)</a></p>
+   			<h3>Agenda</h3>
+    		<section class="important" style="overflow: hidden;">
+        Download the 2019 Conference Agenda
+        <a href="downloads/Agenda_7thBBCConf_2019_04_01.pdf"class="float callout" alt="" target="_blank" >
+        <p>2019 LA Conf Bioinformatics Agenda.pdf (2019.04.01)</p>
+        <img src="images/Agenda_7thBBCConf_2019_04_01.png" alt="The 7th Annual Louisiana Conference on Computational Biology and Bioinformatics Conference Agenda, updated April 1, 2019">
+        </a>
+     		 </section>
+
+         -->
 		</div>
 	</section>
-<!--
+
 	<section id="eventParticipants">
-    	<h2 class="event-section-head">Keynote Speakers</h2>
+    	<h2 class="event-section-head">Speakers</h2>
     	<div id="eventSpeakers">
       		<article id="speakers">
-        		{% include LCCB-speakers-2020.html %}
+        		{% include LCCB-speakers-2021.html %}
       		</article>
     	</div>
 	</section>
--->
+
 	<section id="eventWhenAndWhere">
- 	<h2 class="event-section-head">When &amp; Where</h2>
+
+	<h2 class="event-section-head">When &amp; Where</h2>
     	<div id="eventWhen">
-      		<h3>Tentative Conference Schedule:</h3>
-			<ul>
-      			<li>April 15th, Thursday from 12:30pm to 5:30pm</li>
-        		<li>April 16th, Friday from 12:30pm to 5:30pm</li>
-        		<li>April 17th, Saturday from 9:00am to 12:00pm</li>
-    		</ul>
       		
       		<h3>Virtual Location</h3>
-      		<section>
-      		 	This year's conference is being held on {{page.eventDate}} {{page.eventLocation}}. The Virtual hosting information will be provided with your registration information just before the meeting.
-      		</section>
-
+      		<p>This year's conference is being held on {{page.eventDate}} {{page.eventLocation}}. The Virtual hosting information will be provided with your registration information just before the meeting.</p>
       		<p style="clear: both"></p>
+			<p>{{page.eventLocation}}</p> 
 
-<!-- 		<p>{{page.eventLocation}}</p> 
-
-     		<h3>Deadlines</h3>
+      		<h3>Deadlines</h3>
       		<ul>
-        		<li><span class="bold">Registration:</span> {{ page.eventDeadlines }}</li>
-        		<li><span class="bold">Presentation &amp; Oral Abstracts:</span> {{ page.eventDeadlines }}</li>
-        <li><span class="bold">Hotel:</span>{{ page.eventDeadlines }}</li>
+        		<li><span class="bold"> {{ page.eventDeadlines }}</li></span>
       		</ul>
--->
- 
-    	</div>
-  	</section>
-  	
-  	<section id="eventRegistration">
 
-    <h2 class="event-section-head">Registration</h2>
+		</div>
+	</section>
+
+	<section id="eventRegistration">
+		<h2 class="event-section-head">Registration</h2>
     	<div id="eventReg">
-		Coming Soon
+    	
+    	Registration Coming Soon
 <!--		<a class="button" href="https://redcap.lbrn.lsu.edu/surveys/?s=99PFLNKP9Y">Register Here</a> -->
 
     	</div>
-  	</section>
+	</section>
 
 
   	<section id="eventArchiveMedia">
-	<h2 class="event-section-head">Previous Conferences</h2>
-     <div class= "collapse show" id="eventPrev">
-		<h3><a href="/conference-on-biology-and-bioinformatics-2020.html">2020 Conference on Biology and Bioinformatics<a/></h3>
-		<h3><a href="/conference-on-biology-and-bioinformatics-2019.html">2019 Conference on Biology and Bioinformatics<a/></h3>
-  		<h3><a href="/conference-on-biology-and-bioinformatics-2018.html">2018 Conference on Biology and Bioinformatics<a/></h3>
+		<h2 class="event-section-head">Previous Conferences</h2>
+     	<div class= "collapse show" id="eventPrev">
+			<h3><a href="/conference-on-biology-and-bioinformatics-2020.html">2020 Conference on Biology and Bioinformatics<a/></h3>
+			<h3><a href="/conference-on-biology-and-bioinformatics-2019.html">2019 Conference on Biology and Bioinformatics<a/></h3>
+  			<h3><a href="/conference-on-biology-and-bioinformatics-2018.html">2018 Conference on Biology and Bioinformatics<a/></h3>
   		</div>
-  	</section>
+	</section>
 
   <!-- <section id="eventMediaLink">
       <h2 class="event-section-head">Event Media</h2>

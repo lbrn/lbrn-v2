@@ -1,8 +1,7 @@
 {% for speakers in site.data.LCCB-speakers-2021 %}
 <section>
-	<a href="{{speakers.pdf}}" target="_blank" alt="Speaker's associated PDF">
-    		<img src="{{speakers.picture}}" alt="{{speakers.name}} 's PDF thumbnail'"></a>
-    <h3>{{speakers.title2}}</h3>
+	<a href="{{speakers.pdf}}" target="_blank" alt="Speaker's associated PDF"><img src="{{speakers.picture}}" alt="{{speakers.name}} 's PDF thumbnail'"></a><hr>
+	<p><b>{{speakers.title2}}</b></p>
 	<p>{{speakers.name}}, {{speakers.university}}</p>
 	<p>{{speakers.title1}}</p>
 	<p><a href="{{speakers.flyer}}" target="_blank" alt="Speaker's Information">{{speakers.flyer}}</a>
