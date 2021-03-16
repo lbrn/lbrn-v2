@@ -74,14 +74,14 @@ on supplemental project
 
 Priority:
 
--merge latest changes in
--Reg link
--Keynote speakers:
+//-merge latest changes in
+//-Reg link
+//-Keynote speakers:
 Place for link
-added abstract, make it look like the tentative conference schedule above
+//added abstract, make it look like the tentative conference schedule above
 flyer thumbnail beneath headshot or replace bio
 LCCB-speakers-2021
--H3 hover issue, fix text for bio being too small
+//-H3 hover issue, fix text for bio being too small
 
 -new Steering committee member
 
