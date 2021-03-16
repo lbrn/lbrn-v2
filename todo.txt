@@ -39,8 +39,71 @@ Guide on classes (btn, green, etc) we can use
 //dropdown overflow and layered under sidebar
 //proje investigators page
 
-News, events page, people profile pages updated, check
+News, events page, people profile pages updated
+
+Still need to work on guide
+
+Cleaned up sass, breaking pages into seperaet ones
+did the hide reg link, fix the highlight awards page, adjust events pages
+Replaced lbrn-events img
+made new img for lbrn highlights home slider
+
+//=======================================
+meeting 3-16-2021
+merge in main
+carousel: 2nd item, change to conference on bio and bioinformatics
+Annual LBRN
+crop img for carousel
+
+Annual meeting - hover over pointer bug
+Consider - photo AND flyer for keynote speakers?
+
+About page - need to fit in 2 more Mentor Campuses
+think about hover-over effect on new orleans due to pin density
+move HSC up? tulane medical beneath it, move xavier
+
+People - Add new member
+
+Annual meetings - whitespace
+remove reg link on annual meeting
+
+Project investigators - staggered with a margin on the left?
+on supplemental project
 
 
+
+Priority:
+
+-merge latest changes in
+-Reg link
+-Keynote speakers:
+Place for link
+added abstract, make it look like the tentative conference schedule above
+flyer thumbnail beneath headshot or replace bio
+LCCB-speakers-2021
+-H3 hover issue, fix text for bio being too small
+
+-new Steering committee member
+
+Waiting on carousel img
+
+
+
+Low: add tulane medical, change it to say Tulane University
+
+Collage, shape of lousiaian, work in LBRN
+
+Gus making renewal
+usually get together for a group photo - collage?
+photos of the Admin Core - Collage from people page
+Core Directors from BBC/MCBR
+Maybe steering committee? + UNO when we add them
+if need more, look at current PIs
+
+
+
+april 15th, 16th, 17th (morning only 17th)
+
+====================
 social media meta-code
 media template  - videos/photos/presentations
