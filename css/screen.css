@@ -768,19 +768,6 @@
   background-repeat: no-repeat;
   position: relative;
 }
-#campusmap .bgholder {
-  height: 3em;
-  width: 50%;
-  position: relative;
-  display: inline-block;
-}
-#campusmap .bgholder:nth-child(even) .bg {
-  opacity: 0.7;
-}
-#campusmap .bgholder:nth-child(even) li {
-  font-family: roundedMplus1cLight;
-  color: #212529;
-}
 #campusmap .bg {
   background-color: white;
   width: 100%;
@@ -3657,6 +3644,189 @@ section.directory.projectinvestigators article.person {
   }
 }
 
+.content .eventsection {
+  position: relative;
+  margin-bottom: 1.2em;
+}
+.content .eventsection h2 {
+  /* padding-right: 1.5em; */
+  margin-top: unset;
+  background-color: unset;
+  cursor: pointer;
+}
+.content .eventsection h2:hover {
+  /* cursor: pointer; */
+  -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+          border-radius: 10px;
+}
+@media (min-width: 667px) {
+  .content .eventsection {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    overflow: hidden;
+  }
+  .content .eventsection h2 {
+    background-color: white;
+    cursor: auto;
+  }
+  .content .eventsection h2:hover {
+    background-color: unset;
+  }
+}
+.content .eventsection#eventRegistration p, .content .eventsection#eventSummary p {
+  font-size: 0.85em;
+}
+.content div.caption {
+  padding-left: 20px;
+}
+@media (max-width: 667px) {
+  .content div.caption {
+    padding-left: 0;
+  }
+}
+
+#eventLodgingAndExpenses section,
+#eventWhenAndWhere section {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+#eventLodgingAndExpenses .map-icon,
+#eventWhenAndWhere .map-icon {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13.7931%;
+  float: left;
+  margin-right: 3.44828%;
+  margin-top: 0.25em;
+  font-size: 2em;
+}
+#eventLodgingAndExpenses .map-address,
+#eventWhenAndWhere .map-address {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 82.75862%;
+  float: right;
+  margin-right: 0;
+}
+
+#speakers {
+  overflow: hidden;
+  *zoom: 1;
+}
+#speakers section {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+#speakers h3 {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 65.51724%;
+  float: right;
+  margin-right: 3.44828%;
+  clear: unset;
+  margin-top: 0.8em;
+  cursor: auto;
+}
+#speakers p {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 65.51724%;
+  float: right;
+  margin-right: 3.44828%;
+  margin-top: 0.25em;
+  line-height: 1.4;
+}
+#speakers p.bio {
+  font-size: 18px;
+  font-weight: 300;
+}
+#speakers img {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 20%;
+  float: left;
+  margin-left: 0;
+  margin-top: 1.2em;
+}
+
+.seminar-speaker {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+.seminar-speaker img {
+  margin: auto;
+  display: block;
+}
+.seminar-speaker h3 {
+  margin-top: 1em;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+.seminar-speaker div {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  position: relative;
+}
+.seminar-speaker div i {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 13.7931%;
+  float: left;
+  margin-right: 3.44828%;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 0.3em;
+}
+.seminar-speaker div p {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 82.75862%;
+  float: right;
+  margin-right: 0;
+  text-align: left;
+}
+
 a,
 abbr,
 acronym,
@@ -4608,13 +4778,13 @@ main div.content #newsContainer.tne {
     width: 100%;
   }
 }
-main div.content.content-sidebar {
+main div.content .content-sidebar {
   padding-left: 5%;
   padding-right: 5%;
   width: 80%;
 }
 @media (max-width: 860px) {
-  main div.content.content-sidebar {
+  main div.content .content-sidebar {
     width: 100%;
   }
 }
@@ -5226,184 +5396,6 @@ img.fit {
   -webkit-align-self: flex-start;
       -ms-flex-item-align: start;
           align-self: flex-start;
-}
-
-.content .eventsection {
-  position: relative;
-  margin-bottom: 1.2em;
-}
-.content .eventsection h2 {
-  /* padding-right: 1.5em; */
-  margin-top: unset;
-  background-color: unset;
-  cursor: pointer;
-}
-.content .eventsection h2:hover {
-  /* cursor: pointer; */
-  -webkit-border-radius: 10px;
-     -moz-border-radius: 10px;
-          border-radius: 10px;
-}
-@media (min-width: 667px) {
-  .content .eventsection {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 100%;
-    float: left;
-    margin-left: 0;
-    margin-right: 0;
-    overflow: hidden;
-  }
-  .content .eventsection h2 {
-    background-color: white;
-    cursor: auto;
-  }
-  .content .eventsection h2:hover {
-    background-color: unset;
-  }
-}
-.content .eventsection#eventSummary p, .content .eventsection#eventRegistration p {
-  font-size: 0.85em;
-}
-.content div.caption {
-  padding-left: 20px;
-}
-@media (max-width: 667px) {
-  .content div.caption {
-    padding-left: 0;
-  }
-}
-
-#eventLodgingAndExpenses section,
-#eventWhenAndWhere section {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-#eventLodgingAndExpenses .map-icon,
-#eventWhenAndWhere .map-icon {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 13.7931%;
-  float: left;
-  margin-right: 3.44828%;
-  margin-top: 0.25em;
-  font-size: 2em;
-}
-#eventLodgingAndExpenses .map-address,
-#eventWhenAndWhere .map-address {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 82.75862%;
-  float: right;
-  margin-right: 0;
-}
-
-#speakers {
-  overflow: hidden;
-  *zoom: 1;
-}
-#speakers section {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-#speakers h3 {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 65.51724%;
-  float: right;
-  margin-right: 3.44828%;
-  clear: unset;
-  margin-top: 0.8em;
-}
-#speakers p {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 65.51724%;
-  float: right;
-  margin-right: 3.44828%;
-  margin-top: 0.25em;
-  line-height: 1.4;
-}
-#speakers img {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 20%;
-  float: left;
-  margin-left: 0;
-  margin-top: 1.2em;
-}
-
-.seminar-speaker {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-.seminar-speaker img {
-  margin: auto;
-  display: block;
-}
-.seminar-speaker h3 {
-  margin-top: 1em;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-.seminar-speaker div {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 1em;
-  position: relative;
-}
-.seminar-speaker div i {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 13.7931%;
-  float: left;
-  margin-right: 3.44828%;
-  margin-left: 0;
-  text-align: center;
-  margin-top: 0.3em;
-}
-.seminar-speaker div p {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 82.75862%;
-  float: right;
-  margin-right: 0;
-  text-align: left;
 }
 
 .collapsenobs {

@@ -31,7 +31,9 @@
           <p id="date">Event Date: {{page.eventDate}}</p>
           <p id="date">Deadline: {{page.eventDeadlines}}</p>
           <p>Location: {{page.eventLocation}}</p>
+          {% if page.reg != nil %}
           <a class="button" href="#eventRegistration">Registration Information</a>
+          {% endif %}
         </div>
       </section>
       <div class="content">
