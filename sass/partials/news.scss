@@ -52,6 +52,12 @@
     min-height: 11em;
     overflow: hidden;
     margin-top: 1.75em;
+    padding: 5px;
+    padding-right: 10px;
+    border-radius: 6px;
+    transition: all .3s ease-in-out;
+
+
     .post-date {
      font-weight: 700;
      margin-top: 1.5em;
@@ -121,7 +127,13 @@
         margin-left: 0;
         padding-left: 0;
         font-size: 1.75em;
-        border: none; }
+        border: none;
+        // color: $primary;
+        transition: all .3s ease-in-out;
+        &:hover {
+          cursor: auto;
+        }
+      }
       &:hover
       {
         /* color: #49a54e; */
@@ -135,7 +147,15 @@
       h3 {
        color: $primary; }
     }
-
+      &:hover {
+        background-color: $pentia;
+        transition: all .3s ease-in-out;
+        h3 {
+         &.override {
+           color: $primary;
+         }
+       }
+      }
     }
     @media (max-width: $md){
       article {

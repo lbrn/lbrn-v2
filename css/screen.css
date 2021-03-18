@@ -2817,6 +2817,14 @@ section.directory.projectinvestigators article.person {
   min-height: 11em;
   overflow: hidden;
   margin-top: 1.75em;
+  padding: 5px;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 .news article .post-date, div.content .news article .post-date {
   font-weight: 700;
@@ -2896,6 +2904,9 @@ section.directory.projectinvestigators article.person {
   font-size: 1.75em;
   border: none;
 }
+.news article h3.override:hover, div.content .news article h3.override:hover {
+  cursor: auto;
+}
 .news article h3:hover, div.content .news article h3:hover {
   /* color: #49a54e; */
 }
@@ -2908,6 +2919,13 @@ section.directory.projectinvestigators article.person {
 }
 .news article.featured h3, div.content .news article.featured h3 {
   color: #2C3D6C;
+}
+.news article:hover, div.content .news article:hover {
+  background-color: #def0df;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 @media (max-width: 667px) {
   .news article, div.content .news article {
