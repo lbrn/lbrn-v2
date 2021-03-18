@@ -77,13 +77,23 @@ Priority:
 //-merge latest changes in
 //-Reg link
 //-Keynote speakers:
-Place for link
 //added abstract, make it look like the tentative conference schedule above
+//-H3 hover issue, fix text for bio being too small
+Place for link
 flyer thumbnail beneath headshot or replace bio
 LCCB-speakers-2021
-//-H3 hover issue, fix text for bio being too small
+
+news:
+//title fix
+links on front page
+link to full post vs external link
+
+
+
 
 -new Steering committee member
+
+default-nested page?
 
 Waiting on carousel img
 

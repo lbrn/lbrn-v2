@@ -121,7 +121,11 @@
         margin-left: 0;
         padding-left: 0;
         font-size: 1.75em;
-        border: none; }
+        border: none;
+        &:hover {
+          cursor: auto;
+        }
+      }
       &:hover
       {
         /* color: #49a54e; */
