@@ -1,4 +1,7 @@
 <article>
+  {% if post.link != nil %}
+  <a href="{{post.link}}">
+  {% endif %}
   <!-- <a href={{ {{post.url}} | relative_url }}> -->
     <h3 class="override" id="{{post.date}}">{{post.title}}</h3>
   <!-- </a> -->
@@ -10,5 +13,9 @@
   {% endif %}
   <!-- <p class="post-date">{{post.date | date:" %B %-d, %Y"}}</p> -->
   <p class="summary">{{post.excerpt | strip_html }}</p>
-  <a class="post-link" href="{{site.baseurl}}{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>
+  {% if post.link != nil %}
+    </a>
+  {% else %}
+  <a class="post-link" href="{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>  
+  {% endif %}
 </article>
