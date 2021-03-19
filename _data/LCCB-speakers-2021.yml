@@ -1,0 +1,98 @@
+-
+  name: Lauren Ancel Meyers
+  university: University of Texas at Austin
+  title1: Director, UT COVID-19 Modeling Consortium, Cooley Centennial Professor in Biology and Statistics
+  title2: Keynote - Modeling to Mitigate COVID-19 in a Large US City
+  picture: images/speakers/2021/LACCBB 2021 Lauren.Meyers.JPG
+  pdf: http://www.bio.utexas.edu/research/meyers/LaurenM/index.html
+  flyer: https://covid-19.tacc.utexas.edu
+  abstract: |
+      Dr. Lauren Ancel Meyers is the Cooley Centennial Professor in biology and statistics at the University of Texas at Austin. For over 20 years, Dr. Meyers has pioneered the application of network theory, data-driven models, and machine learning to improve the detection, forecasting and control of emerging viral threats. She is the founding director of the UT COVID-19 Modeling Consortium, which has provided global leadership throughout the pandemic though multiple COVID-19 forecasting dashboards and critical analyses to support pandemic surveillance, response, testing and school opening strategies nationwide. Dr. Meyers received her BA in mathematics and philosophy at Harvard University and PhD in biology at Stanford University. She was named as one of the top 100 global innovators under age 35 by the MIT Technology Review in 2004 and received the Joseph Lieberman Award for Significant Contributions to Science in 2017.
+-
+  name: Catherine Lozupone
+  university: University of Colorado Denver
+  title1: Associate Professor • Biomedical Bioinformatics and Personalized Medicine
+  title2: Keynote
+  picture: https://www.virology-education.com/wp-content/uploads/2015/02/Lozupone-Catherine-2019-120x160_1.png
+  pdf: https://www.virology-education.com/catherine-lozupone-phd/
+  flyer: https://som.ucdenver.edu/Profiles/Faculty/Profile/21289
+  abstract: 
+-
+  name: Moriah L. Szpara
+  university: Center for Infectious Disease Dynamics, Huck Institutes of the Life Sciences, and Eberly College of Science, Pennsylvania State University
+  title1: Associate Professor, Depts. of Biology, and Biochemistry & Molecular Biology
+  title2: Keynote - Herpes simplex viruses -- as unique and long-lived as their human hosts
+  picture: https://science.psu.edu/sites/default/files/2019-10/moriah-szpara.jpg
+  pdf: https://science.psu.edu/bio/people/mls164
+  flyer: https://science.psu.edu/bio/people/mls164
+  abstract: |
+    Moriah Szpara is an Associate Professor in the Departments of Biology, and of Biochemistry and Molecular Biology, at the Pennsylvania State University. Her group is part of the Center for Infectious Disease Dynamics (CIDD) at Penn State, within the Huck Institutes for the Life Sciences. Szpara received her Ph.D. in Molecular and Cell Biology from the University of California Berkeley, in neurobiology. As a postdoctoral fellow at Princeton University with Dr. Lynn Enquist, Dr. Szpara focused on the neurotropic herpesviruses. The Szpara lab now explores the impacts of viral genetic diversity on virulence and disease severity, with a focus on viruses that infect the nervous system. This research spans the range from genomic and bioinformatic comparisons of viral genomes, to dissecting viral interactions with human neurons, to examining viral diversity in real-world human infections. We also build open-source tools for working with viral genomes, like VirAmp <a href="http://viramp.com">(http://viramp.com)</a> and VirGA <a href="http://virga.readthedocs.org/">(http://virga.readthedocs.org/)</a>. You can keep up with the lab’s research at: <a href="http://szparalab.psu.edu/">http://szparalab.psu.edu/</a>, or on Science Twitter <a href="https://twitter.com/SzparaLab">@SzparaLab</a>.
+-
+  name: Michelle Lacey
+  university: Tulane University School of Public Health and Tropical Medicine
+  title1: Associate Professor of Mathematics Adjunct Associate Professor of Biostatistics
+  title2: Keynote
+  picture: https://media-exp1.licdn.com/dms/image/C5603AQGwYkOf_KKr6w/profile-displayphoto-shrink_400_400/0/1517700098595?e=1621468800&v=beta&t=SAicWhVX-DnS1Popi_aya-8KAW9RdIGknBYe4tBW5Co
+  pdf: https://medicine.tulane.edu/departments/tulane-cancer-center/faculty/michelle-lacey-phd
+  flyer: https://medicine.tulane.edu/departments/tulane-cancer-center/faculty/michelle-lacey-phd
+  abstract: 
+-
+  name: Todd Reilly
+  university: NIH/CIT STRIDES Initiative
+  title1: Chief Scientist, Percipient Consulting
+  title2: NIH/CIT STRIDES - Overview
+  picture: https://media-exp1.licdn.com/dms/image/C4E03AQHRRWX6sWmffQ/profile-displayphoto-shrink_400_400/0/1517667030594?e=1620864000&v=beta&t=YMTP3iquQleB8jQjEcBBpMW4V2x5zY4J9ru1UO3J__g
+  pdf: https://www.linkedin.com/in/rtreilly/
+  flyer: hhttps://www.linkedin.com/in/rtreilly/
+  abstract: |
+    Todd holds PhD in Biochemistry from the University of South Carolina, and started his career leading a research program in Tumor Immunology before moving to a consulting role. As the Client Services Team Lead for STRIDES, Todd works with researchers interested in the STRIDES Initiative to better understand their use cases and connect them with resources and expertise within STRIDES and our partners. He also supports efforts within the STRIDES team to continue to improve the service offerings STRIDES provides to the NIH and its funded investigators.
+-
+  name: Matt Gieseke
+  university: NIH/CIT STRIDES Initiative
+  title1: Cloud Instructional Development Lead at Covalent Solutions, LLC
+  title2: NIH/CIT STRIDES - Training Spotlight
+  picture: https://media-exp1.licdn.com/dms/image/C4E03AQEbVIVisS6Wlw/profile-displayphoto-shrink_400_400/0/1548866936383?e=1620864000&v=beta&t=REUDFFR5QVhFk25pkp_gyNOxuSrXhG24p2RA_NCDPGE
+  pdf: https://www.linkedin.com/in/matthew-gieseke-05646b63/
+  flyer: https://www.linkedin.com/in/matthew-gieseke-05646b63/
+  abstract: |
+    Matt leads the NIH STRIDES Initiative’s Training Program, which seeks to empower the NIH and NIH-funded biomedical research corps to advance their work in the cloud. Through partnerships with commercial cloud service providers and collaboration with NIH’s 27 institutes and centers, the STRIDES Initiative Training Program has delivered training to over 3,000 students across the country since the Training Program was initiated in November 2019. Matt is also spearheading the Training Program’s custom training development efforts, which will further empower NIH and NIH-funded biomedical researchers to work, innovate, and advance their research in the cloud.
+-
+  name: Ankit Malhotra
+  university: Amazon Web Services (AWS)
+  title1: Business development for Biomedical Research
+  title2: Transforming Biomedical Research with AWS
+  picture: https://media-exp1.licdn.com/dms/image/C4D03AQEebF-JMZrXuQ/profile-displayphoto-shrink_400_400/0/1570636328683?e=1620864000&v=beta&t=k0HU_7EaxVM9RN5QUdJPI-yr_1a0oMXVBhBdPLgMv8w
+  pdf: https://www.linkedin.com/in/malhotraa/
+  flyer: https://www.linkedin.com/in/malhotraa/
+  abstract: |
+    Ankit Malhotra is the biomedical research lead on the Amazon Web Services (AWS) research team. At AWS, Ankit helps lower the barrier for biomedical researchers to build solutions and do their research using cloud computing. With cross training in computer science, molecular biology, and genetics, he has over 10 years of experience as a NIH-funded computational genomic scientist.
+-
+  name: Erin Chu
+  university: Amazon Web Services (AWS)
+  title1: Life Sciences Lead, Open Data
+  title2: Powering the Open Science Flywheel
+  picture: https://media-exp1.licdn.com/dms/image/C4D03AQFSS0ZPvCWP_w/profile-displayphoto-shrink_400_400/0/1516544702339?e=1620864000&v=beta&t=ULJ7nRIWoT5rDzZDdG4SciNHOuL8u9CZohj7_-6pSdM
+  pdf: https://www.linkedin.com/in/erintchu/
+  flyer: https://www.linkedin.com/in/erintchu/
+  abstract: |
+    Erin Chu is the life sciences lead on the Amazon Web Services (AWS) open data team. Trained to bridge the gap between the clinic and the lab, Erin is a veterinarian and a molecular geneticist, and prior to her time at AWS, worked in the companion animal genomics space. She is dedicated to helping speed time to science through interdisciplinary collaboration, communication, and learning.
+-
+  name: Alexander Titus
+  university: Google Cloud
+  title1: Strategy Leader @ Google // Emerging Technology for Public Purpose // AI/ML, Biotechnology, and Cloud
+  title2: Life Sciences with Google Cloud
+  picture: https://media-exp1.licdn.com/dms/image/C4D03AQEDtZHufmzaBA/profile-displayphoto-shrink_400_400/0/1608658698668?e=1620864000&v=beta&t=PInjPPFJP11AKFm_-FY6aZguV9Z_BMb1ogkDWSm4tLk
+  pdf: https://www.defense.gov/Our-Story/Biographies/Biography/Article/1845752/dr-alexander-titus/
+  flyer: https://www.linkedin.com/in/alexandertitus/
+  abstract: |
+    Alexander Titus is a strategic business executive at Google Cloud where he leads healthcare and life sciences strategy for the global public sector, as well as AI/ML applications for public sector missions. Prior to Google, Titus was the inaugural Assistant Director for Biotechnology within the Office of the Under Secretary for Defense (Research & Engineering), where he led the team developing the DoD’s roadmap towards biotechnology modernization. Titus’ career has woven between the private sector, public sector, and academia. Previously, he has served as an AI/ML Research Fellow on the Amazon Alexa AI team as well as in the B.Next group at the strategic investment firm In-Q-Tel, and as an Adjunct Assistant Professor of Biostatistics at Georgetown University and Biotechnology at the University of New Hampshire. Titus holds a PhD in Quantitative Biomedical Sciences from Dartmouth College, as well as a BS and BA in Biochemistry and Biology, respectively, from the University of Puget Sound.
+-
+  name: Ross Thompson
+  university: Google Cloud
+  title1: Solutions Architect at Google
+  title2: Google Cloud Platform for Science Productivity
+  picture: https://media-exp1.licdn.com/dms/image/C4E03AQE3niogajxwQQ/profile-displayphoto-shrink_400_400/0/1516243001551?e=1620864000&v=beta&t=nZpWb-SyNCjCv1cZlynfIYgmWYXIoJtAWHD4ZJ_4qbw
+  pdf: https://www.linkedin.com/in/jrossthomson/
+  flyer: https://www.linkedin.com/in/jrossthomson/
+  abstract: |
+    Ross Thompson is a Solutions Architect at Google Cloud specializing in High Performance and Scientific Computing. One of his primary engagements has been with the Rubin Observatory supporting the Intermediate Data Facility to run on Google Cloud. Originally trained as a Computational Physicist, he has superficially contributed to disciplines as diverse as Power Plant engineering, Semiconductor Manufacturing and Business Development at a web services company.
