@@ -10,13 +10,14 @@
       Dr. Lauren Ancel Meyers is the Cooley Centennial Professor in biology and statistics at the University of Texas at Austin. For over 20 years, Dr. Meyers has pioneered the application of network theory, data-driven models, and machine learning to improve the detection, forecasting and control of emerging viral threats. She is the founding director of the UT COVID-19 Modeling Consortium, which has provided global leadership throughout the pandemic though multiple COVID-19 forecasting dashboards and critical analyses to support pandemic surveillance, response, testing and school opening strategies nationwide. Dr. Meyers received her BA in mathematics and philosophy at Harvard University and PhD in biology at Stanford University. She was named as one of the top 100 global innovators under age 35 by the MIT Technology Review in 2004 and received the Joseph Lieberman Award for Significant Contributions to Science in 2017.
 -
   name: Catherine Lozupone
-  university: University of Colorado Denver
-  title1: Associate Professor • Biomedical Bioinformatics and Personalized Medicine
-  title2: Keynote
-  picture: https://www.virology-education.com/wp-content/uploads/2015/02/Lozupone-Catherine-2019-120x160_1.png
-  pdf: https://www.virology-education.com/catherine-lozupone-phd/
-  flyer: https://som.ucdenver.edu/Profiles/Faculty/Profile/21289
-  abstract: 
+  university: University of Colorado Anschutz Medical Campus
+  title1: Associate Professor, Biomedical Bioinformatics and Personalized Medicine
+  title2: Keynote - Systems analysis of gut microbiome influence on metabolic disease in HIV and high-risk populations
+  picture: images/speakers/2021/Catherine_Lozupone.jpg
+  pdf: https://medschool.cuanschutz.edu/biomedical-informatics-and-personalized-medicine/labs/lozupone-lab
+  flyer: https://medschool.cuanschutz.edu/biomedical-informatics-and-personalized-medicine/labs/lozupone-lab
+  abstract: |
+    Dr. Lozupone is as Associate Professor in the Department of Medicine at the University of Colorado Anschutz Medical Campus. Her research focuses on the complex community of microorganisms that inhabit the gastrointestinal tract. She has been heavily involved in the development of popular computational tools for microbial community analysis, such as the UniFrac algorithm for comparing microbial diversity among many samples using phylogenetic information. Dr. Lozupone currently runs an R01 funded research group that integrates integrative bioinformatics analysis of multi'omic data with experimental confirmation. Her lab is currently working to understand microbiome composition and function in a variety of disease contexts, with an emphasis on the interaction between the gut microbiome, local and systemic immune phenotypes, and metabolic and lung co-morbidity in HIV-infected individuals.
 -
   name: Moriah L. Szpara
   university: Center for Infectious Disease Dynamics, Huck Institutes of the Life Sciences, and Eberly College of Science, Pennsylvania State University
@@ -30,16 +31,28 @@
 -
   name: Michelle Lacey
   university: Tulane University School of Public Health and Tropical Medicine
-  title1: Associate Professor of Mathematics Adjunct Associate Professor of Biostatistics
-  title2: Keynote
-  picture: https://media-exp1.licdn.com/dms/image/C5603AQGwYkOf_KKr6w/profile-displayphoto-shrink_400_400/0/1517700098595?e=1621468800&v=beta&t=SAicWhVX-DnS1Popi_aya-8KAW9RdIGknBYe4tBW5Co
+  title1: Associate Professor of Mathematics, Department Biostatistics
+  title2: |
+    Keynote - Beyond p-Values: The Role of Statistics in Epigenetic Research
+  picture: images/speakers/2021/Michelle.Lacey.jpg
   pdf: https://medicine.tulane.edu/departments/tulane-cancer-center/faculty/michelle-lacey-phd
   flyer: https://medicine.tulane.edu/departments/tulane-cancer-center/faculty/michelle-lacey-phd
-  abstract: 
+  abstract: |
+    Michelle Lacey received her A.B. in mathematics from Bryn Mawr College, and after working in industry for two years she returned to graduate school in the Department of Statistics at Yale University and earned her Ph.D. in 2003. Dr. Lacey is currently appointed as Associate Professor of Mathematics and Adjunct Associate Professor of Biostatistics at Tulane University, and in addition to regularly teaching graduate courses in statistical modeling and data analysis for the School of Science and Engineering she is a contributing lecturer for courses at the Tulane University School of Medicine and the School of Public Health and Tropical Medicine. Dr. Lacey has enjoyed collaborations with biomedical researchers throughout her academic career, and she maintains an independent research program developing methods for the analysis and modeling of epigenetic data. She also serves as a consultant with the United Nations World Food Programme, providing statistical support for food security assessments in vulnerable populations. 
+-
+  name: Sara Suliman
+  university: Brigham and Women's Hospital, Division of Rheumatology, Immunity and Inflammation
+  title1: Instructor in Medicine
+  title2: Integration of genetic and transcriptional profiles of innate cells to decipher mechanisms of TB susceptibility
+  picture: images/speakers/2021/Sara_Suliman.jpg
+  pdf: https://scholar.google.com/citations?hl=en&user=QyYtUOcAAAAJ&view_op=list_works&sortby=pubdate
+  flyer: https://scholar.google.com/citations?hl=en&user=QyYtUOcAAAAJ&view_op=list_works&sortby=pubdate
+  abstract: |
+    Sara Suliman, MPH, PhD is an infectious disease scientist with a Master in Public Health (University of Waterloo) and PhD in Immunology (University of Toronto) from Canada. She is an instructor of medicine at the Brigham and Women's Hospital and Harvard Medical School, with a research focus on immunity against Mycobacterium tuberculosis. 
 -
   name: Todd Reilly
-  university: NIH/CIT STRIDES Initiative
-  title1: Chief Scientist, Percipient Consulting
+  university: National Institutes of Health
+  title1: STRIDES Client Services Team Lead, Center for Information Technology
   title2: NIH/CIT STRIDES - Overview
   picture: https://media-exp1.licdn.com/dms/image/C4E03AQHRRWX6sWmffQ/profile-displayphoto-shrink_400_400/0/1517667030594?e=1620864000&v=beta&t=YMTP3iquQleB8jQjEcBBpMW4V2x5zY4J9ru1UO3J__g
   pdf: https://www.linkedin.com/in/rtreilly/
