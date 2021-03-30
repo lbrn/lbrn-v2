@@ -3,7 +3,7 @@ layout: post
 title: 2021 Annual LBRN Conference on Computational Biology and Bioinformatics
 categories: featured
 featuredImageUrl: images/2021-LACCBB.png
-featuredImageUrlSquare: images/2021-LACCBB.png
+featuredImageUrlSquare: images/2021-LCCBB-Speakers.v4.png
 excerpt_separator: <!--more-->
 eventDate: April 15 — 17, 2021
 textOnUrl: 2021 Annual LBRN Conference on Computational Biology and Bioinformatics
