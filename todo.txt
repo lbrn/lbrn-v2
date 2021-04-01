@@ -95,11 +95,11 @@ link to full post vs external link
 
 default-nested page?
 
-Waiting on carousel img
+//Waiting on carousel img
 
 
 
-Low: add tulane medical, change it to say Tulane University
+//Low: add tulane medical, change it to say Tulane University
 
 Collage, shape of lousiaian, work in LBRN
 
@@ -116,4 +116,34 @@ april 15th, 16th, 17th (morning only 17th)
 
 ====================
 social media meta-code
-media template  - videos/photos/presentations
+media template  - videos/photos/presentations'
+
+===========================
+articles first
+
+
+Empty space is ok
+Bigger Gus, in center
+stick something in the sticky out bit
+take linden out ( bw bearded guy )
+add steering commitee members
+logo in upper right corner
+
+add locations for steering commitee in their areas
+big gus on lsu or center of state
+core member DIRECTORS, then PIs
+
+Gus, Steering commitee, active PIs, then rest of the admin core
+admin core /active pi can be a lil smaller
+
+try whiter border, dark bg
+==
+news article links
+link? click full thing
+no link? full story goes to jekyll page
+look into replacing featured subfolder with highlight
+
+mid next week 
+low priority:
+old pis?
+https://old.lbrn.lsu.edu/about/project-investigators.html
