@@ -95,11 +95,11 @@ link to full post vs external link
 
 default-nested page?
 
-Waiting on carousel img
+//Waiting on carousel img
 
 
 
-Low: add tulane medical, change it to say Tulane University
+//Low: add tulane medical, change it to say Tulane University
 
 Collage, shape of lousiaian, work in LBRN
 
