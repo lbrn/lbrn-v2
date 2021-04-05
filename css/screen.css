@@ -2932,15 +2932,23 @@ section.directory.projectinvestigators article.person {
 .news article.featured h3, div.content .news article.featured h3 {
   color: #2C3D6C;
 }
-.news article:hover, div.content .news article:hover {
+.news article.linkarticle:hover, div.content .news article.linkarticle:hover {
   background-color: #def0df;
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-.news article:hover h3.override, div.content .news article:hover h3.override {
+.news article.linkarticle:hover h3.override, div.content .news article.linkarticle:hover h3.override {
   color: #2C3D6C;
+  cursor: pointer;
+}
+.news article.linkarticle:hover.featured, div.content .news article.linkarticle:hover.featured {
+  background-color: #c2e3c4;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 @media (max-width: 667px) {
   .news article, div.content .news article {

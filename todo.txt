@@ -143,7 +143,7 @@ link? click full thing
 no link? full story goes to jekyll page
 look into replacing featured subfolder with highlight
 
-mid next week 
+meet mid next week
 low priority:
 old pis?
 https://old.lbrn.lsu.edu/about/project-investigators.html

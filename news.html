@@ -7,9 +7,6 @@ title: News Archive
 </button>
       <div id="newsSidebarmobile" class="navdropdown collapse">
         <ul>
-          {% for post in site.categories.featured %}
-            <a href="#{{post.date}}"><li>{{post.title}}</li></a>
-          {% endfor %}
           {% for post in site.categories.news %}
             <a href="#{{post.date}}"><li>{{post.title}}</li></a>
           {% endfor %}
@@ -17,9 +14,6 @@ title: News Archive
       </div>
 
       <section class="news" id="newsPageContainer">
-        {% for post in site.categories.featured %}
-          {% include news-full-list-item.html %}
-        {% endfor %}
         {% for post in site.categories.news %}
           {% include news-full-list-item.html %}
         {% endfor %}
@@ -27,9 +21,6 @@ title: News Archive
       </section>
       <aside id="newsSidebar">
         <ul>
-          {% for post in site.categories.featured %}
-            <a href="#{{post.date}}"><li>{{post.title}}</li></a>
-          {% endfor %}
           {% for post in site.categories.news %}
             <a href="#{{post.date}}"><li>{{post.title}}</li></a>
           {% endfor %}

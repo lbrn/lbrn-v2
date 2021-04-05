@@ -80,7 +80,7 @@
         <h2>News</h2>
 
         {% assign news-post = site.posts | where: "categories", "news" %}
-        {% for post in site.categories.featured %}
+        {% for post in site.tags.featured %}
           {% include news-list-item-featured.html %}
         {% endfor %}
 

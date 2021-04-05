@@ -1,11 +1,15 @@
+{% if post.link != nil %}
+<article class="linkarticle">
+{% else %}
 <article>
+{% endif %}
   {% if post.link != nil %}
   <a href="{{post.link}}">
   {% endif %}
   <!-- <a href={{ {{post.url}} | relative_url }}> -->
     <h3 class="override" id="{{post.date}}">{{post.title}}</h3>
   <!-- </a> -->
-  <img src="{{site.baseurl}}/{{post.featuredImageUrlSquare}}" alt="{{post.title}}">
+  <img src="{{post.featuredImageUrlSquare}}" alt="{{post.title}}">
   {% if post.eventDate != nil %}
     <p class="post-date"><span class="pre">Event Date: </span>{{post.eventDate}}</p>
   {% else %}
@@ -16,6 +20,6 @@
   {% if post.link != nil %}
     </a>
   {% else %}
-  <a class="post-link" href="{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>  
+  <a class="post-link" href="{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>
   {% endif %}
 </article>

@@ -147,13 +147,18 @@
       h3 {
        color: $primary; }
     }
-      &:hover {
+      &.linkarticle:hover {
         background-color: $pentia;
         transition: all .3s ease-in-out;
         h3 {
          &.override {
            color: $primary;
+           cursor: pointer;
          }
+       }
+       &.featured {
+         background-color: $quadiary;
+         transition: all .3s ease-in-out;
        }
       }
     }
