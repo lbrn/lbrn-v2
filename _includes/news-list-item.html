@@ -1,5 +1,11 @@
+{% if post.link != nil %}
+<article class="linkarticle">
+{% else %}
 <article>
-  <!-- <a href="{{site.baseurl}}{{post.url}}"> -->
+{% endif %}
+  {% if post.link != nil %}
+  <a href="{{post.link}}">
+  {% endif %}
     <h3>{{post.title}}</h3>
   <!-- </a> -->
   <img src="{{post.featuredImageUrlSquare}}" alt="{{post.title}}">
@@ -10,5 +16,10 @@
   {% endif %}
   <!-- <p class="post-date">{{post.date | date:" %B %-d, %Y"}}</p> -->
   <p class="summary">{{post.excerpt | strip_html }}</p>
-  <a class="post-link"href="{{site.baseurl}}{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>
+  {% if post.link != nil %}
+    </a>
+  {% else %}
+  <a class="post-link" href="{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>
+  {% endif %}
+  <!-- <a class="post-link"href="{{site.baseurl}}{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a> -->
 </article>
