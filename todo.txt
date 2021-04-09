@@ -177,7 +177,7 @@ Remove:
  Ron Horswell
  can remove photos of cores from not directors (keep vlad tho)
 
- Make a note of the too small images 
+ Make a note of the too small images
 
 
 ones from surf or zips
@@ -193,3 +193,9 @@ entire grup at end
 zips are all lbrn lab photos
 
 ones from higlight stories
+
+===========
+ones from posts compare to normal pages cus some of them have dedicated pages
+check the "full story" posts if they have a dedicated page and short paragraph when you can jus link to the page instead
+
+covid - duplicate page, instead link to thing
