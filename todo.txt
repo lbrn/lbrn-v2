@@ -161,11 +161,10 @@ https://old.lbrn.lsu.edu/about/project-investigators.html
 
 ==============
 List:
-ones from highlights
-april (replace?)
-parana ramesh  and two other lbrn students
+////april (replace?)
+//parana ramesh  and two other lbrn students
 not the finalist one
- conner
+// conner
 
  stagger photos, doesnt have to be all tiled, can hide shirts
  add in students
@@ -174,8 +173,8 @@ not the finalist one
  play with edges and can crop stuff off
 
 Remove:
- Ron Horswell
- can remove photos of cores from not directors (keep vlad tho)
+ //Ron Horswell
+ //can remove photos of cores from not directors (keep vlad tho)
 
  Make a note of the too small images
 
@@ -198,11 +197,11 @@ ones from higlight stories
 ones from posts compare to normal pages cus some of them have dedicated pages
 check the "full story" posts if they have a dedicated page and short paragraph when you can jus link to the page instead
 
-covid - duplicated page, instead link to thing
-view full story on home is all caps and shoudlnt be on home page
-fix duplicate covid featured on front page
+//covid - duplicated page, instead link to thing
+//view full story on home is all caps and shoudlnt be on home page
+//fix duplicate covid featured on front page
 
-make entire thing clickable for "view fulls tory" things and add view full story thing so theyre consistant
+//make entire thing clickable for "view fulls tory" things and add view full story thing so theyre consistant
 
 =========
 thur/firday next week
