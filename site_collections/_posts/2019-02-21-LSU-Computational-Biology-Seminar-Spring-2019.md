@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: LSU Computational Biology Seminar Series Spring 2019
-categories: news
+tags: news
 featuredImageUrl: images/postImages/SeminarSeriesThumbnail.png
 featuredImageUrlSquare: images/postImages/SeminarSeriesThumbnail.png
 excerpt_separator: <!--more-->

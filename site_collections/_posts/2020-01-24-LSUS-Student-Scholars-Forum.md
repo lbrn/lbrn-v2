@@ -1,7 +1,7 @@
 --- 
 layout: post
 title:  5th Annual Regional Student Scholars Forum at LSU Shreveport
-categories: news
+tags: news
 featuredImageUrl: images/postImages/2020-5th-Annual-Regional-Student-Scholars-Forum-LSUS.png?v1.2
 featuredImageUrlSquare: images/postImages/2020-5th-Annual-Regional-Student-Scholars-Forum-LSUS.png?v1.2
 excerpt_separator: <!--more-->

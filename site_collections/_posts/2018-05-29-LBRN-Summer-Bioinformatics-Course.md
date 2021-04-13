@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: LBRN Summer Bioinformatics Course
-categories: news
+tags: news
 featuredImageUrl: images/postImages/LBRN_summer_course.jpg
 featuredImageUrlSquare: images/postImages/LBRN_summer_course.jpg
 excerpt_separator: <!--more-->
