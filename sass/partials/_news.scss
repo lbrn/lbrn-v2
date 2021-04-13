@@ -82,6 +82,7 @@
      margin-bottom: 1em;
      text-align: right;
      text-decoration: none;
+     cursor: pointer;
       &:hover {
         color: #3d8340; }
       }
@@ -135,21 +136,24 @@
         }
       }
       &:hover
-      {
-        /* color: #49a54e; */
-       }
+        {
+          /* color: #49a54e; */
+         }
 
-    }
-    &.featured {
-      padding: .5em .5em .75em .5em;
-      background-color: $pentia;
-      border-radius: 3%;
-      h3 {
-       color: $primary; }
-    }
+      }
+      &.featured {
+        padding: .5em .5em .75em .5em;
+        background-color: $pentia;
+        border-radius: 3%;
+        h3 {
+         color: $primary; }
+      }
       &.linkarticle:hover {
         background-color: $pentia;
         transition: all .3s ease-in-out;
+        .post-link {
+            color: #3d8340;
+          }        
         h3 {
          &.override {
            color: $primary;

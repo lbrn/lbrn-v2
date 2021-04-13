@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LA CaTS Workshops and 2017 Translational Science Meeting
-categories: archive
+tags: archive
 featuredImageUrl:  "images/placeholderNewsImage.png"
 featuredImageUrlSquare:  "images/placeholderNewsImage.png"
 excerpt_separator: <!--more-->

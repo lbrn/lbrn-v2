@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  2019 LBRN-BioMMED Illumina Training
-categories: news tne workshop
+tags: news tne workshop
 featuredImageUrl: images/NextSeq plus MiSeq Training Agenda.png
 featuredImageUrlSquare: images/placeholderNewsImage.png
 excerpt_separator: <!--more-->

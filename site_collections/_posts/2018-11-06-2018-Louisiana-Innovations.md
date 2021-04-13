@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovation Louisiana 2018
-categories: news
+tags: news
 featuredImageUrl: "downloads/2018-Louisiana-Innovations.pdf"
 featuredImageUrlSquare: "downloads/thumbnails/2018-Louisiana-Innovations-thumb.png"
 excerpt_separator: <!--more-->

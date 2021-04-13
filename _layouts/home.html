@@ -79,14 +79,15 @@
       <section class="news" id="newsContainer">
         <h2>News</h2>
 
-        {% assign news-post = site.posts | where: "categories", "news" %}
         {% for post in site.tags.featured %}
           {% include news-list-item-featured.html %}
         {% endfor %}
 
-        {% for post in news-post limit:4 %}
-            {% include news-list-item.html %}
-        {% endfor %}
+        <!-- {% assign news-post = site.posts | where: "tags", "news" %} -->
+
+          {% for post in site.tags.news limit:4 %}
+              {% include news-list-item.html %}
+          {% endfor %}
 
         <!--End of NEWS ITEM-->
         <div class="view-all">

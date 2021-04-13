@@ -1,7 +1,7 @@
 --- 
 layout: post
 title:  Reproducible Bioinformatics
-categories: news
+tags: news
 featuredImageUrl: images/postImages/LBRN_Precision_FDA.png
 featuredImageUrlSquare: images/postImages/LBRN_Precision_FDA.png
 excerpt_separator: <!--more-->

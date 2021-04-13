@@ -2859,6 +2859,7 @@ section.directory.projectinvestigators article.person {
   margin-bottom: 1em;
   text-align: right;
   text-decoration: none;
+  cursor: pointer;
 }
 .news article .post-link:hover, div.content .news article .post-link:hover {
   color: #3d8340;
@@ -2938,6 +2939,9 @@ section.directory.projectinvestigators article.person {
   -o-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+}
+.news article.linkarticle:hover .post-link, div.content .news article.linkarticle:hover .post-link {
+  color: #3d8340;
 }
 .news article.linkarticle:hover h3.override, div.content .news article.linkarticle:hover h3.override {
   color: #2C3D6C;

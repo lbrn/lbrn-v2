@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LBRN Summer Bioinformatics Workshop
-categories: news tne workshop
+tags: news tne workshop
 featuredImageUrl: images/postImages/LBRN-1-dayIndependentWorkshop.jpeg
 featuredImageUrlSquare: images/postImages/LBRN-1-dayIndependentWorkshop-thmb.jpeg
 excerpt_separator: <!--more-->

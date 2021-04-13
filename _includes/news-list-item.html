@@ -1,10 +1,8 @@
-{% if post.link != nil %}
 <article class="linkarticle">
-{% else %}
-<article>
-{% endif %}
   {% if post.link != nil %}
   <a href="{{post.link}}">
+  {% else %}
+  <a href="{{post.url}}">
   {% endif %}
     <h3>{{post.title}}</h3>
   <!-- </a> -->
@@ -16,10 +14,7 @@
   {% endif %}
   <!-- <p class="post-date">{{post.date | date:" %B %-d, %Y"}}</p> -->
   <p class="summary">{{post.excerpt | strip_html }}</p>
-  {% if post.link != nil %}
-    </a>
-  {% else %}
-  <a class="post-link" href="{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a>
-  {% endif %}
+  <span class="post-link">View&nbsp;full&nbsp;story</span>
+  </a>
   <!-- <a class="post-link"href="{{site.baseurl}}{{post.url}}">VIEW&nbsp;FULL&nbsp;STORY</a> -->
 </article>

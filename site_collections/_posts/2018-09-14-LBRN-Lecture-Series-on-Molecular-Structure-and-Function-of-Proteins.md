@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LBRN Lecture Series on Molecular Structure and Function of Proteins
-categories: news workshop
+tags: news workshop
 featuredImageUrl: images/postImages/2018-09-14_13-54-22_johnq.jpg
 featuredImageUrlSquare: images/postImages/2018-09-14_13-54-22_johnq.jpg
 excerpt_separator: <!--more-->

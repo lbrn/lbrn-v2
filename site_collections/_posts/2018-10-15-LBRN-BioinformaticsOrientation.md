@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LBRN - Pine Biotech Fall/Winter Bioinformatics Orientation and Courses
-categories: news workshop
+tags: news workshop
 featuredImageUrl: images/postImages/2018-10-BioinfoamticsOrientation.jpg
 featuredImageUrlSquare: images/postImages/2018-10-BioinfoamticsOrientation-thumb.jpg
 excerpt_separator: <!--more-->

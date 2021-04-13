@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: LBRN-Webinar-Genomic Analysis of SARS-COV-2
-categories: news
+tags: news
 featuredImageUrl: images/postImages/LBRN-Webinar-Genomic Analysis of SARS-COV-2.jpg
 featuredImageUrlSquare: images/postImages/LBRN-Webinar-Genomic Analysis of SARS-COV-2.jpg
 excerpt_separator: <!--more-->
