@@ -83,8 +83,6 @@
           {% include news-list-item-featured.html %}
         {% endfor %}
 
-        <!-- {% assign news-post = site.posts | where: "tags", "news" %} -->
-
           {% for post in site.tags.news limit:4 %}
               {% include news-list-item.html %}
           {% endfor %}
