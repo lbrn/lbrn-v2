@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: LSU Summer Undergraduate Research Forum
 tags: news
@@ -7,8 +7,8 @@ featuredImageUrlSquare: images/surf.jpg
 excerpt_separator: <!--more-->
 eventDate: July 27, 2018
 textOnUrl: LSU Summer Undergraduate Research Forum
-link: http://lbrn.lsu.edu/summer-undergrad-research-forum.html
---- 
+link: /summer-undergrad-research-forum.html
+---
 
 The Summer Undergraduate Research Forum (SURF), will be held Friday, **July 27th, 2018 from 1:00pm – 4:00pm** in LSU's Union's Cotillion Ballroom. All is welcome.
 

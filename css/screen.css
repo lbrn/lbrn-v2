@@ -2917,9 +2917,6 @@ section.directory.projectinvestigators article.person {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-.news article h3.override:hover, div.content .news article h3.override:hover {
-  cursor: auto;
-}
 .news article h3:hover, div.content .news article h3:hover {
   /* color: #49a54e; */
 }
@@ -2954,6 +2951,9 @@ section.directory.projectinvestigators article.person {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+.news article.linkarticle:hover.featured h3, div.content .news article.linkarticle:hover.featured h3 {
+  color: #2C3D6C;
+}
 .news article:hover, div.content .news article:hover {
   background-color: #def0df;
   -webkit-transition: all 0.3s ease-in-out;
@@ -2968,6 +2968,9 @@ section.directory.projectinvestigators article.person {
   -o-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+}
+.news article:hover h3.override, div.content .news article:hover h3.override {
+  color: #2C3D6C;
 }
 .news article:hover .post-link, div.content .news article:hover .post-link {
   color: #3d8340;

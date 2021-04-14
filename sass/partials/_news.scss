@@ -132,7 +132,7 @@
         // color: $primary;
         transition: all .3s ease-in-out;
         &:hover {
-          cursor: auto;
+          // cursor: auto;
         }
       }
       &:hover
@@ -163,6 +163,9 @@
        &.featured {
          background-color: $quadiary;
          transition: all .3s ease-in-out;
+         h3 {
+           color: $primary;
+         }
        }
       }
       &:hover {
@@ -172,6 +175,9 @@
           color: $secondary;
           cursor: pointer;
           transition: all .3s ease-in-out;
+          &.override {
+            color: $primary;
+          }
         }
         .post-link {
             color: #3d8340;
