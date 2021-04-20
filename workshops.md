@@ -10,7 +10,7 @@ eventDate: Beginning June 8, 2020
 
 <section class="news tne" id="newsContainer">
 <!-- add limit: 2 to the 2nd tne post if needed -->
-{% assign tne-post = site.posts | where: "categories", "workshop" %}
+{% assign tne-post = site.posts | where: "tags", "workshop" %}
   {% for post in tne-post %}
     {% include news-full-list-item.html %}
   {% endfor %}
