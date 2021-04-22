@@ -204,6 +204,25 @@ check the "full story" posts if they have a dedicated page and short paragraph w
 //make entire thing clickable for "view fulls tory" things and add view full story thing so theyre consistant
 
 =========
-thur/firday next week
-register for
-breakout rooms and such to grab photos
+
+[11:27 AM] John I Quebedeaux Jr
+    we're working on the 4th version of this: https://lbrn.lsu.edu/lbrn-loni-scientific-computing-bootcamp.html
+Louisiana Biomedical Research Networklbrn.lsu.edu​[11:27 AM] John I Quebedeaux Jr
+    if i send you the powerpoint content that Nayong gave me and the link to the LSU HPC page for this, can you update this page for me?
+    [11:28 AM] John I Quebedeaux Jr
+        this was the page he sent - but needs alt text and links to the pages for the logos:
+
+    LBRN: (our site)
+    LONI: https://loni.org
+    HPC: http://www.hpc.lsu.edu
+
+
+
+    [LBRN_HPC.pptx] (https://lsumail2-my.sharepoint.com/personal/johnq_lsu_edu/Documents/Microsoft Teams Chat Files/LBRN_HPC.pptx)
+
+    [11:29 AM] John I Quebedeaux Jr
+        here is HPC's direct link with the content to use and then point to:
+
+
+​[11:29 AM] John I Quebedeaux Jr
+    http://www.hpc.lsu.edu/training/workshop.php
