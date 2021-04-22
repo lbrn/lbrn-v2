@@ -1,0 +1,15 @@
+-
+  name: Lauren Ancel Meyers
+
+  abstract: |
+      Dr. Lauren Ancel Meyers is the Cooley Centennial Professor in biology and statistics at the University of Texas at Austin. For over 20 years, Dr. Meyers has pioneered the application of network theory, data-driven models, and machine learning to improve the detection, forecasting and control of emerging viral threats. She is the founding director of the UT COVID-19 Modeling Consortium, which has provided global leadership throughout the pandemic though multiple COVID-19 forecasting dashboards and critical analyses to support pandemic surveillance, response, testing and school opening strategies nationwide. Dr. Meyers received her BA in mathematics and philosophy at Harvard University and PhD in biology at Stanford University. She was named as one of the top 100 global innovators under age 35 by the MIT Technology Review in 2004 and received the Joseph Lieberman Award for Significant Contributions to Science in 2017.
+-
+  name: Catherine Lozupone
+  university: University of Colorado Anschutz Medical Campus
+  title1: Associate Professor, Biomedical Bioinformatics and Personalized Medicine
+  title2: Keynote - Systems analysis of gut microbiome influence on metabolic disease in HIV and high-risk populations
+  picture: images/speakers/2021/Catherine_Lozupone.jpg
+  pdf: https://medschool.cuanschutz.edu/biomedical-informatics-and-personalized-medicine/labs/lozupone-lab
+  flyer: https://medschool.cuanschutz.edu/biomedical-informatics-and-personalized-medicine/labs/lozupone-lab
+  abstract: |
+    Dr. Lozupone is as Associate Professor in the Department of Medicine at the University of Colorado Anschutz Medical Campus. Her research focuses on the complex community of microorganisms that inhabit the gastrointestinal tract. She has been heavily involved in the development of popular computational tools for microbial community analysis, such as the UniFrac algorithm for comparing microbial diversity among many samples using phylogenetic information. Dr. Lozupone currently runs an R01 funded research group that integrates integrative bioinformatics analysis of multi'omic data with experimental confirmation. Her lab is currently working to understand microbiome composition and function in a variety of disease contexts, with an emphasis on the interaction between the gut microbiome, local and systemic immune phenotypes, and metabolic and lung co-morbidity in HIV-infected individuals.
