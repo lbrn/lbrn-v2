@@ -20,7 +20,7 @@
       Venous thromboembolism (VTE) remains a major public health crisis. VTE is the third most common cardiovascular disease and annually affects about 1 million people in the US. VTE is responsible for more than 100,000 annual deaths in the US. Furthermore, a 2-way link between VTE and cancer has also been confirmed. Patients with cancer have at least 4-fold increased risk for VTE in comparison with patients without cancer. Nevertheless, clinically used anticoagulants are plagued with a number of drawbacks including the life-threatening risk of internal bleeding. New approaches to safely prevent and/or treat VTE are highly clinically significant. Factor XIIIa (FXIIIa) is a transglutaminase procoagulant that is different from all other physiologic procoagulants which are serine proteases. This unique biochemical aspect of FXIIIa has been under investigation in the context of VTE mechanism. Venous thrombi from FXIII-deficient mice were found to be significantly smaller in size. Various studies also suggested that specific FXIIIa polymorphism provides a moderate protection against VTE and that heterozygous FXIII-deficient mice do not show signs of excessive bleeding. Therefore, FXIIIa may serve as a potential therapeutic target to develop a new effective treatment for VTE that does not significantly increase the bleeding risk. In vitro experiments show that treating normal human blood with a transglutaminase active site inhibitor dose-dependently increases RBC extrusion from contracting clots and reduces clot size. Yet, it remains unclear whether FXIIIa inhibition is a viable approach for anticoagulation in vivo. At present, these studies are hindered, in part, by the lack of specific FXIIIa inhibitors. In fact, very few FXIIIa inhibitors have been reported thus far, most of which are not selective as they target the thiol-containing active site. Thus, I have proposed sulfonated glycosaminoglycan (GAG) mimetics as a platform to discover and subsequently rationally design FXIIIa inhibitors. These GAG mimetics are projected to potently and selectively inhibit FXIIIa through allosteric modulation, a mechanism often exploited by nature to achieve specific regulation. In preliminary studies, I discovered two sulfonated GAG mimetics that inhibit FXIIIa with micromolar potencies. Not only that, but these two molecules also inhibited FXIIIa-mediated polymerization of fibrin(ogen) which is one of the physiologic functions of human FXIIIa. Molecular modeling studies projected a plausible binding site for these molecules on FXIIIa. Therefore, in this proposal, I specifically aim to use a multidisciplinary approach to further establish the principles of effective and selective inhibition of FXIIIa by sulfonated GAG mimetics. I will synthesize an advanced library of sulfonated GAG mimetics and evaluate their biochemical, biophysical, and biological aspects to determine their anticoagulant potentials. The long-term goal of research in this area is to develop potent and specific inhibitors of FXIIIa so as to 1) enhance our understanding of FXIIIa contribution to the whole coagulation physiology and pathology and 2) investigate an alternative approach to modulate FXIIIa through allostery so as to pave the way to a novel and transforming potent and safe anticoagulant therapy to prevent and/or treat thrombotic disorders.
 -
   name: Daniel Barnes
-  active: true
+  active: false
   origin: Southeastern Louisiana University
   image: DBarnes.jpg
   project_title: Kinetic Analysis of the Impact of LDH on Cancer and HGPRT Inhibition for Malaria
@@ -63,7 +63,7 @@
       The primary objective of this proposal is to validate the critical role of the mTOR and secondary signaling in skin inflammation with emphasis on psoriasis pathogenesis and to test fisetin, a common natural dietary ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects an estimated 3% of the world population3, 4,5 with > 8 million afflicted individuals in the US alone3, 4. Psoriasis etiology is incompletely understood, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune cells and the skin, featuring epidermal hyperplasia, immune cell infiltration, immune-mediators orchestration and skin barrier dysfunction3, 4. The past several decades have recorded a skyrocketing increase in new psoriasis cases, associated with significant decline in patients’ quality of life and an increased risk of arthritis and cardiovascular diseases6. Being multifactorial, curative treatments for mild/moderate psoriasis have proved frustrating and still remain elusive, thus it is unlikely that hitting a single target will effectively control the disease. Thus, there remains a dire need to develop novel and effective mechanisms and target-based strategies for long-term patient benefits. Our preliminary data suggest that amongst multiple signaling networks implicated in psoriasis, the phospho-inositol- 3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR) and MAPK pathways, which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis7, 8. We observed that PI3K/Akt/mTOR signaling is hyperactivated in both human psoriatic and imiquimod (IMQ)-induced murine psoriasis-like skin lesions compared to unaffected tissues7, 8. Likewise, our pilot studies on competitive binding, Kd’s and in-silico docking analyses identified fisetin as a potent dual mTOR kinase inhibitor that physically interacts and competitively binds mTOR and p70S6K1 with binding energies of -7 to -10.5Kcal/mol9. In addition, fisetin alone or in combination with activating agents, induced differentiation in normal human epidermal keratinocytes (NHEKs) and inhibited 1) NHEK proliferation, 2) PI3K/Akt/mTOR activation, 3) mTOR activity, 4) secretion of pro-inflammatory cytokines by NHEKs, peripheral blood mononuclear cells (PBMCs) and a CD4+T activated 3 dimensional (3D) Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that “PI3K/Akt/mTOR and MAPK networks are critical in psoriasis pathogenesis and, fisetin will inhibit the activation of these pathways, suppress proliferation, inflammation and neo-vascularization, and concomitantly induce differentiation to efficiently alleviate psoriasiform disease”.
 -
   name: Urska Cvek
-  active: true
+  active: false
   origin: Louisiana State University, Shreveport
   image: UCvek.jpg
   project_title: Women's Health in IDEA States
@@ -85,7 +85,7 @@
       The goal of this research is to design, implement and in the long-term evaluate the application of mobile technology to improve detection of undiagnosed diabetes and pre-diabetes. Specifically, we would like to develop this app that is an innovation on the current available set of apps. We believe that the addition of an app on smart phones in outpatient settings to the current standard practice will lead to improved diagnosis of diabetes and pre-diabetes in these patients.
 -
   name: Waneene Dorsey
-  active: true
+  active: false
   origin: Grambling State University
   image: WDorsey.jpg
   project_title: Role and Regulation of Autophagy during Pentachlorophenol Exposure
@@ -163,7 +163,7 @@
   abstract:
 -
   name: Paul Kim
-  active: true
+  active: false
   origin: Grambling State University
   image: PKim.jpg
   project_title: Mechanisms underlying nonalcoholic fatty liver disease
@@ -179,7 +179,7 @@
       Nonalcoholic fatty liver disease (NAFLD) is the most common chronic liver disease in the US. The Hallmark of NAFLD is the buildup of excess fat in the liver. NAFLD is a progressive disease that can lead to fibrosis, cirrhosis, and ultimately liver failure [1]. The growing prevalence of NAFLD is associated with the obesity epidemic, but the molecular mechanisms underlying disease development and progression are not fully understood. A growing body of evidence suggests that disruption of endoplasmic reticulum homeostasis, termed ER stress, may play a role in NAFLD pathogenesis [2-4]. ER stress activates the unfolded protein response (UPR), which acts to restore ER homeostasis. Importantly, UPR activation has been reported in the livers of humans with obesity and NAFLD [5-7] and its activation can trigger lipid biosynthesis, insulin resistance, inflammation, and apoptosis, all characteristic features of NAFLD [8,9]. Moreover, murine models of obesity have shown that increasing the amount of saturated fatty acids in circulation or in the liver induces ER stress, apoptosis, and liver injury [10-12]. Taken together, these data suggest that elevated levels of circulating fatty acids, typical of obesity, contribute to NAFLD pathogenesis by inducing ER stress. Given that ER stress results from the accumulation of unfolded proteins in the ER lumen, elevated fatty acid levels may induce ER stress by increasing the load of ER client proteins (i.e. protein synthesis), or decreasing the capacity to process that load (i.e., protein folding or degradation), or both. My pilot project tested the hypothesis that excess saturated fatty acids mediate ER stress by stimulating protein synthesis. We found that in both hepatocyte and rodent models of obesity and NAFLD, excess saturated fatty acids did not alter rates of protein synthesis (manuscript in preparation). This has led to the hypothesis that excess saturated fatty acids mediate ER stress by impairing protein folding or degradation.
 -
   name: Anup Kundu
-  active: true
+  active: false
   origin: Xavier University
   image: AKundu.jpg
   project_title: Formulation of a targeted nanoparticle system for the treatment of breast cancer
@@ -354,7 +354,7 @@
       Inference of phylogenetic trees is of interest to researchers in many areas of biology. Phylogenetic trees are used in population-level analyses of evolution and ecology, studies of agriculture, and the study of medicine. Time-scaling of phylogenetic trees allows researchers to put absolute ages on the nodes in a phylogeny. In time-scaling a phylogeny, researchers disentangle the relationship between evolutionary rate and the time since lineages diverged (i.e., an ancestral population became two independent daughter lineages). This allows researchers to test hypotheses about the rate at which evolutionary change accumulates, how lineages diversify, and how phenotypic and genomic features evolve. These analyses, while powerful, are also parameter-rich and complex. While researchers are looking to perform increasingly complicated phylogenetic analyses, datasets are also growing larger and more heterogeneous. Molecular datasets often encompass many loci, if not whole genomes. Time-scaling a phylogeny involves external data sources from which absolute time can be derived. This means that researchers are often incorporating data that address the absolute age of lineages, such as geological features or occurrence records, into these analyses, substantially increasing the complexity of the models needed to describe the data. As a result, researchers are dealing with more and more data, while simultaneously attempting increasingly parameter-rich methods. Ants (Formicidae) are an excellent system to test if recent methodological advancements can be used more widely. There are large molecular, morphological, and age data resources available. Ants display many characteristics analogous to pathogenic evolution, such as periods of rapid lineage accumulation and strong among-lineage variation in their rate of evolution. It is, therefore, possible to test the predictive ability and analytical capability of new methods for modeling heterogeneous data in this system, and to make recommendations of broader applicability.
 -
   name: Xiaoping Yi
-  active: true
+  active: false
   origin: Southern University (Baton Rouge)
   image: XYi.jpg
   project_title: Apoptosis pathway induced by RES and anticancer drug in 3D culture of prostate cancer cells
@@ -395,7 +395,7 @@
       Super small metal particles (<2nm, thereinafter referred as nanoclusters) represent an emerging new type of alternative fluorescent probes due to their excellent biocompatibility, tunable emission, large Stokes shift, and long fluorescence lifetime. However, the low quantum yield being the most serious weakness limits their practical applications. The goal of this project is to develop a hybridized hierarchical nanostructure which contains metal particles of 20_50nm (thereinafter referred as nanoparticles) and small metal nanoclusters to greatly enhance the fluorescence emission of the small metal nanoclusters by coupling surface plasmon resonance of the big metal nanoparticles. This project focuses on increasing the fluorescence quantum yield of metal nanoclusters for bioimaging applications by utilizing metal surface plasmon resonances through controlling the morphology and size of the big metal nanoparticles, as well as the distance between the nanoparticles and the nanoclusters. This study investigates the mechanism of fluorescence coupling with surface plasmon resonance, establishes a basic theoretical understanding for solving the low quantum yield issue of metal nanoclusters. The research outcomes will help to develop efficient targeting fluorescent nanoprobes for imaging and diagnosis of tumors for medical application.
 -
   name: Kun (Karen) Zhang
-  active: true
+  active: false
   origin: Xavier University
   image: KZhang.jpg
   project_title: Detecting Race-Relevant Molecular Biomarkers with Clinical Utilities Using Multi- Omics Data Across Tumor Types
@@ -1007,7 +1007,7 @@
   abstract:
 -
   name: Marjan Trutschl
-  active: true
+  active: false
   origin: Louisiana State University, Shreveport
   university: Louisiana State University, Shreveport
   image: MTrutschl.jpg
@@ -1157,7 +1157,7 @@
 
 -
   name: Hyung Nam
-  active: true
+  active: false
   origin: LSUHSC-S
   image: HNam.jpg
   project_title: Computational Modeling of Blood Metabolomics Biomarkers Addressing Racial Disparity
