@@ -210,3 +210,32 @@ https://nas02b.lbrn.lsu.edu:5001/sharing/MWtUkeoGT
 https://nas02b.lbrn.lsu.edu:5001/sharing/drDxdD323
 ====
     tech + grambling
+
+like one with just students too
+
+in the pi/students one: mix the students in a bit more so its less JUST students on edges
+swap these folks:
+upper right 2nd row, joyce, to edges
+swap featured student and woman in suit
+and push nayong/john to edge and student
+swap lower left david birk to edge
+diversity: insert students in areas of low diversity
+-----
+carousel update
+insert loni bootcamp into carousel
+link to the dedicated page
+--
+links page:
+https://lbrn.lsu.edu/nih-links.html
+double check these all work
+--
+upcoming: genelabs content
+---
+full startup project translational (LA cats translational, may need a new category)
+hide the other filters; possibly make it hide non-active filters
+---
+footer map 
+can come back during fireworks time, save reservation info , have their own elevator
+50s prime time cafe
+disney springs earlier the better, crowds still there uncontrolled
+rose and crown
