@@ -3,7 +3,7 @@ layout: post
 title: 4th LBRN-LONI Scientific Computing Bootcamp
 featuredImageUrl: images/2021-LBRN-LONI-Bootcamp.png
 featuredImageUrlSquare: images/2021-LBRN-LONI-Bootcamp.png
-tags: featured workshop tne
+tags: news workshop tne
 excerpt_separator: <!--more-->
 eventDate:  May 27-29, May 31 - June 2, 2021
 textOnUrl: 4th LBRN-LONI Scientific Computing Bootcamp
