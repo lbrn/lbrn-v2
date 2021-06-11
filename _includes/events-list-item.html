@@ -22,6 +22,8 @@
       <!-- Different Month -->
       <div class="date enddate">
         <h4 class="date-day adjust">
+          <!-- Inserts both different months -->
+          
           {{event.eventDate | date: '%d' }} {{event.eventDate | date: '%b'}} - {{event.eventEndDate | date: '%d' }} {{event.eventEndDate | date: '%b'}}
         </h4>
         <h4 class="date-month"> {{event.eventDate | date: '%Y'}}</h4>
