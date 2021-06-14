@@ -4,14 +4,30 @@
   {% endif %}
   {% if event.categories contains "events" %}
 
-
+  <!-- Check if it's a multi-day event -->
   {% if event.eventEndDate != nil %}
-    <div class="date enddate">
-      <h3 class="date-day adjust">
-        {{event.eventDate | date: '%d' }} - {{event.eventEndDate | date: '%d' }} {{event.eventDate | date: '%b'}}
-      </h3>
-      <h4 class="date-month"> {{event.eventEndDate | date: '%Y'}}</h4>
-    </div>
+
+      <!-- Check if the months are the same, so as to only display one if needed -->
+      {% assign a = event.eventDate  | date: '%b' %}
+      {% assign b = event.eventEndDate  | date: '%b' %}
+      {% if a contains b %}
+        <!-- Same Month -->
+        <div class="date enddate">
+          <h3 class="date-day adjust">
+            {{event.eventDate | date: '%d' }} - {{event.eventEndDate | date: '%d' }} {{event.eventEndDate | date: '%b'}}
+          </h3>
+          <h4 class="date-month"> {{event.eventEndDate | date: '%Y'}}</h4>
+        </div>
+      {% else %}
+        <!-- Different Month -->
+        <div class="date enddate">
+          <h3 class="date-day adjust">
+            <!-- Inserts both different months -->
+            {{event.eventDate | date: '%d' }} {{event.eventDate | date: '%b'}} - {{event.eventEndDate | date: '%d' }} {{event.eventEndDate | date: '%b'}}
+          </h3>
+          <h4 class="date-month"> {{event.eventEndDate | date: '%Y'}}</h4>
+        </div>
+      {% endif %}
     {% else %}
     <div class="date">
       <h3 class="date-day adjust">

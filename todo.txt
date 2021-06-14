@@ -234,8 +234,13 @@ upcoming: genelabs content
 full startup project translational (LA cats translational, may need a new category)
 hide the other filters; possibly make it hide non-active filters
 ---
-footer map 
+footer map
 can come back during fireworks time, save reservation info , have their own elevator
 50s prime time cafe
 disney springs earlier the better, crowds still there uncontrolled
 rose and crown
+
+====
+fix month display for events hoem page
+look up wae end workday
+footer
