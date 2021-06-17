@@ -11,7 +11,7 @@
 @import "partials/news";
 @import "partials/events";
 @import "partials/lbrn-events";
-
+@import "partials/footer";
 a,
 abbr,
 acronym,
@@ -100,6 +100,7 @@ video {
   font-size: 100%;
   vertical-align: baseline;
 }
+
 
 html {
   line-height: 1;
@@ -1921,38 +1922,7 @@ section.cores {
 
 
 
-footer {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color: $primary;
-}
 
-footer .layout {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-
-footer p {
-  margin-top: 0.5em;
-  float: left;
-  color: white;
-  line-height: 2em;
-  font-family: $bodyFont;
-  font-size: 0.75em;
-  width: 100%;
-}
-
-footer span {
-  font-style: italic;
-  font-weight: bold;
-}
 
 .mobilesidebar {
   display: block !important;
@@ -2467,15 +2437,6 @@ footer span {
   }
 
 
-
-  footer p {
-    width: 50%;
-  }
-
-  footer p a {
-    font-weight: bold;
-    line-height: 3;
-  }
 }
 @media (min-width: $xl) {
   .npi {
@@ -2541,16 +2502,7 @@ footer span {
 
 
 
-  footer {
-    padding: 0;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 100%;
-    float: left;
-    margin-left: 0;
-    margin-right: 0;
-  }
+
 }
 @media (min-width: $xxl) {
 
