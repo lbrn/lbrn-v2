@@ -6,9 +6,9 @@ excerpt_separator: <!--more-->
 textOnUrl: LBRN Coronavirus (COVID-19) Information
 ---
 
-May 26, 2021, Following months of improvement in COVID-19 hospitalizations and with nearly three million vaccine doses administered, Gov. John Bel Edwards on Tuesday signed an updated public health emergency order that removes all remaining business capacity restrictions and the vast majority of masking requirements. See Governer's statement for more information: <!--more-->
+June 21, 2021, Starting at noon today, Louisianans can register for their Shot At A Million, a campaign totaling $2.3 million in cash and scholarship giveaways designed to reward residents who have taken or who choose to get their COVID-19 vaccine. See Governer's statement for more information: <!--more-->
 
-[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3153)
+[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3222)
 
 LBRN is based at Louisiana State University in Baton Rouge with administrative staff at LSU School of Veterinary Medicine and the LSU Center for Computation & Technology. We shifted to working remotely on March 17th, 2020 and continue to handle the day to day activities of the grant - some of us have returned to the office as needed since then. Any announcements regarding our activities will come out as needed. If you have any questions, please do not hesitate to drop us a note at [LBRN E-mail](mailto:lbrn@.lsu.edu) if you are not already in touch with us directly.
 
