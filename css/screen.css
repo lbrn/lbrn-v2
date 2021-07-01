@@ -3897,6 +3897,175 @@ section.directory.projectinvestigators article.person {
   text-align: left;
 }
 
+body footer {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  background-color: #2C3D6C;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+     -moz-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+body footer .layout {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+body footer p {
+  margin-top: 0.5em;
+  float: left;
+  color: white;
+  line-height: 2em;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 0.75em;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 50%;
+     -moz-box-flex: 1;
+      -ms-flex: 1 1 50%;
+          flex: 1 1 50%;
+}
+body footer p a {
+  font-weight: bold;
+  line-height: 3;
+}
+body footer a {
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  -moz-transition: 0.4s;
+  transition: 0.4s;
+}
+body footer span {
+  font-style: italic;
+  font-weight: bold;
+}
+body footer .quicklinks {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 100%;
+     -moz-box-flex: 1;
+      -ms-flex: 1 0 100%;
+          flex: 1 0 100%;
+  margin-bottom: 20px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+body footer .quicklinks ul {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+     -moz-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+}
+body footer .quicklinks ul li {
+  color: #8ECB91;
+  margin-bottom: 5px;
+  font-weight: 300;
+}
+body footer .quicklinks ul li a:hover {
+  color: white;
+  text-decoration: none;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  -moz-transition: 0.4s;
+  transition: 0.4s;
+}
+body footer .quicklinks .title {
+  color: white;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 100%;
+     -moz-box-flex: 1;
+      -ms-flex: 1 1 100%;
+          flex: 1 1 100%;
+}
+@media (max-width: 1500px) {
+  body footer {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+@media (max-width: 1400px) {
+  body footer .quicklinks ul div.title {
+    font-size: 1em;
+    margin-right: 20px;
+  }
+  body footer .quicklinks ul li {
+    font-size: 0.9em;
+  }
+}
+@media (max-width: 1224px) {
+  body footer .quicklinks {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  body footer .quicklinks ul {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 30%;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 30%;
+            flex: 1 1 30%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  body footer .quicklinks ul div.title {
+    font-size: 1.2em;
+  }
+  body footer .quicklinks ul li {
+    font-size: 1em;
+  }
+}
+@media (max-width: 860px) {
+  body footer p {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 100%;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 100%;
+            flex: 1 1 100%;
+  }
+}
+@media (max-width: 667px) {
+  body footer .quicklinks ul {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 50%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    margin-right: 0;
+  }
+}
+@media (max-width: 414px) {
+  body footer .quicklinks ul {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 100%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+  }
+}
+
 a,
 abbr,
 acronym,
@@ -5961,39 +6130,6 @@ section.cores #core-swap ul li:hover {
   cursor: auto;
 }
 
-footer {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color: #2C3D6C;
-}
-
-footer .layout {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-
-footer p {
-  margin-top: 0.5em;
-  float: left;
-  color: white;
-  line-height: 2em;
-  font-family: "Ubuntu", sans-serif;
-  font-size: 0.75em;
-  width: 100%;
-}
-
-footer span {
-  font-style: italic;
-  font-weight: bold;
-}
-
 .mobilesidebar {
   display: block !important;
   width: 100%;
@@ -6500,15 +6636,6 @@ footer span {
     /* min-height: 21em;  */
     min-height: unset;
   }
-
-  footer p {
-    width: 50%;
-  }
-
-  footer p a {
-    font-weight: bold;
-    line-height: 3;
-  }
 }
 @media (min-width: 1224px) {
   .npi {
@@ -6565,17 +6692,6 @@ footer span {
 
   #newsPageContainer {
     padding-right: 0;
-  }
-
-  footer {
-    padding: 0;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 100%;
-    float: left;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 @media (min-width: 1500px) {
