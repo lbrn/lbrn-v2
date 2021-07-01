@@ -53,7 +53,7 @@ body {
           color: $secondary;
           margin-bottom: 5px;
           font-weight: 300;
-          // font-size: 0.9em;
+
           a {
             &:hover {
               color: white;
@@ -84,6 +84,19 @@ body {
       padding-left: 5%;
       padding-right: 5%;
     }
+    @media (max-width: 1400px) {
+      .quicklinks {
+        ul {
+          div.title {
+            font-size: 1em;
+            margin-right: 20px;
+          }
+          li {
+            font-size: 0.9em;
+          }
+        }
+      }
+    }
     @media (max-width: $xl) {
       // margin: 24px;
       .quicklinks {
@@ -91,13 +104,19 @@ body {
         ul {
           flex: 1 1 30%;
           margin-right: 20px;
+          margin-bottom: 20px;
+          div.title {
+            font-size: 1.2em;
+          }
+          li {
+            font-size: 1em;
+          }
         }
       }
     }
     @media (max-width: $lg) {
       .quicklinks {
         ul {
-          margin-bottom: 20px;
 
         }
       }
