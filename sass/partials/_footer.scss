@@ -8,6 +8,7 @@ body {
     padding: 0;
     background-color: $primary;
     justify-content: space-between;
+
     .layout {
       display: flex;
       flex-wrap: wrap;
@@ -28,7 +29,12 @@ body {
         line-height: 3;
       }
     }
-
+    a {
+      transition: 0.4s;
+      &:hover {
+        // color: white;
+      }
+    }
     span {
       font-style: italic;
       font-weight: bold;
@@ -42,27 +48,28 @@ body {
       font-size: 14px;
       flex-wrap: wrap;
       ul {
-        flex: 1 1 25%;
+        flex: 1 1 auto;
         li {
           color: $secondary;
           margin-bottom: 5px;
+          font-weight: 300;
           // font-size: 0.9em;
           a {
             &:hover {
               color: white;
               text-decoration: none;
               transition: 0.4s;
-              &::before {
-                color: white;
-              }
+              // &::before {
+              //   color: white;
+              // }
             }
-            &::before {
-              content: "\f054";
-              font: normal normal normal 14px/1 FontAwesome;
-              // color: $secondary;
-              padding-right: 3px;
-              font-size: 11px;
-            }
+            // &::before {
+            //   content: "\f054";
+            //   font: normal normal normal 14px/1 FontAwesome;
+            //   // color: $secondary;
+            //   padding-right: 3px;
+            //   font-size: 11px;
+            // }
           }
         }
       }
@@ -79,8 +86,21 @@ body {
     }
     @media (max-width: $xl) {
       // margin: 24px;
+      .quicklinks {
+        flex-wrap: wrap;
+        ul {
+          flex: 1 1 30%;
+          margin-right: 20px;
+        }
+      }
     }
     @media (max-width: $lg) {
+      .quicklinks {
+        ul {
+          margin-bottom: 20px;
+
+        }
+      }
       p {
         // width: 100%;
         flex: 1 1 100%;
@@ -88,11 +108,19 @@ body {
     }
     @media (max-width: $md) {
       .quicklinks {
-        flex-wrap: wrap;
+        ul {
+          flex: 0 0 50%;
+          margin-right: 0;
+
+        }
+      }
+    }
+    @media (max-width: $sm) {
+      .quicklinks {
         ul {
           flex: 0 0 100%;
         }
       }
-    }
+    }//sm
   }
 }
