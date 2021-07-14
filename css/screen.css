@@ -3154,6 +3154,9 @@ section.directory.projectinvestigators article.person {
     float: none;
   }
 }
+.events.highlights center a.button {
+  margin-bottom: 2em;
+}
 .events#eventsContainer {
   margin-top: 2em;
   background-color: white;
@@ -3384,6 +3387,7 @@ section.directory.projectinvestigators article.person {
       -ms-flex: 0 1 auto;
           flex: 0 1 auto;
   max-height: 200px;
+  max-width: 200px;
 }
 @media (max-width: 860px) {
   .events.highlights section .date img {

@@ -34,6 +34,13 @@
     flex: 0 0 100%;
     float:none;
   }
+  &.highlights {
+    center {
+      a.button {
+        margin-bottom: 2em;
+      }
+    }
+  }
   &#eventsContainer {
     margin-top: 2em;
     background-color: white;
@@ -198,6 +205,7 @@
           margin-right: auto;
           flex: 0 1 auto;
           max-height: 200px;
+          max-width: 200px;
           @media (max-width: $lg){
             max-height: 100px;
           }
