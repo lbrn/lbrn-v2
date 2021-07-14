@@ -2,7 +2,7 @@
 layout: highlight
 title: Congratulations! LBRN former Summer Student; Adeola Adedokun
 categories: Event
-eventDate: July 13th, 2021
+eventDate: June 15th, 2021
 startTime:
 endTime:
 img: images/highlights/adedokun.jpeg

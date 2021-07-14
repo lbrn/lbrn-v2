@@ -2,11 +2,11 @@
 layout: highlight
 title: LBRN PI Appointment to LOUIS Open Textbooks Pilot Program
 categories: Event
-eventDate: July 14th, 2021
+eventDate: April 30th, 2021
 startTime:
 endTime:
-img: images/highlights/louis.png
-ftimg: images/highlights/louis.png
+img: images/highlights/louis_trans.png
+ftimg: images/highlights/louis_trans.png
 description:
 link: https://louislibraries.org/news-events/newsroom/press-releases#s-lg-box-wrapper-31316238
 ---
