@@ -14,7 +14,7 @@ The Louisiana Library Network (LOUIS) and the Louisiana Board of Regents are ple
 
 The grant will fund LOUIS’ Interactive OER for Dual Enrollment project, which supports the extension of access to high-quality post-secondary opportunities to high school students across Louisiana and beyond. This project, funded by Congress in the 2020 Fiscal Year omnibus spending bill, features a collaboration between educational systems in Louisiana, the library community, Pressbooks technology partner, and workforce representatives. It will enable and enhance the delivery of open educational resources (OER) and interactive quiz and assessment elements for priority dual enrollment courses in Louisiana and nationally. Developed OER course materials will be released under a license that permits their free use, reuse, modification and sharing with others.
 
-<b> Dr. Waneen Dorsey (LBRN PI), Grambling State University , has been appointed to develop CBIO 1033, General Biology I (Science Majors) and CBIO 1034, General Biology I Lecture + Lab (Science Majors) coursework for the grant.
+<b> Dr. Waneen Dorsey (LBRN PI), Grambling State University, has been appointed to develop CBIO 1033, General Biology I (Science Majors) and CBIO 1034, General Biology I Lecture + Lab (Science Majors) coursework for the grant.
 <p>
 <a class="button" href="https://louislibraries.org/news-events/newsroom/press-releases#s-lg-box-wrapper-31316238">Louis Article</a>
 </p>
