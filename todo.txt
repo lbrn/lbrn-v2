@@ -17,3 +17,61 @@ full startup project translational (LA cats translational, may need a new catego
 hide the other filters; possibly make it hide non-active filters
 ---
 footer map
+---
+footer: missing some other links
+
+List:
+Things on the right side (newsletter, highlight news)
+Social icons
+
+
+news/highlights/newsletter above provide website feedback etc below copyright
+//==================================
+new :
+CLBD
+
+SRC> data > articles > people
+
+when we create a media section, we may need to add a media thing to "data" folder
+
+Featured stories?
+No, archive for stories
+
+React - local hosting ? like jekyll
+React - security issues/updates a lot
+
+We should replace some parts later
+have to update yarn all the time
+babble helper builder react
+
+In Terminal:
+yarn upgrade
+yarn build
+
+warnings for unusued stuff
+
+"build" is the website
+files are copied over to update it
+redirects file added to make windows work properly
+
+---------
+https://reactjs.org
+https://classic.yarnpkg.com/en/
+Yarn 2?
+
+adding Media under Resources
+Under media - link + preview, placeholder
+https://www.youtube.com/playlist?list=PLsQC7R-p7Nzy9c_KOV95tXrxuIbhQ7GrL
+can use LBRN to play with in placeholder
+
+Stories dont have a desc showing for some reason
+
+React server
+
+yarn start starts it locally
+---
+first priority:
+Highlight stories on LBRN
+footer menus 
+Media
+fix stories/styling
