@@ -6,9 +6,9 @@ excerpt_separator: <!--more-->
 textOnUrl: LBRN Coronavirus (COVID-19) Information
 ---
 
-July 23, 2021: As COVID-19 cases and hospitalizations continue to rise in Louisiana, and following the designation of Louisiana by the White House as a “state of concern” because of its rapid case growth and insufficient vaccination rate, today Gov. John Bel Edwards and the Louisiana Department of Health issued updated guidance recommending that all people, both vaccinated and unvaccinated, wear masks indoors when at least six feet of distancing is not physically possible during the fourth surge of COVID-19. See Governer's statement for more information: <!--more-->
+August 2, 2021: Today, Gov. John Bel Edwards has temporarily reinstated Louisiana’s statewide mask mandate indoors for all people age five and older as COVID-19 cases and hospitalizations continue to rise across Louisiana, threatening the ability of Louisiana’s hospitals to deliver care during this fourth surge of COVID. Louisiana is currently in the worst surge of the COVID-19 pandemic so far in terms of case growth rate, percent positivity and hospitalizations. See Governer's statement for more information: <!--more-->
 
-[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3282)
+[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3301)
 
 LBRN is based at Louisiana State University in Baton Rouge with administrative staff at LSU School of Veterinary Medicine and the LSU Center for Computation & Technology. We shifted to working remotely on March 17th, 2020 and continue to handle the day to day activities of the grant - some of us have returned to the office as needed since then. Any announcements regarding our activities will come out as needed. If you have any questions, please do not hesitate to drop us a note at [LBRN E-mail](mailto:lbrn@.lsu.edu) if you are not already in touch with us directly.
 
