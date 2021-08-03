@@ -8,7 +8,7 @@
   mentors:
     -
       name: Rinku Majumder
-      origin: LSUHSC-NO
+      origin: LSUH-NO
   funding:
     -
       name: Pilot Project
@@ -40,7 +40,7 @@
   mentors:
     -
       name: Edward Wojcik
-      origin: LSUHSC-NO
+      origin: LSUH-NO
   funding:
     -
       name: Pilot Project
@@ -62,7 +62,7 @@
       origin: LSU
     -
       name: Shile Huang
-      origin: LSUHSC Shreveport
+      origin: LSUH Shreveport
   funding:
     -
       name: Full Project
@@ -251,7 +251,7 @@
   mentors:
     -
       name: Jennifer Woerner
-      origin: LSUHSC-S Collab
+      origin: LSUH-S Collab
   funding:
     -
       name: Translational Project
@@ -332,7 +332,7 @@
   mentors:
     -
       name: Shile Huang
-      origin: LSUHSC Shreveport
+      origin: LSUH Shreveport
   funding:
     -
       name: Full Project
@@ -405,7 +405,7 @@
   mentors:
     -
       name: Shile Huang
-      origin: LSUHSC-S
+      origin: LSUH-S
     -
       name: Urksa Cvek
       origin: LSU-S
@@ -702,10 +702,10 @@
   mentors:
     -
       name: Sunyoung Kim, Ph.D.
-      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+      origin: LSUH-NO, Department of Biochemistry and Molecular Biology
     -
       name: Edward Wojcik, Ph.D.
-      origin: LSUHSC-NO, Department of Biochemistry and Molecular Biology
+      origin: LSUH-NO, Department of Biochemistry and Molecular Biology
 
 -
   name: Keith Jackson
@@ -1037,7 +1037,7 @@
   mentors:
     -
       name: Hyung Nam
-      origin: LSUHSC-S
+      origin: LSUH-S
   funding:
     -
       name: INBRE COBRE Collaborative (Supplement)
@@ -1180,7 +1180,7 @@
 -
   name: Hyung Nam
   active: false
-  origin: LSUHSC-S
+  origin: LSUH-S
   image: HNam.jpg
   project_title: Computational Modeling of Blood Metabolomics Biomarkers Addressing Racial Disparity
   funding:
@@ -1209,7 +1209,7 @@
   mentors:
     -
       name: Chindo Hicks
-      origin: LSUHSC-NO
+      origin: LSUH-NO
   funding:
     -
       name: Pilot Project
