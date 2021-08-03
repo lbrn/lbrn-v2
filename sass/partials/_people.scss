@@ -44,11 +44,12 @@ section.directory {
     margin-bottom: auto;
     overflow: visible;
     word-wrap: normal;
+    margin: 1% auto;
     &:nth-child(even) {
-      margin-right: 5%;
+      // margin-right: 5%;
     }
     &:nth-child(odd) {
-      margin-left: 5%;
+      // margin-left: 5%;
     }
     &.npi {
       margin-bottom:10px;

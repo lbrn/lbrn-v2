@@ -1702,12 +1702,7 @@ section.directory article.person {
   margin-bottom: auto;
   overflow: visible;
   word-wrap: normal;
-}
-section.directory article.person:nth-child(even) {
-  margin-right: 5%;
-}
-section.directory article.person:nth-child(odd) {
-  margin-left: 5%;
+  margin: 1% auto;
 }
 section.directory article.person.npi {
   margin-bottom: 10px;
@@ -6642,10 +6637,6 @@ section.cores #core-swap ul li:hover {
   }
 }
 @media (min-width: 1224px) {
-  .npi {
-    height: 10em !important;
-  }
-
   #lbrnEventHeader,
 #lbrnHighlightHeader {
     padding-left: unset;
