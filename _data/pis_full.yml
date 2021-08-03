@@ -35,7 +35,7 @@
   name: Joseph Chaney
   active: true
   origin: Xavier University
-  image: JChaney.jpg
+  image: JChaney.jpg?v1.1
   project_title: Applying the Brakes &colon; Understanding the Role of the Conformational Changes in the Kinesin-5
   mentors:
     -
@@ -59,10 +59,10 @@
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU
+      origin: LSU (Co-Mentor)
     -
       name: Shile Huang
-      origin: LSUH Shreveport
+      origin: LSUH Shreveport (Co-Mentor)
   funding:
     -
       name: Full Project
@@ -165,11 +165,15 @@
   active: true
   origin: Southern University (Baton Rouge)
   image: DKambiranda.jpg
-  project_title: Proteasomes/immunoproteasomes&colon; Role of lipid rafts in compartmentalization/activation in e-cigarettes vapor exposed lung epithelial cells
+  project_title: Proteasomes / immunoproteasomes&colon; Role of lipid rafts in compartmentalization / activation in e-cigarettes vapor exposed lung epithelial cells
   mentors:
     -
       name: Sanjay Batra
-      origin: SUBR
+      origin: SUBR (Mentor)
+    -
+      name: Gus Kousoulas
+      origin: LSU (Co-Mentor)
+
   funding:
     -
       name: Full Project
@@ -226,7 +230,10 @@
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU
+      origin: LSU (Mentor)
+    -
+      name: Karen Briski
+      origin: ULM (Co-Mentor)
   funding:
     -
       name: Full Project
