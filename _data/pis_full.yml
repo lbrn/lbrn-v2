@@ -1195,7 +1195,7 @@
   name: Erika Perez
   active: true
   origin: Xavier University
-  image: HNam.jpg
+  image: EPerez.jpg
   project_title: The interaction between kainate (KRs) and nicotinic acetylcholine receptors (nAChRs) in modulating nicotine-associated behaviors.
   funding:
     -
@@ -1274,7 +1274,7 @@
   name: Vladimir Kolesnichenko
   active: true
   origin: Xavier University
-  image: HNam.jpg
+  image: VKolesnichenko.jpg
   project_title: Cancer-Specific Magnetic Imaging Agent
   mentors:
     -
@@ -1296,7 +1296,7 @@
   name: Kyle Piller
   active: true
   origin: Southeastern Louisiana University
-  image: HNam.jpg
+  image: KPiller.jpg
   project_title: Life in the fast lane&colon; Testing for congruence among transcriptomic signatures
   mentors:
     -
