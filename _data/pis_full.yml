@@ -33,25 +33,36 @@
       The key to understanding the core of human health is in understanding the enzymatic mechanisms that underlie illnesses. This proposal seeks the resources to establish research projects aimed at key enzymes in the development of cancer and Malaria. By constructing bacterial hosts for the expression of human enzymes responsible, information regarding differential inhibitors can be uncovered. The expression vectors and hosts constructed through this project will contribute a sustainable supply of enzymes for research as well as provide the potential for mutational analysis of the expressed proteins. Additionally, protein isolation and characterization are excellent tools for instructing undergraduate students in research methodologies and critical thinking skills. Through the LBRN, the PI and students will be able to collaborate with researchers throughout the region and continue to grow through the network.
 -
   name: Joseph Chaney
-  active: false
+  active: true
   origin: Xavier University
   image: JChaney.jpg
-  project_title: Understanding the Role of the Conformational Changes in the Kinesin-5 on Processivity and Inhibition
+  project_title: Applying the Brakes &colon; Understanding the Role of the Conformational Changes in the Kinesin-5
   mentors:
+    -
+      name: Edward Wojcik
+      origin: LSUHSC-NO
   funding:
     -
       name: Startup Project
       period: May 1, 2018 -  August 18, 2020
+    -
+      name: Pilot Project
+      period: May 1, 2021 -  April 30, 2022
   abstract: |
-      Human Kinesin-5, an anticancer drug target, is key to the assembly of the bipolar spindle during mitosis. This research project seeks to define the mechanism of mechanical output by kinesin motor proteins. Our interest is in the neck-linker, a 12-15 residue segment at the N-terminus of kinesin plays an important role in processivity. However, it is not well understood the importance of the conformational change that forms a short β-sheet from a floppy region to its inhibition by anticancer drugs nor its influence on the coil-coil domain, the region necessary for oligomerization. The goal of this project is to determine the effects of substitutions and insertions in the neck-linker of kinesin-5, including human polymorphic variants, on in vitro measurements of catalytic activity and motion and whether the neck-linker controls structural asymmetry and initiation of the coil-coil, necessary for kinesin oligomerization. AIM1: We will insert three residues (DAL) into various places along the neck-linker of dimeric Kinesin-5 construct (Eg5-513) followed by expression and purification of the mutants in a bacterial system. We predict that the loss of the neck-linker will start the result in lower processivity of the chimera as the conformational change. Our experimental readout will be MT gliding by the mutant Kinesin-5. We will quantitate MT-gliding velocities for each mutant Kinesin-5 motor as well as WT Kinesin-5 for control. We expect that perturbations to the individual β-strands will prevent the extension of the central β-sheet by the cover neck bundle and reduce the motility of the motor along MT tracks. The anticipated result is that we expect a loss of interaction between β7 and β10 as a result of the glycine mutations. We anticipate that this will lead to total loss of kinesin motility. We will then test the response to inhibition by current anticancer inhibitor STLC AIM 2: We will generate mutations to the dimeric Kinesin-5 construct (Eg5-513) in β7 (E254G, L255G, V256G, K257G, I258G) by site-directed mutagenesis followed by expression and purification of the mutants in a bacterial system. It has been ignored that the docking of the NL and cover-neck to the motor head coordinates an interaction with β7. We will test the inhibitory effects of these mutations with the inhibitor STC on ATPase activity and processivity. The result of these experiments will provide a framework for understanding the role of the neck-linker as well as the cover neck bundle in Eg5 and may be expended to other kinesins and motor proteins which also exhibit conformational switching.
+      In processive kinesins, motor domains proceed forward in a hand-over-hand stepping fashion, while performing ATP hydrolysis. Several of these biological nanomotors have been identified as very promising targets for potential cancer therapy such as kinesin-5 and kinesin-6. Their promise as clinical targets come from the fact that they are involved only in metaphase and not interphase like some of the leading clinical drugs. However, the overall mechanism of inhibition in these targets needs further exploration. Inspection of the crystal structures of kinesin dimers reveals the addition of strands to the central b-sheet is found in one head and absent in the other; this previously unrecognized structural asymmetry between the two heads may suggest a regulatory mechanism. What has been ignored is that the docking of the NL and cover-neck to the motor head coordinates two strand additions to the central b-sheet. During docking the NL forms two b- strands, (b9 and b10, form a sheet with b0 of the cover-neck and (b-sheet of the central b-sheet, respectively. These structural changes in the neck-linker and cover-neck of Kinesin-5 have not been reported as there is currently no dimeric structure for this protein. Thus, the importance of establishing this conformational switch in Kinesin-5 requires additional experiments for understanding and molecular validation.
 -
   name: Jean Christopher Chamcheu
-  active: false
+  active: true
   origin: University of Louisiana at Monroe
   image: JChamcheu.jpg
-  project_title: Role of mTOR and its targeting by fisetin for treating psoriasis
+  project_title: Development of fisetin as a novel inhibitor co-targeting PI3K/AKT/mTOR/Rac1 and IL-17A for Treating Psoriasis
   mentors:
-  collaborator: Sonika Patial
+    -
+      name: Gus Kousoulas
+      origin: LSU
+    -
+      name: Shile Huang
+      origin: LSUHSC Shreveport
   funding:
     -
       name: INBRE COBRE Collaborative Project
@@ -59,21 +70,21 @@
     -
       name: Pilot Project
       period: 05-01-2018 to 04-30-2019
+    -
+      name: Full Project
+      period: 05-01-2021 to 04-30-2024
   abstract: |
-      The primary objective of this proposal is to validate the critical role of the mTOR and secondary signaling in skin inflammation with emphasis on psoriasis pathogenesis and to test fisetin, a common natural dietary ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects an estimated 3% of the world population3, 4,5 with > 8 million afflicted individuals in the US alone3, 4. Psoriasis etiology is incompletely understood, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune cells and the skin, featuring epidermal hyperplasia, immune cell infiltration, immune-mediators orchestration and skin barrier dysfunction3, 4. The past several decades have recorded a skyrocketing increase in new psoriasis cases, associated with significant decline in patients’ quality of life and an increased risk of arthritis and cardiovascular diseases6. Being multifactorial, curative treatments for mild/moderate psoriasis have proved frustrating and still remain elusive, thus it is unlikely that hitting a single target will effectively control the disease. Thus, there remains a dire need to develop novel and effective mechanisms and target-based strategies for long-term patient benefits. Our preliminary data suggest that amongst multiple signaling networks implicated in psoriasis, the phospho-inositol- 3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR) and MAPK pathways, which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis7, 8. We observed that PI3K/Akt/mTOR signaling is hyperactivated in both human psoriatic and imiquimod (IMQ)-induced murine psoriasis-like skin lesions compared to unaffected tissues7, 8. Likewise, our pilot studies on competitive binding, Kd’s and in-silico docking analyses identified fisetin as a potent dual mTOR kinase inhibitor that physically interacts and competitively binds mTOR and p70S6K1 with binding energies of -7 to -10.5Kcal/mol9. In addition, fisetin alone or in combination with activating agents, induced differentiation in normal human epidermal keratinocytes (NHEKs) and inhibited 1) NHEK proliferation, 2) PI3K/Akt/mTOR activation, 3) mTOR activity, 4) secretion of pro-inflammatory cytokines by NHEKs, peripheral blood mononuclear cells (PBMCs) and a CD4+T activated 3 dimensional (3D) Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that “PI3K/Akt/mTOR and MAPK networks are critical in psoriasis pathogenesis and, fisetin will inhibit the activation of these pathways, suppress proliferation, inflammation and neo-vascularization, and concomitantly induce differentiation to efficiently alleviate psoriasiform disease”.
+      The major long-term goal of this full proposal is to validate the critical role of phospho-inositol-3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR)/MAPK/epidermal Rho small GTPase Ras-related C3 botulinum toxin substrate 1 (Rac1) and secondary signaling in psoriasis pathogenesis and to develop fisetin, a common dietary polyphenolic ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects ≈ 3% of the world population including ≈ 8 million afflicted people in the US alone. Psoriasis etiology is complex, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune and the skin cells, featuring hyperplasia, immune cell infiltration, immune-mediators (including Th-17, IL-17A) orchestration and skin barrier dysfunction. Although not fatal, there is skyrocketing increase in the number of new psoriasis cases, associated with amplified risk of arthritis, pneumonia, cardiovascular morbidity, and significant decline in patients' quality of life. Curative treatments for psoriasis have proved frustrating, remain elusive and thus the dire need to develop novel and effective target-based strategies for long-term patient benefits. Emerging and our pilot data suggest that amid many signaling involved in psoriasis, the PI3K/Akt/mTOR/RAC1 and MAPK pathways which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis in humans and imiquimod (IMQ)-induced mice skin compared to matched normal skin. Similarly, our pilot studies identified fisetin, as a potent RAC1, IL-17A and dual mTOR/p70S6K1 kinase inhibitor that physically interacts and competitively bind targets with binding energies of -7 to -10.5Kcal/mol. Moreover, fisetin alone or combined with immune/skin cells activating agents, induced differentiation and inhibited i) NHEK proliferation, ii) RAC1/PI3K/Akt/mTOR activation, iii) mTOR and RAC1 activities, iv) antimicrobial peptides, and v) release of inflammatory cytokines (especially IL-17A/INF-g) in human epidermal keratinocytes (NHEKs), peripheral blood mononuclear cells (PBMCs), CD4+T cells and in a CD4+T activated Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that "PI3K/Akt/mTOR/MAPK, Rac1 and IL-17A networks are critical in psoriasis pathogenesis and, fisetin will inhibit their activation, suppress growth, inflammation and neovascularization, and alongside induce differentiation to ably alleviate psoriasiform disease". This proposal is design to; 1) validate the role of mTOR central signaling and effect of fisetin in NHEK and FTRHSP cultures; and 2) assess the ability of fisetin treatment to mitigate the signs of psoriasiform pathology, decrease the expression and activation of PI3K/Akt/mTOR and MAPK and T-cells in imiquimod (Balb/c) and TPA (K14-VEGF)-induced mice, two complementary preclinical murine models of psoriasis.
 -
   name: Urska Cvek
-  active: false
+  active: true
   origin: Louisiana State University, Shreveport
   image: UCvek.jpg
-  project_title: Women's Health in IDEA States
+  project_title: Disparities in Breast Cancer Treatment Outcomes&colon; Improving Access with Health Informatics
   mentors:
     -
-      name: Nadejda Korneeva
-      origin: LSUHSC-S
-    -
-      name: Brian Cornelius
-      origin: Ochsner LSU Health Sciences Center, Shreveport
+      name: Terry C. Lairmore
+      origin: LSUHS
   funding:
     -
       name: ORWH Maternal Health
@@ -81,8 +92,11 @@
     -
       name: Translational
       period: May 1, 2019 - August 18, 2020
+    -
+      name: Translational
+      period: May 1, 2021 - April 30, 2022
   abstract: |
-      The goal of this research is to design, implement and in the long-term evaluate the application of mobile technology to improve detection of undiagnosed diabetes and pre-diabetes. Specifically, we would like to develop this app that is an innovation on the current available set of apps. We believe that the addition of an app on smart phones in outpatient settings to the current standard practice will lead to improved diagnosis of diabetes and pre-diabetes in these patients.
+      Disparity in cancer treatment and outcomes due to geographic and socioeconomic variables is an increasingly recognized problem. Breast cancer is the most common cancer diagnosed among US women (excluding skin cancers) and is the second leading cause of cancer death among women after lung cancer. Besides the District of Columbia, Louisiana ranks first in breast cancer mortality according to the latest trend statistics from American Cancer Society. Breast conservation surgery with radiation therapy was established as the recommended standard of care with equally effective survival rates (NIH, 1990 consensus statement) and thus national mastectomy rates fell steadily through 2006. Spikes in mastectomies were onset by the "Angelina Jolie Effect", after the actress underwent a double mastectomy for the BRCA1 mutation without a cancer diagnosis.       Disparities in breast cancer mortality are complex and originate from a multitude of factors, including greater incidence of more aggressive subtypes, later stages at diagnosis, higher levels of comorbidities as well as inequality in treatment, access to care and adherence.       Cancer outcomes are determined not only by innate molecular biology of the tumor, but also by potentially modifiable variables including socioeconomic factors, racial differences, and geographical distance from treatment center. This project will allow us to identify these variations and implement targeted strategies to increase measurable outcome health equity (i.e. incidence, stage at diagnosis, and survival).
 -
   name: Waneene Dorsey
   active: false
@@ -123,7 +137,7 @@
       name: Startup Project
       period: May 1, 2015 - April 30, 2017
   abstract: |
-      Giardia lamblia is a flagellated protozoan parasite that causes gastrointestinal disease giardiasis in humans and is responsible for major waterborne outbreaks of diarrhea in the United States. Metronidazole (Flagyl) has been the drug of choice for treating giardiasis, however adverse side effects and development of drug resistance strains have necessitated search for new drugs. Translation machinery of Giardia is significantly different from mammals and yeast and hence could serve as a potential drug target. The long-term goal of this project is to understand the mechanism of translation initiation of Giardia.Giardia mRNAs have very short 5'UTRs (0 - 6 nts) and lacks some key translation initiation factors. In mammals and yeast, translation initiation factor eIF4G forms a trimeric complex eIF4F by binding with two proteins, a 5' cap-binding protein eIF4E and RNA helicase eIF4A. Initiation factor eIF4G is a key player in binding pre-initiation complexes to 5' end of mRNA by interacting with eIF3. Homology searches of Giardia genome database have identified homologues for eIF4E and eIF4A but not eIF4G. Therefore, it is not clear as to how pre-initiation complexes are recruited to the mRNA in the absence of eIF4G. Since GleIF4E2 (cap-binding homolog of eIF4E) and GleIF4A (RNA helicase homolog of eIF4A) bind in close proximity to the initiation codon due to short 5'UTRs, we hypothesized that GleIF4E2 and GleIF4A could directly interact with the components of the pre-initiation complex and facilitate its binding to the initiation codon. This hypothesis was supported by our preliminary studies using yeast two hybrid assays that have identified two novel protein-protein interactions; (a) interaction of GleIF4E2 with GleIF2β, a subunit of GleIF2 and (b) interaction of GleIF4A with GleIF3i, a subunit of GleIF3 complex. Both GleIF2 and GleIF3 are key components of pre-initiation complex. These results suggest that the recruitment of pre-initiation complexes to the 5'end of the mRNA may follow a different pathway compared to that of mammals and yeast. The short-term goal is to assess the role of these novel protein-protein interactions in translation initiation of Giardia. In addition, we will examine the composition of GleIF3 complex of Giardia as homologues of several key subunits required for translation initiation in mammals and yeast could not be identified in Giardia genome database. Specific aim #1: To validate protein-protein interactions identified by yeast two-hybrid assays. To validate the interactions observed between the two pairs of proteins in yeast two-hybrid assays, we will use proximity-dependent biotin ligation assays, co-immunoprecipiation (Co-IP) assays and proximity dependent ligation (PLA) assays. Specific aim #2: To investigate the role of protein-protein interactions between GleIF4E2 and GleIF2β in translation initiation. Computational methods (SWISS-MODEL and ZDOCK) will be used to identify amino acid residues of GleIF4E2 involved in interaction with GleIF2β. Site-directed mutagenesis will be performed to alter predicted amino acids to alanine. The mutated GleIF4E2 will be checked for its interaction with GleIF2β using yeast two-hybrid assay. Alternatively, a genetic screen of randomly mutagenized clones of GleIF4E2 will be performed to identify mutants that lack the ability to interact with GleIF2. These mutants will be then further confirmed for their lack of interactions using proximity dependent biotin ligation assay, co-immunoprecipitation assays and PLA assay. The GleIF4E2 mutants that failed to interact with GleIF2β will be overepxressed to test their effect on translation of a reporter gene in Giardia. Specific aim #3: To investigate the role of protein-protein interactions between GleIF4A and GleIF3i in translation initiation. Similar to specific aim #2, to identify amino acids residues of GleIF4A involved in binding to GleIF4A, site-direct mutagenesis and genetic screen of randomly mutagenized clones will be used. The mutants that fail to interact with GleIF3i will be overexpressed to test their effect on translation of a reporter gene in Giardia. In addition, we will determine whether GleIF3i stimulate the ATPase and helicase activity of GleIF4A in vitro. Specific aim #4: To characterize the components of GleIF3 complex from Giardia lamblia. We will affinity purify the GleIF3 complexes from Giardia cells using PTP tagged GleIF3 subunits and identify the components by mass spectrometry. In addition we will perform yeast two hybrid assays to determine the binary interactions between six subunits identified by homology searches of Giardia genome database.
+      Giardia lamblia is a flagellated protozoan parasite that causes gastrointestinal disease giardiasis in humans and is responsible for major waterborne outbreaks of diarrhea in the United States. Metronidazole (Flagyl) has been the drug of choice for treating giardiasis, however adverse side effects and development of drug resistance strains have necessitated search for new drugs. Translation machinery of Giardia is significantly different from mammals and yeast and hence could serve as a potential drug target. The long-term goal of this project is to understand the mechanism of translation initiation of Giardia.Giardia mRNAs have very short 5'UTRs (0 - 6 nts) and lacks some key translation initiation factors. In mammals and yeast, translation initiation factor eIF4G forms a trimeric complex eIF4F by binding with two proteins, a 5' cap-binding protein eIF4E and RNA helicase eIF4A. Initiation factor eIF4G is a key player in binding pre-initiation complexes to 5' end of mRNA by interacting with eIF3. Homology searches of Giardia genome database have identified homologues for eIF4E and eIF4A but not eIF4G. Therefore, it is not clear as to how pre-initiation complexes are recruited to the mRNA in the absence of eIF4G. Since GleIF4E2 (cap-binding homolog of eIF4E) and GleIF4A (RNA helicase homolog of eIF4A) bind in close proximity to the initiation codon due to short 5'UTRs, we hypothesized that GleIF4E2 and GleIF4A could directly interact with the components of the pre-initiation complex and facilitate its binding to the initiation codon. This hypothesis was supported by our preliminary studies using yeast two hybrid assays that have identified two novel protein-protein interactions; (a) interaction of GleIF4E2 with GleIF2_, a subunit of GleIF2 and (b) interaction of GleIF4A with GleIF3i, a subunit of GleIF3 complex. Both GleIF2 and GleIF3 are key components of pre-initiation complex. These results suggest that the recruitment of pre-initiation complexes to the 5'end of the mRNA may follow a different pathway compared to that of mammals and yeast. The short-term goal is to assess the role of these novel protein-protein interactions in translation initiation of Giardia. In addition, we will examine the composition of GleIF3 complex of Giardia as homologues of several key subunits required for translation initiation in mammals and yeast could not be identified in Giardia genome database.  Specific aim #1: To validate protein-protein interactions identified by yeast two-hybrid assays.         To validate the interactions observed between the two pairs of proteins in yeast two-hybrid assays, we will use proximity-dependent biotin ligation assays, co-immunoprecipiation (Co-IP) assays and proximity dependent ligation (PLA) assays.    Specific aim #2: To investigate the role of protein-protein interactions between GleIF4E2 and GleIF2_ in translation initiation.  Computational methods (SWISS-MODEL and ZDOCK) will be used to identify amino acid residues of GleIF4E2 involved in interaction with GleIF2_. Site-directed mutagenesis will be performed to alter predicted amino acids to alanine. The mutated GleIF4E2 will be checked for its interaction with GleIF2_ using yeast two-hybrid assay. Alternatively, a genetic screen of randomly mutagenized clones of GleIF4E2 will be performed to identify mutants that lack the ability to interact with GleIF2. These mutants will be then further confirmed for their lack of interactions using proximity dependent biotin ligation assay, co-immunoprecipitation assays and PLA assay. The GleIF4E2 mutants that failed to interact with GleIF2_ will be overepxressed to test their effect on translation of a reporter gene in Giardia.    Specific aim #3: To investigate the role of protein-protein interactions between GleIF4A and GleIF3i in translation initiation.  Similar to specific aim #2, to identify amino acids residues of GleIF4A involved in binding to GleIF4A, site-direct mutagenesis and genetic screen of randomly mutagenized clones will be used. The mutants that fail to interact with GleIF3i will be overexpressed to test their effect on translation of a reporter gene in Giardia. In addition, we will determine whether GleIF3i stimulate the ATPase and helicase activity of GleIF4A in vitro.     Specific aim #4: To characterize the components of GleIF3 complex from Giardia lamblia.   We will affinity purify the GleIF3 complexes from Giardia cells using PTP tagged GleIF3 subunits and identify    the components by mass spectrometry. In addition we will perform yeast two hybrid assays to determine the   binary interactions between six subunits identified by homology searches of Giardia genome database.
 -
   name: Seetharama D. Jois
   active: false
@@ -148,19 +162,23 @@
       Our objective is to use a plant-based peptide template to design stable peptide molecules to modulate the protein-protein interactions (PPI). The designed molecules can be used as a tool to modulate the inflammatory immune response. As a model system, we will use cell adhesion molecular pairs CD2 and CD58 (CD48 in rodents) that help to enhance T cell-antigen-presenting cells (APC) adhesion and thus promote T-cell activation. Our strategy is to design grafted peptides from a CD2 protein epitope that will inhibit protein-protein interactions in the key regions of the CD2-CD58 interactions. The novelty of grafted peptides is that they are chemically, thermally, and enzymatically stable. A multicyclic peptide (SFTIa-DBF) designed inhibits the adhesion between cells that express CD2 and CD58 at nanomolar concentrations. However, the stability of the peptide in vitro and in vivo and its biodistribution are not well understood. The molecular mechanism of signaling by CD2 upon blocking of protein-protein interaction between CD2-CD58 and the release of cytokines has not been studied. The molecular mechanism of the way that inhibition of CD2-CD58 interaction leads to suppression of signaling for cytokines and inflammatory response will also be investigated in cellular assays. As a proof of the usefulness of the peptide, immunomodulatory effects of the designed peptide will be evaluated using an animal model of the inflammatory disease Rheumatoid Arthritis (RA). Our approach is novel in the sense that, instead of antibodies and fusion proteins, the smallest stable framework of the multicyclic peptide (14 amino acids) will be used to block the cell adhesion interactions. To achieve goals, we propose the following specific aims. 1) To evaluate the thermal, enzymatic, and in vivo stability of the designed peptide; 2) To investigate the ability of grafted peptides to suppress inflammatory autoimmune response in DBA/1 mice model. Thus, the designed grafted peptides are new, and present a novel way of treating autoimmune diseases compared to the existing biologic therapies. Hence the project has clinical translational value.
 -
   name: Devaiah Kambiranda
-  active: false
+  active: true
   origin: Southern University (Baton Rouge)
   image: DKambiranda.jpg
-  project_title: Anti-inflammatory effects of ellagitannin metabolites on Electronic Cigarette Vapor Condensate challenged lung epithelial cells
+  project_title: Proteasomes/immunoproteasomes&colon; Role of lipid rafts in compartmentalization/activation in e-cigarettes vapor exposed lung epithelial cells
   mentors:
     -
-      name: Gus Kousoulas
-      origin: LSU
+      name: Sanjay Batra
+      origin: SUBR
   funding:
     -
       name: Pilot Project
       period: May 1, 2019 - August 18, 2020
-  abstract:
+    -
+      name: Full Project
+      period: May 1, 2021 - April 30, 2024
+  abstract: |
+      Electronic Nicotine Delivery Systems (ENDS) including electronic cigarettes (e-cigarettes; e-cigs) are battery-operated heating devices which convert e-cigs liquid (e-liquid) into an inhalable vapors. These devices were marketed as a safer alternative to conventional tobacco cigarettes and therefore gained rapid popularity amongst all age groups in the United States (U.S.). With significant rise in life threatening lung illness cases linked to e-cigs  in past few months, there is a recent surge to investigate the health effects of vaping. Since e-cigs are the products of new era compared to conventional smoking, there is only limited clinical data available in terms of the health effects of vaping. In this regard, PI's  LBRN Pilot project focused to determine the effect of tobacco-flavored e-cigs vapor condensate (TF-ECVC) on the  inflammatory responses and the expression/regulation of immunoproteasomes in human lung epithelial cells which can be rescued by Urolithin (Uro) A and Uro C (gut metabolites of ellagitannins and ellagic acid). Our findings reveal that Uro A rescues TF-ECVC mediated increases the  production of inflammatory cytokines and chemokines; and expression of immunoproteasome subunits. Earlier reports also demonstrate that exposure to lipopolysaccharide results in compartmentalization of ubiquitin ligases, activation of proteasome and proteasome-mediated ERK activation in macrophage raft fractions. While, abundance of 20S proteasome subunits with high proteolytic activity has also been reported in exosomes released by tumor-associated macrophages. Our preliminary findings also revealed that proteome profile of lipid rafts isolated from TF-ECVC challenged cells (48h) contained several proteins associated with ubiquitin/proteasome pathway in the cargo. While exosomes isolated from the serum of secondhand smoke exposed C57Bl/6 mice showed significant accumulation of lipid rafts associated proteins. We therefore, hypothesize that modulation of lipid rafts may play critical role in compartmentalization/ activation of proteasome/immuno-proteasome subunits and downstream signaling TF-ECVC challenged human primary and adenocarcinoma lung epithelial cells. We will enrich the membrane rafts with n-3 PUFA or modulate the assembly of lipid rafts using Uro A, Uro C or chemical agent  methyl-β-cyclodextrin (cholesterol depleting agent) to determine TF-ECVC responses in terms of .compartmentalization/ activation of proteasome/immuno-proteasome subunits and downstream signaling in rafts and exosomes.
 -
   name: Paul Kim
   active: false
@@ -201,14 +219,11 @@
       The goal of this proposal is to develop a targeted nanoparticle system for the treatment of breast cancer. Chemotherapy remains one of the major treatment options for metastatic breast cancer; however, acquired resistance to chemotherapeutic agents such as doxorubicin is a major reason for cancer treatment failure. The overexpression of ATP binding cassette (ABC) transporters, including P-gp (ABCB1 gene), multidrug resistance protein (MRP) (ABCC gene) and breast cancer resistance protein (BCRP) (ABCG2 gene) is one of the most common causes of multidrug resistance. Down regulating nuclear expression of MDR (multi-drug resistant) genes (i.e. P-gp, MRP-1, BCRP etc.) by siRNA-encapsulated nanoparticles could increase the delivery of doxorubicin, however, it will be more effective if the particles are selectively targeted to the cancer cells. So, we plan to overcome this problem by developing a targeted nanocarrier delivery system for siRNAs into breast cancer cells. For targeted delivery, Her-2 specific aptamer will be used that will bind specifically to the overexpressed Her-2 receptors on the breast cancer cells. The efficacy of targeted (aptamer-labeled) versus non-targeted (non-aptamer-labeled) delivery of siRNA (to knock-down multidrug resistant genes) by nanoparticles into the breast cancer cells will be examined. The major goal of this proposal is to examine whether silencing the multidrug resistant genes such as P-gp or MRP-1 alone or both together by aptamer-labeled nanoparticles could synergistically enhance the delivery of doxorubicin into breast cancer cells. Our hypothesis is that conjugating nanoparticles with a cancer cell specific aptamer would enhance the knock-down of multidrug resistant genes which will increase the delivery of doxorubicin into breast cancer cells leading to enhanced cellular toxicity and antitumor effect as compared to unconjugated nanoparticles. This hypothesis will be tested by the following two specific aims. Specific Aim I: Formulation of nanoparticle-aptamer conjugates for targeted delivery of siRNAs to enhance the knock-down of multidrug resistant genes in breast cancer cells. Specific Aim II: To determine whether silencing the expression of multidrug resistant genes by aptamer-labeled siRNA nanoparticles could enhance the delivery of doxorubicin into breast cancer cells in culture.
 -
   name: Georgios Matthaiolampakis
-  active: false
+  active: true
   origin: University of Louisiana at Monroe
   image: GMatthaiolampakis.jpg
-  project_title: Novel Gene Delivery System and miRNA treatment against Pancreatic Cancer
+  project_title: miR-mediated Inhibition of Lung Cancer Progression
   mentors:
-    -
-      name: Karen Briski
-      origin: ULM
     -
       name: Gus Kousoulas
       origin: LSU
@@ -222,7 +237,11 @@
     -
       name: Startup Project
       period: May 1, 2017 - April 30, 2019
-  abstract:
+    -
+      name: Full Project
+      period: 5-1-2021 - 4-30-2024
+  abstract: |
+    Despite significant efforts for early detection and treatment, lung cancer is often diagnosed at an advanced stage, with the average 5-year survival rate being at <15%. There is a gap in current therapeutic approaches against Lung Cancer (LC) and many other cancer types, with an absence of drugs that directly target the cell cycle and the cell-cycle associated genes, such as Cyclin-Dependent Kinases (CDKs). Only three molecules capable of inducing cell-cycle arrest (Ribociclib, Palbociclib, Abemaciclib), that inhibit CDK activity, have recently successfully translated to patient treatment, but only for specific types of breast cancer treatment, and none for lung cancer treatment.     Just last year, several clinical trials were undergoing using promising miRNAs (miRs). miRs, natural products that are present in all cells, have emerged as important regulators of gene activity.  We identified and studied two miRs, miR-143 and miR-506, which are consistently downregulated in LC samples and regulate the cell cycle progression. These miRs can induce G1/S and G2/M arrest of the cell cycle, inhibit proliferation, induce apoptosis, and downregulate the expression of three of the most crucial cell cycle CDKs, CDK4/6 and CDK1. More importantly, the combinatorial miR treatment had minimal apoptotic activity to normal cells and did not affect the expression of crucial for normal cell function CDKs (i.e., CDK 7/9).      The objective of this study is to decipher the mechanistic behavior and evaluate the therapeutic potential of miR-143 and miR-506 in vivo against LC.
 -
   name: David Mills
   active: false
@@ -241,14 +260,14 @@
       Craniomaxillofacial (CMF) surgeons treat bone defects using autografts, allografts, and even xenografts in an attempt to restore functionality and aesthetic appearance. Metallic biomaterials are also employed in various forms as substitutes for damaged bones, to hold bones together, strengthen tendons and ligaments or attach them to the bone, and replace diseased bone. These materials are also bioinert, possess little biological activity in vivo, with subsequent poor tissue integration, increased incidence of inflammation and infection, and implant loosening and failure due to infection. Further, ions can leach from the implants due to metal wear debris, resulting from corrosion, wear, and attrition from the metallic surfaces. The same degradation processes can lead to the loss of mechanical integrity and robustness, with the implant failing to perform the intended function. 3D printing can be used to create prostheses to replace or repair damaged tissues. Reconstructive surgery can also leverage 3D-printing technologies to develop custom cutting guides, fixation devices, practice models and implanted medical devices to improve patient outcomes. Recent advances in our lab have led to the development of a 3D printing technique able to fabricate an implantable medical device capable of delivering therapeutic drugs (antibiotics, chemotherapeutics, hormones, and steroids) directly to the intended target and then degrade safely in the body. The objective of this research is to fabricate a customized drug-eluting and biodegradable implant (e.g., resorbable bone mesh, screws and plates) using 3D printing technology. Our polymer nanocomposite will couple the treatment of infection while simultaneously encouraging tissue regeneration. The nanocomposite will consist of a polycaprolactone (PCL) and polyethylene oxide (PEO) polymer blend, and a calcium phosphate cement (CPC) enhanced with halloysite nanotubes (HNTs). The PCL/PEO blend will have controlled degradation and will be coupled with HNTs doped with antimicrobials and osteoinductive/osteogenic growth factors (hereafter termed bioactive agents). It can also serve as an orthobiologic. When applied or implanted into bone tissue, it will facilitate disease remediation, osteogenesis, matrix formation, mineralization, and biointegration. This project will produce a novel, cost-effective and customizable medical devices for use in the treatment of developmental or traumatic CMF defects or injuries.
 -
   name: Siva Murru
-  active: false
+  active: true
   origin: University of Louisiana at Monroe
   image: SMurru.jpg
-  project_title: Design, Synthesis and Evaluation of Nitrogen Heterocyclic Compounds for Anti-Cancer Activity
+  project_title: Development of Pyrazoles and Related Heterocyclic Compounds as Anti-Cancer Agents &colon; Design, Synthesis and Anti-cancer Activity Studies
   mentors:
     -
-      name: George Stanley
-      origin: LSU
+      name: Jayalakshmi Sridhar
+      origin: XULA
     -
       name: Seetharama Jois
       origin: ULM
@@ -259,8 +278,11 @@
     -
       name: Startup Project
       period: May 1, 2018 - April 30, 2019
+    -
+      name: Full Project
+      period: May 1, 2021 - April 30, 2024
   abstract: |
-      Cancer is one of the most difficult ailments and it became leading causes of death around the world. Anticancer agents that target DNA are generally the most effective agents in clinical use, but they are extremely toxic. Consequently, much effort has been put into finding robust anti-cancer agents that are more selective and less toxic. Along those lines, we recently obtained some interesting preliminary results on anticancer activity of our heterocyclic compounds. Currently we are planning on synthesizing new set of nitrogen heterocycles with different substitution patterns, and evaluate them for anticancer activity. Based on the preliminary results and the rationality of pyrazole moiety with known bioactive molecules, we will design and synthesize a new library of heterocycles with unique substitution patterns and evaluate for anticancer activity using variety of biological assays. The long-term goal of this project is to find novel anticancer agents for lung cancer therapy. In addition to that, we will be developing several synthetic approaches that will ultimately provide new chemical tools for the diverse range of synthetic chemists and biomedical researchers in academia and industry.
+      Cancer is one of the most difficult ailments in the world and slowly cancer surpassing cardiovascular disease as the leading cause of death. There were an estimated 18 million cancer cases around the world in 2018, among them lung and breast cancers are the most common cancers. The currently available cancer therapies still have various limitations, such as multi-drug resistance, undesired off-target effects, and unpredictable efficacies. Consequently, much effort has been invested into finding robust anti-cancer agents that are more selective and less toxic. The emerging molecular targets and signal pathways enable the development of novel strategies for the rational design of new anticancer agents. Along those lines, we have obtained some interesting preliminary results on anticancer activity of our compounds, particularly towards non-small cell lung cancers. Currently we are working on designing and synthesizing new libraries of five and six membered azole compounds with different substitution patterns and evaluate them for anticancer activity. Once we synthesize the designed products and confirm their structures by analytical techniques, we will evaluate their anticancer activity and identify their target using variety of biological assays. The long-term goal of this project is to find novel anticancer agents for lung cancer therapy. In addition to that, we will be developing several synthetic approaches that will ultimately provide new chemical tools for the diverse range of synthetic chemists and biomedical researchers in academia as well as in pharmaceutical industry.
 -
   name: Nektarios Barabutis
   active: false
@@ -303,23 +325,23 @@
       The primary objective of this proposal is to validate the critical role of the mTOR and secondary signaling in skin inflammation with emphasis on psoriasis pathogenesis and to test fisetin, a common natural dietary ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects an estimated 3% of the world population3, 4,5 with > 8 million afflicted individuals in the US alone3, 4. Psoriasis etiology is incompletely understood, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune cells and the skin, featuring epidermal hyperplasia, immune cell infiltration, immune-mediators orchestration and skin barrier dysfunction3, 4. The past several decades have recorded a skyrocketing increase in new psoriasis cases, associated with significant decline in patients’ quality of life and an increased risk of arthritis and cardiovascular diseases6. Being multifactorial, curative treatments for mild/moderate psoriasis have proved frustrating and still remain elusive, thus it is unlikely that hitting a single target will effectively control the disease. Thus, there remains a dire need to develop novel and effective mechanisms and target-based strategies for long-term patient benefits. Our preliminary data suggest that amongst multiple signaling networks implicated in psoriasis, the phospho-inositol- 3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR) and MAPK pathways, which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis7, 8. We observed that PI3K/Akt/mTOR signaling is hyperactivated in both human psoriatic and imiquimod (IMQ)-induced murine psoriasis-like skin lesions compared to unaffected tissues7, 8. Likewise, our pilot studies on competitive binding, Kd’s and in-silico docking analyses identified fisetin as a potent dual mTOR kinase inhibitor that physically interacts and competitively binds mTOR and p70S6K1 with binding energies of -7 to -10.5Kcal/mol9. In addition, fisetin alone or in combination with activating agents, induced differentiation in normal human epidermal keratinocytes (NHEKs) and inhibited 1) NHEK proliferation, 2) PI3K/Akt/mTOR activation, 3) mTOR activity, 4) secretion of pro-inflammatory cytokines by NHEKs, peripheral blood mononuclear cells (PBMCs) and a CD4+T activated 3 dimensional (3D) Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that “PI3K/Akt/mTOR and MAPK networks are critical in psoriasis pathogenesis and, fisetin will inhibit the activation of these pathways, suppress proliferation, inflammation and neo-vascularization, and concomitantly induce differentiation to efficiently alleviate psoriasiform disease”.
 -
   name: Vonny Salim
-  active: false
+  active: true
   origin: Louisiana State University-Shreveport
   image: VSalim.jpg
-  project_title: Probing Biosynthetic Machineries of Anticancer Agents-Producing Plants for Drug Discovery
+  project_title: Elucidation of Plant-Derived Drug Biosynthetic Pathways and Molecular Mechanisms as Anticancer Agents
   mentors:
     -
-      name: Urska Cvek
-      origin: LSU-S
-    -
-      name: Xiuping Yu
-      origin: LSUHSC-S
+      name: Shile Huang
+      origin: LSUHSC Shreveport
   funding:
     -
       name: Pilot Project
       period: May 1, 2019 - August 18, 2020
+    -
+      name: Full Project
+      period: May 1, 2021 - April 30, 2024
   abstract: |
-      Plants have been known as sources of immensely diverse specialized metabolites with substantial medicinal properties. Among the unique phytochemicals are monoterpene indole alkaloids (MIAs), which have been used in chemotherapy treatments. While there is an increasing demand for anticancer drugs, their production still depends on isolation of natural product precursors from medicinal plants. Alternative production of these drugs in microbial systems via metabolic engineering requires comprehensive knowledge of biosynthetic and regulatory machineries in plants. Our research focuses on the elucidation of biosynthetic pathways at the molecular and enzymatic level for more efficient production of cytotoxic compounds used in cancer treatments. The variety of biochemical pathways in MIA-producing plants also results in the diversity of plant natural products that is being investigated for discovery of drugs with new mechanisms of action. Currently, we integrate omics and biochemical approaches to understand biosynthesis of camptothecin, a monoterpene indole alkaloid in the medicinal plant Camptotheca acuminata, as well as other potential bioactive compounds with anticancer properties.
+      Medicinal plants produce highly diverse metabolites that have been used in cancer treatment. Two important chemotherapeutic agents, vinblastine and camptothecin, classified as monoterpene indole alkaloids (MIAs) are isolated from plant species Catharanthus roseus and Camptotheca acuminata, respectively. Despite their wide applications in the clinic, access to these drugs still relies on the extraction from the plants with low yields. In order to increase accessibility to these pharmaceuticals, the functional characterization of MIA biosynthetic enzymes is required as the prerequisite for metabolic engineering approach. The chemical diversity of MIAs, especially those with important pharmaceutical properties could also be further increased in metabolic engineering efforts using microbial systems. MIA biosynthetic pathways provide an excellent model of how a chemical diversity can be generated from a single central intermediate, known as strictosidine. In this project, we integrate genomic, transcriptomic, and metabolomic approaches to elucidate biosynthetic steps downstream of strictosidine formation that give rise to different MIAs with anticancer activities and other significant pharmacophores. The discovery of genes encoding the MIA biosynthetic pathways will also permit the use of heterologous expression of these compounds and their analogs for novel potential therapeutic implication. Their unique chemical structures and diverse pharmacological activities may further provide new leads for effective anticancer drugs. We aim to develop microbial systems for increased production of MIA camptothecin and its significant analogs that may exhibit anticancer activities as well as to elucidate their mechanism of action.
 -
   name: Omer Soysal
   active: false
@@ -350,8 +372,11 @@
     -
       name: Pilot Project
       period: May 1, 2018 - April 30, 2019
+    -
+      name: Full Project
+      period: May 1, 2019 - April 30, 2022
   abstract: |
-      Inference of phylogenetic trees is of interest to researchers in many areas of biology. Phylogenetic trees are used in population-level analyses of evolution and ecology, studies of agriculture, and the study of medicine. Time-scaling of phylogenetic trees allows researchers to put absolute ages on the nodes in a phylogeny. In time-scaling a phylogeny, researchers disentangle the relationship between evolutionary rate and the time since lineages diverged (i.e., an ancestral population became two independent daughter lineages). This allows researchers to test hypotheses about the rate at which evolutionary change accumulates, how lineages diversify, and how phenotypic and genomic features evolve. These analyses, while powerful, are also parameter-rich and complex. While researchers are looking to perform increasingly complicated phylogenetic analyses, datasets are also growing larger and more heterogeneous. Molecular datasets often encompass many loci, if not whole genomes. Time-scaling a phylogeny involves external data sources from which absolute time can be derived. This means that researchers are often incorporating data that address the absolute age of lineages, such as geological features or occurrence records, into these analyses, substantially increasing the complexity of the models needed to describe the data. As a result, researchers are dealing with more and more data, while simultaneously attempting increasingly parameter-rich methods. Ants (Formicidae) are an excellent system to test if recent methodological advancements can be used more widely. There are large molecular, morphological, and age data resources available. Ants display many characteristics analogous to pathogenic evolution, such as periods of rapid lineage accumulation and strong among-lineage variation in their rate of evolution. It is, therefore, possible to test the predictive ability and analytical capability of new methods for modeling heterogeneous data in this system, and to make recommendations of broader applicability.
+      Inference of phylogenetic trees is of interest to researchers in many areas of biology. Phylogenetic trees are used in population-level analyses of evolution and ecology, studies of agriculture, and the study of  medicine. Time-scaling of phylogenetic trees allows researchers to put absolute ages on the nodes in a  phylogeny. In time-scaling a phylogeny, researchers disentangle the relationship between evolutionary rate  and the time since lineages diverged (i.e., an ancestral population became two independent daughter lineages). This allows researchers to test hypotheses about the rate at which evolutionary change accumulates, how lineages diversify, and how phenotypic and genomic features evolve. These analyses, while powerful, are also parameter-rich and complex. While researchers are looking to perform increasingly complicated phylogenetic analyses, datasets are  also growing larger and more heterogeneous. Molecular datasets often encompass many loci, if not whole  genomes. Time-scaling a phylogeny involves external data sources from which absolute time can be derived. This means that researchers are often incorporating data that address the absolute age of lineages, such as geological features or occurrence records, into these analyses, substantially increasing the complexity of the models needed to describe the data. As a result, researchers are dealing with more and more data, while simultaneously attempting increasingly parameter-rich methods. Ants (Formicidae) are an excellent system to test if recent methodological advancements can be used more widely. There are large molecular, morphological, and age data resources available. Ants display many characteristics analogous to pathogenic evolution, such as periods of rapid lineage accumulation and strong among-lineage variation in their rate of evolution. It is, therefore, possible to test the predictive ability and  analytical capability of new methods for modeling heterogeneous data in this system, and to make recommendations of broader applicability.
 -
   name: Xiaoping Yi
   active: false
@@ -1166,3 +1191,120 @@
       name: INBRE COBRE Collaborative (Supplement)
       period: August 1, 2020 – April 30, 2021
   abstract:
+-
+  name: Erika Perez
+  active: true
+  origin: Xavier University
+  image: HNam.jpg
+  project_title: The interaction between kainate (KRs) and nicotinic acetylcholine receptors (nAChRs) in modulating nicotine-associated behaviors.
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2021 - April 30, 2023
+  abstract: |
+    Clinical studies looking at the use of the antiepileptic drug, Topiramate, to treat alcoholics have found that tobacco smoking behaviors are significantly reduced. Up to this point only a couple studies have been done to model these effects in pre-clinical rodent models as it relates to nicotine dependence. The main goal of this proposal is to characterize the impact that GluK1-containing kainate receptors (GluK1*KARs) have in modulating nicotine withdrawal symptoms. GluK*1KARS are non-selectively inhibited by topiratmate and genetic association studies suggest that this receptor system could be targeted to reduce drinking in AUD patients. My post doctoral work highlighted the role of GluK1*KARs in the manifestations of physical symptoms of alcohol withdrawal. My previous work also established that nicotinic acetylcholine (nAChRs) within the interpeduncular nucleus (IPN) play a role in the modulation of these physical signs of withdrawal from nicotine, alcohol and both drugs concurrently. To date the connection between these two receptor types has not been explored.    Aim 1 of this proposal will address the hypothesis that Topiramate and a more selective GluK1*KARs antagonist is sufficient to reduce both affective and physical symptoms of nicotine withdrawal. Both antagonists will be administered in animals undergoing 24 hr nicotine cessation before being tested for nicotine withdrawal-induced anxiety-like behavior, depression-like behavior, cognitive inflexibility, hyperalgesia and somatic signs. Aim 1 will also address whether GluK1*KARs within the basal lateral amygdala (BLA) can reduce nicotine withdrawal symptoms. Aim 2 will characterize the neuronal connection between the IPN and BLA in modulating nicotine withdrawal symptoms. Using both pharmacological and genetic techniques we will investigate the nature of these connections, whether they are within the same circuit or working in parallel neuronal circuits
+-
+  name: Jeffry Shultz
+  active: true
+  origin: Louisiana Tech University
+  image: JShultz.jpeg
+  project_title: Identifying Lethal Alleles in Human
+  mentors:
+    -
+      name: Chindo Hicks
+      origin: LSUHSC-NO
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+    Lethal alleles have long been described as the lack of a living homozygous recessive offspring from two carrier parents. Because it is unethical to perform specific crosses in Human to identify which genes may be lethal, we seek to identify several analytical methods to identify a subset of Human gene mutations that could be lethal. Initially, we will eliminate genes associated with known recessive diseases, followed by analysis of genes that are highly conserved, integral to a required pathway, exhibit high transcription levels early in development or that are linked to increased non-disjunction. Once bioinformatically parsed, target genes without deep sequencing coverage or that are high probability targets will be analyzed based on lack of homozygotes within the Human population.
+-
+  name: Christopher Murray
+  active: true
+  origin: Southeastern Louisiana Univeristy
+  image: CMurray.jpg
+  project_title: Alligators as Models for Human Pathology&colon; Neuroendocrine Effects of Methyltestosterone Exposure
+  mentors:
+    -
+      name: Karen Maruska
+      origin: LSU
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+    The synthetic androgen 17α-methyltestosterone (MT), used pan-tropically to masculinize tilapia fry for farming and sale, results in the development of intersex crocodilians by masculinizing female crocodiles and is detectable in crocodile egg yolks within natural systems, making MT one of the first environmental androgen endocrine-disrupting contaminants. Biotic and chemical exchange between aquaculture farms and human water sources are often unrestricted, leading to MT being detected in vertebrates throughout the region. The proposed research will result in a behavioral and neuroendocrine understanding of MT as an ecotoxin and its potential contribution to mechanistic human pathology post exposure.
+-
+  name: Samrat Dutta
+  active: true
+  origin: Xavier University
+  image: SDutta.png
+  project_title: Diagnostic Cancer Imaging in the Mid-Infrared Using Novel Contrast Agents
+  mentors:
+    -
+      name: Thomas Weise
+      origin: Xavier University
+    -
+      name: Harish Ratnayaka
+      origin: Xavier University
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+    In diagnostic imaging, there only six imaging modalities, namely x-ray, ultrasound, magnetic resonance imaging, computed tomography, positron emission tomography, and optical imaging available to clinicians to identify diseases. Infrared histological imaging can complement these existing diagnostic in the early detection of diseases, particularly cancer. A striking advantage of infrared imagery is its ability to provide the pathologist access to both chemical and morphological information of the sample. In this chemical mapping technique, the image is generated by measuring the vibrational absorbances of molecules present in the cell. In principle, it is possible to detect a cancer cell by analyzing the infrared signals from abnormal molecules present in the cancer microenvironment. However, the building blocks of cells, specifically proteins, nucleic acids, lipids, and carbohydrates generate numerous infrared bands that mask anomalous signals that could be linked to the disease. Currently, mapping algorithms are used to extract information from infrared biological histological images. Analyzing such maps is complicated and cannot be easily implemented in clinical settings. In this proposal, a new paradigm is proposed in mid-infrared histological imaging where the diseased state is identified using infrared contrast agents which are active in the so-called "biological transparent region" from 1800 to 2300 cm-1.  To this end, this proposal suggests the use of azido-labeled materials as novel infrared imaging agents as the functional group (azido) is not present in human body but has a distinct signature in the "transparent zone". Such a unique spectral property should make the azido- labeled carriers easily identifiable in the biological media. The central hypothesis of this work is that: organic azides with enhanced azido signal can detect and sort cancer. The premise is based on the fact that azido vibrational band is sensitive to the local environment and that the tumor microenvironment, particularly their surfaces, is different from healthy cells and changes as it progresses to metastatic stage. In this work, metals will serve as the platform (carrier) of the azido-labels. This is intentional as azido-vibration can couple to the plasmonic fields of metal surfaces leading to surface-enhanced infrared absorption(SEIRA) improving their detection in the biological media. Enhanced azido signal coupled with their sensitivity to local chemical environment can change the way how diseases are detected by mid-infrared microscopy.
+-
+  name: Moses Ihachi
+  active: true
+  origin: Southeastern Louisiana University
+  image: MIhachi.jpeg
+  project_title: Aryl-fused (Imidazole, Pyrazine and Pyrrole) Boronated Dye Derivatives
+  mentors:
+    -
+      name: Maria Vicente
+      origin: LSU
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+    This proposed research is categorized under preventive medicine (new diagnostic tests). The broad purpose of this project is to synthesize new boron-based dyes, investigate their photochemical and cellular properties for potential applications in fluorescence labelling and in bioimaging. The new dyes are expected to complement known BODIPYs (boron-dipyrromethenes) fluorophores which have been studied extensively, but absorb only in the visible region of the spectrum.    The new proposed dyes are expected to absorb at UV-Vis, far-red or near-IR wavelengths which is an attractive property for deep tissue imaging since light penetration through body tissue is known to increase with increased wavelength. In vivo fluorescence helps the physician to avoid unnecessary cuts during surgery. The proposed aryl fused dimers are expected to display red-shifted absorptions and emissions and enhanced fluorescence compared with BODIPY dyes. Readily available synthetic materials and laser probes will be used in this investigation.    To enhance cellular uptake, tumor cell selectivity, and controlled cellular retention, the PI will meticulously choose the "R" group and substitute the boron center to functionalize the proposed dye with water-solubilizing PEG, sugars, sulfonic acid, quaternarium ammonium groups, or amino acids. Some of these would be synthesized in the second phase of the project depending on primary cell studies results using human HEp2 cells.
+-
+  name: Vladimir Kolesnichenko
+  active: true
+  origin: Xavier University
+  image: HNam.jpg
+  project_title: Cancer-Specific Magnetic Imaging Agent
+  mentors:
+    -
+      name: Quincy Brown
+      origin: Tulane Univeristy
+    -
+      name: Galina Goloverda
+      origin: Xavier Univeristy
+    -
+      name: Thomas Wiese
+      origin: Xavier Univeristy
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+    Magnetic nanoparticles with tunable size for solving various biomedical diagnostics tasks are very attractive candidates for research and development, as they can be easily detected by MRI or MPI, and they can be constructed using stable and relatively non-toxic materials, such as iron oxides and/or ferrites.    In this project we will develop new imaging agents selectively recognized by cancerous cells. These agents will be composed of individual 3-5 nm magnetic iron oxide particles coated with covalently bound organic oligomers, so that overall size of the nanoparticulate adduct will not exceed 15-20 nm. The organic coating for these particles (linker molecules) is our own recently developed composition consisting of 2- hydroxyisophtalate (tenacate) coordinating head and amphiphilic spacer composed of 10-15 ethylene oxide units. These spacers will be conjugated at their termini with peptide-vectors responsible for the cell specificity (recognition). The idea is that these small particles will (a) avoid capturing by phagocytes, (b) exhibit fast pharmacokinetics, (c) penetrate through biological boundaries, (d) recognize the receptors at the surface of certain cancer cells, and (e) shorten the proton relaxation rates of the surrounding biological media and thus, act as MRI contrast agents. A fraction of the linker molecules will be conjugated with EPPT peptide, a known vector for targeting underglycosylated mucin-1 tumor antigen (uMUC1) overexpressed on the surface of cancer cells, or uMUC1 nucleotide aptamer. We will perform in vitro studies in uMUC1-positive and negative cell lines to assess specificity, cellular uptake, cellular distribution and toxicity of the nanoparticles, as a function of the organic shell structure and size.
+-
+  name: Kyle Piller
+  active: true
+  origin: Southeastern Louisiana University
+  image: HNam.jpg
+  project_title: Life in the fast lane&colon; Testing for congruence among transcriptomic signatures
+  mentors:
+    -
+      name: Brant Faircloth
+      origin: LSU
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2021 - April 30, 2024
+  abstract: |
+    The specific research objective of this study is to utilize transcriptomics (RNA-Seq) to investigate congruence in the genetic architecture of a group of potential model organisms (annual fishes). The Turquoise Killifish, an annual species, has already been identified as a model organism that has proven useful for the study of the aging process and age-related diseases in humans, but the congruency of its genetic attributes with other potential fish models (non-annuals, facultative annuals, and other annuals), as well as humans, has not been adequately addressed. This study will focus on DNA repair genes for these organisms with different life-histories. The specific hypotheses are as follows: Hypothesis 1: Fishes with an annual life-cycle will possess the same, but differentially expressed, DNA repair genes as other non-annuals and humans. This portion of the study will test for conservation of DNA repair genes (from liver tissues) among Nothobranchid and Rivulid fishes and humans using a transcriptomic approach. It will also examine differential expression levels to definitively search for congruence in the expression and functionality of these longevity genes and DNA repair genes.  Hypothesis 2: Genes involved in the DNA repair process show signs of positive selection in annual and facultative annuals, but not for non-annual species. This comparative genomics approach will be used to identify genes under positive selection, particularly focusing on DNA repair genes. Genes identified as showing positive selection relative to other non-annual species suggests that they are likely to be relevant to the aging process and can be used in future experimental studies to better understand the genetic architecture of the aging process.
