@@ -20,13 +20,13 @@
 -
   name: Rami Al-Horani
   active: false
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: RAl-Horani.jpg
   project_title: Inhibition of Factor XIIIa by Sulfonated Glycosaminoglycan Mimetics as Potential Avenue to Novel Anticoagulants
   mentors:
     -
       name: Rinku Majumder
-      origin: LSUH-NO
+      origin: Louisiana State University Health New Orleans
   funding:
     -
       name: Pilot Project
@@ -52,13 +52,13 @@
 -
   name: Joseph Chaney
   active: true
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: JChaney.jpg?v1.1
   project_title: Applying the Brakes &colon; Understanding the Role of the Conformational Changes in the Kinesin-5
   mentors:
     -
       name: Edward Wojcik
-      origin: LSUH-NO
+      origin: Louisiana State University Health New Orleans
   funding:
     -
       name: Pilot Project
@@ -78,10 +78,10 @@
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU (Co-Mentor)
+      origin: Louisiana State University (Co-Mentor)
     -
       name: Shile Huang
-      origin: LSUH Shreveport (Co-Mentor)
+      origin: Louisiana State University Health Shreveport (Co-Mentor)
   funding:
     -
       name: Full Project
@@ -103,7 +103,7 @@
   mentors:
     -
       name: Terry C. Lairmore
-      origin: LSUHS
+      origin: Louisiana State University Health Shreveport
   funding:
     -
       name: Translational
@@ -125,7 +125,7 @@
   mentors:
     -
       name: Sanjay Batra
-      origin: SUBR
+      origin: Southern University and A&amp;M College
   funding:
     -
       name: Full Project
@@ -144,7 +144,7 @@
   mentors:
     -
       name: Yong-Hwan Lee
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Full Project
@@ -166,7 +166,7 @@
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Translational Project
@@ -182,16 +182,16 @@
 -
   name: Devaiah Kambiranda
   active: true
-  origin: Southern University (Baton Rouge)
-  image: DKambiranda.jpg
+  origin: Southern University and A&amp;M College
+  image: DKambiranda.jpg?v1.1
   project_title: Proteasomes / immunoproteasomes&colon; Role of lipid rafts in compartmentalization / activation in e-cigarettes vapor exposed lung epithelial cells
   mentors:
     -
       name: Sanjay Batra
-      origin: SUBR (Mentor)
+      origin: Southern University and A&amp;M College (Mentor)
     -
       name: Gus Kousoulas
-      origin: LSU (Co-Mentor)
+      origin: Louisiana State University (Co-Mentor)
 
   funding:
     -
@@ -211,7 +211,7 @@
   mentors:
     -
       name: Jacqueline Stephens
-      origin: Pennington
+      origin: Pennington Biomedical Research Center
   funding:
     -
       name: Full Project
@@ -221,16 +221,16 @@
 -
   name: Anup Kundu
   active: false
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: AKundu.jpg
   project_title: Formulation of a targeted nanoparticle system for the treatment of breast cancer
   mentors:
     -
       name: Srikanta Dash
-      origin: Tulane-Mentor
+      origin: Tulane University (Mentor)
     -
       name: Tarun Mandal
-      origin: Xavier-Collab
+      origin: Xavier University of Louisiana (Collaborator)
   funding:
     -
       name: Full Project
@@ -249,10 +249,10 @@
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU (Mentor)
+      origin: Louisiana State University (Mentor)
     -
       name: Karen Briski
-      origin: ULM (Co-Mentor)
+      origin: University of Louisiana at Monroe (Co-Mentor)
   funding:
     -
       name: Full Project
@@ -277,7 +277,7 @@
   mentors:
     -
       name: Jennifer Woerner
-      origin: LSUH-S Collab
+      origin: Louisiana State University Health Shreveport (Collaborator)
   funding:
     -
       name: Translational Project
@@ -293,10 +293,10 @@
   mentors:
     -
       name: Jayalakshmi Sridhar
-      origin: XULA
+      origin: Xavier University of Louisiana
     -
       name: Seetharama Jois
-      origin: ULM
+      origin: University of Louisiana at Monroe
   funding:
     -
       name: Full Project
@@ -358,7 +358,7 @@
   mentors:
     -
       name: Shile Huang
-      origin: LSUH Shreveport
+      origin: Louisiana State University Health Shreveport
   funding:
     -
       name: Full Project
@@ -390,7 +390,7 @@
   mentors:
     -
       name: Jeremy Brown
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Full Project
@@ -403,16 +403,16 @@
 -
   name: Xiaoping Yi
   active: false
-  origin: Southern University (Baton Rouge)
+  origin: Southern University and A&amp;M College
   image: XYi.jpg
   project_title: Apoptosis pathway induced by RES and anticancer drug in 3D culture of prostate cancer cells
   mentors:
     -
       name: Gus Kousoulas
-      origin: LSU
+      origin: Louisiana State University
     -
       name: Eduardo Martinez-Ceballos
-      origin: SUBR
+      origin: Southern University and A&amp;M College
   funding:
     -
       name: Full Project
@@ -431,10 +431,10 @@
   mentors:
     -
       name: Shile Huang
-      origin: LSUH-S
+      origin: Louisiana State University Health Shreveport
     -
       name: Urksa Cvek
-      origin: LSU-S
+      origin: Louisiana State University Shreveport
   funding:
     -
       name: Full Project
@@ -444,13 +444,13 @@
 -
   name: Kun (Karen) Zhang
   active: false
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: KZhang.jpg
   project_title: Detecting Race-Relevant Molecular Biomarkers with Clinical Utilities Using Multi- Omics Data Across Tumor Types
   mentors:
     -
       name: Erik Flemington
-      origin: Tulane
+      origin: Tulane University
   funding:
     -
       name: Full Project
@@ -530,7 +530,7 @@
   mentors:
     -
       name: Marcia E. Newcomer, Ph.D.
-      origin: LSU Health Science Center Shreveport, Department of Molecular and Cellular Physiology
+      origin: Louisiana State University Health Shreveport, Department of Molecular and Cellular Physiology
 
     -
       name: W. Todd Monroe, Ph.D.
@@ -569,7 +569,7 @@
   name: Cecily DeFreece
   image: CDefreece.jpg
   active: false
-  origin: Xavier University, Department of Biology
+  origin: Xavier University of Louisiana, Department of Biology
   project_title: Characterizing inhibitors of the mutagenic retrotransposon LINE1 endonuclease
   abstract: |
     There is compelling evidence that the endonuclease (EN) encoded by the retrotransposon Long interspersed element 1 (LINE1) is a powerful causative agent of genetic instability. Expression of the LINE1 EN has been demonstrated to induce DNA double strand breaks (DSBs), damage that is known to be mutagenic and induce diseases such as cancer. In addition, the increased mobilization and expression of LINE1 elements has been observed in germ line, and in some somatic and tumor tissues. However, no studies have shown direct evidence that LINE1-induced DNA DSBs contribute to the induction or progression of diseases because there is currently no tool to specifically limit LINE1 EN activity in cells. Traditional techniques such as RNA knockdown are not feasible due to the large number of LINE1 elements and the location of some of the elements near or in coding regions of the genome. The best tool for deciphering the role of LINE1 EN in genetic instability and disease would be a potent and specific inhibitor of its activity, but no such inhibitor has been discovered yet. In our laboratory, we have been working on screening small molecules from a NIH library. Structural analogs of a promising molecule were made, and we have thus far identified three candidates that inhibit the activity of the lINE1 EN in vitro, have limited cellular toxicity and are able to reduce LINE1 mobilization in HeLa cells. However, further characterization in different types of cells needs to be done before the general use of these inhibitors in the study of LINE1 induced disease in animals.
@@ -728,10 +728,10 @@
   mentors:
     -
       name: Sunyoung Kim, Ph.D.
-      origin: LSUH-NO, Department of Biochemistry and Molecular Biology
+      origin: Louisiana State University Health New Orleans, Department of Biochemistry and Molecular Biology
     -
       name: Edward Wojcik, Ph.D.
-      origin: LSUH-NO, Department of Biochemistry and Molecular Biology
+      origin: Louisiana State University Health New Orleans, Department of Biochemistry and Molecular Biology
 
 -
   name: Keith Jackson
@@ -741,7 +741,7 @@
   mentors:
     -
       name: Joseph Francis
-      origin: LSU Vet School
+      origin: Louisiana State University School of Veterinary Medicine
   project_title: Role Of Heme Oxygenase In The Renal Control Of Hypertension
   abstract: |
     The proposed studies in this LBRN proposal will investigate the renal functional significance of the heme-heme oxygenase (HO)-carbon monoxide (CO) system during recurrent insulin-induced hypoglycemia (RIIH). HO catalyzes the conversion of heme to iron, biliverdin and CO. Biliverdin is rapidly reduced to bilirubin, which is a major antioxidant in mammalian systems. CO inhibits vascular smooth muscle cell growth and apoptosis, relaxes vascular smooth muscle, and promotes diuresis. Two major HO isozymes have been identified: HO-1 is an inducible heat shock protein (HSP32), while HO-2 is constitutive.
@@ -825,7 +825,7 @@
   mentors:
     -
       name: Christopher Kevil, Ph.D.
-      origin: LSU Health Shreveport, Department of Molecular and Cellular Physiology
+      origin: Louisiana State University Health Shreveport, Department of Molecular and Cellular Physiology
   funding:
     -
       name: Translational Project
@@ -914,7 +914,7 @@
   mentors:
     -
       name: Thomas Gettys
-      origin: Pennington Research Center
+      origin: Pennington Biomedical Research Center
   funding:
     -
       name: Full Project
@@ -950,10 +950,10 @@
   mentors:
     -
       name: Kevin Macaluso, Ph.D.
-      origin: Pathobiological Sciences, Louisiana State University
+      origin: Louisiana State University, Pathobiological Sciences
     -
       name: Long Que, Ph.D.
-      origin: Electrical Engineering, Louisiana Tech University
+      origin: Louisiana Tech University, Electrical Engineering
   funding:
     -
       name: Pilot Project
@@ -969,10 +969,10 @@
   mentors:
     -
       name: Shile Huang
-      origin: LSU Health Shreveport
+      origin: Louisiana State University Health Shreveport
     -
       name: Christopher Kevil
-      origin: LSU Health Shreveport
+      origin: Louisiana State University Health Shreveport
   project_title: Design and Synthesis of Novel Polyphenol Cancer Therapeutics, Maximizing ADMET Properties and the Regulation of Cell-Signaling Cross-Talk
   abstract: |
     The primary goal of this research is to develop novel drugs based on the hydroxycinammic polyphenol scaffold.  There is tremendous potential in this area of drug development as many natural molecules in this class (e.g., caffeic acid) exhibit potent and favorable direct effects on cancer cell signaling in vitro.  However, almost invariably, the natural products themselves are reported to have poor ADMET drug properties in vivo, particularly poor absorption and metabolic profiles.  This is often due to sub-optimal structural characteristics. We seek to address these problems through the design and synthesis of novel molecules possessing more desirable pharmacokinetic properties than the natural compounds.  A series of fourteen new compounds is proposed, incorporating several unique bioisosteric characteristics, aimed at improving problematic ADMET characteristics, while maintaining favorable anti-cancer signaling.  Cell proliferation assays to evaluate the effects of the synthetic compounds on the UM-UC14 (malignant bladder), and PC3 (malignant prostate) cancer cells will be employed, along with transepithelial cell monolayer model assays to assess the bioavailability of the synthetic compounds in vitro.
@@ -994,10 +994,10 @@
   mentors:
     -
       name: Ronald Horswell
-      origin: PBRC
+      origin: Pennington Biomedical Research Center
     -
       name: Walter J. Lukiw, Ph.D.
-      origin: LSU Health Science Center in New Orleans, Neuroscience Center of Excellence
+      origin: Louisiana State University Health New Orleans, Neuroscience Center of Excellence
     -
       name: Mark DeCoster, Ph.D.
       origin: Louisiana Tech University
@@ -1025,13 +1025,13 @@
   mentors:
     -
       name: Eduardo Ceballos-Martinez
-      origin: SUBR
+      origin: Southern University and A&amp;M College
     -
       name: Sanjay Batra
-      origin: SUBR
+      origin: Southern University and A&amp;M College
     -
       name: Gus Kousoulas
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Pilot Project
@@ -1063,7 +1063,7 @@
   mentors:
     -
       name: Hyung Nam
-      origin: LSUH-S
+      origin: Louisiana State University Health Shreveport
   funding:
     -
       name: INBRE COBRE Collaborative (Supplement)
@@ -1075,7 +1075,7 @@
 -
   name: Maureen Shuh
   active: false
-  origin: Xavier University, College of Pharmacy
+  origin: Xavier University of Louisiana, College of Pharmacy
   image: MShuh.jpg
   project_title: The Molecular Mechanisms of Adult T cell Leukemia Induction by HTLV-I Tax
   mentors:
@@ -1098,7 +1098,7 @@
   mentors:
     -
       name: Frank Jones
-      origin: Tulane University, Cancer Center, Cell & Molecular Biology
+      origin: Tulane University Cancer Center, Cell & Molecular Biology
   funding:
     -
       name: Full Project
@@ -1139,7 +1139,7 @@
   mentors:
     -
       name: Robert Rhoads, Ph.D.
-      origin: LSU Health Shreveport, Department of Biochemistry and Molecular Biology
+      origin: Louisiana State University Health Shreveport, Department of Biochemistry and Molecular Biology
     -
       name: Urska Cvek, Ph.D.
       origin: Louisiana State University Shreveport, Department of Computer Science
@@ -1217,7 +1217,7 @@
 -
   name: Erika Perez
   active: true
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: EPerez.jpg
   project_title: The interaction between kainate (KRs) and nicotinic acetylcholine receptors (nAChRs) in modulating nicotine-associated behaviors.
   funding:
@@ -1235,7 +1235,7 @@
   mentors:
     -
       name: Chindo Hicks
-      origin: LSUH-NO
+      origin: Louisiana State University Health New Orleans
   funding:
     -
       name: Pilot Project
@@ -1251,7 +1251,7 @@
   mentors:
     -
       name: Karen Maruska
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Pilot Project
@@ -1261,16 +1261,16 @@
 -
   name: Samrat Dutta
   active: true
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: SDutta.png
   project_title: Diagnostic Cancer Imaging in the Mid-Infrared Using Novel Contrast Agents
   mentors:
     -
       name: Thomas Weise
-      origin: Xavier University
+      origin: Xavier University of Louisiana
     -
       name: Harish Ratnayaka
-      origin: Xavier University
+      origin: Xavier University of Louisiana
   funding:
     -
       name: Pilot Project
@@ -1286,7 +1286,7 @@
   mentors:
     -
       name: Maria Vicente
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Pilot Project
@@ -1296,7 +1296,7 @@
 -
   name: Vladimir Kolesnichenko
   active: true
-  origin: Xavier University
+  origin: Xavier University of Louisiana
   image: VKolesnichenko.jpg
   project_title: Cancer-Specific Magnetic Imaging Agent
   mentors:
@@ -1305,10 +1305,10 @@
       origin: Tulane University
     -
       name: Galina Goloverda
-      origin: Xavier University
+      origin: Xavier University of Louisiana
     -
       name: Thomas Wiese
-      origin: Xavier University
+      origin: Xavier University of Louisiana
   funding:
     -
       name: Pilot Project
@@ -1325,7 +1325,7 @@
   mentors:
     -
       name: Brant Faircloth
-      origin: LSU
+      origin: Louisiana State University
   funding:
     -
       name: Full Project
