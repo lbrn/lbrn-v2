@@ -2,7 +2,7 @@
 layout: post
 title: BBC Core Director
 author: Christopher Taylor
-school: Louisiana State University Health Sciences Center New Orleans, Department of Microbiology, Immunology & Parasitology
+school: Louisiana State University Health New Orleans, Department of Microbiology, Immunology & Parasitology
 project-type: TestElement
 image: "BBC-Core/BBC-Christopher-M-Taylor.jpg"
 categories: project-investigator
