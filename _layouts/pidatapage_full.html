@@ -80,9 +80,17 @@
                       <p>{{ funding.name }} ({{funding.period}})</p>
                     {% endfor %}
                   </div>
-                  <div class="profileimg">
-                    <img src="/images/people/PIs/{{ pi.image }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
+
+                    {% if pi.ftimage != nil %}
+                  <div class="profileimg ft">
+                    <img src="/images/people/PIs/{{ pi.ftimage }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
                   </div>
+
+                    {% else %}
+                    <div class="profileimg">
+                      <img src="/images/people/PIs/{{ pi.image }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
+                    </div>
+                    {% endif %}
                   <div class="profile-txt">
                   {% if pi.abstract != nil %}
                   <br>

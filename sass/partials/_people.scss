@@ -271,17 +271,39 @@ section.directory {
 
 .profileimg {
   float: right;
-  width: 15%;
+  // width: 15%;
+  flex: 1 1 20%;
   padding: unset;
+  display: flex;
+  .img-polaroid {
+    height: auto;
+    width: auto;
+    margin: 0 auto auto;
+    max-width: 100%;
+    @media (max-width: $lg) {
+      margin-bottom: 20px;
+    }
+  }
+  &.ft {
+    flex: 1 1 30%;
+    @media(max-width: $xxl){
+      flex: 1 1 30%;
+    }
+    @media(max-width: $lg) {
+      flex: 1 1 100%;
+    }
+  }//ft
 
   @media(max-width: $xxl){
-    display: block;
-    width: 20%;
+    // display: block;
+    // width: 20%;
+    flex: 1 1 20%;
     padding: unset;
   }
-  @media(max-width: $md) {
+  @media(max-width: $lg) {
     // display: none;
-    width: 100%;
+    // width: 100%;
+    flex: 1 1 100%;
     padding-left: 20%;
     padding-right: 20%;
     order: 0;
@@ -289,15 +311,14 @@ section.directory {
 
 }
 
-.img-polaroid {
-  width: 90%;
-  margin: 5%;
-}
-
-
 .profile-txt {
-  width: 80%;
-
+  // width: 80%;
+  flex: 1 1 100%;
+  &.span6 {
+    flex: 1 1 60%;
+    @media (max-width: $lg) {
+    }
+  }
     h2 {
       font-size: 1.4rem;
       font-weight: 500;
@@ -307,7 +328,7 @@ section.directory {
     h4 {
       font-size: 1.25em !important;
     }
-    @media(max-width: $md) {
+    @media(max-width: $lg) {
       order: 2;
     }
 

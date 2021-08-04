@@ -1,4 +1,20 @@
-
+  # name: Name
+  # active: true (or false) Active PIs
+  # origin: Uni
+  # image: Profile Image
+  # ftimage: Internal page image
+  # project_title: Title
+  # mentors:
+  #   -
+  #     name: John Doe
+  #     origin: LSU
+  # funding:
+  #   -
+  #     name: Full Project (Project type)
+  #     period: May 1, 2021 - April 30, 2024
+  # Put funding in order of newest to oldest, downwards
+  # abstract: |
+      # Venous thromboembolism (VTE)...
 -
   name: Rami Al-Horani
   active: false
@@ -1301,6 +1317,7 @@
   active: true
   origin: Southeastern Louisiana University
   image: KPiller.jpg
+  ftimage: KPillerft.jpg
   project_title: Life in the fast lane&colon; Testing for congruence among transcriptomic signatures
   mentors:
     -
