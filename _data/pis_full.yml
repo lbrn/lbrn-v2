@@ -3,6 +3,8 @@
   # origin: Uni
   # image: Profile Image
   # ftimage: Internal page image
+  # pubmed-override: Override the default name for the pubmed search button
+
   # project_title: Title
   # mentors:
   #   -
