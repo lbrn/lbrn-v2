@@ -42,7 +42,12 @@
 
         {% for pi in site.data.pis_full %}
           {% if pi.name == page.person%}
+          {% if pi.pubmed-override != nil %}
+          <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ pi.pubmed-override | replace:' ', '+' }}" class="pubmed-link">Link to Pubmed Publications</a>
+          {% else %}
           <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ pi.name | replace:' ', '+' }}" class="pubmed-link">Link to Pubmed Publications</a>
+          {% endif %}
+
             <div class="page">
               <!-- <h2 class="page-title" >{{ page.person }}</h2> -->
               <p id="uni">
@@ -80,9 +85,17 @@
                       <p>{{ funding.name }} ({{funding.period}})</p>
                     {% endfor %}
                   </div>
-                  <div class="profileimg">
-                    <img src="/images/people/PIs/{{ pi.image }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
+
+                    {% if pi.ftimage != nil %}
+                  <div class="profileimg ft">
+                    <img src="/images/people/PIs/{{ pi.ftimage }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
                   </div>
+
+                    {% else %}
+                    <div class="profileimg">
+                      <img src="/images/people/PIs/{{ pi.image }}?v1.2" alt="{{pi.person}}" class="img-polaroid">
+                    </div>
+                    {% endif %}
                   <div class="profile-txt">
                   {% if pi.abstract != nil %}
                   <br>

@@ -240,7 +240,8 @@ function piFilter(){
     $(this).toggleClass('on');
     $(this).toggleClass('active');
     pilots.slideToggle('fast');
-    // console.log("dog");
+
+    console.log(pilots);
   });
   $(".pite").click(function(){
     $(this).toggleClass('on');

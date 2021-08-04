@@ -2,7 +2,7 @@
 layout: post
 title: Associate Dean of Research and Graduate Programs
 author: Patrick Mensah
-school: Southern University
+school: Southern University and A&amp;M College
 project-type: TestElement
 image: "BBC-Core/mensah.jpg"
 categories: project-investigator
