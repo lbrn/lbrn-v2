@@ -71,6 +71,7 @@
   active: true
   origin: University of Louisiana at Monroe
   image: JChamcheu.jpg
+  pubmed-override: Chamcheu JC
   project_title: Development of fisetin as a novel inhibitor co-targeting PI3K/AKT/mTOR/Rac1 and IL-17A for Treating Psoriasis
   mentors:
     -
@@ -94,7 +95,7 @@
 -
   name: Urska Cvek
   active: true
-  origin: Louisiana State University, Shreveport
+  origin: Louisiana State University Shreveport
   image: UCvek.jpg
   project_title: Disparities in Breast Cancer Treatment Outcomes&colon; Improving Access with Health Informatics
   mentors:
