@@ -627,7 +627,7 @@
 -
   name: Ann Findley
   active: false
-  origin: Univeristy of Louisiana at Monroe, Department of Biology
+  origin: University of Louisiana at Monroe, Department of Biology
   image: AFindley.jpg
   project_title: Acquisition of Real-Time PCR and Gel Documentation Systems for ULM Biology
   funding:
@@ -1245,7 +1245,7 @@
 -
   name: Christopher Murray
   active: true
-  origin: Southeastern Louisiana Univeristy
+  origin: Southeastern Louisiana University
   image: CMurray.jpg
   project_title: Alligators as Models for Human Pathology&colon; Neuroendocrine Effects of Methyltestosterone Exposure
   mentors:
@@ -1302,13 +1302,13 @@
   mentors:
     -
       name: Quincy Brown
-      origin: Tulane Univeristy
+      origin: Tulane University
     -
       name: Galina Goloverda
-      origin: Xavier Univeristy
+      origin: Xavier University
     -
       name: Thomas Wiese
-      origin: Xavier Univeristy
+      origin: Xavier University
   funding:
     -
       name: Pilot Project
