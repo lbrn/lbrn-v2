@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: LBRN Student LSUS Senior Places First in National Competition
+title: LSU Shreveport LBRN Student Senior Places First in National Competition
 categories: Event
 eventDate: September 24, 2020
 startTime:

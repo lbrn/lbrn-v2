@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: Congratulations! LBRN former Summer Student; Adeola Adedokun
+title: Congratulations! LSU Shreveport LBRN former Summer Student; Adeola Adedokun
 categories: Event
 eventDate: June 15th, 2021
 startTime:

@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: LBRN PI Appointment to LOUIS Open Textbooks Pilot Program
+title: Grambling State University LBRN PI Appointment to LOUIS Open Textbooks Pilot Program
 categories: Event
 eventDate: April 30th, 2021
 startTime:

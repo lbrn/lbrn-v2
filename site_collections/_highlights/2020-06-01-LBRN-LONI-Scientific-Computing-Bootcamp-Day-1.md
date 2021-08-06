@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: Senior biology major one of 10 students in nation chosen to share importance of research with lawmakers
+title: Louisiana Tech LBRN Senior biology major one of 10 students in nation chosen to share importance of research with lawmakers
 categories: Event
 eventDate: May 21-23, 2020
 img: images/highlights/img1.jpg

@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: LBRN Student became a Ph.D.
+title: LSU Shreveport LBRN Student became a Ph.D.
 categories: Event
 eventDate: September 18, 2020
 startTime:

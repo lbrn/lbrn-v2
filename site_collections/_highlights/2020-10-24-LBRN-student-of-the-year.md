@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: LBRN Student awarded Honors Student of the Year
+title: Southeastern Louisiana University LBRN Student awarded Honors Student of the Year
 categories: Event
 eventDate: May 5, 2020
 startTime:
