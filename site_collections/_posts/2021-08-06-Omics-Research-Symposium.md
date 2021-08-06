@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Omics Research Symposium
-tags: news
+tags: news featured
 featuredImageUrl: "images/postImages/omics-research-symposium-2021.png"
 featuredImageUrlSquare: "images/postImages/omics-research-symposium-2021.png"
 excerpt_separator: <!--more-->
