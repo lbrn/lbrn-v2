@@ -62,6 +62,18 @@
                     <!-- <a class="natural-link" href="{{pi.url | relative_url }}"><h5>{{pi.title}}</h5></a> -->
                     <br>
 
+ 					{% if pi.collaborators.size > 1 %}
+                      <h2>Collaborators</h2>
+                    {% else %}
+                    	{% if pi.collaborators.size == 1 %}
+                    	<h2>Collaborator</h2>
+                    	{% endif %}
+                    {% endif %}
+
+                    {% for collaborator in pi.collaborators %}
+                      <p>{{ collaborator.name }}, {{collaborator.origin}}</p>
+                    {% endfor %}
+
                     {% if pi.mentors.size > 1 %}
                       <h2>Mentors</h2>
                     {% else %}

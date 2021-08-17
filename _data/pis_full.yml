@@ -10,6 +10,10 @@
   #   -
   #     name: John Doe
   #     origin: LSU
+  # collaborators:
+  #   -
+  #     name: John Doe
+  #     origin: LSU
   # funding:
   #   -
   #     name: Full Project (Project type)
@@ -311,17 +315,41 @@
       Cancer is one of the most difficult ailments in the world and slowly cancer surpassing cardiovascular disease as the leading cause of death. There were an estimated 18 million cancer cases around the world in 2018, among them lung and breast cancers are the most common cancers. The currently available cancer therapies still have various limitations, such as multi-drug resistance, undesired off-target effects, and unpredictable efficacies. Consequently, much effort has been invested into finding robust anti-cancer agents that are more selective and less toxic. The emerging molecular targets and signal pathways enable the development of novel strategies for the rational design of new anticancer agents. Along those lines, we have obtained some interesting preliminary results on anticancer activity of our compounds, particularly towards non-small cell lung cancers. Currently we are working on designing and synthesizing new libraries of five and six membered azole compounds with different substitution patterns and evaluate them for anticancer activity. Once we synthesize the designed products and confirm their structures by analytical techniques, we will evaluate their anticancer activity and identify their target using variety of biological assays. The long-term goal of this project is to find novel anticancer agents for lung cancer therapy. In addition to that, we will be developing several synthetic approaches that will ultimately provide new chemical tools for the diverse range of synthetic chemists and biomedical researchers in academia as well as in pharmaceutical industry.
 -
   name: Nektarios Barabutis
-  active: false
+  active: true
   origin: University of Louisiana at Monroe
   image: NBarabutis.jpg
-  project_title: Elucidation of the Mechanisms which are involved in the anti-inflammatory action of Hsp90 inhibitors in the vasculature
-  mentors:
+  project_title: Protective Role of Activating Transcription Factor 6 (ATF6) against endothelial barrier dysfunction
+  mentors: 
+  collaborators:
+    -
+      name: Yogesh Saini
+      origin: Louisiana State University
   funding:
+    -
+      name: INBRE COBRE Collaborative Project
+      period: May 1, 2021 - April 30, 2022
     -
       name: Startup Project
       period: May 1, 2018 - August 18, 2020
   abstract: |
-      Inflammation is the main cause of major cardiovascular diseases, including acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). While glucocorticosteroids possess a strong anti-inflammatory activity, their side effects restrict their wide-spread use to only severe circumstances. On the other hand, single-target anti-inflammatory agents (e.g., COX inhibitors) lack serious side effects but are void of broad-spectrum anti-inflammatory activity. Strong anti-inflammatory agents with limited side effects would be of great significance in the prevention and management of cardiovascular disease. Hsp90 inhibitors have already completed Phase I and II trials for cancer and represent an exciting new possibility as clinically useful anti- inflammatory drugs. Vascular endothelium forms a barrier that controls the extravasation of solutes, macromolecules and leukocytes. Endothelial barrier dysfunction (EBD) leads to capillary hyper-permeability, which, in the lung, is a hallmark of acute lung injury (ALI) and of the acute respiratory distress syndrome (ARDS). Frequently, EBD results from the re-arrangement of the actin cytoskeleton, from a cortical architecture to the formation of actin stress fibers that "pull apart" adjacent endothelial cells to increase paracellular permeability. Recent data suggest that Hsp90 inhibitors exert a strong anti - inflammatory activity, and that can protect the endothelium against inflammatory insults; such as LPS. We have recently discovered that the wild type P53 mediates the protective effect of the hsp90 inhibitors in the vasculature. In the current grant application we report our findings on the discovery of new mechanisms by which Hsp90 inhibition protects against the LPS induced barrier dysfunction.
+      The endothelium barrier regulates the exchange of blood fluid, electrolytes and proteins across the vascular wall, and it is subjected to dynamic remodeling. The function of this barrier is affected by various conditions, including inflammation, diabetes and sepsis. Endothelial barrier dysfunction (EBD) is the hallmark of severe respiratory disease, such as Acute Lung Injury (ALI), Acute Respiratory Distress Syndrome (ARDS) and sepsis. The development of novel therapeutic strategies against these devastating pathologies is of the utmost need. Our endeavors to expose new therapeutic avenues towards EBD-related diseases revealed that Hsp90 inhibitors and GHRH antagonists protect against endothelial barrier dysfunction, and induce the Unfolded Protein Response (UPR). This is a highly conserved molecular machinery, able to initiate protective and repairing cellular responses in human tissues, including the lungs. It consists of three ER transmembrane proteins: IRE1α (inositol-requiring enzyme 1α), PERK (pancreatic endoplasmic reticulum kinase), and ATF6 (activating transcription factor 6). UPR induction due to heat shock protein 90 inhibition or growth hormone releasing hormone antagonists counteracted the Kifunensine (UPR suppressor) - induced endothelial hyperpermeability in vitro. Our proposal will focus on the effects of ATF6 in lung endothelial barrier function. Specific Aim 1 will associate ATF6 activation with endothelial barrier function, to demonstrate the supportive role of ATF6 against EBD in vitro. Specific Aim 2 will focus on an in vivo model of LPS-induced ALI, to substantiate our in vitro findings. To do so, we will generate ATF6 null ATF6 endothelial specific knock out mice. The outcomes of our study will enrich our current understanding on endothelial barrier regulation, to provide new targets for the management of diseases related to EBD.
+-
+  name: Yogesh Saini
+  active: true
+  origin: Louisiana State University
+  image: YSaini.jpg
+  project_title: Protective Role of Activating Transcription Factor 6 (ATF6) against endothelial barrier dysfunction
+  mentors: 
+  collaborators:
+    -
+      name: Nektarios Barabutis
+      origin: University of Louisiana at Monroe
+  funding:
+    -
+      name: INBRE COBRE Collaborative Project
+      period: May 1, 2021 - April 30, 2022
+  abstract: |
+      The endothelium barrier regulates the exchange of blood fluid, electrolytes and proteins across the vascular wall, and it is subjected to dynamic remodeling. The function of this barrier is affected by various conditions, including inflammation, diabetes and sepsis. Endothelial barrier dysfunction (EBD) is the hallmark of severe respiratory disease, such as Acute Lung Injury (ALI), Acute Respiratory Distress Syndrome (ARDS) and sepsis. The development of novel therapeutic strategies against these devastating pathologies is of the utmost need. Our endeavors to expose new therapeutic avenues towards EBD-related diseases revealed that Hsp90 inhibitors and GHRH antagonists protect against endothelial barrier dysfunction, and induce the Unfolded Protein Response (UPR). This is a highly conserved molecular machinery, able to initiate protective and repairing cellular responses in human tissues, including the lungs. It consists of three ER transmembrane proteins: IRE1α (inositol-requiring enzyme 1α), PERK (pancreatic endoplasmic reticulum kinase), and ATF6 (activating transcription factor 6). UPR induction due to heat shock protein 90 inhibition or growth hormone releasing hormone antagonists counteracted the Kifunensine (UPR suppressor) - induced endothelial hyperpermeability in vitro. Our proposal will focus on the effects of ATF6 in lung endothelial barrier function. Specific Aim 1 will associate ATF6 activation with endothelial barrier function, to demonstrate the supportive role of ATF6 against EBD in vitro. Specific Aim 2 will focus on an in vivo model of LPS-induced ALI, to substantiate our in vitro findings. To do so, we will generate ATF6 null ATF6 endothelial specific knock out mice. The outcomes of our study will enrich our current understanding on endothelial barrier regulation, to provide new targets for the management of diseases related to EBD.
 -
   name: Matthew Overturf
   active: false
@@ -342,6 +370,10 @@
   image: SPatial.jpg
   project_title: Role of mTOR and its targeting by fisetin for treating psoriasis
   mentors:
+  collaborators:
+    -
+      name: Jean Christopher Chamcheu
+      origin: University of Louisiana at Monroe
   funding:
     -
       name: INBRE COBRE Collaborative Project
