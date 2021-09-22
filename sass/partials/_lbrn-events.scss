@@ -209,3 +209,41 @@
     }
   }
 }
+
+#eventSchedule {
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    margin: 0;
+    .day {
+      background-color: yellow;
+      padding: 10px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      flex: 1 1 100%;
+      &:nth-child(even) {
+        background-color: orange;
+      }
+      h2 {
+        background-color: transparent;
+        flex: 1 0 100%;
+      }
+      a {
+        flex: 0 1 50%;
+        padding: 10px;
+        background-color: $secondary;
+        p, h3, h4 {
+          color: white;
+        }
+        &:nth-child(even) {
+          background-color: $quadiary;
+          color: white;
+        }
+      }
+    }
+
+  }
+}
