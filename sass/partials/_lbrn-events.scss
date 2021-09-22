@@ -218,9 +218,10 @@
     width: 100%;
     margin: 0;
     .day {
-      background-color: yellow;
-      padding: 10px;
+      background-color: $sexta;
+      padding: 25px;
       display: flex;
+      border-radius: 6px;
       flex-direction: row;
       flex-wrap: wrap;
       flex: 1 1 100%;
@@ -230,18 +231,77 @@
       h2 {
         background-color: transparent;
         flex: 1 0 100%;
+        margin: 20px 0;
+        font-weight: bold;
       }
       a {
         flex: 0 1 50%;
         padding: 10px;
-        background-color: $secondary;
-        p, h3, h4 {
-          color: white;
+        background-color: $aboutcores;
+        // border-top-left-radius: 6px;
+        // border-bottom-left-radius: 6px;
+        border-radius: 6px;
+        transition: 0.4s;
+        margin-right: 5px;
+        flex-basis: calc(50% - 10px);
+        p, h3, h4, span {
+          color: $primary;
         }
-        &:nth-child(even) {
+        p {
+          font-size: 20px;
+          line-height: 1.1;
+          border-top: 2px solid $primary;
+          padding-top: 0.5em;
+
+        }
+        h3 {
+          border: none;
+          padding-left: 0;
+          font-size: 24px;
+        }
+        h4 {
+          font-size: 18px;
+          font-weight: normal;
+          margin-top: 0.5em;
+          font-style: italic;
+        }
+        &:hover {
+          text-decoration: none;
+          color: white;
+          background-color: $primary;
+          p, h3, h4,  span {
+            color: white;
+          }
+          p {
+            border-top: 2px solid white;
+          }
+        }
+        &:nth-child(3n) {
           background-color: $quadiary;
-          color: white;
+          color: $primary;
+          // border-top-right-radius: 6px;
+          // border-bottom-right-radius: 6px;
+          margin-left: 5px;
+          margin-right: 0;
+          &:hover {
+            text-decoration: none;
+            // color: $secondary;
+            color: white;
+            background-color: $primary;
+            p, h3, h4,  span {
+              color: white;
+            }
+
+          }
         }
+        &:only-child {
+          border-radius: 6px;
+        }
+        @media (max-width: $md) {
+          margin: 0;
+          flex: 1 1 100%;
+          margin-bottom: 1em;
+        }//md
       }
     }
 
