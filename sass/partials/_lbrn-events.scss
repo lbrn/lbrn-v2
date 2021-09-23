@@ -276,7 +276,7 @@
             border-top: 2px solid white;
           }
         }
-        &:nth-child(3n) {
+        &:nth-child(even) {
           background-color: $quadiary;
           color: $primary;
           // border-top-right-radius: 6px;

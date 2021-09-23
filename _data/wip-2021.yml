@@ -1,16 +1,64 @@
-- name: Dr. April Wright
+- name: April Wright
   date: Tuesday, October 5, 2021
   university: Southeastern Louisiana University
   title: Modeling Heterogeneous Data Sources for Time-Scaling Phylogenetic Trees
-  link: test
-- name: Dr. April Wright
+- name: Srinivas Garlapati
   date: Tuesday, October 5, 2021
+  university: University of Louisiana at Monroe
+  title: Mechanism of translation initiation in protozoan parasite Giardia lamblia
+- name: Jean Christopher Chamcheu
+  date: Thursday, October 7, 2021
+  university: University of Louisiana at Monroe
+  title: Development of fisetin as a novel inhibitor co-targeting PI3K/AKT/mTOR/Rac1 and IL-17A for Treating Psoriasis
+- name: Joseph Chaney
+  date: Thursday, October 7, 2021
+  university: Xavier University
+  title: Applying the Brakes&#58; Understanding the Role of the Conformational Changes in the Kinesin-5
+- name: Georgios Matthaiolampakis
+  date: Tuesday, October 12, 2021
+  university: University of Louisiana at Monroe
+  title: miR-mediated Inhibition of Lung Cancer Progression
+- name: Jeffry Shultz
+  date: Tuesday, October 12, 2021
+  university: Louisiana Tech University
+  title: Identifying Lethal Alleles in Human
+- name: Siva Murru
+  date: Thursday, October 14, 2021
+  university: University of Louisiana at Monroe
+  title: Development of Pyrazoles and Pyrazolones as Anti-Cancer Agents&#58; Design, Synthesis and Anti-Cancer Activity Studies
+- name: Christopher Murray
+  date: Thursday, October 14, 2021
   university: Southeastern Louisiana University
-  title: Modeling Heterogeneous Data Sources for Time-Scaling Phylogenetic Trees
-  link: test
-- name: Dr. April Wright
-  date: Wednesday, October 6th, 2021
-  time: 12:30 pm
+  title: Alligators as Models for Human Pathology&#58; Neuroendocrine Effects of Methyltestosterone Exposure
+- name: Devaiah Kambiranda
+  date: Tuesday, October 19, 2021
+  university: Southern University (Baton Rouge)
+  title: Proteasomes/<wbr>immunoproteasomes&#58; Role of lipid rafts in compartmentalization/activation in e-cigarettes vapor exposed lung epithelial cells
+- name: Samrat Dutta
+  date: Tuesday, October 19, 2021
+  university: Xavier University
+  title: Diagnostic Cancer Imaging in the Mid-Infrared Using Novel Contrast Agents
+- name: Kyle Piller
+  date: Thursday, October 21, 2021
   university: Southeastern Louisiana University
-  title: Modeling Heterogeneous Data Sources for Time-Scaling Phylogenetic Trees
-  link: test
+  title: Life in the fast lane&#58; Testing for congruence among transcriptomic signatures
+- name: Vladimir Kolesnichenko 
+  date: Thursday, October 21, 2021
+  university: Xavier University
+  title: Cancer-Specific Magnetic Imaging Agent
+- name: Mary Caldorera-Moore
+  date: Tuesday, October 26, 2021
+  university: Louisiana Tech University
+  title: Multifunctional Living Stem Cell-Laden Hydrogel Networks for Directed Tissue Regeneration
+- name: Moses Ihachi
+  date: Tuesday, October 26, 2021
+  university: Southeastern Louisiana University
+  title: Aryl-fused (Imidazole, Pyrazine and Pyrrole) Boronated Dye Derivatives
+- name: Urska Cvek
+  date: Thursday, October 28, 2021
+  university: Louisiana State University-Shreveport
+  title: Disparities in Breast Cancer Treatment Outcomes&#58; Improving Access with Health Informatics
+- name: Nektarios Barabutis
+  date: Thursday, October 28, 2021
+  university: University of Louisiana at Monroe
+  title: Protective Role of Activating Transcription Factor 6 (ATF6) against endothelial barrier dysfunction
