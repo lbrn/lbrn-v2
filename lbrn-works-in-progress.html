@@ -37,7 +37,22 @@ eventLocation: Virtual.
       {% for day in postsByDay %}
         <h2>{{ day.name }}</h2>
 
-            {% for post in day.items %}
+        {% for post in day.items %}
+          <!-- DO NOT REMOVE - Code for name url -->
+             {% assign url_name = post.name | split: " " %}
+             {% assign url_full = "" %}
+             {% assign num = url_name | size | minus: 1 %}
+             {% assign url_full = url_full | append: url_name[num] | append: "_"  %}
+             {% assign num2 = num | minus: 1 %}
+             {% for i in (0..num2) %}
+               {% if i == 0 and num2 == 1 %}
+                 {% assign url_full = url_full | append: url_name[i] | append: "_"  %}
+               {% else %}
+                 {% assign url_full = url_full | append: url_name[i] %}
+               {% endif%}
+             {% endfor %}
+             <!-- DO NOT REMOVE - Code for name url -->
+
               {% if post.nolink %}
               <div class="day nolink">
               {% else %}
