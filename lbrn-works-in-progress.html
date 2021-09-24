@@ -39,34 +39,29 @@ eventDeadlines: multiple deadlines&colon; see <a class="natural-link" href="#eve
         <h2>{{ day.name }}</h2>
 
             {% for post in day.items %}
-              <!-- {% assign url_name = post.name | split: " " %}
-              {% assign url_full = "" %}
-              {% assign num = url_name | size | minus: 1 %}
-
-              {% assign url_full = url_full | append: url_name[num] | append: "_"  %}
-
-              {% assign num2 = num | minus: 1 %}
-              {% for i in (0..num2) %}
-                {% if i == 0 and num2 == 1 %}
-                  {% assign url_full = url_full | append: url_name[i] | append: "_"  %}
+              {% if post.nolink %}
+              <div class="day nolink">
+              {% else %}
+              <div class="day link">
+              <a class="natural-link" href="/pis/{{url_full | remove: "." | replace: " ", "_" }}.html">
+              {% endif %}
+                <h3>{{post.name}}</h3>
+                <h4>{{post.university}}</h4>
+                <span>{{post.time}}</span>
+                <p>{{post.title}}</p>
+                {% if post.nolink %}
                 {% else %}
-                  {% assign url_full = url_full | append: url_name[i] %}
-                {% endif%}
-              {% endfor %} -->
-            <a class="natural-link" href="/pis/{{url_full | remove: "." | replace: " ", "_" }}.html">
-              <h3>{{post.name}}</h3>
-              <h4>{{post.university}}</h4>
-              <span>{{post.time}}</span>
-              <p>{{post.title}}</p>
-            </a>
+                  </a>
+                {% endif %}
+              </div>
             {% endfor %}
-
       {% endfor %}
       </div>
     </div>
   </section>
 <section id="eventRegistration" class="eventsection">
-  <p>We have allowed 30 minutes in total for each Full Project including discussion (20-25 min for the talk and 5-10 minutes for discussion). Please tailor your presentation accordingly. Pilot Projects will have a total of 15 minutes (11 minute talk and 4 minutes for discussion)<p>
+
+  <p>Here below is generalized format for the presentation. We have allowed 30 minutes in total for each presenter including time for discussion (18-22 min for the talk and 10-12 minutes for discussion). Please tailor your presentation accordingly and adhere to the time limits.<p>
 
   <ul><li>Project Title</li>
   	<ul><li>Mentee</il>
@@ -91,7 +86,7 @@ eventDeadlines: multiple deadlines&colon; see <a class="natural-link" href="#eve
   		<li>Acknowledgements (Grant acknowledgement template is here: https://lbrn.lsu.edu/nih-acknowledgement.html)</li>
   	</ul>
   </ul>
-  <p>Here are some presentation templates (<a href="https://lbrn.lsu.edu/media-templates.html">https://lbrn.lsu.edu/media-templates.html</a>) You can always make up your own.</p>
+  <p>Here are some presentation templates (<a href="https://lbrn.lsu.edu/media-templates.html">https://lbrn.lsu.edu/media-templates.html</a>).</p>
 
 
   </section>

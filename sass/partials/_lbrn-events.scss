@@ -225,8 +225,12 @@
       flex-direction: row;
       flex-wrap: wrap;
       flex: 1 1 100%;
-      &:nth-child(even) {
-        background-color: orange;
+      a {
+        width: 100%;
+        height: 100%;
+        &:hover {
+          text-decoration: none;
+        }
       }
       h2 {
         background-color: transparent;
@@ -234,7 +238,7 @@
         margin: 20px 0;
         font-weight: bold;
       }
-      a {
+      div {
         flex: 0 1 50%;
         padding: 10px;
         background-color: $aboutcores;
@@ -246,6 +250,14 @@
         flex-basis: calc(50% - 10px);
         p, h3, h4, span {
           color: $primary;
+        }
+        &.nolink {
+          h3 {
+            &:hover {
+
+              cursor: default;
+            }
+          }
         }
         p {
           font-size: 20px;
@@ -265,34 +277,38 @@
           margin-top: 0.5em;
           font-style: italic;
         }
-        &:hover {
-          text-decoration: none;
-          color: white;
-          background-color: $primary;
-          p, h3, h4,  span {
+        &.link {
+          &:hover {
+            text-decoration: none;
             color: white;
-          }
-          p {
-            border-top: 2px solid white;
+            background-color: $primary;
+            p, h3, h4,  span {
+              color: white;
+            }
+            p {
+              border-top: 2px solid white;
+            }
           }
         }
-        &:nth-child(even) {
+        &:nth-child(3n) {
           background-color: $quadiary;
           color: $primary;
           // border-top-right-radius: 6px;
           // border-bottom-right-radius: 6px;
           margin-left: 5px;
           margin-right: 0;
-          &:hover {
-            text-decoration: none;
-            // color: $secondary;
-            color: white;
-            background-color: $primary;
-            p, h3, h4,  span {
+          &.link {
+            &:hover {
+              text-decoration: none;
+              // color: $secondary;
               color: white;
+              background-color: $primary;
+              p, h3, h4,  span {
+                color: white;
+              }
             }
-
           }
+
         }
         &:only-child {
           border-radius: 6px;
