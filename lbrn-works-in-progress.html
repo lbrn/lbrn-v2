@@ -33,7 +33,7 @@ eventDeadlines: multiple deadlines&colon; see <a class="natural-link" href="#eve
     <div class="row">
       <div class="day">
         {% assign postsByDay =
-      site.data.wip-2021 | group_by_exp:"post", "post.date | date: '%A, %B %e'" %}
+      site.data.wip-2021 | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
 
       {% for day in postsByDay %}
         <h2>{{ day.name }}</h2>
@@ -45,9 +45,11 @@ eventDeadlines: multiple deadlines&colon; see <a class="natural-link" href="#eve
               <div class="day link">
               <a class="natural-link" href="/pis/{{url_full | remove: "." | replace: " ", "_" }}.html">
               {% endif %}
-                <h3>{{post.name}}</h3>
-                <h4>{{post.university}}</h4>
+                {% if post.time != nil %}
                 <span>{{post.time}}</span>
+                {% endif %}
+                <h3>{{post.name}} </h3>
+                <h4>{{post.university}}</h4>
                 <p>{{post.title}}</p>
                 {% if post.nolink %}
                 {% else %}
