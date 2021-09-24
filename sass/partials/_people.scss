@@ -45,6 +45,17 @@ section.directory {
     overflow: visible;
     word-wrap: normal;
     margin: 1% auto;
+    a {
+      height: 100%;
+      width: 100%;
+      cursor: pointer;
+      display: block;
+      &:hover {
+        h4, h5, h6 {
+          color: $primary;
+        }
+      }
+    }
     &:nth-child(even) {
       // margin-right: 5%;
     }

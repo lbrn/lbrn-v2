@@ -1705,6 +1705,15 @@ section.directory article.person {
   word-wrap: normal;
   margin: 1% auto;
 }
+section.directory article.person a {
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  display: block;
+}
+section.directory article.person a:hover h4, section.directory article.person a:hover h5, section.directory article.person a:hover h6 {
+  color: #2C3D6C;
+}
 section.directory article.person.npi {
   margin-bottom: 10px;
 }
