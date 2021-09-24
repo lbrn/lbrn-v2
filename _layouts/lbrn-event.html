@@ -29,7 +29,9 @@
         <div class="caption">
           <h1>{{page.title}}</h1>
           <p id="date">Event Date: {{page.eventDate}}</p>
+          {% if page.eventDeadlines != nil %}
           <p id="date">Deadline: {{page.eventDeadlines}}</p>
+          {% endif %}
           <p>Location: {{page.eventLocation}}</p>
           {% if page.reg != nil %}
           <a class="button" href="#eventRegistration">Registration Information</a>
