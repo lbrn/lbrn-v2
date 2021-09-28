@@ -12,7 +12,7 @@ eventDate: November 10, 2021
 #### Submission Deadline: Wednesday, November 10, 2021, Midnight.
 These proposals have funding start date of 05/01/2022 subject to NIH approval.
 
-The following fund proposal competitions are available below:  
+Proposals may be submitted under the mechanisms listed below:
 
   •  Requesting Proposals for LBRN - Full Project 2022-25   
     •  Requesting Proposals for LBRN - Pilot Project Funding -2022-2023    
