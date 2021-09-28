@@ -25,4 +25,4 @@ The following fund proposal competitions are available below:
     •  Requesting Proposals for LBRN - Start-up Funding 2022-2024  
     •  Requesting Proposals for LBRN - Translational Project Funding 2022-2023  
 
-Please Proposal Link for details on each Project: [https://lbrn.infoready4.com/](https://lbrn.infoready4.com/)  
+Please go to Proposal Link for details on each Project: [https://lbrn.infoready4.com/](https://lbrn.infoready4.com/)  
