@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcement- Requesting Research Proposals for LBRN funding
+title: LBRN announces the following funding opportunities for Network PUI participants
 tags: news
 featuredImageUrlSquare: images/placeholderNewsImage.png
 excerpt_separator: <!--more-->
@@ -9,13 +9,8 @@ link: /LBRN-RFA-2021-09.html
 eventDate: November 10, 2021
 ---
 
-We are pleased to announce and extension for project proposals. Below are the infoready portal links for the proposal submission.
-
 #### Submission Deadline: Wednesday, November 10, 2021, Midnight.
-
-For more information on each proposal type available and the other deadline and proposal details, continue to the FULL STORY below.  
-
-<!--more-->
+These proposals have funding start date of 05/01/2022 subject to NIH approval.
 
 The following fund proposal competitions are available below:  
 
