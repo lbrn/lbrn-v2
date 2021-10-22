@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: LBRN EAC Chair Dr. Stephen Cutler with LSU President Dr. William Tate
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/2021-EAC+LSUPres.png
 featuredImageUrlSquare: images/postImages/2021-EAC+LSUPres.png
 excerpt_separator: <!--more-->
