@@ -6,9 +6,9 @@ excerpt_separator: <!--more-->
 textOnUrl: LBRN Coronavirus (COVID-19) Information
 ---
 
-September 28, 2021: Today, Gov. John Bel Edwards extended Louisiana’s statewide indoor mask mandate for another four weeks, until October 27, as the state’s overall COVID-19 outlook improves following the state’s worst COVID-19 surge of the entire pandemic. The statewide mask mandate includes K-12 schools and college campuses. See Governer's statement for more information: <!--more-->
+October 26, 2021: Today, Gov. John Bel Edwards announced he will lift Louisiana’s statewide mask mandate in all settings except for K-12 schools, after sustained improvement across the state in terms of new cases, test positivity and hospitalizations. See Governer's statement for more information: <!--more-->
 
-[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3397)
+[Louisiana's Governer's statement](https://gov.louisiana.gov/index.cfm/newsroom/detail/3442)
 
 LBRN is based at Louisiana State University in Baton Rouge with administrative staff at LSU School of Veterinary Medicine and the LSU Center for Computation & Technology. We shifted to working remotely on March 17th, 2020 and continue to handle the day to day activities of the grant - some of us have returned to the office as needed since then. Any announcements regarding our activities will come out as needed. If you have any questions, please do not hesitate to drop us a note at [LBRN E-mail](mailto:lbrn@.lsu.edu) if you are not already in touch with us directly.
 
