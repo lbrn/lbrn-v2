@@ -58,7 +58,7 @@
 
           <h2>Highlights</h2>
           {% assign highlightsRev = site.highlights | reverse %}
-          {% for highlight in highlightsRev limit:2 %}
+          {% for highlight in highlightsRev limit:4 %}
             {% include highlights-list-item.html %}
           {% endfor %}
 
