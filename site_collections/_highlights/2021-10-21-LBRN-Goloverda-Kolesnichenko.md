@@ -7,7 +7,7 @@ startTime:
 endTime:
 img: images/highlights/highlight_Goloverda_Kolesnichenko.png
 ftimg: images/highlights/highlight_Goloverda_Kolesnichenko.png
-description: Dr. Galina Goloverda of the Xavier University of Louisiana, who received project funding from LBRN, applied for and received a patent for her research on "Methods Of Solvent Removal At Ambient Temperatures - Cryovap" with her mentor, Dr. Vladimir Kolesnichenko.
+description: Dr. Galina Goloverda of the Xavier University of Louisiana, who received project funding from LBRN, applied for and received a patent for her research on "Methods Of Solvent Removal At Ambient Temperatures - Cryovap" with co-inventor, Dr. Vladimir Kolesnichenko.
 link:
 ---
 Dr. Galina Goloverda (Top left) of the Xavier University of Louisiana, who received project funding from LBRN, applied for and received a patent for her research on "Methods Of Solvent Removal At Ambient Temperatures - Cryovap" with co-inventor, Dr. Vladimir Kolesnichenko (Top right).
