@@ -2106,6 +2106,52 @@ section.directory.projectinvestigators article.person {
   font-size: 19px;
 }
 
+.summer .page > *, .summer .page .list-group {
+  display: none;
+}
+.summer .page > *.show, .summer .page .list-group.show {
+  display: block;
+}
+.summer .bt-group {
+  margin-bottom: 20px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: relative;
+}
+.summer .bt-group button {
+  background-color: #7dc380;
+  border: 0;
+}
+.summer .bt-group button:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+     -moz-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+}
+.summer .bt-group .active-link ~ div {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #7dc380;
+  position: absolute;
+  left: 50%;
+  margin-left: -10px;
+  clear: both;
+}
+.summer .bt-group .pr-bt-group, .summer .bt-group .vip-bt-group, .summer .bt-group .usual-bt-group {
+  position: relative;
+}
+
 @media (min-width: 414px) {
   #navdropdownsmall {
     display: none;
@@ -4498,10 +4544,6 @@ a.btn.grn:hover {
 .LBRNe article {
   min-height: 5em;
   padding-bottom: 1em;
-}
-
-.summer {
-  width: 74%;
 }
 
 .person {

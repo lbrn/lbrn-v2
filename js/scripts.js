@@ -1,4 +1,16 @@
 $( document ).ready(function() {
+
+    $('.bt-group button').on('click',function(){
+        var $this=$(this);
+        $('.bt-group').find('button').removeClass('active-link');
+        $this.addClass('active-link');
+        $('.list-group').removeClass('show');
+        $('.' + $this.attr('data-targetDiv')).addClass('show');
+        // $('.' + $this.attr('data-targetDiv')).show();
+    });
+
+
+
   quickRef();
   // coreSwap();
   piFilter();
@@ -594,6 +606,13 @@ function selectTypeMnt(){
         facultymentor.fadeOut();
         undergradmentor.fadeIn();
         $('input[value=undergradmentor]').prop('checked', true);
+        break;
+      case 'scholar' :
+        // choose.fadeOut();
+        gradmentor.fadeOut();
+        facultymentor.fadeIn();
+        undergradmentor.fadeOut();
+        $('input[value=facultymentor]').prop('checked', true);
         break;
       default :
         choose.fadeIn();

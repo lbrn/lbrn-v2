@@ -1,0 +1,43 @@
+.summer {
+  // width: 74%;
+  // .vip-text, .variation .usual-text {
+  //   display: none;
+  // }
+  .page {
+    > *, .list-group  {
+      display: none;
+      &.show {
+        display: block;
+      }
+    }
+  }
+  .bt-group {
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: row;
+      position: relative;
+      button {
+        background-color: $tertiary;
+        border: 0;
+        &:focus {
+          box-shadow: 0 0 0 .2rem rgba($tertiary, 0.5);
+        }
+      }
+      .active-link ~ div {
+          width: 0;
+          height: 0;
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid $tertiary;
+          position: absolute;
+          left: 50%;
+          margin-left: -10px;
+          clear:both;
+
+      }
+      .pr-bt-group, .vip-bt-group, .usual-bt-group {
+          position: relative;
+      }
+  }
+
+}
