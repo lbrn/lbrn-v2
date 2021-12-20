@@ -2,8 +2,8 @@
 layout: post
 title: 20th LBRN Annual Meeting
 tags: featured
-featuredImageUrl: images/postImages/LBRN Annual Meeting 2022.v3.png
-featuredImageUrlSquare: images/postImages/LBRN Annual Meeting 2022.v3.png
+featuredImageUrl: images/postImages/LBRN Annual Meeting 2022.v6.png
+featuredImageUrlSquare: images/postImages/LBRN Annual Meeting 2022.v6.png
 excerpt_separator: <!--more-->
 eventDate: January 28 - 29, 2022
 textOnUrl: 20th LBRN Annual Meeting
