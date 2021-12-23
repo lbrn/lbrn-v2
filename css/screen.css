@@ -2128,16 +2128,25 @@ section.directory.projectinvestigators article.person {
           flex-direction: row;
   position: relative;
 }
+.summer .bt-group > div {
+  position: relative;
+  margin-right: 10px;
+}
 .summer .bt-group button {
-  background-color: #7dc380;
+  background-color: #c2e3c4;
   border: 0;
 }
-.summer .bt-group button:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
-     -moz-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
-          box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+.summer .bt-group button:hover, .summer .bt-group button.active-link:hover {
+  background-color: rgba(194, 227, 196, 0.3);
+  color: #7dc380;
 }
-.summer .bt-group .active-link ~ div {
+.summer .bt-group button.active-link {
+  background-color: #7dc380;
+}
+.summer .bt-group button.active-link:hover ~ div {
+  border-top-color: rgba(194, 227, 196, 0.3);
+}
+.summer .bt-group button.active-link ~ div {
   width: 0;
   height: 0;
   border-left: 10px solid transparent;
@@ -2148,8 +2157,10 @@ section.directory.projectinvestigators article.person {
   margin-left: -10px;
   clear: both;
 }
-.summer .bt-group .pr-bt-group, .summer .bt-group .vip-bt-group, .summer .bt-group .usual-bt-group {
-  position: relative;
+.summer .bt-group button:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+     -moz-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
 }
 
 @media (min-width: 414px) {

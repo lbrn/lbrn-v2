@@ -72,6 +72,34 @@ yarn start starts it locally
 ---
 first priority:
 Highlight stories on LBRN
-footer menus 
+footer menus
 Media
 fix stories/styling
+
+about
+requirements
+application
+mentorship
+application
+scholarship program
+faq
+resources
+
+<li>
+  <a href="/summer-research/faq">FAQ</a>
+</li>
+<li>
+  <a href="/summer-research/mentorship">Mentorship</a>
+</li>
+<li>
+  <a href="/summer-research/resources">Resources</a>
+</li>
+<li>
+  <a href="/summer-research/calendar">Calendar</a>
+</li>
+<li>
+  <a href="/summer-research/contact">Contact</a>
+</li>
+<li>
+  <a href="/summer-research/other">Other Opportunities</a>
+</li>
