@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LBRN 2021 Projects Letters of Intent Deadline
+title: LBRN 2021 Project Proposals Deadline
 categories: events
 eventDate: November 10, 2021
 link: https://lbrn.infoready4.com/
