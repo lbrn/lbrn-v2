@@ -2106,6 +2106,23 @@ section.directory.projectinvestigators article.person {
   font-size: 19px;
 }
 
+.summer {
+  margin: 0;
+  width: 100%;
+  margin-top: 26px;
+}
+@media (max-width: 667px) {
+  .summer#buttons {
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 128, 0, 0.5);
+  }
+}
+@media (max-width: 667px) {
+  .summer h2 {
+    font-size: 1.5em;
+  }
+}
 .summer .page > *, .summer .page .list-group {
   display: none;
 }
@@ -2127,10 +2144,14 @@ section.directory.projectinvestigators article.person {
       -ms-flex-direction: row;
           flex-direction: row;
   position: relative;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
 }
 .summer .bt-group > div {
   position: relative;
   margin-right: 10px;
+  margin-bottom: 17px;
 }
 .summer .bt-group button {
   background-color: #c2e3c4;
