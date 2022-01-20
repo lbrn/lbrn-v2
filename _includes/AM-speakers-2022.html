@@ -1,0 +1,12 @@
+{% for speakers in site.data.AM-speakers-2022 %}
+<section>
+	<a href="{{speakers.pdf}}" target="_blank" alt="Speaker's associated PDF">
+    		<img src="{{speakers.picture}}" alt="{{speakers.name}} 's PDF thumbnail'"></a>
+    <h3>{{speakers.title2}}</h3>
+	<p>{{speakers.name}}<br>
+	{{speakers.university}}<br>
+	{{speakers.title1}}<br>
+	<a href="{{speakers.flyer}}" target="_blank" alt="Speaker's Flyer PDF">{{speakers.name}} Event Flyer</a></p>
+		
+</section>
+{% endfor %}
