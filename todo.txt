@@ -103,3 +103,38 @@ resources
 <li>
   <a href="/summer-research/other">Other Opportunities</a>
 </li>
+
+============
+
+=============
+
+
+
+
+
+//About > Program Info (dates, etc)
+//Contact > its own page
+//Requirements > Copy old Applications page
+//Requirements seperate from "What we need to have", move the latter to Applications page which is just the link
+
+//Learn how to get selected
+
+
+
+
+sbentley
+'J1gB5
+
+About/Program info:
+Copy old layout
+old page as a template
+//blank dates: May X, July X, 2022
+//May 23rd, July 29 2022 guess
+
+All:
+//undergrad first
+//then grad
+//then faculty
+//Add "Next" button, "continue to" at the end of each section
+
+blocks from old page

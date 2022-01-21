@@ -2207,6 +2207,9 @@ section.directory.projectinvestigators article.person {
   #lbrnEventSidebar-summer .summer.buttons {
     display: block;
   }
+  #lbrnEventSidebar-summer .summer.buttons.m-b {
+    margin-bottom: 25px;
+  }
   #lbrnEventSidebar-summer #lbrnEventSidebarUl {
     padding: 0 15px;
     width: 100%;

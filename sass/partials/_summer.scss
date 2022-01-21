@@ -104,6 +104,9 @@
     .summer {
       &.buttons{
         display: block;
+        &.m-b {
+          margin-bottom: 25px;
+        }
       }
     }
     #lbrnEventSidebarUl {

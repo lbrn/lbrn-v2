@@ -2,11 +2,20 @@ $( document ).ready(function() {
 
     $('.bt-group button').on('click',function(){
         var $this=$(this);
+        // console.log('doggy test');
         $('.bt-group').find('button').removeClass('active-link');
         $this.addClass('active-link');
         $('.list-group').removeClass('show');
         $('.' + $this.attr('data-targetDiv')).addClass('show');
-        // $('.' + $this.attr('data-targetDiv')).show();
+        if ($this.attr('data-targetBtn')) {
+          // console.log ('doggy');
+          $('.' + $this.attr('data-targetBtn')).addClass('active-link');
+            window.scrollTo(0, 0);
+        }
+        // For the "next" buttons at the bottom- makes sure to highlight the associated page via the btn-target
+
+        // console.log($this.attr('data-targetBtn'));
+
     });
 
 
