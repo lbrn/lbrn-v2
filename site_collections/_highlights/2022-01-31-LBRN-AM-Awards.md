@@ -44,4 +44,6 @@ For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2022.html">
 <h3>Oral Presentation Award Winner</h3>
 
   <ul><li> Graduate talks winner – Eric Clifford – LSUS – "Drug Screen Trends in Emergency Rooms Among Childbearing-Aged Females"   </li>
+     <li>Full project talks Tied for 1st Place – <a href="https://lbrn.lsu.edu/pis/Piller_Kyle.html">Kyle Piller</a> – SELU – "Life in the fast lane: Testing for congruence among transcriptomic signatures"   </li>
+     <li>Full project talks Tied for 1st Place – <a href="hhttps://lbrn.lsu.edu/pis/Salim_Vonny.html">Vonny Salim</a> – LSUS – "Elucidation of Plant-Derived Drug Biosynthetic Pathways and Molecular Mechanisms as Anticancer Agents"   </li>
    </ul>
