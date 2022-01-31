@@ -1,8 +1,8 @@
 ---
 layout: highlight
-title: 2021 LBRN 19th Annual Meeting Awards
+title: 2022 LBRN 20th Annual Meeting Awards
 categories: Event
-eventDate: February 12-13, 2021
+eventDate: January 28-29, 2022
 startTime:
 endTime:
 img: images/postImages/LBRN Annual Meeting 2022.v6.png
