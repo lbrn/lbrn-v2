@@ -13,7 +13,7 @@ description: 2022 LBRN 20th Annual Meeting Awards are made for Poster presentati
 For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2022.html">2022 LBRN 20th Annual Meeting</a>.
 
 <h2>LBRN 20th Annual Meeting Poster and Presentation Award Winners<h2>
-<h3>Faculty / PI award winners (tied)</h3>
+<h3>Faculty / PI Poster award winners (tied)</h3>
    <ul><li><a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA 
 <a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">"Complex Germline Structural Variant Discovery Via Discordant Cluster Normalization"</a></li>
 <li><a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=21-A2-83-00-09-E0-43-4F-A6-44-69-E5-B5-B5-EB-5B">#8</a> Joseph Chaney – XULA 
