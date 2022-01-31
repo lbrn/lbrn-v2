@@ -7,7 +7,7 @@ startTime:
 endTime:
 img: images/postImages/LBRN Annual Meeting 2022.v6.png
 ftimg: images/postImages/LBRN Annual Meeting 2022.v6.png
-description: 2022 LBRN 20th Annual Meeting Awards are made for Poster presentations for Summer Program Participants in the Faculty/PI, Graduate, Undergraduate and High School categories. One Graduate student is awarded for their oral presentation.
+description: 2022 LBRN 20th Annual Meeting Awards are made for Poster presentations for Summer Program Participants in the Faculty/PI, Graduate, Undergraduate and High School categories. One Graduate student is awarded for their oral presentation and two Full Project PI's as well.
 ---
 
 For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2022.html">2022 LBRN 20th Annual Meeting</a>.
