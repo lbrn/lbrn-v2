@@ -2227,6 +2227,10 @@ section.directory.projectinvestigators article.person {
 .summer .three-card-responsive section > * {
   margin-bottom: 1em;
 }
+.summer .three-card-responsive section img {
+  margin: 0 auto 1em;
+  max-width: 175px;
+}
 .summer .three-card-responsive section strong {
   line-height: 1.4em;
 }

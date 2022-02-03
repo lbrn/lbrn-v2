@@ -105,6 +105,10 @@
       & > * {
         margin-bottom: 1em;
       }
+      img {
+        margin: 0 auto 1em;
+        max-width: 175px;
+      }
       strong {
         // margin-bottom: 0;
         line-height: 1.4em;
