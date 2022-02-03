@@ -249,7 +249,7 @@
         margin-right: 5px;
         flex-basis: calc(50% - 10px);
         p, h3, h4, span {
-          color: $primary;
+          color: $color1;
         }
         &.nolink {
           h3 {
@@ -262,7 +262,7 @@
         p {
           font-size: 20px;
           line-height: 1.1;
-          border-top: 2px solid $primary;
+          border-top: 2px solid $color1;
           padding-top: 0.5em;
 
         }
@@ -288,7 +288,7 @@
           &:hover {
             text-decoration: none;
             color: white;
-            background-color: $primary;
+            background-color: $color1;
             p, h3, h4,  span {
               color: white;
             }
@@ -299,7 +299,7 @@
         }
         &:nth-child(3n) {
           background-color: $quadiary;
-          color: $primary;
+          color: $color1;
           // border-top-right-radius: 6px;
           // border-bottom-right-radius: 6px;
           margin-left: 5px;
@@ -307,9 +307,9 @@
           &.link {
             &:hover {
               text-decoration: none;
-              // color: $secondary;
+              // color: $color2;
               color: white;
-              background-color: $primary;
+              background-color: $color1;
               p, h3, h4,  span {
                 color: white;
               }

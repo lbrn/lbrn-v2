@@ -1550,7 +1550,7 @@ main.research a.btn:hover {
       -ms-flex-line-pack: start;
           align-content: flex-start;
   line-height: normal;
-  /* border-top:2px solid $primary; */
+  /* border-top:2px solid $color1; */
 }
 @media (max-width: 860px) {
   .services .row .service .text {
@@ -2125,7 +2125,11 @@ section.directory.projectinvestigators article.person {
   display: none;
 }
 .summer .page > *.show, .summer .page .list-group.show {
-  display: block;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 .summer .bt-group {
   margin-bottom: 20px;
@@ -2180,6 +2184,81 @@ section.directory.projectinvestigators article.person {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
      -moz-box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
           box-shadow: 0 0 0 0.2rem rgba(125, 195, 128, 0.5);
+}
+.summer .three-card-responsive {
+  margin-right: 0;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+     -moz-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-left: 0;
+  margin-bottom: 25px;
+  width: 100%;
+}
+.summer .three-card-responsive section {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 30%;
+     -moz-box-flex: 0;
+      -ms-flex: 0 0 30%;
+          flex: 0 0 30%;
+  padding: 15px;
+  font-size: 0.85em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-bottom: auto;
+}
+.summer .three-card-responsive section * {
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+  line-height: 1.35em;
+}
+.summer .three-card-responsive section > * {
+  margin-bottom: 1em;
+}
+.summer .three-card-responsive section strong {
+  line-height: 1.4em;
+}
+.summer .three-card-responsive section dl, .summer .three-card-responsive section ul, .summer .three-card-responsive section ol {
+  margin-left: 1em;
+  font-size: 0.9em;
+}
+.summer .three-card-responsive section dl li, .summer .three-card-responsive section ul li, .summer .three-card-responsive section ol li {
+  list-style: disc;
+  font-size: 1em;
+  margin-bottom: 5px;
+}
+.summer .three-card-responsive section dl dl, .summer .three-card-responsive section dl ul, .summer .three-card-responsive section dl ol, .summer .three-card-responsive section ul dl, .summer .three-card-responsive section ul ul, .summer .three-card-responsive section ul ol, .summer .three-card-responsive section ol dl, .summer .three-card-responsive section ol ul, .summer .three-card-responsive section ol ol {
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+.summer .three-card-responsive section dl dl li, .summer .three-card-responsive section dl ul li, .summer .three-card-responsive section dl ol li, .summer .three-card-responsive section ul dl li, .summer .three-card-responsive section ul ul li, .summer .three-card-responsive section ul ol li, .summer .three-card-responsive section ol dl li, .summer .three-card-responsive section ol ul li, .summer .three-card-responsive section ol ol li {
+  list-style: circle;
+}
+@media (max-width: 860px) {
+  .summer .three-card-responsive section {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 100%;
+       -moz-box-flex: 1;
+        -ms-flex: 1 1 100%;
+            flex: 1 1 100%;
+  }
+}
+.summer .notice {
+  background-color: #8ECB91;
+  padding: 15px;
+  font-size: 1em;
 }
 
 #lbrnEventSidebar-summer {
@@ -2392,6 +2471,7 @@ section.directory.projectinvestigators article.person {
 @media (max-width: 860px) {
   #lbrnEventSidebar-summer {
     margin-right: -30px;
+    margin-left: -30px;
     width: -webkit-calc(100% + 60px);
     width: -moz-calc(100% + 60px);
     width: calc(100% + 60px);
@@ -2832,7 +2912,7 @@ section.directory.projectinvestigators article.person {
 .navdropdown#pi-filter ul .on {
   background-color: #8ECB91;
   color: white;
-  /* color:$primary; */
+  /* color:$color1; */
 }
 .navdropdown#pi-filter ul .on:hover {
   background-color: #6bbb6f;
@@ -3674,7 +3754,7 @@ section.directory.projectinvestigators article.person {
   }
 }
 .events .view-all {
-  /* background-color: $secondary; */
+  /* background-color: $color2; */
   color: #2C3D6C;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4002,7 +4082,7 @@ section.directory.projectinvestigators article.person {
   -webkit-border-radius: 7px;
      -moz-border-radius: 7px;
           border-radius: 7px;
-  /* background-color: $secondary; */
+  /* background-color: $color2; */
   background-color: #def0df;
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -5405,6 +5485,22 @@ main div.content {
   main div.content {
     padding-left: 15px;
     padding-right: 15px;
+  }
+}
+@media (max-width: 860px) {
+  main div.content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+       -moz-box-orient: vertical;
+       -moz-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
   }
 }
 @media (max-width: 1224px) {
@@ -7402,7 +7498,7 @@ div.resources h2 {
   /* width: 100%; */
   /* display: none; */
   float: left;
-  /* background-color: $secondary; */
+  /* background-color: $color2; */
   z-index: -1;
   position: absolute;
   overflow: hidden;

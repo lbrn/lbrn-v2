@@ -34,7 +34,7 @@
     > *, .list-group  {
       display: none;
       &.show {
-        display: block;
+        display: flex;
       }
     }
   }
@@ -83,7 +83,61 @@
       }
 
   }
+  .three-card-responsive {
+    margin-right: 0;
+    justify-content: space-between;
+    margin-left: 0;
+    margin-bottom: 25px;
+    width: 100%;
+    section {
+      flex: 0 0 30%;
+      padding: 15px;
+      font-size: 0.85em;
+      display: flex;
+      flex-direction: column;
+      margin-bottom: auto;
+      * {
+        font-size: 1em;
+        padding: 0;
+        margin: 0;
+        line-height: 1.35em;
+      }
+      & > * {
+        margin-bottom: 1em;
+      }
+      strong {
+        // margin-bottom: 0;
+        line-height: 1.4em;
+      }
+      dl, ul, ol {
+        margin-left: 1em;
+        font-size: 0.9em;
+        li {
+          list-style: disc;
+          font-size: 1em;
+          margin-bottom: 5px;
+        }
+        dl, ul, ol {
+          margin-bottom: 5px;
+          font-size: 1em;
+          li {
+            list-style: circle;
+          }
+        }
+      }
+    }
+    @media (max-width: $lg) {
+      section {
+        flex: 1 1 100%;
+      }
+    }
 
+  }
+  .notice {
+    background-color: $color2;
+    padding: 15px;
+    font-size: 1em;
+  }
 }
 #lbrnEventSidebar-summer {
   display: none;
@@ -117,7 +171,7 @@
         &:hover {
           background-color: transparent;
           text-decoration: none;
-          color: $primary;
+          color: $color1;
 
         }
       }
@@ -153,7 +207,7 @@
         margin-left: 0;
         margin-right: 0;
         text-decoration: none;
-        color: $primary;
+        color: $color1;
         text-align: center;
         text-transform: capitalize;
         list-style: none;
@@ -183,8 +237,8 @@
       z-index: 1000;
       padding-left: 5%;
       padding-right: 5%;
-      border-bottom: 1px solid $primary;
-      border-top: 1px solid $primary;
+      border-bottom: 1px solid $color1;
+      border-top: 1px solid $color1;
       margin-bottom: unset;
       li {
         -moz-box-sizing: border-box;
@@ -203,7 +257,7 @@
         text-align: center;
         font-family: $bodyFont;
         line-height: 1.2em;
-        color: $primary;
+        color: $color1;
         &:hover {
           -moz-transition: all 0.2s ease-in;
           -o-transition: all 0.2s ease-in;
@@ -223,7 +277,7 @@
         margin-left: 0;
         margin-right: 0;
         text-decoration: none;
-        color: $primary;
+        color: $color1;
         text-align: center;
         text-transform: capitalize;
       }
@@ -255,7 +309,7 @@
       }
 
       a {
-        color: $primary;
+        color: $color1;
       }
     }
 
@@ -263,7 +317,7 @@
       background-color: $quadiary!important;
       font-weight: 400 !important;
     }
-    background-color: $secondary;
+    background-color: $color2;
     // width:20%;
     float: right;
 
@@ -273,7 +327,7 @@
     }
 
     ul li {
-      border-bottom: 1px solid $primary;
+      border-bottom: 1px solid $color1;
     }
 
     ul a {
@@ -297,7 +351,7 @@
       -webkit-transition: all 0.2x ease-in;
 
       a {
-        color: $primary;
+        color: $color1;
 
         &:hover {
           background-color: transparent;
@@ -316,6 +370,7 @@
 
   @media (max-width: $lg) {
     margin-right: -30px;
+    margin-left: -30px;
 
     button {
       display: block;

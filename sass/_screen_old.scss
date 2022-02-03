@@ -40,9 +40,9 @@
   }
   .natural-link {
     text-decoration: none;
-    color: $primary;
+    color: $color1;
     &.natural-link:hover {
-      color: lighten($primary, 15);
+      color: lighten($color1, 15);
     }
   }
   table {
@@ -71,10 +71,10 @@
       font-weight: 400;
       &.natural-link a {
         text-decoration: none;
-        color: $primary;
+        color: $color1;
       }
       &.natural-link:hover a {
-        color: darken($primary, 15);
+        color: darken($color1, 15);
       }
     }
     h1 {
@@ -83,16 +83,16 @@
     }
     a {
       text-decoration: none;
-      color: $secondary;
+      color: $color2;
     }
     a:hover {
-      color: darken($secondary, 15);
+      color: darken($color2, 15);
     }
   }
   a.button {
     padding: .2em 1.2em;
-    background-color: $secondary;
-    color: $primary;
+    background-color: $color2;
+    color: $color1;
     text-align: center;
     font-size: 1.1em;
     font-family: $bodyFont;
@@ -103,14 +103,14 @@
     // float: left;
     display:inline-block;
     &:hover {
-      background-color: $primary;
+      background-color: $color1;
       color: white;
     }
     .secondary-button {
-      border: 1px solid $secondary;
+      border: 1px solid $color2;
       background-color: white;
       &:hover{
-        background-color: $secondary;
+        background-color: $color2;
       }
     }
   }
@@ -126,7 +126,7 @@
   header {
     @include pad(5%);
     height: 7em;
-    // background-color: $primary;
+    // background-color: $color1;
     background-image: url('../images/header-background.svg');
     background-position: center;
     background-size: cover;
@@ -151,7 +151,7 @@
   }
   nav {
     display: none;
-    background-color: $secondary;
+    background-color: $color2;
     @include span(full);
     ul{
       max-width: 100%;
@@ -170,14 +170,14 @@
           padding: 1em .2em;
           display:inline-block;
           &:hover{
-            color: $primary;
+            color: $color1;
             transition: ALL .15s;
             background-color: unset;
           }
         }
       }
       a.button{
-        border: 2px solid $primary;
+        border: 2px solid $color1;
         border-radius: 25px;
         color: white;
         padding: .2em .7em;
@@ -185,7 +185,7 @@
         font-size: .8em;
         float: none;
         &:hover{
-          background-color: $primary;
+          background-color: $color1;
           color: white;
         }
       }
@@ -196,8 +196,8 @@
         display: block;
       }
       a:hover{
-        background-color: lighten($secondary, 10%);
-        color: $primary;
+        background-color: lighten($color2, 10%);
+        color: $color1;
       }
       a {
         color: white;
@@ -208,7 +208,7 @@
         font-weight: bold;
       }
       a:hover {
-        background-color: darken($secondary, 5%);
+        background-color: darken($color2, 5%);
         transition: all .2s;
         color: white;
       }
@@ -235,7 +235,7 @@
      float: left;
      font-size: 3em;
      font-family: $openFont;
-     color: $primary;
+     color: $color1;
     }
   }
   .content {
@@ -268,7 +268,7 @@
     font-family: $bodyFont;
     font-size: 1.2em;
     line-height: 1.8em;
-    color: $primary;
+    color: $color1;
     @include pad(5%);
     padding-top: 1em;
     padding-bottom: 2em;
@@ -276,8 +276,8 @@
       font-size: 1.5em;
       margin-top: .5em;
       font-family: $openFont;
-      color: $primary;
-      // color: $secondary;
+      color: $color1;
+      // color: $color2;
       line-height: 1.5em;
       text-transform: uppercase;
     }
@@ -287,7 +287,7 @@
       margin-top: 1.2em;
       padding-left: 1em;
       clear:both;
-      border-left: 8px solid $secondary;
+      border-left: 8px solid $color2;
       &.small-text{
         font-size: 1.2em;
         border-left: none;
@@ -312,15 +312,15 @@
     #faq{
       p{
         margin-top: .25em;
-        border-bottom: 1px $primary solid;
+        border-bottom: 1px $color1 solid;
         cursor: pointer;
         &:hover{
-          color: lighten($primary, 15%);
-          border-bottom: 1px lighten($primary, 15%) solid;
+          color: lighten($color1, 15%);
+          border-bottom: 1px lighten($color1, 15%) solid;
         }
       }
       ul{
-        border-bottom: 3px $primary solid;
+        border-bottom: 3px $color1 solid;
         margin-left: 0;
         padding-left: 2.8em;
         display: none;
@@ -328,7 +328,7 @@
     }
     .important {
       font-style: italic;
-      background-color: lighten($secondary, 23);
+      background-color: lighten($color2, 23);
       padding: .5em;
       margin-top: .25em;
       margin-bottom: .25em;
@@ -346,15 +346,15 @@
     }
     .accordianTrigger{
       margin-top: .25em;
-      border-bottom: 1px $primary solid;
+      border-bottom: 1px $color1 solid;
       cursor: pointer;
       &:hover{
-        color: lighten($primary, 15%);
-        border-bottom: 1px lighten($primary, 15%) solid;
+        color: lighten($color1, 15%);
+        border-bottom: 1px lighten($color1, 15%) solid;
       }
     }
     .accordianSection{
-      border-bottom: 3px $primary solid;
+      border-bottom: 3px $color1 solid;
       margin-left: 0;
       padding-left: 2.8em;
       display: none;
@@ -374,7 +374,7 @@
     h2 {
       font-size: 2.5em;
       font-family: $openFont;
-      color: $primary;
+      color: $color1;
       margin-top: .5em;
 
     }
@@ -383,10 +383,10 @@
       margin-top: 1.75em;
       &.featured{
         padding: .5em .5em .75em .5em;
-        background-color: lighten($secondary, 23%);
+        background-color: lighten($color2, 23%);
         border-radius: 3%;
         h3 {
-          color: $primary;
+          color: $color1;
         }
       }
       img {
@@ -397,7 +397,7 @@
         margin-bottom: .3em;
         @include span (full);
         font-family: $titleFont;
-        color: $secondary;
+        color: $color2;
         font-weight: 700;
         font-size: 2em;
         line-height: 1.25em;
@@ -409,7 +409,7 @@
         }
       }
       h3:hover {
-        color: darken($secondary, 10%);
+        color: darken($color2, 10%);
       }
       .summary {
         @include span(full);
@@ -417,10 +417,10 @@
         font-size: 1em;
         line-height: 1.2em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
       }
       .post-link {
-        color: $secondary;
+        color: $color2;
         font-size: 1em;
         font-family: $bodyFont;
         float: right;
@@ -431,13 +431,13 @@
         //@include clearfix;
       }
       .post-link:hover {
-        color: darken($secondary, 30%);
+        color: darken($color2, 30%);
       }
       .post-date {
         font-weight: 700;
         margin-top: 1.5em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
         @include span(full);
         .pre {
           font-weight: 500 !important;
@@ -449,7 +449,7 @@
     }
     .view-all {
       @include span(full);
-      background-color: $primary;
+      background-color: $color1;
       margin:.5em 0;
       padding-top: .5em;
       padding-bottom: .5em;
@@ -461,7 +461,7 @@
         text-decoration: none;
       }
       a:hover{
-        color: $secondary;
+        color: $color2;
       }
     }
   }
@@ -473,18 +473,18 @@
     @include span(full);
   }
   #eventsContainer {
-    background-color: $secondary;
+    background-color: $color2;
     padding-top: 3em;
   }
   .events {
     margin-top: 2em;
     @include span(full);
     @include pad(5%);
-    background-color: $secondary;
+    background-color: $color2;
     h2 {
       font-size: 2.5em;
       font-family: $openFont;
-      color: $primary;
+      color: $color1;
       margin: 1em 0;
       text-align: center;
       line-height: .5em;
@@ -493,15 +493,15 @@
       float:left;
       width: 70%;
       margin: 0 15%;
-      border-bottom: 1px solid $primary;
+      border-bottom: 1px solid $color1;
       margin-bottom: 4%;
       padding-bottom: 4%;
       .date {
         width: 33%;
         float: left;
         font-family: $bodyFont;
-        color: $primary;
-        border-right: 1px solid $primary;
+        color: $color1;
+        border-right: 1px solid $color1;
         .date-day {
           font-weight: 500;
           font-size: 4em;
@@ -542,13 +542,13 @@
         }
       }
       .date:hover {
-        color: lighten($primary, 8);
+        color: lighten($color1, 8);
       }
       .details {
         width: 62%;
         float: right;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
         .date-time {
           margin-top: 0;
           font-weight: bold;
@@ -559,8 +559,8 @@
       border: none;
     }
     .view-all {
-      background-color: $secondary;
-      color: $primary;
+      background-color: $color2;
+      color: $color1;
       @include span(full);
       padding: 0 5%;
       text-align: center;
@@ -569,7 +569,7 @@
       margin-bottom: 1em;
     }
     .view-all:hover {
-      color: darken($primary, 30%);
+      color: darken($color1, 30%);
     }
   }
     //LBRN Events Styles ------------>
@@ -579,7 +579,7 @@
     padding-bottom: 2em;
     section {
       border-radius: 6px;
-      background-color: lighten($secondary, 25%);
+      background-color: lighten($color2, 25%);
       @include span(90%);
       margin:2% 5%;
       padding-bottom: 2em;
@@ -595,21 +595,21 @@
         text-transform: none !important;
         clear:both;
         padding: .5em;
-        color: $primary;
+        color: $color1;
         font-weight: 700;
         font-family: $titleFont !important;
       }
       p {
         @include span(95%);
         padding: 2.5%;
-        color: $primary;
+        color: $color1;
         font-family: $bodyFont;
         line-height: 1.25em;
         hyphens: auto;
         -webkit-hyphens: auto;
         &.more {
           @include span(full);
-          background-color: lighten($secondary, 15%);
+          background-color: lighten($color2, 15%);
           text-align: center;
           text-transform: capitalize;
           padding-top: .5em;
@@ -618,19 +618,19 @@
           bottom:0;
         }
         &.more:hover {
-          color: lighten($primary, 20%);
+          color: lighten($color1, 20%);
         }
       }
     }
   }
   #lbrnEventHeader {
-    background-color: lighten($secondary, 20%);
+    background-color: lighten($color2, 20%);
     @include span(full);
     h1 {
       font-size: 2.4em;
       line-height: 1.2em;
       font-family: $titleFont;
-      color: $primary;
+      color: $color1;
       // padding: 1.5em 5%;
     }
     .imagebox {
@@ -655,7 +655,7 @@
           margin:1em;
           margin-top:2em;
           font-family: $bodyFont;
-          color: $primary;
+          color: $color1;
         }
       }
     }
@@ -668,12 +668,12 @@
         font-size: 2.4em;
         line-height: 1.2em;
         font-family: $titleFont;
-        color: $primary;
+        color: $color1;
       }
       p {
         font-size: 1.2em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
         margin-top: .5em;
       }
       #date {
@@ -767,7 +767,7 @@
     overflow: visible;
   }
   .event-section-head {
-    background-color: $secondary;
+    background-color: $color2;
   }
   .collapseTrigger{
     display: none;
@@ -791,7 +791,7 @@
       width: 30%;
       height: 50px;
       overflow: hidden;
-      background: $secondary;
+      background: $color2;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -806,14 +806,14 @@
         // border-radius: 50%;
         // width: 1.2em;
         // height: 1.2em;
-        // border: 2px solid $primary;
+        // border: 2px solid $color1;
         // transition: 0.2s all linear;
         // outline: none;
         // position: relative;
         // display: inline-block;
         // cursor: pointer;
         // &:hover{
-        //   color: lighten($primary, 20);
+        //   color: lighten($color1, 20);
         // }
       }
       label{
@@ -822,14 +822,14 @@
         // padding-left: .4em;
         cursor: pointer;
         &:hover{
-          color: lighten($primary, 20);
+          color: lighten($color1, 20);
         }
       }
     }
   }
   #mobileChooseType{
     position: fixed;
-    background-color: $secondary;
+    background-color: $color2;
     top: -20%; left: 0;
     width: 100%;
     // opacity: .75;
@@ -861,17 +861,17 @@
         border-radius: 50%;
         width: 1em;
         height: 1em;
-        border: 2px solid $primary;
+        border: 2px solid $color1;
         transition: 0.2s all linear;
         outline: none;
         margin-right: 5px;
         position: relative;
         top: .25em;
         &:checked {
-          border: 6px solid $primary;
+          border: 6px solid $color1;
         }
         &:hover{
-          color: lighten($primary, 15%);
+          color: lighten($color1, 15%);
           cursor: pointer;
         }
       }
@@ -881,7 +881,7 @@
         margin: .1em 0;
         display: inline-block;
         &:hover{
-          color: lighten($primary, 15%);
+          color: lighten($color1, 15%);
           cursor: pointer;
         }
       }
@@ -898,7 +898,7 @@
       background-color: unset;
       &:hover {
         transition: background-color .1s;
-        background-color: lighten($secondary, 20%);
+        background-color: lighten($color2, 20%);
         border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
@@ -929,7 +929,7 @@
     }
     ul {
       @include span(full);
-      background-color: lighten($secondary, 10%);
+      background-color: lighten($color2, 10%);
       li {
         width: 33.33332%;
         text-align: center;
@@ -938,18 +938,18 @@
         padding: 1em 0;
       }
       li:hover {
-        background-color: lighten($secondary, 25%);
+        background-color: lighten($color2, 25%);
         cursor: pointer;
       }
       li.active {
-        background-color: lighten($secondary, 20%);
+        background-color: lighten($color2, 20%);
         &:hover {
           cursor: default;
         }
       }
     }
     #core-swap {
-      background-color: lighten($secondary, 20%);
+      background-color: lighten($color2, 20%);
       @include span(full);
       h4 {
         padding-left: 1.6em;
@@ -973,7 +973,7 @@
         width: 100%;
         padding: 1em;
         box-sizing: border-box;
-        background-color: lighten($secondary, 20%);
+        background-color: lighten($color2, 20%);
       }
     }
   }
@@ -1025,7 +1025,7 @@
       margin-top: .4em;
     }
     i.collapseTrigger {
-      color: $secondary;
+      color: $color2;
       cursor: pointer;
     }
   }
@@ -1035,7 +1035,7 @@
     padding-left: 0;
     p {
       font-style: italic;
-      color: $secondary;
+      color: $color2;
       padding-bottom: .5em;
       padding-left: .2em;
       text-transform: uppercase;
@@ -1049,27 +1049,27 @@
         display: block;
         padding: .5em;
         margin: 0 .2em;
-        color: $secondary;
+        color: $color2;
         border-radius: 5px;
-        border: 1px solid $secondary;
+        border: 1px solid $color2;
         transition: all .1s;
         &:hover {
-          background-color: darken($secondary, 10%);
+          background-color: darken($color2, 10%);
           color: white;
           cursor:pointer;
         }
         &:active {
-          background-color: darken($secondary, 20%);
+          background-color: darken($color2, 20%);
         }
       }
       .on {
-        background-color:$secondary;
+        background-color:$color2;
         color: white;
         &:hover {
-          background-color: darken($secondary, 10%);
+          background-color: darken($color2, 10%);
         }
         &:active {
-          background-color: darken($secondary, 20%);
+          background-color: darken($color2, 20%);
         }
       }
     }
@@ -1080,7 +1080,7 @@
       min-height: 0px !important;
       text-align: center;
       background-color: unset !important;
-      border-bottom: 10px solid lighten($secondary, 20%);
+      border-bottom: 10px solid lighten($color2, 20%);
     }
     img {
       float: none !important;
@@ -1102,7 +1102,7 @@
   footer {
     @include span(full);
     @include pad(5%);
-    background-color: $primary;
+    background-color: $color1;
     .layout {
       margin-top: 1.5em;
       margin-bottom: 1.5em;
@@ -1170,7 +1170,7 @@
     }
   }
   nav {
-    background-color: $secondary;
+    background-color: $color2;
     display: inline-block;
     li {
       width: auto;
@@ -1251,23 +1251,23 @@
         -webkit-border-radius: 4px;
         -moz-border-radius: 4px;
         border: 1px solid white;
-        background-color: lighten($secondary, 22);
+        background-color: lighten($color2, 22);
         box-sizing: border-box;
         list-style: none;
         line-height: 1.3;
         font-size: 1.2em;
         font-weight: 400;
         font-family: $titleFont;
-        color: $primary;
+        color: $color1;
         text-align: center;
         padding: .5em;
         &:hover{
           transition: background-color .1s;
-          background-color: lighten($secondary, 17)
+          background-color: lighten($color2, 17)
         }
       }
       // a:nth-child(2n){
-      //   background-color: lighten($secondary, 22);
+      //   background-color: lighten($color2, 22);
       // }
     }
   }
@@ -1350,12 +1350,12 @@
         font-size: 2.4em;
         line-height: 1.2em;
         font-family: $titleFont;
-        color: $primary;
+        color: $color1;
       }
       p {
         font-size: 1.2em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
         margin-top: .5em;
       }
     }
@@ -1382,7 +1382,7 @@
     padding: 0;
     margin: 0;
     @include span(last 3);
-    background-color: $secondary;
+    background-color: $color2;
     height: 3000px;
     position: relative;
     ul {
@@ -1410,17 +1410,17 @@
             border-radius: 50%;
             width: 1em;
             height: 1em;
-            border: 2px solid $primary;
+            border: 2px solid $color1;
             transition: 0.2s all linear;
             outline: none;
             margin-right: 5px;
             position: relative;
             top: .25em;
             &:checked {
-              border: 6px solid $primary;
+              border: 6px solid $color1;
             }
             &:hover{
-              color: lighten($primary, 15%);
+              color: lighten($color1, 15%);
               cursor: pointer;
             }
           }
@@ -1430,7 +1430,7 @@
             margin: .1em 0;
             display: inline-block;
             &:hover{
-              color: lighten($primary, 15%);
+              color: lighten($color1, 15%);
               cursor: pointer;
             }
           }
@@ -1441,13 +1441,13 @@
         @include span(full);
 
         text-decoration: none;
-        color: $primary;
+        color: $color1;
         text-align: center;
         text-transform: capitalize;
       }
     }
     .active {
-      background-color: lighten($secondary, 15%);
+      background-color: lighten($color2, 15%);
       font-weight: 400;
     }
   }

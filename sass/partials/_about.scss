@@ -63,7 +63,7 @@
     display: inline-flex;
     flex-direction: column;
     margin-left: unset;
-    border: $secondary;
+    border: $color2;
     border-top-style: none;
     width: 14.28%;
     .horiline {
@@ -118,7 +118,7 @@
    .vertline {
      flex: 1 1 2em;
      /* height:2em; */
-     border: $secondary;
+     border: $color2;
      border-style: none none none solid;
      height: 2em;
      width: 52%;
@@ -133,7 +133,7 @@
    }
    .horiline {
      /* height:2em; */
-     border: $secondary;
+     border: $color2;
      border-style: none none solid none;
      /* height: 2em; */
      width: 100%;
@@ -143,7 +143,7 @@
      }
    }
    .horiline-l {
-     border: $secondary;
+     border: $color2;
      border-style: none none solid none;
      margin-right: 50%;
      width: 50%;
@@ -161,7 +161,7 @@
      }
    }
    .horiline-r {
-     border: $secondary;
+     border: $color2;
      border-style: solid none none none;
      margin-left: 47.5%;
      width: 52.5%;
@@ -180,7 +180,7 @@
      }
    }
    span {
-    border: $secondary;
+    border: $color2;
     border-style: solid none none none;
     height: unset;
     width: 100%;
@@ -320,18 +320,18 @@
 
   a div {
     opacity: 0.5;
-    // border-top: solid 1.5px $primary;
-    border-bottom: solid 1.5px $primary;
+    // border-top: solid 1.5px $color1;
+    border-bottom: solid 1.5px $color1;
     -moz-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     -webkit-transition: all 0.2x ease-in;
 
     &:hover {
-      background-color: transparentize($secondary, .8);
+      background-color: transparentize($color2, .8);
       -moz-transition: all 0.2s ease-in;
       -o-transition: all 0.2s ease-in;
       -webkit-transition: all 0.2x ease-in;
-      border: solid 1.5px $primary;
+      border: solid 1.5px $color1;
       border-radius: 6px;
     }
   }

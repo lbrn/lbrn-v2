@@ -29,7 +29,7 @@
     float: left;
     margin-left: 0;
     margin-right: 0;
-    background-color: $primary;
+    background-color: $color1;
     margin: .5em 0;
     padding-top: .5em;
     padding-bottom: .5em;
@@ -40,13 +40,13 @@
      color: white;
      text-decoration: none;
      &:hover {
-       color: $secondary; }
+       color: $color2; }
      }
    }
   h2 {
     font-size: 2.5em;
     font-family: $openFont;
-    color: $primary;
+    color: $color1;
     margin-top: .5em; }
   article {
     min-height: 11em;
@@ -62,7 +62,7 @@
      font-weight: 700;
      margin-top: 1.5em;
      font-family: $bodyFont;
-     color: $primary;
+     color: $color1;
      -moz-box-sizing: border-box;
      -webkit-box-sizing: border-box;
      box-sizing: border-box;
@@ -74,7 +74,7 @@
       font-weight: 500 !important; }
     }
     .post-link {
-     color: $secondary;
+     color: $color2;
      font-size: 1em;
      font-family: $bodyFont;
      float: right;
@@ -98,7 +98,7 @@
      font-size: 1em;
      line-height: 1.2em;
      font-family: $bodyFont;
-     color: $primary; }
+     color: $color1; }
     img {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -117,7 +117,7 @@
       margin-left: 0;
       margin-right: 0;
       font-family: $titleFont;
-      color: $secondary;
+      color: $color2;
       font-weight: 700;
       font-size: 2em;
       line-height: 1.25em;
@@ -129,7 +129,7 @@
         padding-left: 0;
         font-size: 1.75em;
         border: none;
-        // color: $primary;
+        // color: $color1;
         transition: all .3s ease-in-out;
         &:hover {
           // cursor: auto;
@@ -146,7 +146,7 @@
         background-color: $pentia;
         border-radius: 3%;
         h3 {
-         color: $primary; }
+         color: $color1; }
       }
       &.linkarticle:hover {
         background-color: $pentia;
@@ -156,7 +156,7 @@
           }
         h3 {
          &.override {
-           color: $primary;
+           color: $color1;
            cursor: pointer;
          }
        }
@@ -164,7 +164,7 @@
          background-color: $quadiary;
          transition: all .3s ease-in-out;
          h3 {
-           color: $primary;
+           color: $color1;
          }
        }
       }
@@ -172,11 +172,11 @@
         background-color: $pentia;
         transition: all .3s ease-in-out;
         h3 {
-          color: $secondary;
+          color: $color2;
           cursor: pointer;
           transition: all .3s ease-in-out;
           &.override {
-            color: $primary;
+            color: $color1;
           }
         }
         .post-link {

@@ -25,7 +25,7 @@
 
         li {
           display: block;
-          color: $primary;
+          color: $color1;
           width: 9em;
           // background-color: red;
           a {
@@ -64,7 +64,7 @@
 }
 
 .navdropdown {
-  background-color: $secondary;
+  background-color: $color2;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -75,7 +75,7 @@
   padding: 0;
 
   // @media (min-width: $sm){
-  //   background-color: $secondary;
+  //   background-color: $color2;
   // }
   ul {
     max-width: 100%;
@@ -104,9 +104,9 @@
           // width: 100%;
 
           a {
-            background-color: $secondary;
+            background-color: $color2;
             /* background-color: $sexta; */
-            color: $primaryheader;
+            color: $color1header;
             font-size: 1rem;
             font-weight: 300;
             margin: unset;
@@ -130,7 +130,7 @@
 
       ul li a:hover {
         background-color: $sexta;
-        color: $primary;
+        color: $color1;
       }
 
       a:hover {
@@ -171,7 +171,7 @@
       display: block;
       /* color: red; */
       color: white;
-      color: $primary;
+      color: $color1;
       text-decoration: none;
       padding: 1em 0;
       display: block;
@@ -184,7 +184,7 @@
       }
 
       &.button {
-        border: 2px solid $primary;
+        border: 2px solid $color1;
         border-radius: 25px;
         /* color: white; */
         /* color: red; */
@@ -194,7 +194,7 @@
         float: none;
 
         &:hover {
-          background-color: $primary;
+          background-color: $color1;
           color: white;
         }
       }
@@ -340,7 +340,7 @@
     padding-left: 0;
     p {
       font-style: italic;
-      color: $secondary;
+      color: $color2;
       padding-bottom: 0.5em;
       padding-left: 0.2em;
       text-transform: uppercase;
@@ -355,13 +355,13 @@
         display: block;
         padding: 0.1em;
         /* margin: 0 .2em; */
-        color: $secondary;
+        color: $color2;
         border-radius: 5px;
-        border: 1px solid $secondary;
+        border: 1px solid $color2;
         transition: all 0.1s;
         &:hover {
           /* background-color: #6bbb6f; */
-          background-color: $secondary;
+          background-color: $color2;
           color: white;
           cursor: pointer;
         }
@@ -370,9 +370,9 @@
         }
       }
       .on {
-        background-color: $secondary;
+        background-color: $color2;
         color: white;
-        /* color:$primary; */
+        /* color:$color1; */
         &:hover {
           background-color: #6bbb6f;
         }
@@ -390,7 +390,7 @@
 
 .about #lbrnEventSidebar,
 .content #lbrnEventSidebar {
-  background-color: $secondary;
+  background-color: $color2;
   // width:20%;
   float: right;
 
@@ -400,7 +400,7 @@
   }
 
   ul li {
-    border-bottom: 1px solid $primary;
+    border-bottom: 1px solid $color1;
   }
 
   ul a {
@@ -424,7 +424,7 @@
     -webkit-transition: all 0.2x ease-in;
 
     a {
-      color: $primary;
+      color: $color1;
 
       &:hover {
         background-color: transparent;
@@ -462,8 +462,8 @@
       &:hover {
         background-color: transparent;
         text-decoration: none;
-        color: $primary;
-        
+        color: $color1;
+
       }
     }
     &.collapse {
@@ -491,7 +491,7 @@
       margin-left: 0;
       margin-right: 0;
       text-decoration: none;
-      color: $primary;
+      color: $color1;
       text-align: center;
       text-transform: capitalize;
       list-style: none;
@@ -521,8 +521,8 @@
     z-index: 1000;
     padding-left: 5%;
     padding-right: 5%;
-    border-bottom: 1px solid $primary;
-    border-top: 1px solid $primary;
+    border-bottom: 1px solid $color1;
+    border-top: 1px solid $color1;
     margin-bottom: unset;
     li {
       -moz-box-sizing: border-box;
@@ -541,7 +541,7 @@
       text-align: center;
       font-family: $bodyFont;
       line-height: 1.2em;
-      color: $primary;
+      color: $color1;
       &:hover {
         -moz-transition: all 0.2s ease-in;
         -o-transition: all 0.2s ease-in;
@@ -561,7 +561,7 @@
       margin-left: 0;
       margin-right: 0;
       text-decoration: none;
-      color: $primary;
+      color: $color1;
       text-align: center;
       text-transform: capitalize;
     }
@@ -593,7 +593,7 @@
     }
 
     a {
-      color: $primary;
+      color: $color1;
     }
   }
 

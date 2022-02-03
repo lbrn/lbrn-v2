@@ -1,7 +1,7 @@
 
 //colors - normal
-$primary: #2C3D6C !default;
-$secondary: #8ECB91 !default;
+$color1: #2C3D6C !default;
+$color2: #8ECB91 !default;
 $tertiary: #7dc380 !default;
 $quadiary: #c2e3c4 !default;
 $pentia: #def0df !default;
@@ -12,15 +12,15 @@ $resgreen: #c2e2c4 !default;
 $aboutcores: #b1dbb3 !default;
 $aboutcoreshover: #e5f3e6 !default;
 $viewall: #5ab35e !default;
-$primaryhover: #4a66b4 !default;
+$color1hover: #4a66b4 !default;
 
 
 
 
 
-$resbutton: $primary !default;
-$primaryheader: $primary !default;
-$pageheader: $primary !default;
+$resbutton: $color1 !default;
+$color1header: $color1 !default;
+$pageheader: $color1 !default;
 $resbuttoneven: $resbutton !default;
 $resbuttonevenhover: white !default;
 

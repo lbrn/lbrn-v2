@@ -121,12 +121,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
       .mapcontainer a div {
         opacity: 0.5;
-        border-top: solid 1.5px $primary;
-        border-bottom: solid 1.5px $primary;
+        border-top: solid 1.5px $color1;
+        border-bottom: solid 1.5px $color1;
       }
 
       .mapcontainer a div:hover {
-        background-color: $secondary;
+        background-color: $color2;
         -moz-transition: all .2s ease-in;
         -o-transition: all .2s ease-in;
         -webkit-transition: all .2x ease-in;
@@ -426,7 +426,7 @@ padding-bottom: 1em;
 
   .vidsection div h2{
       font-size: 0.8em;
-      color: $primary;
+      color: $color1;
       margin-top: 0 !important;
       text-align: left;
       font-weight: bold;
@@ -515,7 +515,7 @@ float:left;
   }
   .pubmed-link{
     background-color: $sexta;
-    color: $primary;
+    color: $color1;
     display: inline-block;
     font-weight: 400;
     /* color: #212529; */
@@ -534,7 +534,7 @@ float:left;
     float:right;
   }
   .pubmed-link:hover{
-    background-color: $secondary;
+    background-color: $color2;
     color: #fff;
   }
 
@@ -624,14 +624,14 @@ float:left;
     font-size: 1.5em;
     font-weight: 700;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     text-align: center;
     padding: .5em;
     width:auto;
     /* width:100%; */
     }
   #newsSidebarButton h1:hover{
-    background-color:$secondary;
+    background-color:$color2;
   }
 
     #newsSidebarmobile {
@@ -664,7 +664,7 @@ float:left;
       font-size: 1.2em;
       font-weight: 400;
       font-family: $titleFont;
-      color: $primary;
+      color: $color1;
       text-align: center;
       padding: .5em;
       width:100%;
@@ -760,7 +760,7 @@ float:left;
 
   .natural-link {
     text-decoration: none;
-    color: $primary; }
+    color: $color1; }
   .natural-link.natural-link:hover {
     color: #425ca2; }
 
@@ -792,7 +792,7 @@ float:left;
     font-weight: 400; }
   body p.natural-link a {
     text-decoration: none;
-    color: $primary; }
+    color: $color1; }
   body p.natural-link:hover a {
     color: #161e36; }
   body h1 {
@@ -800,14 +800,14 @@ float:left;
     font-style: "Open Sans", sans-serif; }
   body a {
     text-decoration: none;
-    color: $secondary; }
+    color: $color2; }
   body a:hover {
     color: #5ab35e; }
 
   a.button {
     padding: .2em 1.2em;
-    background-color: $secondary;
-    color: $primary;
+    background-color: $color2;
+    color: $color1;
     text-align: center;
     font-size: 1.1em;
     font-family: $bodyFont;
@@ -817,13 +817,13 @@ float:left;
     border-radius: 10px;
     display: inline-block; }
   a.button:hover {
-    background-color: $primary;
+    background-color: $color1;
     color: white; }
   a.button .secondary-button {
-    border: 1px solid $secondary;
+    border: 1px solid $color2;
     background-color: white; }
   a.button .secondary-button:hover {
-    background-color: $secondary; }
+    background-color: $color2; }
 
   .hidden {
     display: none !important; }
@@ -878,7 +878,7 @@ float:left;
 
   .navdropdown {
 
-    background-color: $secondary;
+    background-color: $color2;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -909,11 +909,11 @@ float:left;
     padding: 1em .2em;
     display: inline-block; }
   .navdropdown li.right > a:hover {
-    color: $primary;
+    color: $color1;
     transition: ALL .15s;
     background-color: unset; }
   .navdropdown li a.button {
-    border: 2px solid $primary;
+    border: 2px solid $color1;
     border-radius: 25px;
     /* color: white; */
     /* color: red; */
@@ -922,7 +922,7 @@ float:left;
     font-size: .8em;
     float: none; }
   .navdropdown li a.button:hover {
-    background-color: $primary;
+    background-color: $color1;
     color: white; }
   .navdropdown li a:hover {
     background-color: #b1dbb3;
@@ -946,7 +946,7 @@ float:left;
 
   .navdropdown ul li ul li a:hover{
     background-color: $sexta;
-    color: $secondary;
+    color: $color2;
   }
   .navdropdown li:last-child {
     border: none; }
@@ -975,7 +975,7 @@ float:left;
     float: left;
     font-size: 2em;
     font-family: "Open Sans", sans-serif;
-    color: $primary; }
+    color: $color1; }
 
   .content ul {
     margin-left: 2.8em; }
@@ -1007,14 +1007,14 @@ float:left;
     font-size: 1.2em;
     line-height: 1.8em;
 
-    color: $primary;
+    color: $color1;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 2em; }
   main div.content h2 {
     margin-top: .5em;
     font-family: "Open Sans", sans-serif;
-    color: $primary;
+    color: $color1;
     line-height: 1.5em;
     /* text-transform: uppercase;  */
   }
@@ -1025,7 +1025,7 @@ float:left;
     margin-top: 1.2em;
     padding-left: 1em;
     clear: both;
-    border-left: 8px solid $secondary; }
+    border-left: 8px solid $color2; }
 
 main div.content h3:hover {
   cursor: pointer;
@@ -1052,13 +1052,13 @@ main div.content h3:enabled {
     margin-top: .25em; }
   main div.content #faq p {
     margin-top: .25em;
-    border-bottom: 1px $primary solid;
+    border-bottom: 1px $color1 solid;
     cursor: pointer; }
   main div.content #faq p:hover {
     color: #425ca2;
     border-bottom: 1px #425ca2 solid; }
   main div.content #faq ul {
-    border-bottom: 3px $primary solid;
+    border-bottom: 3px $color1 solid;
     margin-left: 0;
     padding-left: 2.8em;
     display: none; }
@@ -1107,13 +1107,13 @@ main div.content h3:enabled {
     padding: 0 5%; }
   main div.content .accordianTrigger {
     margin-top: .25em;
-    border-bottom: 1px $primary solid;
+    border-bottom: 1px $color1 solid;
     cursor: pointer; }
   main div.content .accordianTrigger:hover {
     color: #425ca2;
     border-bottom: 1px #425ca2 solid; }
   main div.content .accordianSection {
-    border-bottom: 3px $primary solid;
+    border-bottom: 3px $color1 solid;
     margin-left: 0;
     padding-left: 2.8em;
     display: none; }
@@ -1144,7 +1144,7 @@ main div.content h3:enabled {
   .news h2 {
     font-size: 2.5em;
     font-family: "Open Sans", sans-serif;
-    color: $primary;
+    color: $color1;
     margin-top: .5em; }
   .news article {
     overflow: hidden;
@@ -1154,7 +1154,7 @@ main div.content h3:enabled {
     background-color: $pentia;
     border-radius: 3%; }
   .news article.featured h3 {
-    color: $primary; }
+    color: $color1; }
   .news article img {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1174,7 +1174,7 @@ main div.content h3:enabled {
     margin-left: 0;
     margin-right: 0;
     font-family: $titleFont;
-    color: $secondary;
+    color: $color2;
     font-weight: 700;
     font-size: 2em;
     line-height: 1.25em; }
@@ -1199,9 +1199,9 @@ main div.content h3:enabled {
     font-size: 1em;
     line-height: 1.2em;
     font-family: $bodyFont;
-    color: $primary; }
+    color: $color1; }
   .news article .post-link {
-    color: $secondary;
+    color: $color2;
     font-size: 1em;
     font-family: $bodyFont;
     float: right;
@@ -1215,7 +1215,7 @@ main div.content h3:enabled {
     font-weight: 700;
     margin-top: 1.5em;
     font-family: $bodyFont;
-    color: $primary;
+    color: $color1;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1233,7 +1233,7 @@ main div.content h3:enabled {
     float: left;
     margin-left: 0;
     margin-right: 0;
-    background-color: $primary;
+    background-color: $color1;
     margin: .5em 0;
     padding-top: .5em;
     padding-bottom: .5em; }
@@ -1244,7 +1244,7 @@ main div.content h3:enabled {
     color: white;
     text-decoration: none; }
   .news .view-all a:hover {
-    color: $secondary; }
+    color: $color2; }
 
   #newsSidebar {
     display: none; }
@@ -1259,7 +1259,7 @@ main div.content h3:enabled {
     margin-right: 0; }
 
   #eventsContainer {
-    background-color: $secondary;
+    background-color: $color2;
     padding-top: 3em; }
 
   .events {
@@ -1273,11 +1273,11 @@ main div.content h3:enabled {
     margin-right: 0;
     padding-left: 5%;
     padding-right: 5%;
-    background-color: $secondary; }
+    background-color: $color2; }
   .events h2 {
     font-size: 2em;
     font-family: "Open Sans", sans-serif;
-    color: $primary;
+    color: $color1;
     margin: 1em 0;
     text-align: center;
     line-height: .5em; }
@@ -1286,14 +1286,14 @@ main div.content h3:enabled {
     float: left;
     width: 70%;
     margin: 0 15%;
-    border-bottom: 1px solid $primary;
+    border-bottom: 1px solid $color1;
     margin-bottom: 4%;
     padding-bottom: 4%;
     transition: all .3s ease-in-out;
   }
   .events section:hover{
     border-radius: 7px;
-    /* background-color: $secondary; */
+    /* background-color: $color2; */
     background-color: $pentia;
     transition: all .3s ease-in-out;
   }
@@ -1301,8 +1301,8 @@ main div.content h3:enabled {
     width: 48%;
     float: left;
     font-family: $bodyFont;
-    color: $primary;
-    border-right: 1px solid $primary; }
+    color: $color1;
+    border-right: 1px solid $color1; }
   .events section .date .date-day {
     font-weight: 500;
     font-size: 4em;
@@ -1342,7 +1342,7 @@ main div.content h3:enabled {
     width: 48%;
     float: right;
     font-family: $bodyFont;
-    color: $primary; }
+    color: $color1; }
     .events section .details.notice{
       float: none;
       text-align: center;
@@ -1361,8 +1361,8 @@ main div.content h3:enabled {
   .events section:last-child {
     border: none; }
   .events .view-all {
-    /* background-color: $secondary; */
-    color: $primary;
+    /* background-color: $color2; */
+    color: $color1;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -1427,7 +1427,7 @@ main div.content h3:enabled {
     text-transform: none !important;
     clear: both;
     padding: .5em;
-    color: $primary;
+    color: $color1;
     font-weight: 700;
     /* commented out for two card responsive stuff */
     font-family: $titleFont !important; }
@@ -1444,7 +1444,7 @@ main div.content h3:enabled {
     margin-left: 3.44828%;
     margin-top: unset !important;
     padding: 2.5%;
-    color: $primary;
+    color: $color1;
     font-family: $bodyFont;
     line-height: 1.25em;
     hyphens: auto;
@@ -1486,7 +1486,7 @@ main div.content h3:enabled {
     font-size: 2.4em;
     line-height: 1.2em;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     margin-top: .5em;
     margin-bottom: .5em;
   }
@@ -1526,7 +1526,7 @@ main div.content h3:enabled {
     margin: 1em;
     margin-top: 2em;
     font-family: $bodyFont;
-    color: $primary; }
+    color: $color1; }
   #lbrnEventHeader div.caption {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1542,11 +1542,11 @@ main div.content h3:enabled {
     font-size: 2.4em;
     line-height: 1.2em;
     font-family: $titleFont;
-    color: $primary; }
+    color: $color1; }
   #lbrnEventHeader div.caption p {
     font-size: 1.2em;
     font-family: $bodyFont;
-    color: $primary;
+    color: $color1;
     margin-top: .5em; }
   #lbrnEventHeader div.caption #date {
     font-family: "Open Sans", sans-serif;
@@ -1699,7 +1699,7 @@ main div.content h3:enabled {
     overflow: visible; }
 
   .event-section-head {
-    background-color: $secondary;
+    background-color: $color2;
     /* width: 80%; */
 
     display: inline-block;
@@ -1735,7 +1735,7 @@ main div.content h3:enabled {
     width: 30%;
     height: 50px;
     overflow: hidden;
-    background: $secondary;
+    background: $color2;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1753,7 +1753,7 @@ main div.content h3:enabled {
 
   #mobileChooseType {
     position: fixed;
-    background-color: $secondary;
+    background-color: $color2;
     top: -20%;
     left: 0;
     width: 100%;
@@ -1779,14 +1779,14 @@ main div.content h3:enabled {
     border-radius: 50%;
     width: 1em;
     height: 1em;
-    border: 2px solid $primary;
+    border: 2px solid $color1;
     transition: 0.2s all linear;
     outline: none;
     margin-right: 5px;
     position: relative;
     top: .25em; }
   #mobileChooseType div.chooseType input:checked {
-    border: 6px solid $primary; }
+    border: 6px solid $color1; }
   #mobileChooseType div.chooseType input:hover {
     color: #425ca2;
     cursor: pointer; }
@@ -1811,7 +1811,7 @@ main div.content h3:enabled {
       margin-top: unset !important;
       /* padding: 2.5%; */
       padding: 1.5%;
-      color: $primary !important;
+      color: $color1 !important;
       font-family: $bodyFont;
       line-height: 1.25em;
       hyphens: auto;
@@ -2014,7 +2014,7 @@ div.research img{
   .people .icon-margin2 {
     margin-top: .4em; }
   .people i.collapsetstyle {
-    color: $secondary;
+    color: $color2;
     cursor: pointer; }
 
   .navdropdown#pi-filter {
@@ -2024,7 +2024,7 @@ div.research img{
     padding-left: 0; }
   .navdropdown#pi-filter p {
     font-style: italic;
-    color: $secondary;
+    color: $color2;
     padding-bottom: .5em;
     padding-left: .2em;
     text-transform: uppercase;
@@ -2039,21 +2039,21 @@ div.research img{
     display: block;
     padding: .1em;
     /* margin: 0 .2em; */
-    color: $secondary;
+    color: $color2;
     border-radius: 5px;
-    border: 1px solid $secondary;
+    border: 1px solid $color2;
     transition: all .1s; }
   .navdropdown#pi-filter ul li:hover {
     /* background-color: #6bbb6f; */
-    background-color: $secondary;
+    background-color: $color2;
     color: white;
     cursor: pointer; }
   .navdropdown#pi-filter ul li:active {
     background-color: #4da651; }
   .navdropdown#pi-filter ul .on {
-    background-color: $secondary;
+    background-color: $color2;
     color: white;
-    /* color:$primary; */
+    /* color:$color1; */
   }
   .navdropdown#pi-filter ul .on:hover {
     background-color: #6bbb6f; }
@@ -2088,7 +2088,7 @@ div.research img{
     margin-right: 0;
     padding-left: 5%;
     padding-right: 5%;
-    background-color: $primary; }
+    background-color: $color1; }
   footer .layout {
     margin-top: 1.5em;
     margin-bottom: 1.5em; }
@@ -2122,7 +2122,7 @@ div.research img{
       margin-top: 1.2em;
       padding-left: 1em;
       clear: both;
-      border-left: 8px solid $secondary;
+      border-left: 8px solid $color2;
       font-family: "Ubuntu", sans-serif !important;
     }
     .profile-txt h2 {
@@ -2149,7 +2149,7 @@ div.research img{
   }
   .videorepo a {
     text-decoration: none;
-  color: $secondary;
+  color: $color2;
   margin: 0;
   padding: 0;
   border: 0;
@@ -2265,7 +2265,7 @@ div.research img{
   }
   /* MOVE THE NEXT 2 TO SMALL */
   #core-list .sevenblock{
-    border: $secondary;
+    border: $color2;
     border-style: dotted none none none;
     width:50%;
   }
@@ -2279,7 +2279,7 @@ div.research img{
     display:none;
   }
   #core-list .sevenblock:nth-of-type(odd){
-    border: $secondary;
+    border: $color2;
     border-right-style:dotted;
     border-top-style:dotted;
   }
@@ -2307,7 +2307,7 @@ div.research img{
   #core-list .vertline{
     flex: 1 1 2em;
     height:2em;
-	border: $secondary;
+	border: $color2;
 	border-style: none dotted none none;
 	height: 2em;
 	width: 50%;
@@ -2315,27 +2315,27 @@ div.research img{
   }
   #core-list .horiline{
     /* height:2em; */
-  border: $secondary;
+  border: $color2;
   border-style: none none dotted none;
   /* height: 2em; */
   width: 100%;
 
   }
   #core-list .horiline-l{
-  border: $secondary;
+  border: $color2;
   border-style: none none dotted none;
   margin-right:50%;
   width: 50%;
   }
   #core-list .horiline-r{
-  border: $secondary;
+  border: $color2;
   border-style: none none dotted none;
   margin-left:50%;
   width: 50%;
   }
 
   #core-list span{
-    border: $secondary;
+    border: $color2;
     border-style:dotted none none none;
     height: unset;
     width: 100%;
@@ -2425,7 +2425,7 @@ div.research img{
       width: 15%;
       float: right;
       margin-right: 0;
-      /* background-color: $secondary; */
+      /* background-color: $color2; */
       /* height: 3000px; */
       height: auto;
       position: relative;
@@ -2435,8 +2435,8 @@ div.research img{
       top: 0em;
       z-index: 1000;
       text-decoration: none;
-      /* border-bottom: 1px solid $primary;
-      border-top: 1px solid $primary; */
+      /* border-bottom: 1px solid $color1;
+      border-top: 1px solid $color1; */
       /* font-weight: 300; */
     }
 
@@ -2450,7 +2450,7 @@ div.research img{
       margin-left: 0;
       margin-right: 0;
       text-decoration: none;
-      /* color: $primary; */
+      /* color: $color1; */
       /* font-weight: 300;
       text-align: center;
       text-transform: capitalize;
@@ -2472,7 +2472,7 @@ div.research img{
       font-weight: 300;
       /* font-size: 1.2em; */
       font-size: 0.8em;
-        /* border-bottom: 1px solid $primary; */
+        /* border-bottom: 1px solid $color1; */
         cursor: pointer;
         text-align: center;
     }
@@ -2493,15 +2493,15 @@ div.research img{
       z-index: 1000;
       padding-left: 5%;
       padding-right: 5%;
-      border-bottom: 1px solid $primary;
-      border-top: 1px solid $primary;
+      border-bottom: 1px solid $color1;
+      border-top: 1px solid $color1;
       margin-bottom: unset;
     }
     #lbrnEventSidebar2 ul div {
       font-family: $bodyFont;
       font-size: 1.0em;
       line-height: 1.2em;
-      color: $primary;
+      color: $color1;
 
     }
   .picktype label {
@@ -2546,8 +2546,8 @@ div.research img{
       top: 0em;
       z-index: 1000;
       text-decoration: none;
-      border-bottom: 1px solid $primary;
-      border-top: 1px solid $primary;
+      border-bottom: 1px solid $color1;
+      border-top: 1px solid $color1;
 
     }
     .bar {background-color: green;
@@ -2561,8 +2561,8 @@ div.research img{
       max-width:5em;
     }
     .navdropdown ul li ul li a{
-      background-color: $secondary;
-      color: $primaryheader;
+      background-color: $color2;
+      color: $color1header;
       font-size: 1rem;
       font-weight:300;
       margin: unset;
@@ -2595,7 +2595,7 @@ div.research img{
     }
     .navdropdownbig ul li ul li {
       display: block;
-      color: $primary;
+      color: $color1;
       width: 9em;
     }
 
@@ -2704,7 +2704,7 @@ div.research img{
     width: 20%;
     float: right;
     margin-right: 0;
-    /* background-color: $secondary; */
+    /* background-color: $color2; */
     /* height: 3000px; */
     height: auto;
     position: relative;
@@ -2714,8 +2714,8 @@ div.research img{
     top: 0em;
     z-index: 1000;
     text-decoration: none;
-    /* border-bottom: 1px solid $primary;
-    border-top: 1px solid $primary; */
+    /* border-bottom: 1px solid $color1;
+    border-top: 1px solid $color1; */
     /* font-weight: 300; */
   }
   #lbrnEventSidebar2 div li{
@@ -2725,7 +2725,7 @@ div.research img{
     margin-left: 0;
     margin-right: 0;
     text-decoration: none;
-    color: $primary;
+    color: $color1;
     text-align: center;
     text-transform: capitalize;
     list-style: none;
@@ -2747,7 +2747,7 @@ div.research img{
     width: 20%;
     float: left;
     margin-right: 0;
-    /* background-color: $secondary; */
+    /* background-color: $color2; */
     /* height: 3000px; */
     height: auto;
     position: relative;
@@ -2757,8 +2757,8 @@ div.research img{
     top: 0em;
     z-index: 1000;
     text-decoration: none;
-    border-bottom: 1px solid $primary;
-    border-top: 1px solid $primary;
+    border-bottom: 1px solid $color1;
+    border-top: 1px solid $color1;
     /* font-weight: 300; */
   }
 
@@ -2863,7 +2863,7 @@ section.directory article.person{
       display: block!important;
     }
   .navdropdown {
-    background-color: $secondary;
+    background-color: $color2;
     }
   .navdropdown li {
     width: auto;
@@ -3003,7 +3003,7 @@ section.directory article.person{
     font-size: 1.2em;
     font-weight: 400;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     text-align: center;
     padding: .5em; }
   #newsSidebar ul li:hover {
@@ -3126,11 +3126,11 @@ section.directory article.person{
     font-size: 2.4em;
     line-height: 1.2em;
     font-family: $titleFont;
-    color: $primary; }
+    color: $color1; }
   #lbrnEventHeader div.caption p {
     font-size: 1.2em;
     font-family: $bodyFont;
-    color: $primary;
+    color: $color1;
     margin-top: .5em; }
 
   #matchHeight {
@@ -3179,7 +3179,7 @@ section.directory article.person{
     width: 100%;
     float: right;
     margin-right: 0;
-    background-color: $secondary;
+    background-color: $color2;
     /* height: 3000px; */
     /* position: relative;  */
           position: -webkit-sticky;
@@ -3207,7 +3207,7 @@ section.directory article.person{
     font-family: $bodyFont;
     font-size: 1.0em;
     line-height: 1.2em;
-    color: $primary;
+    color: $color1;
 
   }
   #lbrnEventSidebar ul li {
@@ -3239,14 +3239,14 @@ section.directory article.person{
     border-radius: 50%;
     width: 1em;
     height: 1em;
-    border: 2px solid $primary;
+    border: 2px solid $color1;
     transition: 0.2s all linear;
     outline: none;
     margin-right: 5px;
     position: relative;
     top: .25em; }
   #lbrnEventSidebar ul li div.chooseType input:checked {
-    border: 6px solid $primary; }
+    border: 6px solid $color1; }
   #lbrnEventSidebar ul li div.chooseType input:hover {
     color: #425ca2;
     cursor: pointer; }
@@ -3268,7 +3268,7 @@ section.directory article.person{
     margin-left: 0;
     margin-right: 0;
     text-decoration: none;
-    color: $primary;
+    color: $color1;
     text-align: center;
     text-transform: capitalize; }
   #lbrnEventSidebar .active {
@@ -3905,7 +3905,7 @@ div.resources h2 {
   text-transform: none !important;
   clear: both;
   padding: 5%;
-  color: $primary;
+  color: $color1;
   font-weight: 400;
   font-family: $bodyFont;
 line-height: 1.25em;
@@ -3914,7 +3914,7 @@ hyphens: auto;
 
 /* .greentest{
   text-decoration: none;
-color: $secondary;
+color: $color2;
 margin: 0;
 padding: 0;
 border: 0;
@@ -3936,7 +3936,7 @@ list-style: square;
   padding: 0;
   overflow: hidden;
   text-decoration: none;
-color: $secondary;
+color: $color2;
 border: 0;
 font: inherit;
     font-size: inherit;
@@ -3961,7 +3961,7 @@ font-size: 0.8em;
     /* padding-top: 2.5%; */
     /* padding-bottom: 2.5%; */
     padding: 0;
-color: $primary;
+color: $color1;
 font-family: $bodyFont;
 line-height: 1.25em;
 hyphens: auto;
@@ -4056,7 +4056,7 @@ background-color: $sexta;
   /* width: 100%; */
   /* display: none; */
   float: left;
-  /* background-color: $secondary; */
+  /* background-color: $color2; */
   z-index: -1;
   position: absolute;
   overflow: hidden;
@@ -4094,14 +4094,14 @@ font-size: 0.8em;
   border-radius: 50%;
   width: 1em;
   height: 1em;
-  border: 2px solid $primary;
+  border: 2px solid $color1;
   transition: 0.2s all linear;
   outline: none;
   margin-right: 5px;
   position: relative;
   top: .25em; }
 #lbrnEventSidebar2 ul li div.chooseType input:checked {
-  border: 6px solid $primary; }
+  border: 6px solid $color1; }
 #lbrnEventSidebar2 ul li div.chooseType input:hover {
   color: #425ca2;
   cursor: pointer; }
@@ -4123,7 +4123,7 @@ font-size: 0.8em;
   margin-left: 0;
   margin-right: 0;
   text-decoration: none;
-  color: $primary;
+  color: $color1;
   text-align: center;
   text-transform: capitalize;
 }
@@ -4189,7 +4189,7 @@ cursor: pointer;
 .dot-indicators{
   width: 12px;
   height: 12px;
-  background-color: $secondary;
+  background-color: $color2;
     border-radius: 10px;
 margin-left: 80%;
 display: block;

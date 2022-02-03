@@ -26,7 +26,7 @@ main.research {
       color: $resbutton;
       margin-top: 0;
       &:hover {
-        background-color: $secondary;
+        background-color: $color2;
         color: white;
         -moz-transition: all 0.2s ease-in;
         -o-transition: all 0.2s ease-in;
@@ -132,7 +132,7 @@ main.research {
   flex-direction: row;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  // border-top: 2px solid $primary;
+  // border-top: 2px solid $color1;
   flex-wrap:wrap;
   margin-left:40px;
 
@@ -164,12 +164,12 @@ main.research {
      }
     a.btn{
        background-color:$pentia;
-       color: $primary;
+       color: $color1;
        -moz-transition: all .2s ease-in;
        -o-transition: all .2s ease-in;
        -webkit-transition: all .2x ease-in;
        &:hover {
-         background-color: $secondary;
+         background-color: $color2;
            color:white;
          -moz-transition: all .2s ease-in;
          -o-transition: all .2s ease-in;
@@ -247,7 +247,7 @@ main.research {
 
       .btn {
         color: $resbuttoneven;
-        background-color: $secondary;
+        background-color: $color2;
 
         &:hover {
           color: $resbuttonevenhover;
@@ -367,7 +367,7 @@ main.research {
 
         .btn {
           color: $resbuttoneven;
-          background-color: $secondary;
+          background-color: $color2;
 
           &:hover {
             color: $resbuttonevenhover;
@@ -401,7 +401,7 @@ main.research {
       }
 
       a {
-        color: $primary;
+        color: $color1;
         // flex:1 1 100%;
         flex: 0 1 200px;
         display: flex;
@@ -431,7 +431,7 @@ main.research {
         flex-wrap: wrap;
         align-content: flex-start;
         line-height: normal;
-        /* border-top:2px solid $primary; */
+        /* border-top:2px solid $color1; */
         @media (max-width: $lg) {
           padding-left: 0.5em;
           // flex: 1 1 auto;

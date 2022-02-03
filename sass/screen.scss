@@ -180,8 +180,8 @@ img {
 
 a.btn {
   &.grn {
-    background-color: $secondary;
-    color: $primary;
+    background-color: $color2;
+    color: $color1;
 
     &:hover {
       background-color: $pentia;
@@ -253,7 +253,7 @@ a.btn {
     padding: unset;
     h2 {
       font-size: 0.8em;
-      color: $primary;
+      color: $color1;
       margin-top: 0 !important;
       text-align: left;
       font-weight: bold;
@@ -350,13 +350,13 @@ a.btn {
     font-size: 1.5em;
     font-weight: 700;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     text-align: center;
     padding: 0.5em;
     width: auto;
     /* width:100%; */
     &:hover {
-      background-color: $secondary;
+      background-color: $color2;
     }
   }
 }
@@ -392,7 +392,7 @@ a.btn {
     font-size: 1.2em;
     font-weight: 400;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     text-align: center;
     padding: 0.5em;
     width: 100%;
@@ -496,7 +496,7 @@ a.btn {
 
 .natural-link {
   text-decoration: none;
-  color: $primary;
+  color: $color1;
 }
 
 .natural-link.natural-link:hover {
@@ -542,7 +542,7 @@ body {
     &.natural-link {
       a {
         text-decoration: none;
-        color: $primary;
+        color: $color1;
       }
 
       &:hover a {
@@ -558,7 +558,7 @@ body {
 
   a {
     text-decoration: none;
-    color: $secondary;
+    color: $color2;
     &:hover {
       color: $viewall;
     }
@@ -591,8 +591,8 @@ body {
 
 a.button {
   padding: 0.2em 1.2em;
-  background-color: $secondary;
-  color: $primary;
+  background-color: $color2;
+  color: $color1;
   text-align: center;
   font-size: 1.1em;
   font-family: $bodyFont;
@@ -603,17 +603,17 @@ a.button {
 }
 
 a.button:hover {
-  background-color: $primary;
+  background-color: $color1;
   color: white;
 }
 
 a.button .secondary-button {
-  border: 1px solid $secondary;
+  border: 1px solid $color2;
   background-color: white;
 }
 
 a.button .secondary-button:hover {
-  background-color: $secondary;
+  background-color: $color2;
 }
 
 .hidden {
@@ -743,7 +743,7 @@ header h1 {
   float: left;
   font-size: 2em;
   font-family: $openFont;
-  color: $primary; }
+  color: $color1; }
 
   .mediapage p {
     font-size: 16pt;
@@ -821,7 +821,7 @@ header h1 {
   line-height: 1.8em;
   /* color: red; */
   /* cust */
-  color: $primary;
+  color: $color1;
   /* padding-top: 1em; */
   padding-bottom: 2em;
   padding-left: 0;
@@ -830,6 +830,10 @@ header h1 {
     padding-left: 15px;
     padding-right: 15px;
   }
+  @media (max-width: $lg) {
+    display: flex;
+    flex-direction: column;
+  }
   @media (max-width: $xl){
     padding-left: 30px;
     padding-right: 30px;
@@ -837,7 +841,7 @@ header h1 {
   h2 {
    margin-top: .5em;
    font-family: $openFont;
-   color: $primary;
+   color: $color1;
    line-height: 1.5em;
   }
   h3 {
@@ -846,7 +850,7 @@ header h1 {
     margin-top: 1.2em;
     padding-left: 1em;
     clear: both;
-    border-left: 8px solid $secondary;
+    border-left: 8px solid $color2;
     &:hover {
       cursor: pointer;
     }
@@ -874,14 +878,14 @@ header h1 {
   #faq {
     p {
       margin-top: .25em;
-      border-bottom: 1px $primary solid;
+      border-bottom: 1px $color1 solid;
       cursor: pointer;
       &:hover {
         color: #425ca2;
         border-bottom: 1px #425ca2 solid; }
     }
     ul {
-     border-bottom: 3px $primary solid;
+     border-bottom: 3px $color1 solid;
      margin-left: 0;
      padding-left: 2.8em;
      display: none; }
@@ -931,14 +935,14 @@ header h1 {
    padding: 0 5%; }
  .accordianTrigger {
    margin-top: .25em;
-   border-bottom: 1px $primary solid;
+   border-bottom: 1px $color1 solid;
    cursor: pointer;
    &:hover {
      color: #425ca2;
      border-bottom: 1px #425ca2 solid; }
    }
  .accordianSection {
-  border-bottom: 3px $primary solid;
+  border-bottom: 3px $color1 solid;
   margin-left: 0;
   padding-left: 2.8em;
   display: none; }
@@ -1035,7 +1039,7 @@ header h1 {
   #faq {
     p {
       margin-top: 0.25em;
-      border-bottom: 1px $primary solid;
+      border-bottom: 1px $color1 solid;
       cursor: pointer;
 
       &:hover {
@@ -1045,7 +1049,7 @@ header h1 {
     }
 
     ul {
-      border-bottom: 3px $primary solid;
+      border-bottom: 3px $color1 solid;
       margin-left: 0;
       padding-left: 2.8em;
       display: none;
@@ -1108,7 +1112,7 @@ header h1 {
 
   .accordianTrigger {
     margin-top: 0.25em;
-    border-bottom: 1px $primary solid;
+    border-bottom: 1px $color1 solid;
     cursor: pointer;
 
     &:hover {
@@ -1118,7 +1122,7 @@ header h1 {
   }
 
   .accordianSection {
-    border-bottom: 3px $primary solid;
+    border-bottom: 3px $color1 solid;
     margin-left: 0;
     padding-left: 2.8em;
     display: none;
@@ -1129,7 +1133,7 @@ header h1 {
 .pagination {
   a {
     background-color: $aboutcores;
-    color: $primary;
+    color: $color1;
     &.next, &.previous {
       @media (max-width: $md){
       margin: 0 auto;
@@ -1143,7 +1147,7 @@ header h1 {
   span {
     &.next, &.previous {
       background-color: $pentia;
-      color: $primary;
+      color: $color1;
       border: 1px solid transparent;
       padding: .375rem .75rem;
       font-size: 1rem;
@@ -1200,7 +1204,7 @@ header h1 {
      text-transform: none !important;
      clear: both;
      padding: 0.5em;
-     color: $primary;
+     color: $color1;
      font-weight: 700;
      /* commented out for two card responsive stuff */
      font-family: $titleFont !important;
@@ -1215,7 +1219,7 @@ header h1 {
       margin-left: 3.44828%;
       margin-top: unset !important;
       padding: 2.5%;
-      color: $primary;
+      color: $color1;
       font-family: $bodyFont;
       line-height: 1.25em;
       hyphens: auto;
@@ -1238,7 +1242,7 @@ header h1 {
         bottom: 0;
         margin-bottom: unset;
         &:hover {
-          color: $primaryhover;
+          color: $color1hover;
         }
       }
     }
@@ -1397,7 +1401,7 @@ header h1 {
     font-size: 2.4em;
     line-height: 1.2em;
     font-family: $titleFont;
-    color: $primary;
+    color: $color1;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
@@ -1443,7 +1447,7 @@ header h1 {
       p {
         margin: 2em 1em 1em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
       }
     }
   }
@@ -1464,13 +1468,13 @@ header h1 {
       font-size: 2.4em;
       line-height: 1.2em;
       font-family: $titleFont;
-      color: $primary;
+      color: $color1;
     }
 
     p {
       font-size: 1.2em;
       font-family: $bodyFont;
-      color: $primary;
+      color: $color1;
       margin-top: 0.5em;
     }
 
@@ -1521,7 +1525,7 @@ header h1 {
 }
 
 .event-section-head {
-  background-color: $secondary;
+  background-color: $color2;
   /* width: 80%; */
   display: inline-block;
   height: 2em;
@@ -1558,7 +1562,7 @@ div.chooseTypeInline {
    width: 30%;
    height: 50px;
    overflow: hidden;
-   background: $secondary;
+   background: $color2;
    display: flex;
    align-items: center;
    justify-content: center;
@@ -1582,7 +1586,7 @@ div.chooseTypeInline {
 
 #mobileChooseType {
   position: fixed;
-  background-color: $secondary;
+  background-color: $color2;
   top: -20%;
   left: 0;
   width: 100%;
@@ -1614,14 +1618,14 @@ div.chooseTypeInline {
     border-radius: 50%;
     width: 1em;
     height: 1em;
-    border: 2px solid $primary;
+    border: 2px solid $color1;
     transition: 0.2s all linear;
     outline: none;
     margin-right: 5px;
     position: relative;
     top: 0.25em;
     &:checked {
-      border: 6px solid $primary;
+      border: 6px solid $color1;
     }
     &:hover {
       color: #425ca2;
@@ -1698,7 +1702,7 @@ i.collapsetstyle.collapsed:before {
   /* margin-left: 3.44828%; */
   margin-top: unset !important;
   padding: 1.5%;
-  color: $primary !important;
+  color: $color1 !important;
   font-family: $bodyFont;
   line-height: 1.25em;
   hyphens: auto;
@@ -1862,7 +1866,7 @@ section.cores {
       &.title {
         margin: 1em 0 0;
         float: left;
-        color: $primary;
+        color: $color1;
       }
     }
 
@@ -1944,7 +1948,7 @@ section.cores {
 
 .videorepo a {
   text-decoration: none;
-  color: $secondary;
+  color: $color2;
   margin: 0;
   padding: 0;
   border: 0;
@@ -2305,7 +2309,7 @@ section.cores {
         font-size: 1.2em;
         font-weight: 400;
         font-family: $titleFont;
-        color: $primary;
+        color: $color1;
         text-align: center;
         padding: 0.5em;
 
@@ -2347,13 +2351,13 @@ section.cores {
         font-size: 2.4em;
         line-height: 1.2em;
         font-family: $titleFont;
-        color: $primary;
+        color: $color1;
       }
 
       p {
         font-size: 1.2em;
         font-family: $bodyFont;
-        color: $primary;
+        color: $color1;
         margin-top: 0.5em;
       }
     }
@@ -2574,7 +2578,7 @@ div.resources h2 {
   text-transform: none !important;
   clear: both;
   padding: 5%;
-  color: $primary;
+  color: $color1;
   font-weight: 400;
   font-family: $bodyFont;
   line-height: 1.25em;
@@ -2602,7 +2606,7 @@ div.resources h2 {
   font-size: 0.8em;
   /* margin-top: unset !important; */
   padding: 0;
-  color: $primary;
+  color: $color1;
   font-family: $bodyFont;
   line-height: 1.25em;
   hyphens: auto;
@@ -2681,7 +2685,7 @@ div.resources h2 {
   /* width: 100%; */
   /* display: none; */
   float: left;
-  /* background-color: $secondary; */
+  /* background-color: $color2; */
   z-index: -1;
   position: absolute;
   overflow: hidden;
@@ -2738,7 +2742,7 @@ div.resources h2 {
 .dot-indicators {
   width: 12px;
   height: 12px;
-  background-color: $secondary;
+  background-color: $color2;
   border-radius: 10px;
   margin-left: 80%;
   display: block;

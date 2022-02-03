@@ -52,7 +52,7 @@ section.directory {
       display: block;
       &:hover {
         h4, h5, h6 {
-          color: $primary;
+          color: $color1;
         }
       }
     }
@@ -184,7 +184,7 @@ section.directory {
     margin-top: 0.4em;
   }
   i.collapsetstyle {
-    color: $secondary;
+    color: $color2;
     cursor: pointer;
     @media (min-width: $md) {
       display: none;
@@ -233,7 +233,7 @@ section.directory {
 
 .pubmed-link {
   background-color: $sexta;
-  color: $primary;
+  color: $color1;
   display: inline-block;
   font-weight: 400;
   /* color: #212529; */
@@ -253,7 +253,7 @@ section.directory {
 }
 
 .pubmed-link:hover {
-  background-color: $secondary;
+  background-color: $color2;
   color: #fff;
 }
 
@@ -354,7 +354,7 @@ section.directory {
     padding-left: 11px;
     clear: both;
     font-size: 21px;
-    border-left: 8px solid $secondary;
+    border-left: 8px solid $color2;
     font-family: $bodyFont !important;
   }
   ul {
