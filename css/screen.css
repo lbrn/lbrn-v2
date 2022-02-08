@@ -2230,6 +2230,9 @@ section.directory.projectinvestigators article.person {
 .summer .three-card-responsive section h3 {
   padding-left: 1em;
 }
+.summer .three-card-responsive section h3:hover {
+  cursor: auto;
+}
 .summer .three-card-responsive section img {
   margin: 0 auto 1em;
   max-width: 175px;

@@ -10,7 +10,10 @@ $( document ).ready(function() {
         if ($this.attr('data-targetBtn')) {
           // console.log ('doggy');
           $('.' + $this.attr('data-targetBtn')).addClass('active-link');
-            window.scrollTo(0, 0);
+            // window.scrollTo(0, 0);
+            // var top = document.getElementById(buttons).offsetTop; //Getting Y of target element
+            // window.scrollTo(0, top);                        //Go there directly or some transition
+            document.getElementById("buttons").scrollIntoView(); 
         }
         // For the "next" buttons at the bottom- makes sure to highlight the associated page via the btn-target
 

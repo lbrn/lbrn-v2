@@ -107,6 +107,10 @@
       }
       h3 {
         padding-left: 1em;
+        &:hover {
+          cursor: auto;
+          
+        }
       }
       img {
         margin: 0 auto 1em;
