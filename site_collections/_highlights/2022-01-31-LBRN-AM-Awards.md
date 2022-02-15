@@ -13,10 +13,61 @@ description: 2022 LBRN 20th Annual Meeting Awards are made for Poster presentati
 For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2022.html">2022 LBRN 20th Annual Meeting</a>.
 
 <h2>LBRN 20th Annual Meeting Poster and Presentation Award Winners<h2>
+	<section id="awards">
+
+    <article id="speakers">
+
+    <section>
+    	<a href="/images/AM-2022/matthew-hayes (1).png" target="_blank" alt="Speaker's associated PDF">
+    		<img src="/images/AM-2022/matthew-hayes-thumb (3).png" alt="{{speakers.name}} 's PDF thumbnail'">
+    	</a>
+			<div class="text">
+
+	      <h3>
+					<a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA
+				</h3>
+	    	<p>
+	    		<!-- {{speakers.name}}<br>
+		    	{{speakers.university}}<br>
+		    	{{speakers.title1}}<br><br> -->
+		    	<strong>
+						<a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">"Complex Germline Structural Variant Discovery Via Discordant Cluster Normalization"</a>
+					</strong>
+	    	</p>
+			</div>
+
+    </section>
+		<section>
+			<a href="/images/AM-2022/matthew-hayes (1).png" target="_blank" alt="Speaker's associated PDF">
+    		<img src="/images/AM-2022/matthew-hayes-thumb (3).png" alt="{{speakers.name}} 's PDF thumbnail'">
+    	</a>
+			<div class="text">
+
+	      <h3>
+					<a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA
+				</h3>
+	    	<p>
+	    		<!-- {{speakers.name}}<br>
+		    	{{speakers.university}}<br>
+		    	{{speakers.title1}}<br><br> -->
+		    	<strong>
+						<a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">"Complex Germline Structural Variant Discovery Via Discordant Cluster Normalization"</a>
+					</strong>
+	    	</p>
+			</div>
+
+    </section>
+
+    <!-- <a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA
+    <a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">"Complex Germline Structural Variant Discovery Via Discordant Cluster Normalization"</a> -->
+    </article>
+
+</section>
+
 <h3>Faculty / PI Poster award winners (tied)</h3>
-   <ul><li><a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA 
+   <ul><li><a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">#15</a> Matthew Hayes – XULA
 <a href="https://lbrn2022am-lsu.ipostersessions.com/?s=92-FA-5B-80-D0-84-75-12-39-BD-5C-4F-C0-EF-E3-D7">"Complex Germline Structural Variant Discovery Via Discordant Cluster Normalization"</a></li>
-<li><a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=21-A2-83-00-09-E0-43-4F-A6-44-69-E5-B5-B5-EB-5B">#8</a> Joseph Chaney – XULA 
+<li><a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=21-A2-83-00-09-E0-43-4F-A6-44-69-E5-B5-B5-EB-5B">#8</a> Joseph Chaney – XULA
 <a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=21-A2-83-00-09-E0-43-4F-A6-44-69-E5-B5-B5-EB-5B">"Applying the Brakes: Understanding the Role of the Conformational Changes in the Kinesin-5 on Processivity and Inhibition"</a></li>
    </ul>
 
@@ -38,7 +89,7 @@ For information about: <a href="https://lbrn.lsu.edu/annual-meetings-2022.html">
 
    <ul><li><a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=29-7C-83-16-54-DF-44-6E-C3-C5-26-E4-BC-2A-B2-1A">#28</a> Raj Letchuman – Caddo Parish Magnet High School 1st Place <a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=29-7C-83-16-54-DF-44-6E-C3-C5-26-E4-BC-2A-B2-1A">"Identifying Promising Drug Candidates Against SARS-CoV-2 Using Computational Drug Repurposing Methodology"</a>     </li>
    <li><a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=7C-9F-33-FC-67-C3-00-64-35-B8-E1-5E-54-46-24-67">#11</a> Devika Dua Cedar Creek School – 2nd Place <a href="https://lbrn2022am-lsu.ipostersessions.com/default.aspx?s=7C-9F-33-FC-67-C3-00-64-35-B8-E1-5E-54-46-24-67">"Investigating Key COVID-19 Questions by Using Natural Language Processing on Scientific Publications"</a>     </li>
-  
+
    </ul>
 
 <h3>Oral Presentation Award Winner</h3>
