@@ -149,7 +149,8 @@
 }
 #awards {
   #speakers {
-    // display: flex;
+    display: flex;
+    flex-direction: column;
     section {
       display: flex;
       flex-direction: row;
@@ -170,15 +171,29 @@
     }
 
     img {
-      max-width: 150px;
+      // max-width: 150px;
       margin-top: 0;
       align-self: flex-start;
-      width: 100%;
+      width: 100px;
       height: auto;
     }
     h3 {
+      float: none;
+      padding-left: 0;
+      border: none;
+      font-size: 0.8em;
+      margin-bottom: 1em;
+    }
+    h4 {
       margin-top: 0;
       font-size: 1em;
+      // margin: 0.25em 0;
+      // margin-top: 0.25em;
+      margin-right: 0px;
+      margin-top: 1.2em;
+      padding-left: 1em;
+      // clear: both;
+      border-left: 8px solid #8ECB91;
     }
     @media (max-width: $md ) {
       img {
