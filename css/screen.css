@@ -3907,6 +3907,96 @@ section.directory.projectinvestigators article.person {
   margin-top: 1.2em;
 }
 
+#awards #speakers {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#awards #speakers section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-bottom: 50px;
+}
+#awards #speakers section:last-child {
+  margin-bottom: 0;
+}
+#awards #speakers .text {
+  font-size: 0.6em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 50px;
+}
+#awards #speakers * {
+  width: auto;
+}
+#awards #speakers img {
+  margin-top: 0;
+  -webkit-align-self: flex-start;
+      -ms-flex-item-align: start;
+          align-self: flex-start;
+  width: 100px;
+  height: auto;
+}
+#awards #speakers h3 {
+  float: none;
+  padding-left: 0;
+  border: none;
+  font-size: 0.8em;
+  margin-bottom: 1em;
+}
+#awards #speakers h4 {
+  margin-top: 0;
+  font-size: 1em;
+  margin-right: 0px;
+  margin-top: 1.2em;
+  padding-left: 1em;
+  border-left: 8px solid #8ECB91;
+}
+@media (max-width: 667px) {
+  #awards #speakers img {
+    max-width: 200px;
+  }
+  #awards #speakers a {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 90px;
+       -moz-box-flex: 1;
+        -ms-flex: 1 0 90px;
+            flex: 1 0 90px;
+  }
+  #awards #speakers .text {
+    margin-left: 25px;
+  }
+}
+
 .seminar-speaker {
   margin-top: 1em;
   margin-bottom: 1em;
