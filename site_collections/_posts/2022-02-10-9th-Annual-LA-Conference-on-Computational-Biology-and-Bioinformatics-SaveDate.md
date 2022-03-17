@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9th Annual LA Conference on Computational Biology and Bioinformatics - Save the Date
-tags: featured
+tags: news
 featuredImageUrl: images/2022-LACCBB-SaveDate.png
 featuredImageUrlSquare: images/2022-LACCBB-SaveDate.png
 excerpt_separator: <!--more-->
