@@ -3,7 +3,7 @@ layout: post
 title: 2022 9th Annual Louisiana Conference on Computational Biology and Bioinformatics
 featuredImageUrl: images/2022-LACCBB-Flier-v2.png
 featuredImageUrlSquare: images/2022-LACCBB-Flier-v3.png
-tags: featured
+tags: news
 excerpt_separator: <!--more-->
 eventDate: April 21 — 23, 2022
 textOnUrl: 2022 Annual LA Conference on Computational Biology and Bioinformatics
