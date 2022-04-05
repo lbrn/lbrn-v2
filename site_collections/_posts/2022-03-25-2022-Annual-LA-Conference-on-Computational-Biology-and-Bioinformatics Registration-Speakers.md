@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Extended Deadline & Keynote Speakers announced - 9th Annual Louisiana Conference on Computational Biology and Bioinformatics
-featuredImageUrl: images/2022-LACCBB-Speakers-v6.png
-featuredImageUrlSquare: images/2022-LACCBB-Speakers-v6.png
+featuredImageUrl: images/2022-LACCBB-Speakers-v9.png
+featuredImageUrlSquare: images/2022-LACCBB-Speakers-v9.png
 tags: featured
 excerpt_separator: <!--more-->
 eventDate: April 21 — 23, 2022
