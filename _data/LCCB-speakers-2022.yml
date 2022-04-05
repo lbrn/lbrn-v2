@@ -1,4 +1,15 @@
 -
+  name: Christopher Mason
+  university: Weill Cornell Medicine
+  title1: |
+    Professor; Director, WorldQuant Initiative for Quantitative Prediction Physiology and Biophysics / Feil Family Brain and Mind Institute / Institute for Computational Biomedicine
+  title2: Keynote - Clonal hematopoiesis dynamics during cancer therapy and spaceflight
+  picture: images/speakers/2022/Mason.jpg
+  pdf: https://research.cornell.edu/researchers/christopher-e-mason
+  flyer: https://physiology.med.cornell.edu/people/christopher-mason-ph-d/
+  abstract: |
+      We utilize computational and experimental methodologies to identify and characterize the essential genetic elements that guide the function of the human genome, with a particular emphasis on the elements that orchestrate the development of the human brain. Our lab creates detailed cell-specific molecular maps of genetic, epigenetic, transcriptional, and translational activity, creating a draft of the molecular recipe for the creation of the brain. We also develop methods to detect, catalog and functionally annotate variants in the genetic pathways that control developmental processes and how they are perturbed to create disease. We aim to understand of the functional elements of the human genome well enough to enable, eventually, the ability to repair, re-engineer, or fortify these genetic networks within human cells.
+-
   name: Sara Sawyer
   university: University of Colorado Boulder
   title1: Professor, Molecular Cellular & Developmental Biology, The BioFrontiers Institute
