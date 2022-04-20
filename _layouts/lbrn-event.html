@@ -29,6 +29,9 @@
         <div class="caption">
           <h1>{{page.title}}</h1>
           <p id="date">Event Date: {{page.eventDate}}</p>
+          {% if page.eventTime != nil %}
+          <p id="date">Event Time: {{page.eventTime}}</p>
+          {% endif %}
           {% if page.eventDeadlines != nil %}
           <p id="date">Deadline: {{page.eventDeadlines}}</p>
           {% endif %}

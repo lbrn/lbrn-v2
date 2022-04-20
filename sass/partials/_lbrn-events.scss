@@ -147,7 +147,75 @@
     margin-top: 1.2em;
   }
 }
+#awards {
+  #speakers {
+    display: flex;
+    flex-direction: column;
+    section {
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 50px;
+      &:last-child {
+        margin-bottom: 0;
+      }
 
+    }
+    .text {
+      font-size: 0.6em;
+      display: flex;
+      flex-direction: column;
+      margin-left: 50px;
+    }
+    * {
+      width: auto;
+    }
+
+    img {
+      // max-width: 150px;
+      margin-top: 0;
+      align-self: flex-start;
+      width: 100px;
+      height: auto;
+    }
+    h3 {
+      float: none;
+      padding-left: 0;
+      border: none;
+      font-size: 0.8em;
+      margin-bottom: 1em;
+    }
+    h4 {
+      margin-top: 0;
+      font-size: 1em;
+      // margin: 0.25em 0;
+      // margin-top: 0.25em;
+      margin-right: 0px;
+      margin-top: 1.2em;
+      padding-left: 1em;
+      // clear: both;
+      border-left: 8px solid #8ECB91;
+    }
+    @media (max-width: $md ) {
+      img {
+        max-width: 200px;
+      }
+      a, .text {
+        // flex: 1 1 100%;
+      }
+      a {
+        flex: 1 0 90px;
+      }
+      .text {
+        margin-left: 25px;
+        // margin-top: 50px;
+      }
+      section {
+        // flex-wrap: wrap;
+      }
+    }
+  }
+
+}
 .seminar-speaker {
   margin-top: 1em;
   margin-bottom: 1em;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20th LBRN Annual Meeting
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/LBRN Annual Meeting 2022.v6.png
 featuredImageUrlSquare: images/postImages/LBRN Annual Meeting 2022.v6.png
 excerpt_separator: <!--more-->

@@ -1,0 +1,12 @@
+{% for speakers in site.data.LCCB-speakers-2022 %}
+<section>
+	<a href="{{speakers.pdf}}" target="_blank"><img src="{{speakers.picture}}" alt="{{speakers.name}} 's PDF thumbnail"></a>
+	<hr>
+	<h3><b>{{speakers.title2}}</b></h3>
+	<p><b>{{speakers.name}}</b>, {{speakers.university}}</p>
+	<p>{{speakers.title1}}</p>
+	<p><a href="{{speakers.flyer}}" target="_blank" alt="Speaker's Information">{{speakers.flyer}}</a>
+	<p class="bio">{{speakers.abstract}}</p>
+
+</section>
+{% endfor %}

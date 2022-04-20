@@ -1,0 +1,52 @@
+-
+  name: Christopher Mason
+  university: Weill Cornell Medicine
+  title1: |
+    Professor; Director, WorldQuant Initiative for Quantitative Prediction Physiology and Biophysics / Feil Family Brain and Mind Institute / Institute for Computational Biomedicine
+  title2: Keynote - Clonal hematopoiesis dynamics during cancer therapy and spaceflight
+  picture: images/speakers/2022/Mason.png
+  pdf: https://www.masonlab.net
+  flyer: https://physiology.med.cornell.edu/people/christopher-mason-ph-d/
+  abstract: |
+      We utilize computational and experimental methodologies to identify and characterize the essential genetic elements that guide the function of the human genome, with a particular emphasis on the elements that orchestrate the development of the human brain. Our lab creates detailed cell-specific molecular maps of genetic, epigenetic, transcriptional, and translational activity, creating a draft of the molecular recipe for the creation of the brain. We also develop methods to detect, catalog and functionally annotate variants in the genetic pathways that control developmental processes and how they are perturbed to create disease. We aim to understand of the functional elements of the human genome well enough to enable, eventually, the ability to repair, re-engineer, or fortify these genetic networks within human cells.
+-
+  name: Sara Sawyer
+  university: University of Colorado Boulder
+  title1: Professor, Molecular Cellular & Developmental Biology, The BioFrontiers Institute
+  title2: Keynote - Viruses at the Human-Animal Interface
+  picture: images/speakers/2022/LACCBB Sara Sawyer.jpeg
+  pdf: https://sawyerlab.org
+  flyer: https://sawyerlab.org
+  abstract: |
+      Dr. Sara Sawyer is a Professor at the University of Colorado Boulder. She has received national and international prizes in virology. In 2011 she was as awarded the Presidential Early Career Award for Scientists and Engineers (PECASE) by President Barack Obama at the White House. She serves as a Senior Editor at the journal eLIFE, and as a government consultant on the topic of pandemic preparedness. In 2020, she co-founded Darwin Biosciences, an infectious disease diagnostics company located in Boulder, Colorado. Her research focuses on animal viruses that infect humans, including the emergent viruses HIV-1 and SARS-CoV-2.
+-
+  name: Michael Snyder
+  university: Stanford Medicine
+  title1: Chair, Dept. of Genetics, Director, Center for Genomics and Personalized Medicine
+  title2: Keynote - Big Data, Health and COVID-19
+  picture: images/speakers/2022/LACCBB Michael Snyder.png
+  pdf: https://med.stanford.edu/content/sm/snyderlab.html.html
+  flyer: https://med.stanford.edu/content/sm/snyderlab.html.html
+  abstract: |
+    Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the Director of the Center of Genomics and Personalized Medicine. Dr. Snyder received his Ph.D. training at the California Institute of Technology and carried out postdoctoral training at Stanford University. He is a leader in the field of functional genomics and multiomics, and one of the major participants of the ENCODE project. His laboratory study was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor (TF) binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks. Seminal findings from the Snyder laboratory include the discovery that much more of the human genome is transcribed and contains regulatory information than was previously appreciated (e.g. lncRNAs and TF binding sites), and a high diversity of transcription factor binding occurs both between and within species. He launched the field of personalized medicine by combining different state-of-the-art "omics" technologies to perform the first longitudinal detailed integrative personal omics profile (iPOP) of a person, and his laboratory pioneered the use of wearables technologies (smart watches and continuous glucose monitoring) for precision health. He is a cofounder of many biotechnology companies, including Personalis, SensOmics, Qbio, January, Protos, Oralome, Mirvie and Filtricine.
+-
+  name: Melissa Wilson
+  university: Arizona State University
+  title1: Associate Professor, Center for Evolution and Medicine School of Life Sciences, The Biodesign Institute
+  title2: Keynote - Sex-biased genome evolution
+  picture: images/speakers/2022/LACCBB Melissa Wilson.jpg
+  pdf: http://sexchrlab.org/
+  flyer: http://sexchrlab.org/
+  abstract: |
+    Melissa Wilson is a computational biologist whose main research interests include sex-biased biology and how this affects human health and disease. Her lab primarily focuses on three main areas:   1) Atypical sex chromosome copy numbers occur with surprising frequency in humans (Turner Syndrome, individuals with a single X, occurs in 1/2500 live female births, and Klinefelter syndrome, XXY, occurs in 1/1000 males). The clinical consequences of sex chromosome copy variation is dramatically influenced by the evolutionary history of the human sex chromosomes. The Wilson lab is focusing on understanding the evolution of sex-linked gene content.  2) Sex as a Biological Variable. The Wilson lab studies how to more accurately quantify variation on the sex chromosomes and how to conduct sex-stratified analyses. This work is being applied to study variation in human cancers and in the placenta.    3) Patterns of variation on the sex chromosomes hold signatures of our evolutionary history as human beings, including sex-biased bottlenecks and selection that may leave some populations more vulnerable to specific diseases. The Wilson lab uses modeling and population genomics to understand human demographic history.  
+-
+  name: April Wright
+  university: Southeastern Louisiana University
+  title1: Assistant Professor, Biological Sciences
+  title2: Navigating the Early Career Funding Landscape
+  picture: images/people/PIs/AWright.jpg
+  pdf: https://www.southeastern.edu/acad_research/depts/biol/faculty/directory/wright.html
+  flyer: https://wright-lab.com
+  abstract: |
+    Dr. April Wright is a computational evolutionary biologist predominantly working on statistical phylogenetics. After finishing her PhD at the University of Texas at Austin in 2015, she held the National Science Foundation Postdoctoral Research Fellowship in Biology. She joined the faculty at Southeastern Louisiana University in 2017.
+  
