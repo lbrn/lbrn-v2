@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: LATech, GSU partner for Health Fair
+title: LATECH, GSU partner for Health Fair
 categories: Event
 eventDate: March 16, 2022
 startTime:
