@@ -2612,6 +2612,50 @@ div.research img{
   #core-list .sevenblock h2{
     font-size:11pt;
   } */
+  
+    #core-list .eightblock{
+
+    display: inline-flex;
+    flex-direction: column;
+    /* width: 14.28%; */
+    margin-left: unset;
+    /* test */
+
+  }
+  /* MOVE THE NEXT 2 TO SMALL */
+  #core-list .eightblock{
+    border: #8ECB91;
+    border-style: solid none none none;
+    width:50%;
+  }
+  #core-list .eightblock .horiline{
+    display:none;
+  }
+  #core-list .eightblock .horiline-r.down{
+    flex: 1 1 2em;
+    border-style: none none none solid;
+  }
+  #core-list .eightblock .horiline-l.down{
+    flex: 1 1 2em;
+    border-style: none solid none none;
+  }
+  #core-list .eightblock:nth-of-type(odd){
+    border: #8ECB91;
+    /* border-right-style:solid; */
+    border-top-style:solid;
+  }
+  #core-list .eightblock:nth-of-type(even){
+    border: #8ECB91;
+    /* border-left-style:solid; */
+    border-top-style:solid;
+  }
+  #core-list .eightblock h1{
+    font-size:11pt;
+    margin-bottom:0;
+  }
+  /* end */
+
+  
   #core-list h1{
     font-size: 15pt;
     margin-bottom: 0;
@@ -3095,6 +3139,37 @@ div.research img{
     margin-bottom:0;
   }
   #core-list .sevenblock h2{
+    font-size:11pt;
+  }
+  
+    #core-list .eightblock{
+    border: none;
+     width: 14.28%;
+
+  }
+  #core-list .eightblock .horiline{
+    display:block;
+  }
+  #core-list .eightblock .horiline-r.down{
+    border-style: solid none none solid;
+    flex: 1 1 2em;
+    /* border: red; */
+  /* display:block; */
+  }
+  #core-list .eightblock .horiline-l.down{
+    border-style: solid solid none none;
+    flex: 1 1 2em;
+
+  display:block;
+  }
+  #core-list .eightblock:nth-of-type(odd){
+    border: none;
+  }
+  #core-list .eightblock h1{
+    font-size:12pt;
+    margin-bottom:0;
+  }
+  #core-list .eightblock h2{
     font-size:11pt;
   }
   .navdropdownbig ul li {
