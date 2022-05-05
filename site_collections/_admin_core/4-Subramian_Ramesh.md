@@ -4,7 +4,7 @@ title: Associate Director
 author: Ramesh Subramanian
 school: Louisiana State University, School of Veterinary Medicine
 project-type: TestElement
-image: "Admin_Ramesh_Subramanian.jpg"
+image: "subramanian_ramesh.jpg"
 categories: project-investigator
 email: ramji@lsu.edu
 phone: (225) 578-9619

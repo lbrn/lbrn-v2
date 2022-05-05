@@ -5,7 +5,7 @@ project: Enhancement Of MicroRNA Research Through Bioinformatics Tool Developmen
 author: K. Gus Kousoulas (Chair)
 school: "Louisiana State University School of Veterinary Medicine"
 project-type: TestElement
-image: "Kousoulas_Konstantin_LSU9425sm.jpg"
+image: "kousoulas_gus.jpg"
 category: none
 email:
 phone:
