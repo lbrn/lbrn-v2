@@ -7,7 +7,7 @@ project-type: TestElement
 image: "kousoulas_gus.jpg"
 categories: project-investigator
 email: vtgusk@lsu.edu
-phone: (225) 578-5833
+phone: (225) 578-9682
 zip: 70803
 city: Baton Rouge
 state: Louisiana
