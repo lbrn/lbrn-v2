@@ -72,8 +72,8 @@ plugins:
   - jekyll-paginate-v2
 exclude:
   - .jekyll-cache
-  # - Gemfile
-  # - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #Server settings
 port: 4000
 encoding: utf-8
