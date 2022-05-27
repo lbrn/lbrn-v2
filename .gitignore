@@ -4,6 +4,8 @@ uploads/
 .jekyll-cache/
 .jekyll-metadata
 _site/feed.xml
+Gemfile
+Gemfile.lock
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
