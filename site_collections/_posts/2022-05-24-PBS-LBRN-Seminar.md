@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Introductory Seminar of Phage Display Technology & Innovation
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/20220524_Veggiani_LBRN_PBS_I&T.png
 featuredImageUrlSquare: images/postImages/20220524_Veggiani_LBRN_PBS_I&T.png
 excerpt_separator: <!--more-->
