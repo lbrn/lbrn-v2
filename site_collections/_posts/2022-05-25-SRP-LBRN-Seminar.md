@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: LBRN Summer Research Seminar Series - Dr. Philip R. Roane
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/2022 LBRN Summer Seminar Roane.png
 featuredImageUrlSquare: images/postImages/2022 LBRN Summer Seminar Roane.png
 excerpt_separator: <!--more-->
