@@ -1,24 +1,23 @@
 ---
 layout: highlight
-title: Caleb Charpentier from Southeastern Louisiana University awarded a Graduate Research Fellowship NSF
+title: Dr. Cory Coehoorn, Associate Professor of Kinesiology and Health Science at LSU Shreveport presents three research studies at the 2022 American College of Sports Medicine Annual Meeting in San Diego, California
 categories: Event
 eventDate: 
 startTime:
 endTime:
-img: images/highlights/Caleb.jpg
-ftimg: images/highlights/Caleb.jpg
+img: images/highlights/Coehoorn.jpg
+ftimg: images/highlights/Coehoorn.jpg
 description:
 |
-     Caleb Charpentier from Southeastern Louisiana University was recently awarded a Graduate Research Fellowship from the National Science Foundation to pursue a Ph.D at Virginia Tech starting in the Fall. Only two of these prestigious fellowships were awarded to students from Louisiana last year. Caleb had worked with Dr. April Wright for 5 semesters under an LBRN grant. He is also the first author on a recently published article in  the journal Methods in Ecology and Evolution, entitled "Revticulate: An R framework for interaction with RevBayes."
+     Dr. Cory Coehoorn, Associate Professor of Kinesiology and Health Science at LSU Shreveport, recently presented three research studies at the 2022 American College of Sports Medicine Annual Meeting in San Diego, California. The three presentations were all related to his work with firefighters. The presentations were titled “Cortisol Responses Among Volunteer and Paid-on-call Firefighters Responding to Calls at Night,” “Effect of Sleep and Shift Characteristics on Heart Rate Variability in Wildland Firefighters,” and “Subjective and Objective Fatigue in Wildland Firefighting.”
 link: 
 ---
-Caleb Charpentier from Southeastern Louisiana University was recently awarded a Graduate Research Fellowship from the National Science Foundation to pursue a Ph.D at Virginia Tech starting in the Fall. Only two of these prestigious fellowships were awarded to students from Louisiana last year. Caleb had worked with Dr. April Wright for 5 semesters under an LBRN grant. He is also the first author on a recently published article in  the journal Methods in Ecology and Evolution, entitled ["Revticulate: An R framework for interaction with RevBayes."][1]
+Dr. Cory Coehoorn, Associate Professor of Kinesiology and Health Science at LSU Shreveport, recently presented three research studies at the [2022 American College of Sports Medicine Annual Meeting in San Diego, California][1]. The three presentations were all related to his work with firefighters. The presentations were titled “Cortisol Responses Among Volunteer and Paid-on-call Firefighters Responding to Calls at Night,” “Effect of Sleep and Shift Characteristics on Heart Rate Variability in Wildland Firefighters,” and “Subjective and Objective Fatigue in Wildland Firefighting.”
 
-Through his work as a researcher in a computational phylogenetics lab, he has learned to program in three languages and has made a software called RevR that will be very useful to scientists doing phylogenetics research. After graduation he plans to do research as a Ph.D. student.
+Service, T., Coehoorn, C.J., Gawryluk, J.R., Stuart-Hill, L. (2022). Cortisol Responses Among Volunteer and Paid-on-call Firefighters Responding to Calls at Night. Poster presentation at American College of Sports Medicine Annual Conference in San Diego, CA.
 
-[NSF Graduate Research Fellowship Program (GRFP) List][2]. (search award year 2022)
+Stuart-Hill, L., Coehoorn, C.J., Wallace-Webb, J.E. (2022). Effect of Sleep and Shift Characteristics on Heart Rate Variability in Wildland Firefighters. Poster presentation at American College of Sports Medicine Annual Conference in San Diego, CA.
 
-Article Reference: [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13852][1]
+Wallace-Webb, J.E., Coehoorn, C.J., Stuart-Hill, L. (2022). Subjective and Objective Fatigue in Wildland Firefighting. Poster presentation at American College of Sports Medicine Annual Conference in San Diego, CA.
 
-[1]: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13852
-[2]: https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList&lastName=Charpentier
+[1]: https://www.acsm.org/test/ams-servies-event/event-details-test/2022/05/31/default-calendar/acsm%27s-2021-annual-meeting
