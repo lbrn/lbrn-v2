@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Grant Administrator
-author: Alexis White
+title: Grant Coordinator
+author: Brent Stanfield
 school: Louisiana State University, School of Veterinary Medicine
 project-type: TestElement
-image: "White_Alexis.jpg"
+image: "stanfield_brent.jpg"
 categories: project-investigator
-email: alexisw@lsu.edu
-phone: (225) 578-9683
+email: bstanf5@lsu.edu
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
