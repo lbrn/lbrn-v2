@@ -1413,30 +1413,6 @@
   abstract: |
     The purpose of the proposed study is to examine the impact of rapid heat acquisition (RHA) on neural function, decision-making, stress response, and inflammatory response. RHA is characterized as a rate of core temperature increase during exercise above that which would occur in normothermic conditions. In our previous research [Coehoorn et al., 2020], we found RHA to equate to an increase of 0.04°C/min, while normothermic conditions resulted in 0.02°C/min. Our previous research [Service et al., 2019; Coehoorn et al., 2020] also found that RHA resulted in a decreased neural response (theta power), increased decision-making errors, and increased stress response immediately following exposure to RHA. A key question that remains to be answered is, what is the duration of these RHA effects post-exposure, and what are the effects of multiple exposures? If a bout of RHA leads to perturbations 24 - 48 hours post-exposure, then acute or multiple bouts of RHA may lead to a chronic response.
 -
-  name: Anthony Walker
-  active: false
-  origin: University of Louisiana at Monroe 
-  image: AWalker.jpg
-  project_title: Formulation of PLO as a transdermal delivery vehicle of the flavonol fisetin.
-  mentors:
-    -
-      name: Tarun K. Mandal
-      origin: Xavier University of Louisiana, Division of Basic Pharmaceutical Sciences
-  collaborators:
-    -
-      name: Jean Christopher Chamcheu
-      origin: University of Louisiana at Monroe
-    -
-      name: Khalid A. El Sayed
-      origin: University of Louisiana at Monroe
-      
-  funding:
-    -
-      name: Pilot Project
-      period: May 1, 2022 - April 30, 2023
-  abstract: |
-    The major objective of this proposed study is to prepare a topical gel formulation of fisetin, a natural dietary polyphenolic ingredient and its recently characterized synthetic derivative, 2-(4-(Benzyloxy)phenyl)-6-chloro-3- hydroxy-7-methyl-4H-chromen-4-one (DF21), by us, to be effective, and to characterize their efficacies as safer alternatives for treating cutaneous T cell mediated inflammatory skin disorders with an emphasis on psoriasis. This is based on three observations: i) topical application of fisetin solubilized in dimthyl sulfoxide (DMSO) has been shown to alleviate psoriasis-like features in a three-dimensional full thickness reconstituted human skin equivalent model of psoriasis (FTRHSP) (1), ii) fisetin is known to modulate inflammatory responses in chronic conditions, and iii) DF21 has been shown to have anti-proliferative properties in vitro. These formulations may present superior advantage over others with less potential for unwanted, adverse side effects. Pluronic lecithin Organogel (PLO) is an extemporaneous formulation that is non-toxic, non-irritating, non-allergenic and works rapidly with predictable and reproducible effects. The topical route of administration allows the active ingredient to effectively bypass the oral and gastrointestinal system, eliminating first pass metabolism, bridging bioavailability issues, and avoiding side effects and problems related to the gastrointestinal tract passage. Therefore, fisetin (1), and its potent characterized derivative, (DF21) are appropriate study agents for effective topical therapeutic translation. Based on these observations, we hypothesize that medicated PLO formulation of fisetin and/or its derivative will provide a successfully transdermal delivery of the active ingredient across the skin and increase the active ingredient’s permeation ability for systemic absorption to maximize local and systemic therapeutic effects.
--
   name: Kazim Sekeroglu
   active: true
   origin: Southeastern University of Louisiana
@@ -1452,23 +1428,6 @@
       period: May 1, 2022 - April 30, 2023
   abstract: |
     This proposal aims to explore the decoding of human brain activities using EEG signals for Brain Computer Interfaces (BCI) by utilizing a multi-view spatiotemporal hierarchical deep learning. Decoding of motor movement and decoding of visual information from the human brain are the two most common decoding problems in BCI. In this proposal, the PI would like to explore the decoding of visual information from human brain utilizing EEG signals. EEG data is a record of electrical activity of the brain over a period of time. EEG signals have been used in diagnostics of neurological disorders as well as in brain computer interfaces. Analysis and the recognition of EEG signals have been studied for decades. The common approach in the analysis and the classification of EEG signals is based on one-dimensional (1D) time series input. In this project, the PI will explore the transformation of 1D temporal EEG signals into 2D spatiotemporal EEG image sequences for feature extraction and recognition. Spatiotemporal EEG image sequences will be explored based on the views from different planes. According to recent studies in computer vision, Deep Learning is considered the state-of-the-art method for image recognition. The PI's previous studies have shown that hierarchical deep learning improves the recognition accuracy further. Therefore, the PI will explore the use of multi-view hierarchical deep learning methods for the classification of 2D spatiotemporal image sequences. Recurrent Neural Networks have been known for their great performances in the prediction and classification of the time series data. Thus, in the proposed hierarchical learning scheme, the PI will explore the use of Convolutional Neural Network (CNN) with Long-Short Term Memory (LSTM) within the proposed hierarchical learning scheme.
--
-  name: Santosh D'Mello
-  active: false
-  origin: Louisiana State University Shreveport
-  image: SDeMello.jpeg
-  project_title: Preclinical Development of Small Molecule Therapeutics for Alzheimer’s Disease
-  collaborators:
-    -
-      name: Xiaohong Lu
-      origin: Louisiana State University Health Shreveport
-  funding:
-    -
-      name: Translational
-      period: May 1, 2022 - April 30, 2023
-
-  abstract: |
-      Alzheimer’s disease (AD) is a fatal neurodegenerative disease characterized by progressive cognitive impairment starting with a decline in memory. Despite a multitude of clinical trials there is currently no treatment that can stop or slow down the relentless loss of neurons in AD (or any other neurodegenerative disease). Several years ago, my lab discovered that a commercially-available compound, GW5074, belonging to the 3’-indolone class and sold as an inhibitor of c-Raf, was highly neuroprotective in cell culture as well as animal models of neurodegenerative disease. Starting with GW5074 we identified several other 3’-substituted indolones that were also neuroprotective, but that appeared to work through mechanisms different from GW5074. The model we used to evaluated neuroprotection by these compounds was cultured cerebellar granule neurons (CGNs) which die when switched from depolarizing medium to non-depolarizing medium. While an excellent in vitro model to study activity-dependent regulation of neuronal survival during development, the CGN model has limited relevance to age-associated neurodegenerative diseases, like AD. As a step towards developing effective therapeutics for the treatment of Alzheimer’s disease, we will test a panel of 8 compounds identified in the CGN model using mouse hippocampal HT22 cells, a neuronal cell line well-suited for mechanistic studies on AD.
 -
   name: John Rakus
   active: true
