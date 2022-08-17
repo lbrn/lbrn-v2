@@ -55,7 +55,7 @@
       The key to understanding the core of human health is in understanding the enzymatic mechanisms that underlie illnesses. This proposal seeks the resources to establish research projects aimed at key enzymes in the development of cancer and Malaria. By constructing bacterial hosts for the expression of human enzymes responsible, information regarding differential inhibitors can be uncovered. The expression vectors and hosts constructed through this project will contribute a sustainable supply of enzymes for research as well as provide the potential for mutational analysis of the expressed proteins. Additionally, protein isolation and characterization are excellent tools for instructing undergraduate students in research methodologies and critical thinking skills. Through the LBRN, the PI and students will be able to collaborate with researchers throughout the region and continue to grow through the network.
 -
   name: Joseph Chaney
-  active: true
+  active: false
   origin: Xavier University of Louisiana
   image: JChaney.jpg?v1.1
   project_title: Applying the Brakes &colon; Understanding the Role of the Conformational Changes in the Kinesin-5
@@ -100,7 +100,7 @@
       The major long-term goal of this full proposal is to validate the critical role of phospho-inositol-3 Kinase (PI3K)/protein kinase B(Akt)/mammalian target of Rapamycin (mTOR)/MAPK/epidermal Rho small GTPase Ras-related C3 botulinum toxin substrate 1 (Rac1) and secondary signaling in psoriasis pathogenesis and to develop fisetin, a common dietary polyphenolic ingredient for its management. Psoriasis is a chronic and currently incurable inflammatory skin disease that affects ≈ 3% of the world population including ≈ 8 million afflicted people in the US alone. Psoriasis etiology is complex, but involves disruption of multiple cell systems impinging on the dynamic interaction amid immune and the skin cells, featuring hyperplasia, immune cell infiltration, immune-mediators (including Th-17, IL-17A) orchestration and skin barrier dysfunction. Although not fatal, there is skyrocketing increase in the number of new psoriasis cases, associated with amplified risk of arthritis, pneumonia, cardiovascular morbidity, and significant decline in patients' quality of life. Curative treatments for psoriasis have proved frustrating, remain elusive and thus the dire need to develop novel and effective target-based strategies for long-term patient benefits. Emerging and our pilot data suggest that amid many signaling involved in psoriasis, the PI3K/Akt/mTOR/RAC1 and MAPK pathways which regulate cell growth and angiogenesis, are clinically relevant targets that cooperatively promote psoriasis in humans and imiquimod (IMQ)-induced mice skin compared to matched normal skin. Similarly, our pilot studies identified fisetin, as a potent RAC1, IL-17A and dual mTOR/p70S6K1 kinase inhibitor that physically interacts and competitively bind targets with binding energies of -7 to -10.5Kcal/mol. Moreover, fisetin alone or combined with immune/skin cells activating agents, induced differentiation and inhibited i) NHEK proliferation, ii) RAC1/PI3K/Akt/mTOR activation, iii) mTOR and RAC1 activities, iv) antimicrobial peptides, and v) release of inflammatory cytokines (especially IL-17A/INF-g) in human epidermal keratinocytes (NHEKs), peripheral blood mononuclear cells (PBMCs), CD4+T cells and in a CD4+T activated Full-Thickness Reconstituted Human Skin equivalent model of Psoriasis (FTRHSP). Based on these observations, we posit that "PI3K/Akt/mTOR/MAPK, Rac1 and IL-17A networks are critical in psoriasis pathogenesis and, fisetin will inhibit their activation, suppress growth, inflammation and neovascularization, and alongside induce differentiation to ably alleviate psoriasiform disease". This proposal is design to; 1) validate the role of mTOR central signaling and effect of fisetin in NHEK and FTRHSP cultures; and 2) assess the ability of fisetin treatment to mitigate the signs of psoriasiform pathology, decrease the expression and activation of PI3K/Akt/mTOR and MAPK and T-cells in imiquimod (Balb/c) and TPA (K14-VEGF)-induced mice, two complementary preclinical murine models of psoriasis.
 -
   name: Urska Cvek
-  active: true
+  active: false
   origin: Louisiana State University Shreveport
   image: UCvek.jpg
   project_title: Disparities in Breast Cancer Treatment Outcomes&colon; Improving Access with Health Informatics
@@ -141,7 +141,7 @@
       Cancer patients can encounter difficulty and resilience when receiving chemotherapy. It is not that the medication is ineffective, but there are some inherent mechanisms that cause cancer cells to thrive in the presence of anticancer treatment. As a result, the patient's doctor now has to combine several medicines to target the cancer cells. I am investigating the autophagy response, which is a necessary event for recycling old and damaged cell parts. This activity helps the cell maintain its integrity and promotes cell survival. We can say that autophagy is a friend to the cell. On the other hand, autophagy becomes an enemy because it establishes an adaptation mechanism for cancer cells and causes them to thrive in the presence of chemotherapy. Therefore, understanding autophagy mechanisms associated with the progression of cancer can be helpful in finding new therapeutic medicines. In my research, I am using human lung cells and mouse liver cells to expose them to an organochlorine fungicide called pentachlorophenol (PCP). I am using this approach because 90% of all cancer cases are caused by chemical exposure. Exposure to PCP will cause an autophagy response in the lung cells and liver cells. Upon exposure to these cells, I am able to observe the various expressions of autophagy proteins such as Beclin-1, an essential initiator of autophagy, and p62/SQSTM, an autophagy marker. These findings will be helpful in preparing efficient chemotherapy outcomes for cancer patients.
 -
   name: Srinivas Garlapati
-  active: true
+  active: false
   origin: University of Louisiana at Monroe
   image: SGarlapati.jpg
   project_title: Mechanism of translation initiation in protozoan parasite Giardia lamblia
@@ -318,13 +318,15 @@
   active: true
   origin: University of Louisiana at Monroe
   image: NBarabutis.jpg
-  project_title: Protective Role of Activating Transcription Factor 6 (ATF6) against endothelial barrier dysfunction
-  mentors: 
-  collaborators:
+  project_title: Protective role of Growth Hormone Releasing Hormone Antagonists in Endothelial Barrier Dysfunction
+  mentors:
     -
-      name: Yogesh Saini
-      origin: Louisiana State University
+      name: Seetharama Jois
+      origin: University of Louisiana at Monroe
   funding:
+    -
+      name: Pilot Project
+      period: May 1, 2022 - April 30, 2023
     -
       name: INBRE COBRE Collaborative Project
       period: May 1, 2021 - April 30, 2022
@@ -332,10 +334,10 @@
       name: Startup Project
       period: May 1, 2018 - August 18, 2020
   abstract: |
-      The endothelium barrier regulates the exchange of blood fluid, electrolytes and proteins across the vascular wall, and it is subjected to dynamic remodeling. The function of this barrier is affected by various conditions, including inflammation, diabetes and sepsis. Endothelial barrier dysfunction (EBD) is the hallmark of severe respiratory disease, such as Acute Lung Injury (ALI), Acute Respiratory Distress Syndrome (ARDS) and sepsis. The development of novel therapeutic strategies against these devastating pathologies is of the utmost need. Our endeavors to expose new therapeutic avenues towards EBD-related diseases revealed that Hsp90 inhibitors and GHRH antagonists protect against endothelial barrier dysfunction, and induce the Unfolded Protein Response (UPR). This is a highly conserved molecular machinery, able to initiate protective and repairing cellular responses in human tissues, including the lungs. It consists of three ER transmembrane proteins: IRE1α (inositol-requiring enzyme 1α), PERK (pancreatic endoplasmic reticulum kinase), and ATF6 (activating transcription factor 6). UPR induction due to heat shock protein 90 inhibition or growth hormone releasing hormone antagonists counteracted the Kifunensine (UPR suppressor) - induced endothelial hyperpermeability in vitro. Our proposal will focus on the effects of ATF6 in lung endothelial barrier function. Specific Aim 1 will associate ATF6 activation with endothelial barrier function, to demonstrate the supportive role of ATF6 against EBD in vitro. Specific Aim 2 will focus on an in vivo model of LPS-induced ALI, to substantiate our in vitro findings. To do so, we will generate ATF6 null ATF6 endothelial specific knock out mice. The outcomes of our study will enrich our current understanding on endothelial barrier regulation, to provide new targets for the management of diseases related to EBD.
+      Acute Respiratory Distress Syndrome (ARDS) is a pathological condition associated with high mortality rates. Based on recent observations Growth Hormone Releasing Hormone antagonists (GHRHAnt) support lung endothelial barrier function. This grant application supports the hypothesis that GHRHAnt may represent an exciting therapeutic possibility against ARDS. Those peptides have been associated with robust anti-inflammatory and antioxidative activities, and activate the Unfolded Protein Response element (UPR). This is a homeostatic signaling network which orchestrates the recovery of endoplasmic reticulum (ER) function. It is consisted of the protein kinase RNA-like ER kinase (PERK), the activating transcription factor 6 (ATF6), and the inositol-requiring enzyme-1alpha (IRE1α). Mild UPR activation propels robust antiinflammatory and tissue-repairing activities. The present application provides preliminary data in support of our hypothesis that GHRHAnt oppose sepsis and ARDS by activating UPR. Specific Aim 1 (S.A.1) will associate GHRHAnt with UPR activation and protection against endothelial barrier dysfunction. Our studies will introduce the protective activities of GHRHAnt in lung endothelial barrier dysfunction, will identify the UPR-related component (Key Sensor) responsible for those events, and will shed light onto the mechanisms which regulate the vasculature. We will also study the effects of GHRHAnt in an in vivo model of LPS-induced Acute Lung Injury (S.A.2), where mice will express more UPR. The successful completion of our study will introduce a novel therapeutic possibility against ARDS, based on GHRHAnt.
 -
   name: Yogesh Saini
-  active: true
+  active: false
   origin: Louisiana State University
   image: YSaini.jpg
   project_title: Protective Role of Activating Transcription Factor 6 (ATF6) against endothelial barrier dysfunction
@@ -402,20 +404,27 @@
       Medicinal plants produce highly diverse metabolites that have been used in cancer treatment. Two important chemotherapeutic agents, vinblastine and camptothecin, classified as monoterpene indole alkaloids (MIAs) are isolated from plant species Catharanthus roseus and Camptotheca acuminata, respectively. Despite their wide applications in the clinic, access to these drugs still relies on the extraction from the plants with low yields. In order to increase accessibility to these pharmaceuticals, the functional characterization of MIA biosynthetic enzymes is required as the prerequisite for metabolic engineering approach. The chemical diversity of MIAs, especially those with important pharmaceutical properties could also be further increased in metabolic engineering efforts using microbial systems. MIA biosynthetic pathways provide an excellent model of how a chemical diversity can be generated from a single central intermediate, known as strictosidine. In this project, we integrate genomic, transcriptomic, and metabolomic approaches to elucidate biosynthetic steps downstream of strictosidine formation that give rise to different MIAs with anticancer activities and other significant pharmacophores. The discovery of genes encoding the MIA biosynthetic pathways will also permit the use of heterologous expression of these compounds and their analogs for novel potential therapeutic implication. Their unique chemical structures and diverse pharmacological activities may further provide new leads for effective anticancer drugs. We aim to develop microbial systems for increased production of MIA camptothecin and its significant analogs that may exhibit anticancer activities as well as to elucidate their mechanism of action.
 -
   name: Omer Soysal
-  active: false
+  active: true
   origin: Southeastern Louisiana University
   image: OSoysal.jpg
-  project_title: Development of a proto-type fNIRspectroscopy for brain activity recognition
+  project_title: |
+    MindPrint: Exploring uniqueness of individuals’ brain cell
   mentors:
+    -
+        name: Jianhua Chen
+        origin: Louisiana State University
   funding:
+    -
+      name: Full Project
+      period: May 1, 2022 -  April 30, 2025
     -
       name: Startup Project
       period: May 1, 2018 -  August 18, 2020
   abstract: |
-      Understanding the link between brain function and behavior is crucial to addressing neurological disorders. In this respect, developing tools that can measure the dynamics of the brain's activities plays an important role. This proposal aims to build an fNIR (functional near infrared) signal detection and recording system to be used for brain activity recognition. After developing the fNIR system, the PI will collaborate with researchers in the Department of Kinesiology and Health Studies and the Department of Psychology at Southeastern Louisiana University and Louisiana State University to test the system. In addition, the PI will work closely with undergraduate and graduate students to prepare them for the work force. In this regard, the PI will develop a curriculum that teaches students how to conduct scientific research and translate the outcome of the research into technology. The equipment requested in this proposal will also be used to build a Data Science Research and Technology Lab in the Department of Computer Science and Industrial Technology. The specific aims are: Aim-1: Developing an NIR imaging system to measure brain hemodynamics. Aim-2: Developing a phantom model to simulate the optical properties of a brain structure. Aim-3: Developing a blood circulation simulator. Aim-4: Testing the performance of the system and exploring the effect of parameters. Aim-5: Building a Data Science Research and Technology Lab.
+      The brain state of a specific population will be explored under daily naturalistic stress; collected anonymized data will be shared with researchers to support brain initiative research. In addition, the PI's proposed protocol will help explore the effect of stimuli on the permanence and distinctiveness of mindprint of individuals' brain. Another novel approach to be explored in this research is developing an algorithm for searching possible patterns in an intelligent way by means of a data mining technique. Note that the proposed framework utilizes a hypercube in representation of the brain activity despite other approaches that separate channels and/or brain wave bands to create input features or feature maps. Furthermore, developing and implementing a curriculum to train the workforce in computational biomedical applications utilizing brain signals is new in the region. This curriculum can also be transferred to workforce training programs nationwide.
 -
   name: April Wright
-  active: true
+  active: false
   origin: Southeastern Louisiana University
   image: AWright.jpg
   project_title: Modeling Heterogeneous Data Sources for Time-Scaling Phylogenetic Trees
@@ -1260,7 +1269,7 @@
     Clinical studies looking at the use of the antiepileptic drug, Topiramate, to treat alcoholics have found that tobacco smoking behaviors are significantly reduced. Up to this point only a couple studies have been done to model these effects in pre-clinical rodent models as it relates to nicotine dependence. The main goal of this proposal is to characterize the impact that GluK1-containing kainate receptors (GluK1*KARs) have in modulating nicotine withdrawal symptoms. GluK*1KARS are non-selectively inhibited by topiratmate and genetic association studies suggest that this receptor system could be targeted to reduce drinking in AUD patients. My post doctoral work highlighted the role of GluK1*KARs in the manifestations of physical symptoms of alcohol withdrawal. My previous work also established that nicotinic acetylcholine (nAChRs) within the interpeduncular nucleus (IPN) play a role in the modulation of these physical signs of withdrawal from nicotine, alcohol and both drugs concurrently. To date the connection between these two receptor types has not been explored.    Aim 1 of this proposal will address the hypothesis that Topiramate and a more selective GluK1*KARs antagonist is sufficient to reduce both affective and physical symptoms of nicotine withdrawal. Both antagonists will be administered in animals undergoing 24 hr nicotine cessation before being tested for nicotine withdrawal-induced anxiety-like behavior, depression-like behavior, cognitive inflexibility, hyperalgesia and somatic signs. Aim 1 will also address whether GluK1*KARs within the basal lateral amygdala (BLA) can reduce nicotine withdrawal symptoms. Aim 2 will characterize the neuronal connection between the IPN and BLA in modulating nicotine withdrawal symptoms. Using both pharmacological and genetic techniques we will investigate the nature of these connections, whether they are within the same circuit or working in parallel neuronal circuits
 -
   name: Jeffry Shultz
-  active: true
+  active: false
   origin: Louisiana Tech University
   image: JShultz.jpeg
   project_title: Identifying Lethal Alleles in Human
@@ -1276,7 +1285,7 @@
     Lethal alleles have long been described as the lack of a living homozygous recessive offspring from two carrier parents. Because it is unethical to perform specific crosses in Human to identify which genes may be lethal, we seek to identify several analytical methods to identify a subset of Human gene mutations that could be lethal. Initially, we will eliminate genes associated with known recessive diseases, followed by analysis of genes that are highly conserved, integral to a required pathway, exhibit high transcription levels early in development or that are linked to increased non-disjunction. Once bioinformatically parsed, target genes without deep sequencing coverage or that are high probability targets will be analyzed based on lack of homozygotes within the Human population.
 -
   name: Christopher Murray
-  active: true
+  active: false
   origin: Southeastern Louisiana University
   image: CMurray.jpg
   ftimage: CMurrayft.jpg
@@ -1293,7 +1302,7 @@
     The synthetic androgen 17α-methyltestosterone (MT), used pan-tropically to masculinize tilapia fry for farming and sale, results in the development of intersex crocodilians by masculinizing female crocodiles and is detectable in crocodile egg yolks within natural systems, making MT one of the first environmental androgen endocrine-disrupting contaminants. Biotic and chemical exchange between aquaculture farms and human water sources are often unrestricted, leading to MT being detected in vertebrates throughout the region. The proposed research will result in a behavioral and neuroendocrine understanding of MT as an ecotoxin and its potential contribution to mechanistic human pathology post exposure.
 -
   name: Samrat Dutta
-  active: true
+  active: false
   origin: Xavier University of Louisiana
   image: SDutta.png
   project_title: Diagnostic Cancer Imaging in the Mid-Infrared Using Novel Contrast Agents
@@ -1312,7 +1321,7 @@
     In diagnostic imaging, there only six imaging modalities, namely x-ray, ultrasound, magnetic resonance imaging, computed tomography, positron emission tomography, and optical imaging available to clinicians to identify diseases. Infrared histological imaging can complement these existing diagnostic in the early detection of diseases, particularly cancer. A striking advantage of infrared imagery is its ability to provide the pathologist access to both chemical and morphological information of the sample. In this chemical mapping technique, the image is generated by measuring the vibrational absorbances of molecules present in the cell. In principle, it is possible to detect a cancer cell by analyzing the infrared signals from abnormal molecules present in the cancer microenvironment. However, the building blocks of cells, specifically proteins, nucleic acids, lipids, and carbohydrates generate numerous infrared bands that mask anomalous signals that could be linked to the disease. Currently, mapping algorithms are used to extract information from infrared biological histological images. Analyzing such maps is complicated and cannot be easily implemented in clinical settings. In this proposal, a new paradigm is proposed in mid-infrared histological imaging where the diseased state is identified using infrared contrast agents which are active in the so-called "biological transparent region" from 1800 to 2300 cm-1.  To this end, this proposal suggests the use of azido-labeled materials as novel infrared imaging agents as the functional group (azido) is not present in human body but has a distinct signature in the "transparent zone". Such a unique spectral property should make the azido- labeled carriers easily identifiable in the biological media. The central hypothesis of this work is that: organic azides with enhanced azido signal can detect and sort cancer. The premise is based on the fact that azido vibrational band is sensitive to the local environment and that the tumor microenvironment, particularly their surfaces, is different from healthy cells and changes as it progresses to metastatic stage. In this work, metals will serve as the platform (carrier) of the azido-labels. This is intentional as azido-vibration can couple to the plasmonic fields of metal surfaces leading to surface-enhanced infrared absorption(SEIRA) improving their detection in the biological media. Enhanced azido signal coupled with their sensitivity to local chemical environment can change the way how diseases are detected by mid-infrared microscopy.
 -
   name: Moses Ihachi
-  active: true
+  active: false
   origin: Southeastern Louisiana University
   image: MIhachi.jpeg
   project_title: Aryl-fused (Imidazole, Pyrazine and Pyrrole) Boronated Dye Derivatives
@@ -1331,23 +1340,29 @@
   active: true
   origin: Xavier University of Louisiana
   image: VKolesnichenko.jpg
-  project_title: Cancer-Specific Magnetic Imaging Agent
+  project_title: Nano particulate magnetic imaging Agents for Cancer Diagnostic
   mentors:
     -
       name: Quincy Brown
       origin: Tulane University
+  
+  collaborators:
     -
       name: Galina Goloverda
       origin: Xavier University of Louisiana
     -
       name: Thomas Wiese
       origin: Xavier University of Louisiana
+  
   funding:
+    -
+      name: Full Project
+      period: May 1, 2022 - April 30, 2025
     -
       name: Pilot Project
       period: May 1, 2021 - April 30, 2022
   abstract: |
-    Magnetic nanoparticles with tunable size for solving various biomedical diagnostics tasks are very attractive candidates for research and development, as they can be easily detected by MRI or MPI, and they can be constructed using stable and relatively non-toxic materials, such as iron oxides and/or ferrites.    In this project we will develop new imaging agents selectively recognized by cancerous cells. These agents will be composed of individual 3-5 nm magnetic iron oxide particles coated with covalently bound organic oligomers, so that overall size of the nanoparticulate adduct will not exceed 15-20 nm. The organic coating for these particles (linker molecules) is our own recently developed composition consisting of 2- hydroxyisophtalate (tenacate) coordinating head and amphiphilic spacer composed of 10-15 ethylene oxide units. These spacers will be conjugated at their termini with peptide-vectors responsible for the cell specificity (recognition). The idea is that these small particles will (a) avoid capturing by phagocytes, (b) exhibit fast pharmacokinetics, (c) penetrate through biological boundaries, (d) recognize the receptors at the surface of certain cancer cells, and (e) shorten the proton relaxation rates of the surrounding biological media and thus, act as MRI contrast agents. A fraction of the linker molecules will be conjugated with EPPT peptide, a known vector for targeting underglycosylated mucin-1 tumor antigen (uMUC1) overexpressed on the surface of cancer cells, or uMUC1 nucleotide aptamer. We will perform in vitro studies in uMUC1-positive and negative cell lines to assess specificity, cellular uptake, cellular distribution and toxicity of the nanoparticles, as a function of the organic shell structure and size.
+    Cancer diagnostics remains one of major challenges of biomedical science. One of the most promising approaches relies on using an imaging agent which can recognize and bind to the cancerous cells, and then be detected by optical or MRI imaging. Ultrasmall magnetic nanoparticles with a tunable size are very attractive candidates for such an imaging agent development because they can be easily detected by MRI or MPI, and also because they can be constructed using stable and relatively non-toxic materials, such as iron oxides and/or ferrites. In this project we will develop new imaging agents which can be selectively recognized by cancerous cells. These agents will be composed of our "home-made" individual 3-5 nm magnetic iron oxide particles coated with covalently bound organic oligomers of an optimal size, so that overall size of the nanoparticulate adduct will not exceed 15-20 nm. The organic coating for these particles (linker molecules) is our own recently developed composition consisting of 2-hydroxyisophtalate (tenacate) coordinating head and an amphiphilic spacer composed of a variable-length ethylene oxide units. These spacers will be conjugated at their termini with biomolecules responsible for the cell specificity (vectors). It is known that an underglycosylated mucin-1 antigen (uMUC-1) is overexpressed in most of human malignant cells. This antigen can be specifically recognized by some peptides and oligonucleotides, which can be used as vectors attached to the imaging agent. The idea is that relatively small magnetic particles containing such a vector can be engineered to provide the optimal properties to (a) be "stealthy" and avoid capturing by phagocytes, (b) exhibit tunable pharmacokinetics, (c) exhibit tunable penetration through the biological boundaries, (d) recognize the receptors at the surface of the certain cancer cells, and (e) shorten the proton relaxation rates of the surrounding biological media and thus, act as effective MRI contrast agents. In our imaging agent, the length and structure of the linker molecules will be adjusted for optimal pharmacokinetic properties. A fraction of them will be conjugated with EPPT peptide or a custom-made nucleotide aptamer, both known as vectors for targeting mucin-1 tumor antigen. We will perform in vitro studies in uMUC1-positive and negative cell lines to assess specificity, cellular uptake, cellular distribution and toxicity of the nanoparticles, as a function of the organic shell structure and size. Pharmacokinetics will be studied in the next phase of the project. Our hypothesis is that targeted superparamagnetic nanoparticles of an average size of 15-20 nm will have a high level of specific binding to uMUC-1 antigen on the surface of cancer cells, but a reduced level of nonspecific binding to blood serum proteins. Therefore they will have a chance to avoid phagocytic clearance as well as early renal clearance and become an effective tool for early detection of cancer. Involvement of undergraduate students is part of the educational component of this project. Students will be trained in organic and inorganic synthesis and a variety of characterization methods, which will prepare them for their future careers in graduate or professional schools.
 -
   name: Kyle Piller
   active: true
@@ -1365,3 +1380,125 @@
       period: May 1, 2021 - April 30, 2024
   abstract: |
     The specific research objective of this study is to utilize transcriptomics (RNA-Seq) to investigate congruence in the genetic architecture of a group of potential model organisms (annual fishes). The Turquoise Killifish, an annual species, has already been identified as a model organism that has proven useful for the study of the aging process and age-related diseases in humans, but the congruency of its genetic attributes with other potential fish models (non-annuals, facultative annuals, and other annuals), as well as humans, has not been adequately addressed. This study will focus on DNA repair genes for these organisms with different life-histories. The specific hypotheses are as follows: Hypothesis 1: Fishes with an annual life-cycle will possess the same, but differentially expressed, DNA repair genes as other non-annuals and humans. This portion of the study will test for conservation of DNA repair genes (from liver tissues) among Nothobranchid and Rivulid fishes and humans using a transcriptomic approach. It will also examine differential expression levels to definitively search for congruence in the expression and functionality of these longevity genes and DNA repair genes.  Hypothesis 2: Genes involved in the DNA repair process show signs of positive selection in annual and facultative annuals, but not for non-annual species. This comparative genomics approach will be used to identify genes under positive selection, particularly focusing on DNA repair genes. Genes identified as showing positive selection relative to other non-annual species suggests that they are likely to be relevant to the aging process and can be used in future experimental studies to better understand the genetic architecture of the aging process.
+-
+  name: Mary Caldorera-Moore
+  active: true
+  origin: Louisiana Tech University
+  image: MCaldorera-Moore.jpg
+  project_title: Multifunctional Living Stem Cell-Laden Hydrogel Networks for Directed Tissue Regeneration
+  mentors:
+    -
+      name: Christopher Kevil, Ph.D.
+      origin: Louisiana State University Health Shreveport, Department of Molecular and Cellular Physiology
+  funding:
+    -
+      name: Full Project
+      period: May 1, 2022 - April 30, 2025
+  abstract: |
+     This is a submission of a competing LBRN full proposal that will address technological deficiencies in current chronic wound treatment through the design, development, and validation of proactive biomimetic hydrogels biomaterials that will promote tissue regeneration by: 1) neutralizing the pH in the wound environment, 2) eliminating bacterial activity, and 3) promoting cell migration and re-epithelization in the wound. To accomplish this goal, the proposed project focuses on the development of hydrogel network composed of antimicrobial, mucoadhesive, and hemostatic chitosangenipin that can ultimately be used to delivery pro-healing human adipose-derived stem cells (hASCs) into sites of injury. Along with the creation of a proactive, "living" hydrogel biomaterial, the proposed biomaterials will support quantitative assessment of material properties influence on hASC fate, re-epithelization, and immunomodulation.
+-
+  name: Cory Coehoorn
+  active: true
+  origin: Louisiana State University Shreveport
+  image: CCoehoorn.jpg
+  project_title: Impact of rapid heat acquisition on neural function, decision-making, stress, and inflammation.
+  mentors:
+    -
+      name: Elizabeth Disbrow
+      origin: Louisiana State University Health Shreveport, Director of Center for Brain Health
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2022 - April 30, 2023
+  abstract: |
+    The purpose of the proposed study is to examine the impact of rapid heat acquisition (RHA) on neural function, decision-making, stress response, and inflammatory response. RHA is characterized as a rate of core temperature increase during exercise above that which would occur in normothermic conditions. In our previous research [Coehoorn et al., 2020], we found RHA to equate to an increase of 0.04°C/min, while normothermic conditions resulted in 0.02°C/min. Our previous research [Service et al., 2019; Coehoorn et al., 2020] also found that RHA resulted in a decreased neural response (theta power), increased decision-making errors, and increased stress response immediately following exposure to RHA. A key question that remains to be answered is, what is the duration of these RHA effects post-exposure, and what are the effects of multiple exposures? If a bout of RHA leads to perturbations 24 - 48 hours post-exposure, then acute or multiple bouts of RHA may lead to a chronic response.
+-
+  name: Anthony Walker
+  active: false
+  origin: University of Louisiana at Monroe 
+  image: AWalker.jpg
+  project_title: Formulation of PLO as a transdermal delivery vehicle of the flavonol fisetin.
+  mentors:
+    -
+      name: Tarun K. Mandal
+      origin: Xavier University of Louisiana, Division of Basic Pharmaceutical Sciences
+  collaborators:
+    -
+      name: Jean Christopher Chamcheu
+      origin: University of Louisiana at Monroe
+    -
+      name: Khalid A. El Sayed
+      origin: University of Louisiana at Monroe
+      
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2022 - April 30, 2023
+  abstract: |
+    The major objective of this proposed study is to prepare a topical gel formulation of fisetin, a natural dietary polyphenolic ingredient and its recently characterized synthetic derivative, 2-(4-(Benzyloxy)phenyl)-6-chloro-3- hydroxy-7-methyl-4H-chromen-4-one (DF21), by us, to be effective, and to characterize their efficacies as safer alternatives for treating cutaneous T cell mediated inflammatory skin disorders with an emphasis on psoriasis. This is based on three observations: i) topical application of fisetin solubilized in dimthyl sulfoxide (DMSO) has been shown to alleviate psoriasis-like features in a three-dimensional full thickness reconstituted human skin equivalent model of psoriasis (FTRHSP) (1), ii) fisetin is known to modulate inflammatory responses in chronic conditions, and iii) DF21 has been shown to have anti-proliferative properties in vitro. These formulations may present superior advantage over others with less potential for unwanted, adverse side effects. Pluronic lecithin Organogel (PLO) is an extemporaneous formulation that is non-toxic, non-irritating, non-allergenic and works rapidly with predictable and reproducible effects. The topical route of administration allows the active ingredient to effectively bypass the oral and gastrointestinal system, eliminating first pass metabolism, bridging bioavailability issues, and avoiding side effects and problems related to the gastrointestinal tract passage. Therefore, fisetin (1), and its potent characterized derivative, (DF21) are appropriate study agents for effective topical therapeutic translation. Based on these observations, we hypothesize that medicated PLO formulation of fisetin and/or its derivative will provide a successfully transdermal delivery of the active ingredient across the skin and increase the active ingredient’s permeation ability for systemic absorption to maximize local and systemic therapeutic effects.
+-
+  name: Kazim Sekeroglu
+  active: true
+  origin: Southeastern University of Louisiana
+  image: KSekeroglu.jpg
+  project_title: A Multi-View Spatiotemporal Hierarchical Deep Fusion Learning Model for Decoding Human Brain Activity.
+  mentors:
+    -
+      name: Jin-Woo Choi
+      origin: Louisiana State University
+  funding:
+    -
+      name: Pilot Project
+      period: May 1, 2022 - April 30, 2023
+  abstract: |
+    This proposal aims to explore the decoding of human brain activities using EEG signals for Brain Computer Interfaces (BCI) by utilizing a multi-view spatiotemporal hierarchical deep learning. Decoding of motor movement and decoding of visual information from the human brain are the two most common decoding problems in BCI. In this proposal, the PI would like to explore the decoding of visual information from human brain utilizing EEG signals. EEG data is a record of electrical activity of the brain over a period of time. EEG signals have been used in diagnostics of neurological disorders as well as in brain computer interfaces. Analysis and the recognition of EEG signals have been studied for decades. The common approach in the analysis and the classification of EEG signals is based on one-dimensional (1D) time series input. In this project, the PI will explore the transformation of 1D temporal EEG signals into 2D spatiotemporal EEG image sequences for feature extraction and recognition. Spatiotemporal EEG image sequences will be explored based on the views from different planes. According to recent studies in computer vision, Deep Learning is considered the state-of-the-art method for image recognition. The PI's previous studies have shown that hierarchical deep learning improves the recognition accuracy further. Therefore, the PI will explore the use of multi-view hierarchical deep learning methods for the classification of 2D spatiotemporal image sequences. Recurrent Neural Networks have been known for their great performances in the prediction and classification of the time series data. Thus, in the proposed hierarchical learning scheme, the PI will explore the use of Convolutional Neural Network (CNN) with Long-Short Term Memory (LSTM) within the proposed hierarchical learning scheme.
+-
+  name: Santosh D'Mello
+  active: false
+  origin: Louisiana State University Shreveport
+  image: SDeMello.jpeg
+  project_title: Preclinical Development of Small Molecule Therapeutics for Alzheimer’s Disease
+  collaborators:
+    -
+      name: Xiaohong Lu
+      origin: Louisiana State University Health Shreveport
+  funding:
+    -
+      name: Translational
+      period: May 1, 2022 - April 30, 2023
+
+  abstract: |
+      Alzheimer’s disease (AD) is a fatal neurodegenerative disease characterized by progressive cognitive impairment starting with a decline in memory. Despite a multitude of clinical trials there is currently no treatment that can stop or slow down the relentless loss of neurons in AD (or any other neurodegenerative disease). Several years ago, my lab discovered that a commercially-available compound, GW5074, belonging to the 3’-indolone class and sold as an inhibitor of c-Raf, was highly neuroprotective in cell culture as well as animal models of neurodegenerative disease. Starting with GW5074 we identified several other 3’-substituted indolones that were also neuroprotective, but that appeared to work through mechanisms different from GW5074. The model we used to evaluated neuroprotection by these compounds was cultured cerebellar granule neurons (CGNs) which die when switched from depolarizing medium to non-depolarizing medium. While an excellent in vitro model to study activity-dependent regulation of neuronal survival during development, the CGN model has limited relevance to age-associated neurodegenerative diseases, like AD. As a step towards developing effective therapeutics for the treatment of Alzheimer’s disease, we will test a panel of 8 compounds identified in the CGN model using mouse hippocampal HT22 cells, a neuronal cell line well-suited for mechanistic studies on AD.
+-
+  name: John Rakus
+  active: true
+  origin: University of Louisiana at Monroe
+  image: JRakus.jpeg
+  project_title: Characterization of Hsc70 interactions regulating LPS stimulated RAW264.7 cells.
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2022 - April 30, 2024
+  abstract: |
+    Characterization of Hsc70 interactions regulating LPS stimulated RA W264. 7 cells. The central hypothesis for this Louisiana Biomedical Research Network (LBRN) Start-Up proposal is that comprehensively defining Hsc70 interactions with client and non-client proteins will clarify intricacies in the regulation of lipopolysaccharide (LPS) regulation with toll-like receptor 4 (TLR4) to activate tumor necrosis factor a (TNFa). This signaling pathway is crucial to evoking a robust inflammatory response to bacterial infection but uncontrolled production of TNFa can be extremely hazardous to the host. Substantial evidence supports a contribution by Hsc70 in augmenting LPS-induced TNFa secretion. A fuller understanding of the role of Hsc70 in modulating this critical innate immune response is therefore crucial to being able to completely understand the overwhelming production of TNFa in diseases such as rheumatoid arthritis and sepsis can be addressed.
+-
+  name: Subhajit Chakrabarty
+  active: true
+  origin: Louisiana State University Shreveport
+  image: SChakrabarty.jpg
+  project_title: Ischemic Stroke in COVID-19 Patients - Predicting Outcomes with Machine Learning.
+  mentors:
+    -
+      name: Karen Stokes
+      origin: Louisiana State University Health Shreveport, Professor of Molecular and Cellular Physiology
+  collaborators:
+    -
+      name: Shashank Shekhar
+      origin: University of Mississippi Medical Center
+      
+  funding:
+    -
+      name: Startup Project
+      period: May 1, 2022 - April 30, 2024
+  abstract: |
+    Stroke is a serious complication of COVID-19. Information from brain imaging of infected patients is fragmented and the location(s) or lesion type(s) have not been fully defined, nor has their relevance to outcomes measures in these patients been properly investigated. COVID-19 is associated with a multitude of possible neurological symptoms, and it has become clear that a majority of stroke events in infected patients result from origins other than what is typically seen in non-infected individuals, i.e. ongoing large artery or small vessel disease, or a cardio-embolic event. Currently, there are no clear imaging parameters that can be used to predict duration of hospital stay, quality of life or long-term outcome of COVID-19 stroke patients. Thus, it is critical to enhance our understanding of what happens within the brain of COVID-19 stroke patients and how this relates to other clinical parameters such as coagulation panel, blood cell counts, and cardiovascular risk factors, so that we can identify imaging biomarkers that will be useful for diagnosis, outcome prediction and ultimately treatment design for these patients. Accurate identification of characteristic lesions of the brain is crucial in predicting outcome and designing treatments. Lack of literature on neurological imaging findings in COVID-19 patients, as well as human errors in reporting the imaging findings, are further hampering research.
