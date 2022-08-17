@@ -1,4 +1,4 @@
 ---
 layout: pidatapage_full
-person: Anthony Walker
+person: Anthony L. Walker
 ---
