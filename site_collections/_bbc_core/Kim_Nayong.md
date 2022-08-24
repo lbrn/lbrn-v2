@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer and Information Research Scientists
+title: Computer and Information Research Scientist
 author: Nayong Kim
 school: Louisiana State University, Center for Computation & Technology
 project-type: TestElement
