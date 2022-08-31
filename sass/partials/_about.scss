@@ -34,6 +34,7 @@
    display: inline-flex;
    max-width: 100%;
    flex-wrap: wrap;
+   align-items: stretch;
    .row {
     width: 100%;
     margin: unset;
@@ -43,7 +44,6 @@
    flex: 1 1 auto;
    display: flex;
    flex-direction: column;
-   height: 100%;
    width: 30%;
    margin-left: unset;
  }
@@ -140,6 +140,7 @@
      &.bot {
        border-style: none none solid none;
        height: 100%;
+       // remove and align-items:stretch parent?
      }
    }
    .horiline-l {
