@@ -1,0 +1,116 @@
+---
+layout: lbrn-event
+title: LBRN Works In Progress
+headerImage: images/works-in-prog.jpg
+eventDate: October 5 - November 2, 2021&colon; see <a class="natural-link" href="#eventWhenAndWhere">When and Where</a> for details.
+eventTime: 12:00 pm - 1:00 pm.
+eventLocation: Virtual.
+---
+<aside id="lbrnEventSidebar">
+  <ul id="lbrnEventSidebarUl">
+    <li class="active"><a href="#eventSummary">about</a></li>
+    <li><a href="#eventWhenAndWhere">when and where</a></li>
+    <li><a href="#presentationdetails">presentation details</a></li>
+  </ul>
+</aside>
+<div class="content-sidebar content">
+  <section id="eventSummary" class="eventsection">
+    <h2 class="event-section-head">About</h2>
+    <div class="collapse show" id="eventAbout">
+      <p>The Work In Progress Seminars are presentations by LBRN PI's where they present their research progress and have an opportunity for input from their peers and mentors in a collaborative setting.</p>
+    </div>
+  </section>
+  <section id="eventWhenAndWhere" class="eventsection">
+    <h2 class="event-section-head">When &amp; Where</h2>
+    <div class="collapse show" id="eventWhen">
+      <p>Please check emailed information regarding remote attendance details, contact <a href="mailto:lbrn@lsu.edu?subject=LBRN WIP&body=LBRN Work in Progress Question">lbrn@lsu.edu</a> with any questions for joining. If using a local video conferencing room, check for local capabilities and be sure to check with your local room support for their rules for advance notification, support, and booking.</p>
+
+    </div>
+  </section>
+
+  <section id="eventSchedule" class="eventsection">
+
+    <div class="row">
+      <div class="day">
+        {% assign postsByDay =
+      site.data.wip-2021 | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
+
+      {% for day in postsByDay %}
+        <h2>{{ day.name }}</h2>
+
+        {% for post in day.items %}
+          <!-- DO NOT REMOVE - Code for name url -->
+             {% assign url_name = post.name | split: " " %}
+             {% assign url_full = "" %}
+             {% assign num = url_name | size | minus: 1 %}
+             {% assign url_full = url_full | append: url_name[num] | append: "_"  %}
+             {% assign num2 = num | minus: 1 %}
+             {% for i in (0..num2) %}
+               {% if i == 0 and num2 == 1 %}
+                 {% assign url_full = url_full | append: url_name[i] | append: "_"  %}
+               {% else %}
+                 {% assign url_full = url_full | append: url_name[i] %}
+               {% endif%}
+             {% endfor %}
+             <!-- DO NOT REMOVE - Code for name url -->
+
+              {% if post.nolink %}
+              <div class="day nolink">
+              {% else %}
+              <div class="day link">
+              <a class="natural-link" href="/pis/{{url_full | remove: "." | replace: " ", "_" }}.html">
+              {% endif %}
+                {% if post.time != nil %}
+                <span>{{post.time}}</span>
+                {% endif %}
+                <h3>{{post.name}} </h3>
+                <h4>{{post.university}}</h4>
+                <p>{{post.title}}</p>
+                {% if post.nolink %}
+                {% else %}
+                  </a>
+                {% endif %}
+              </div>
+            {% endfor %}
+
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+
+	</section>
+
+	<section id="presentationdetails" class="eventsection">
+    <h2 class="event-section-head">Presentation Details</h2>
+    	<div class="collapse show" id="presentationDetails">
+
+  <p>Here below is generalized format for the presentation. We have allowed 30 minutes in total for each presenter including time for discussion (18-22 min for the talk and 10-12 minutes for discussion). Please tailor your presentation accordingly and adhere to the time limits.<p>
+
+  <ul><li>Project Title</li>
+  	<ul><li>Mentee</il>
+  		<li>Name and Institution</li>
+      	<li>Mentors</li>
+      	<li>Name and Institution</li>
+  	</ul>
+  	<li>Please give a brief overview of your project.</li>
+  	<li>Overall Goals and Specific Aims of your project</li>
+      <ul><li>Hypotheses investigated since the last presenation</li>
+  		<li>Summary: Experimental Approach/Results (2-3 Slides)</li>
+  		<li>Brief summary of Experimental approach/es and results accomplished since last presentation</li>
+  		<li>Impediments & Solutions </li>
+  		<li>Did you encounter any impediments in accomplishing your project? If so, what steps did you take to overcome this?</li>
+  		<li>Next Steps </li>
+  		<li>What are the next steps in your research?</li>
+  	</ul>
+  	<li>Project progress </li>
+  	<ul><li>Summarize measurable accomplishments such as papers, abstracts, grants submitted or funded, and students trained.</li>
+  		<li>Address how does this fit within the overall time line for the project.</li>
+  		<li>Acknowledgements </li>
+  		<li>Acknowledgements (Grant acknowledgement template is here: <a href="https://lbrn.lsu.edu/nih-acknowledgement.html">https://lbrn.lsu.edu/nih-acknowledgement.html</a>)</li>
+  	</ul>
+  </ul>
+  <p>Here are some presentation templates (<a href="https://lbrn.lsu.edu/media-templates.html">https://lbrn.lsu.edu/media-templates.html</a>).</p>
+		</div>
+
+  	</section>
+</div>
