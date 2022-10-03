@@ -2,8 +2,8 @@
 layout: lbrn-event
 title: LBRN Works In Progress
 headerImage: images/works-in-prog.jpg
-eventDate: October 5 - November 2, 2021&colon; see <a class="natural-link" href="#eventWhenAndWhere">When and Where</a> for details.
-eventTime: 12:00 pm - 1:00 pm.
+eventDate: October 4 - November 15, 2022&colon; see <a class="natural-link" href="#eventWhenAndWhere">When and Where</a> for details.
+eventTime: varies.
 eventLocation: Virtual.
 ---
 <aside id="lbrnEventSidebar">
@@ -33,7 +33,7 @@ eventLocation: Virtual.
     <div class="row">
       <div class="day">
         {% assign postsByDay =
-      site.data.wip-2021 | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
+      site.data.wip-2022 | group_by_exp:"post", "post.date | date: '%A, %B %e, %Y'" %}
 
       {% for day in postsByDay %}
         <h2>{{ day.name }}</h2>
@@ -84,7 +84,7 @@ eventLocation: Virtual.
     <h2 class="event-section-head">Presentation Details</h2>
     	<div class="collapse show" id="presentationDetails">
 
-  <p>Here below is generalized format for the presentation. We have allowed 30 minutes in total for each presenter including time for discussion (18-22 min for the talk and 10-12 minutes for discussion). Please tailor your presentation accordingly and adhere to the time limits.<p>
+  <p>Here below is generalized format for the presentation. We have allowed 30 minutes in total for each presenter including time for discussion (20 min for the talk and 10 minutes for discussion). Please tailor your presentation accordingly and adhere to the time limits.<p>
 
   <ul><li>Project Title</li>
   	<ul><li>Mentee</il>
