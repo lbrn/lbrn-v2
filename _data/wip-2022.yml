@@ -28,16 +28,6 @@
   date: Thursday, October 13, 2022
   university: Louisiana State University Shreveport
   title: Ischemic Stroke in COVID-19 Patients - Predicting Outcomes with Machine Learning
-- name: John Rakus
-  time: 4:00pm - 4:30pm
-  date: Tuesday, October 18, 2022
-  university: University of Louisiana at Monroe
-  title: Characterization of Hsc70 interactions regulating LPS stimulated RAW264.7 cells
-- name: Santosh D'Mello
-  time: 4:30pm - 5:00pm
-  date: Tuesday, October 18, 2022
-  university: Louisiana State University Shreveport
-  title: Preclinical Development of Small Molecule Therapeutics for Alzheimer's Disease
 - name: Omer Soysal
   time: 4:00pm - 4:30pm
   date: Thursday, October 20, 2022
@@ -55,6 +45,17 @@
   university: Southeastern Louisiana University
   title: |
     Life in the fast lane: Testing for congruence among transcriptomic signatures
+- name: John Rakus
+  time: 4:00pm - 4:30pm
+  date: Tuesday, November 1, 2022
+  university: University of Louisiana at Monroe
+  title: Characterization of Hsc70 interactions regulating LPS stimulated RAW264.7 cells
+- name: Santosh D'Mello
+  time: 4:30pm - 5:00pm
+  date: Tuesday, November 1, 2022
+  university: Louisiana State University Shreveport
+  title: Preclinical Development of Small Molecule Therapeutics for Alzheimer's Disease
+    
 - name: Siva Murru
   time: 4:00pm - 4:30pm
   date: Thursday, November 3, 2022
