@@ -1,6 +1,6 @@
 ---
 layout: highlight
-title: Biomedical Research and Industry Day Held at LSU Shreveport on October 20, 2022
+title: Biomedical Research and Industry Day Held at LSU Shreveport
 categories: Event
 eventDate: October 20, 2022
 startTime:
