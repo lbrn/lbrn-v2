@@ -13,7 +13,7 @@ $( document ).ready(function() {
             // window.scrollTo(0, 0);
             // var top = document.getElementById(buttons).offsetTop; //Getting Y of target element
             // window.scrollTo(0, top);                        //Go there directly or some transition
-            document.getElementById("buttons").scrollIntoView(); 
+            document.getElementById("buttons").scrollIntoView();
         }
         // For the "next" buttons at the bottom- makes sure to highlight the associated page via the btn-target
 
@@ -184,17 +184,17 @@ for (var i = 0; i < btns.length; i++) {
 function piFilter(){
   // var buttons = $('nav#pi-filter ul li');
   // var fulls = $('article[data-ptype="FullProject"]');
-  var fulls = $("article:has(h6:contains('Full'))");
+  var fulls = $("article:has(h6:not(:contains('Full')))");
   // var starts = $('article[data-ptype="StartupProject"]');
-  var starts = $("article:has(h6:contains('Startup'))");
+  var starts = $("article:has(h6:not(:contains('Startup')))");
   // var shares = $('article[data-ptype="SharedInstrumentProject"]');
-  var shares = $("article:has(h6:contains('Shared Instrument'))");
-  var pilots = $("article:has(h6:contains('Pilot'))");
-  var translproj = $("article:has(h6:contains('Translational'))");
-  var collab = $("article:has(h6:contains('Collaborative'))");
-  var supp = $("article:has(h6:contains('Supplement'))");
-  var supp2 = $("article:has(h6:contains('Maternal'))");
-  var supp3 = $("article:has(h6:contains('Supplement'):contains('Collaborative'))");
+  var shares = $("article:has(h6:not(:contains('Shared Instrument')))");
+  var pilots = $("article:has(h6:not(:contains('Pilot')))");
+  var translproj = $("article:has(h6:not(:contains('Translational')))");
+  var collab = $("article:has(h6:not(:contains('Collaborative')))");
+  var supp = $("article:has(h6:not(:contains('Supplement')))");
+  var supp2 = $("article:has(h6:not(:contains('Maternal')))");
+  var supp3 = $("article:has(h6:not(:contains('Supplement'):contains('Collaborative')))");
 
   // var translproj = $('article[data-ptype="TranslationalProject"]');
 

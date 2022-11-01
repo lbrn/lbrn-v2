@@ -3168,21 +3168,11 @@ section.directory.projectinvestigators article.person {
   margin-left: 0;
   margin-right: 0;
   position: relative;
-  margin-bottom: 2em;
   display: block;
   width: 70%;
-  height: 24.75em;
-  padding-bottom: 5%;
-}
-@media (max-width: 1100px) {
-  .slider {
-    height: 22em;
-  }
-}
-@media (max-width: 860px) {
-  .slider {
-    height: 16em;
-  }
+  height: auto;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 @media (max-width: 667px) {
   .slider {
@@ -3190,13 +3180,6 @@ section.directory.projectinvestigators article.person {
     height: unset;
   }
 }
-@media (max-width: 414px) {
-  .slider {
-    height: 0;
-    padding-bottom: 50%;
-  }
-}
-
 #newsContainer {
   padding-left: 5%;
   padding-right: 5%;
@@ -7426,7 +7409,7 @@ section.cores #core-swap ul li:hover {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     /* max-width: 80%; */
-    max-width: 1200px;
+    max-width: 1440px;
     /* sized of content */
     margin-left: auto;
     margin-right: auto;
