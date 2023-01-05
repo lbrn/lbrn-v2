@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Department of Pathobiological Sciences LSU Vet Med seeking Ph.D. students.
-featuredImageUrl: /images/postimages/010123_PBS_GRAD_RECRUIT_KGK.png
-featuredImageUrlSquare: /images/postimages/010123_PBS_GRAD_RECRUIT_KGK.png
+featuredImageUrl: /images/postImages/010123_PBS_GRAD_RECRUIT_KGK.png
+featuredImageUrlSquare: /images/postImages/010123_PBS_GRAD_RECRUIT_KGK.png
 tags: news
 excerpt_separator: <!--more-->
 eventDate:  
