@@ -670,7 +670,7 @@
       Our objective is to use a plant-based peptide template to design stable peptide molecules to modulate the protein-protein interactions (PPI). The designed molecules can be used as a tool to modulate the inflammatory immune response. As a model system, we will use cell adhesion molecular pairs CD2 and CD58 (CD48 in rodents) that help to enhance T cell-antigen-presenting cells (APC) adhesion and thus promote T-cell activation. Our strategy is to design grafted peptides from a CD2 protein epitope that will inhibit protein-protein interactions in the key regions of the CD2-CD58 interactions. The novelty of grafted peptides is that they are chemically, thermally, and enzymatically stable. A multicyclic peptide (SFTIa-DBF) designed inhibits the adhesion between cells that express CD2 and CD58 at nanomolar concentrations. However, the stability of the peptide in vitro and in vivo and its biodistribution are not well understood. The molecular mechanism of signaling by CD2 upon blocking of protein-protein interaction between CD2-CD58 and the release of cytokines has not been studied. The molecular mechanism of the way that inhibition of CD2-CD58 interaction leads to suppression of signaling for cytokines and inflammatory response will also be investigated in cellular assays. As a proof of the usefulness of the peptide, immunomodulatory effects of the designed peptide will be evaluated using an animal model of the inflammatory disease Rheumatoid Arthritis (RA). Our approach is novel in the sense that, instead of antibodies and fusion proteins, the smallest stable framework of the multicyclic peptide (14 amino acids) will be used to block the cell adhesion interactions. To achieve goals, we propose the following specific aims. 1) To evaluate the thermal, enzymatic, and in vivo stability of the designed peptide; 2) To investigate the ability of grafted peptides to suppress inflammatory autoimmune response in DBA/1 mice model. Thus, the designed grafted peptides are new, and present a novel way of treating autoimmune diseases compared to the existing biologic therapies. Hence the project has clinical translational value.
 -
   name: Devaiah Kambiranda
-  active: true
+  active: false
   origin: Southern University Agricultural Research and Extension Center
   image: DKambiranda.jpg?v1.1
   project_title: Proteasomes / immunoproteasomes&colon; Role of lipid rafts in compartmentalization / activation in e-cigarettes vapor exposed lung epithelial cells
@@ -685,7 +685,7 @@
   funding:
     -
       name: Full Project
-      period: May 1, 2021 - April 30, 2024
+      period: May 1, 2021 - November 30, 2022
     -
       name: Pilot Project
       period: May 1, 2019 - August 18, 2020
