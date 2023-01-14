@@ -11,3 +11,4 @@ gem "webrick", "~> 1.7"
 gem "jekyll-feed", "~> 0.16.0"
 
 gem "jekyll-paginate-v2", "~> 3.0"
+
