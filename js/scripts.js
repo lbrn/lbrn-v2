@@ -224,26 +224,96 @@ function piFilter(){
     fulls.slideToggle('fast');
   });
   $('.pifp').click(function(){
+    var pifpb = true;
     $(this).toggleClass('on');
     $(this).toggleClass('active');
+    // $(this).toggleClass('filter');
     fulls.slideToggle('fast');
+    pifpb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".pifp").length){
+        
+        if (pifpb == true) {
+          $('.pifp').toggleClass('on');
+          $('.pifp').toggleClass('active');
+          fulls.slideToggle('fast');
+          // $('pifp').toggleClass('filter');
+
+        }
+        pifpb = false;
+
+      }
+    });
   });
   $(".pisp").click(function(){
+    var pispb = true;
+
     $(this).toggleClass('on');
     $(this).toggleClass('active');
+    // $(this).toggleClass('filter');
 
     starts.slideToggle('fast');
+    pispb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".pisp").length){
+        
+        if (pispb == true) {
+          $('.pisp').toggleClass('on');
+          $('.pisp').toggleClass('active');
+          starts.slideToggle('fast');
+          // $('.pisp').toggleClass('filter');
+
+        }
+        pispb = false;
+
+      }
+    });
   });
-  $(".pisip").click(function(){
+  $(".piicp").click(function(){
+    var piicpb = true;
     $(this).toggleClass('on');
     $(this).toggleClass('active');
     shares.slideToggle('fast');
+    // $(this).toggleClass('filter');
+
+    piicpb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".piicp").length){
+        
+        if (piicpb == true) {
+          $('.piicp').toggleClass('on');
+          $('.piicp').toggleClass('active');
+          //  $('.piicp').toggleClass('filter');
+          shares.slideToggle('fast');
+        }
+        piicpb = false;
+
+      }
+    });
   });
   $(".piicp").click(function(){
     $(this).toggleClass('on');
     $(this).toggleClass('active');
     collab.slideToggle('fast');
     supp3.slideToggle('fast');
+    // $(this).toggleClass('filter');
+
+    var piicpb = true;
+    piicpb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".piicp").length){
+        
+        if (piicpb == true) {
+          $('.piicp').toggleClass('on');
+          $('.piicp').toggleClass('active');
+          collab.slideToggle('fast');
+    // $('.piicp').toggleClass('filter');
+    supp3.slideToggle('fast');
+        }
+        piicpb = false;
+
+      }
+    });
   });
   $(".pispp").click(function(){
     $(this).toggleClass('on');
@@ -261,11 +331,26 @@ function piFilter(){
         }
   });
   $(".pipp").click(function(){
+    var pippb = true;
     $(this).toggleClass('on');
     $(this).toggleClass('active');
     pilots.slideToggle('fast');
+    // $(this).toggleClass('filter');
 
-    console.log(pilots);
+    pippb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".pipp").length){
+        
+        if (pippb == true) {
+          $('.pipp').toggleClass('on');
+          $('.pipp').toggleClass('active');
+          // $('.pipp').toggleClass('filter');
+          pilots.slideToggle('fast');
+        }
+        pippb = false;
+
+      }
+    });
   });
   $(".pite").click(function(){
     $(this).toggleClass('on');
@@ -278,6 +363,23 @@ function piFilter(){
     $(this).toggleClass('on');
     translproj.slideToggle('fast');
         // console.log('dog');
+    // $(this).toggleClass('filter');
+
+    var pitpb = true;
+    pitpb = true;
+    $('.filter').on("click", function(event){
+      if(!$(event.target).closest(".pitp").length){
+        
+        if (pitpb == true) {
+          $('.pitp').toggleClass('on');
+          $('.pitp').toggleClass('active');
+    // $('.pitp').toggleClass('filter');
+    translproj.slideToggle('fast');
+        }
+        pitpb = false;
+
+      }
+    });
   });
   $("#pios1").click(function(){
     $(this).toggleClass('active');
@@ -289,7 +391,6 @@ function piFilter(){
   $("#pios2").click(function(){
     $(this).toggleClass('active');
     $(this).toggleClass('on');
-    $(this).toggleClass('active');
     oe2.slideToggle('fast');
         console.log('dog');
   });
