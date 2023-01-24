@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21st LBRN Annual Meeting
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/2023 LBRN Annual Meeting.png
 featuredImageUrlSquare: images/postImages/2023 LBRN Annual Meeting.png
 excerpt_separator: <!--more-->
