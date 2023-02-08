@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LSU BioMMED Programs Winter 2023
-tags: featured
+tags: news
 featuredImageUrl: images/postImages/LSU BioMMED Programs Winter 2023.png
 featuredImageUrlSquare: images/postImages/LSU BioMMED Programs Winter 2023.png
 excerpt_separator: <!--more-->
