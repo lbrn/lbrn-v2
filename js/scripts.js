@@ -81,7 +81,7 @@ function quickRef(){
   });
 }
 
-//============================
+//============================schol
 function spbtn() {
     $('.bt-group button').on('click',function(){
       var $this=$(this);
@@ -107,6 +107,8 @@ function spbtn() {
         window.location.hash = 'res';
       } else if ($this.hasClass("cont-bt")) {
         window.location.hash = 'cont';
+      } else if ($this.hasClass("schol-bt")) {
+        window.location.hash = 'schol';
       }
   });
 }
@@ -128,6 +130,8 @@ function hashjump() {
     var $this=$(".res-bt");
   } else if (url.hash == "#cont") {
     var $this=$(".cont-bt");
+  } else if (url.hash == "#schol") {
+    var $this=$(".schol-bt");
   }
   $('.bt-group').find('button').removeClass('active-link');
   $this.addClass('active-link');
