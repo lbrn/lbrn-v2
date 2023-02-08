@@ -1,28 +1,9 @@
 $( document ).ready(function() {
 
-    $('.bt-group button').on('click',function(){
-        var $this=$(this);
-        // console.log('doggy test');
-        $('.bt-group').find('button').removeClass('active-link');
-        $this.addClass('active-link');
-        $('.list-group').removeClass('show');
-        $('.' + $this.attr('data-targetDiv')).addClass('show');
-        if ($this.attr('data-targetBtn')) {
-          // console.log ('doggy');
-          $('.' + $this.attr('data-targetBtn')).addClass('active-link');
-            // window.scrollTo(0, 0);
-            // var top = document.getElementById(buttons).offsetTop; //Getting Y of target element
-            // window.scrollTo(0, top);                        //Go there directly or some transition
-            document.getElementById("buttons").scrollIntoView();
-        }
-        // For the "next" buttons at the bottom- makes sure to highlight the associated page via the btn-target
-
-        // console.log($this.attr('data-targetBtn'));
-
-    });
 
 
-
+  spbtn();
+  hashjump();
   quickRef();
   // coreSwap();
   piFilter();
@@ -100,6 +81,67 @@ function quickRef(){
   });
 }
 
+//============================schol
+function spbtn() {
+    $('.bt-group button').on('click',function(){
+      var $this=$(this);
+      $('.bt-group').find('button').removeClass('active-link');
+      $this.addClass('active-link');
+      $('.list-group').removeClass('show');
+      $('.' + $this.attr('data-targetDiv')).addClass('show');
+      if ($this.attr('data-targetBtn')) {
+        $('.' + $this.attr('data-targetBtn')).addClass('active-link');
+          document.getElementById("buttons").scrollIntoView();
+      }
+      if ($this.hasClass("req-bt")) {
+        window.location.hash = 'req';
+      } else if ($this.hasClass("prog-bt")) {
+        window.location.hash = 'prog';
+      } else if ($this.hasClass("app-bt")) {
+        window.location.hash = 'app';
+      } else if ($this.hasClass("ment-bt")) {
+        window.location.hash = 'ment';
+      } else if ($this.hasClass("faq-bt")) {
+        window.location.hash = 'faq';
+      } else if ($this.hasClass("res-bt")) {
+        window.location.hash = 'res';
+      } else if ($this.hasClass("cont-bt")) {
+        window.location.hash = 'cont';
+      } else if ($this.hasClass("schol-bt")) {
+        window.location.hash = 'schol';
+      }
+  });
+}
+// ===========================
+function hashjump() {
+  var url = new URL(window.location.href);
+  // console.log(url.hash); // "123"
+  if (url.hash == "#req") {
+    var $this=$(".req-bt");
+  } else if (url.hash == "#prog") {
+    var $this=$(".prog-bt");
+  } else if (url.hash == "#app") {
+    var $this=$(".app-bt");
+  } else if (url.hash == "#ment") {
+    var $this=$(".ment-bt");
+  } else if (url.hash == "#faq") {
+    var $this=$(".faq-bt");
+  } else if (url.hash == "#res") {
+    var $this=$(".res-bt");
+  } else if (url.hash == "#cont") {
+    var $this=$(".cont-bt");
+  } else if (url.hash == "#schol") {
+    var $this=$(".schol-bt");
+  }
+  $('.bt-group').find('button').removeClass('active-link');
+  $this.addClass('active-link');
+  $('.list-group').removeClass('show');
+  $('.' + $this.attr('data-targetDiv')).addClass('show');
+  if ($this.attr('data-targetBtn')) {
+    $('.' + $this.attr('data-targetBtn')).addClass('active-link');
+      document.getElementById("buttons").scrollIntoView();
+  }
+}
 // ===========================
 
 filterSelection("admin")
