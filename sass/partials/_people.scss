@@ -204,6 +204,26 @@ section.directory {
      padding-right: 10%;
      margin: unset;
    }
+   #lbrnEventHeader {
+    display: flex;
+    @media (max-width: $md) {
+      flex-direction: column;
+    }
+    .pubmed-link {
+     margin: auto 0 auto auto;
+     background-color: $color2;
+     color: #fff;
+     border: 1px solid $color2;
+     &:hover {
+       background-color: $sexta;
+       color: $color1;
+       border-color: $color1;
+     }
+     @media (max-width: $md) {
+       margin: auto 0 1em
+     }
+    }
+   }
 }
 
 .profilepage {
@@ -250,11 +270,11 @@ section.directory {
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
   float: right;
-}
+  &:hover {
+    background-color: $color2;
+    color: #fff;
 
-.pubmed-link:hover {
-  background-color: $color2;
-  color: #fff;
+  }
 }
 
 .abstractp {

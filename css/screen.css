@@ -1892,6 +1892,40 @@ section.directory.projectinvestigators article.person {
   padding-right: 10%;
   margin: unset;
 }
+.datalayout #lbrnEventHeader {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media (max-width: 667px) {
+  .datalayout #lbrnEventHeader {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+       -moz-box-orient: vertical;
+       -moz-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+.datalayout #lbrnEventHeader .pubmed-link {
+  margin: auto 0 auto auto;
+  background-color: #8ECB91;
+  color: #fff;
+  border: 1px solid #8ECB91;
+}
+.datalayout #lbrnEventHeader .pubmed-link:hover {
+  background-color: #d4ebd5;
+  color: #2C3D6C;
+  border-color: #2C3D6C;
+}
+@media (max-width: 667px) {
+  .datalayout #lbrnEventHeader .pubmed-link {
+    margin: auto 0 1em;
+  }
+}
 
 .profilepage {
   /* padding-top: unset; */
@@ -1955,7 +1989,6 @@ section.directory.projectinvestigators article.person {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out, -moz-box-shadow 0.15s ease-in-out;
   float: right;
 }
-
 .pubmed-link:hover {
   background-color: #8ECB91;
   color: #fff;

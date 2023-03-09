@@ -37,8 +37,8 @@
         </div>
         {% else %}
         {% if pi.link != nil %}
-        <a target="_blank" href="{{pi.link}}">
-          <h1 class="pititle">{{page.person}}</h1>
+        <h1 class="pititle">{{page.person}}</h1>
+        <a class="pubmed-link" target="_blank" href="{{pi.link}}"> Link to Webpage
         </a>
         {% else %}
         <h1 class="pititle">{{page.person}}</h1>
