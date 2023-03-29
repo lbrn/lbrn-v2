@@ -6,9 +6,10 @@ school: University of Louisiana at Monroe, Biology
 project-type: TestElement
 image: "garlapati.jpg"
 categories: project-investigator
-email: garlapati@ulm.edu
-phone: (318) 342-3304
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://www.ulm.edu/biology/research-garlapati.html
 ---

@@ -6,10 +6,10 @@ school: Louisiana State University Shreveport, Chemistry and Physics
 project-type: TestElement
 image: "mahdavian.jpg"
 categories: project-investigator
-email: elahe.mahdavian@lsus.edu
-phone: (318) 797-5227
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
-link: https://crouton.net/
+link: https://www.lsus.edu/elahe-mahdavian-phd
 ---

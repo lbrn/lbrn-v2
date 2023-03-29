@@ -6,11 +6,12 @@ school: Louisiana State University Shreveport
 project-type: TestElement
 image: "BBC-Core/BBC-Urska-Cvek.jpg"
 categories: project-investigator
-email: urska.cvek@lsus.edu
-phone: (318) 795-4266
+email: 
+phone: 
 zip: 71115
 city: Shreveport
 state: Louisiana
+link: https://www.lsus.edu/urska-cvek-scd
 ---
 <!-- name,position,school,city,state,zip,email,phone,image
 ,,,,,,

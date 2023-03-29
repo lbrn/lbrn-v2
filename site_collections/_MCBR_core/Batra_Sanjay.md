@@ -6,9 +6,10 @@ school: Southern University and A&amp;M College, College of Sciences and Enginee
 project-type: TestElement
 image: "batra.jpg"
 categories: project-investigator
-email: sanjay_batra@subr.edu
-phone: (225) 771-5350
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://www.subr.edu/index.cfm/page/1728
 ---

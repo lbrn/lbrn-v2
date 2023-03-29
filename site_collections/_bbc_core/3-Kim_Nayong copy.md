@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer and Information Research Scientist
+title: Associate Director
 author: Nayong Kim
 school: Louisiana State University, Center for Computation & Technology
 project-type: TestElement

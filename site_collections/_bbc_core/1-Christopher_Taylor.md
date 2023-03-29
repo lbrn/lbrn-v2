@@ -6,9 +6,10 @@ school: Louisiana State University Health New Orleans, Department of Microbiolog
 project-type: TestElement
 image: "BBC-Core/BBC-Christopher-M-Taylor.jpg"
 categories: project-investigator
-email: ctay15@lsuhsc.edu
-phone: (504) 568-4065
+email: 
+phone: 
 zip: 70112
 city: New Orleans
 state: Louisiana
+link: https://www.medschool.lsuhsc.edu/microbiology/faculty_detail.aspx?name=taylor_christopher
 ---
