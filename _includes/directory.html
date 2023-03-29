@@ -1,5 +1,8 @@
 
 <article class="person" data-pType="{{people.project-type}}">
+  {% if people.link != nil %}
+  <a class="natural-link" href="{{people.link}}">
+  {% endif %}
   <img src="images/people/{{people.image}}?v1.1" alt="{{people.author}}'s portrait photo.">
   {% if people.author != "none" %}
   <h4>{{people.author}}</h4>
@@ -17,4 +20,8 @@
     <li>{{people.email | replace: "@", "@&#8203;" }}</li>
     <li>{{people.phone}}</li>
   </ul>
+{% if people.link != nil %}
+</a>  
+{% endif %}
+
 </article>

@@ -2,11 +2,17 @@
   <!--  if people.category != "none"  -->
   <!-- <h3>{{people.category}}</h3> -->
   <!--  endif  -->
-  <img class="nudge" src="images/partner-institutes/{{people.image}}" alt="{{people.name}}">
-  <h3>{{people.school}}</h3>
-
-  <ul>
-    <li>{{people.address1}}</li>
-    <li>{{people.address2}}</li>
-  </ul>
+  {% if people.link != nil %}
+  <a class="natural-link" href="{{people.link}}">
+    <img class="nudge" src="images/partner-institutes/{{people.image}}" alt="{{people.name}}">
+    <h3>{{people.school}}</h3>
+    
+    <ul>
+      <li>{{people.address1}}</li>
+      <li>{{people.address2}}</li>
+    </ul>
+    {% endif %}
+  {% if people.link != nil %}
+  </a>  
+  {% endif %}
 </article>
