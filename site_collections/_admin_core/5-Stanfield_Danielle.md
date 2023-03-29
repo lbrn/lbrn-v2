@@ -8,7 +8,7 @@ image: "stanfield_danielle.jpeg"
 categories: project-investigator
 email: dstanfield@lsu.edu
 phone: (225) 578-9545
-zip: 70803
+zip: 
 city: Baton Rouge
 state: Louisiana
 ---

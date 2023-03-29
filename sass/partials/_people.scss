@@ -14,6 +14,26 @@
 }
 
 
+
+
+
+.person {
+  -moz-transition: background-color 0.2s ease-in;
+  -o-transition: background-color 0.2s ease-in;
+  -webkit-transition: background-color 0.2x ease-in;
+  width: 45%;
+  display: block;
+  border-radius: 6px;
+  filter:$filter;
+  a {
+    border-radius: 6px;
+    &:hover {
+      background-color: $sexta;
+    }
+
+  }
+}
+
 section.directory {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -204,6 +224,26 @@ section.directory {
      padding-right: 10%;
      margin: unset;
    }
+   #lbrnEventHeader {
+    display: flex;
+    @media (max-width: $md) {
+      flex-direction: column;
+    }
+    .pubmed-link {
+     margin: auto 0 auto auto;
+     background-color: $color2;
+     color: #fff;
+     border: 1px solid $color2;
+     &:hover {
+       background-color: $sexta;
+       color: $color1;
+       border-color: $color1;
+     }
+     @media (max-width: $md) {
+       margin: auto 0 1em
+     }
+    }
+   }
 }
 
 .profilepage {
@@ -250,11 +290,11 @@ section.directory {
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
   float: right;
-}
+  &:hover {
+    background-color: $color2;
+    color: #fff;
 
-.pubmed-link:hover {
-  background-color: $color2;
-  color: #fff;
+  }
 }
 
 .abstractp {

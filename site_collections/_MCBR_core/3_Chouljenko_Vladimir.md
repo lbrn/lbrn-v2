@@ -6,9 +6,10 @@ school: Louisiana State University, School of Veterinary Medicine
 project-type: TestElement
 image: "chouljenko.jpg"
 categories: project-investigator
-email: vchoul1@lsu.edu
-phone: (225) 578-9659
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://weblsu103.lsu.edu/vetmed/faculty/chouljenko.php
 ---

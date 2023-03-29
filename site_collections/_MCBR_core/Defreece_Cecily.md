@@ -6,9 +6,10 @@ school: Xavier University of Louisiana, Biology
 project-type: TestElement
 image: "defreece.jpg"
 categories: project-investigator
-email: cbennet3@xula.edu
-phone: (504) 520-5011
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://www.xula.edu/department/biology1/biology-faculty-and-staff.html
 ---

@@ -11,6 +11,9 @@
     {% assign url_full = url_full | append: url_name[i] %}
     {% endif%}
   {% endfor %}
+
+  
+
   <a class="natural-link" href="/pis/{{url_full | remove: "." | replace: " ", "_" }}.html">
   <img src="images/people/PIs/{{ people.image}}?v1.2" alt=" {{people.name}}'s portrait photo.">
   <!-- <img src="images/people/{{people.photo}}" alt="{{people.author}}'s portrait photo."> -->

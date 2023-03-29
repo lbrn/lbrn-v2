@@ -22,6 +22,8 @@
 
     <main class="layout datalayout">
       <section id="lbrnEventHeader">
+        {% for pi in site.data.pis_full %}
+        {% if pi.name == page.person%}
         {% if page.featuredImageUrl %}
         <div class="imagebox">
           <!-- DYNAMIC:this image will have to be inserted into the src attribute. I used the Page title for the alt attribute -->
@@ -34,19 +36,19 @@
           <!-- <p>{{page.date | date:" %B, %-d %Y"}}</p> -->
         </div>
         {% else %}
-
-        <a target="_blank" href="{{pi.link}}">
-          <h1 class="pititle">{{page.person}}</h1>
-
-          </a>
+        {% if pi.link != nil %}
+        <h1 class="pititle">{{page.person}}</h1>
+        <a class="pubmed-link" target="_blank" href="{{pi.link}}"> Link to Webpage
+        </a>
+        {% else %}
+        <h1 class="pititle">{{page.person}}</h1>
+        {% endif %}
 
         {% endif %}
       </section>
       <!-- ALL USER INPUT CONTENT SHOULD BE CONTAINED WITHIN CONTENTS -->
       <div class="content profilepage">
 
-        {% for pi in site.data.pis_full %}
-          {% if pi.name == page.person%}
           {% if pi.pubmed-override != nil %}
           <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term={{ pi.pubmed-override | replace:' ', '+' }}" class="pubmed-link">Link to Pubmed Publications</a>
           {% else %}

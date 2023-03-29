@@ -6,9 +6,10 @@ school: University of New Orleans, Computer Science
 project-type: TestElement
 image: "hoque.jpg"
 categories: 
-email: thoque@uno.edu
-phone: (504) 280-2406
+email: 
+phone: 
 zip: 70148
 city: New Orleans
 state: Louisiana
+link: https://www.uno.edu/profile/faculty/tamjidul_hoque
 ---

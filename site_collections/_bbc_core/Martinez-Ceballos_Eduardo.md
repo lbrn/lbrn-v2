@@ -6,9 +6,10 @@ school: Southern University and A&amp;M College
 project-type: TestElement
 image: "martinez-ceballos.png"
 categories: project-investigator
-email: eduardo_martinez@subr.edu
-phone: (225) 771-3606
+email: 
+phone: 
 zip: 70813
 city: Baton Rouge
 state: Louisiana
+link: https://www.subr.edu/index.cfm/page/2210
 ---

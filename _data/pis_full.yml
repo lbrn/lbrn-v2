@@ -26,6 +26,7 @@
   active: false
   origin: Xavier University of Louisiana
   image: RAl-Horani.jpg
+  link: https://www.xula.edu/directory//people/ralhoran.html
   project_title: Inhibition of Factor XIIIa by Sulfonated Glycosaminoglycan Mimetics as Potential Avenue to Novel Anticoagulants
   mentors:
     -
@@ -67,6 +68,7 @@
   active: true
   origin: University of Louisiana at Monroe
   image: NBarabutis.jpg
+  link: https://webservices.ulm.edu/facultyactivities/profile/barabutis
   project_title: Protective role of Growth Hormone Releasing Hormone Antagonists in Endothelial Barrier Dysfunction
   mentors:
     -
@@ -116,6 +118,7 @@
   active: true
   origin: Louisiana Tech University
   image: MCaldorera-Moore.jpg
+  link: https://www.latech.edu/faculty-staff/single-entry/name/mary-caldorera-moore/
   project_title: Multifunctional Living Stem Cell-Laden Hydrogel Networks for Directed Tissue Regeneration
   mentors:
     -
@@ -132,6 +135,7 @@
   active: true
   origin: Louisiana State University Shreveport
   image: SChakrabarty.jpg
+  link: https://www.lsus.edu/subhajit-chakrabarty-phd
   project_title: Ischemic Stroke in COVID-19 Patients - Predicting Outcomes with Machine Learning.
   mentors:
     -
@@ -173,6 +177,7 @@
   origin: University of Louisiana at Monroe
   image: JChamcheu.jpg
   pubmed-override: Chamcheu JC
+  link: https://webservices.ulm.edu/facultyactivities/profile/chamcheu
   project_title: Development of fisetin as a novel inhibitor co-targeting PI3K/AKT/mTOR/Rac1 and IL-17A for Treating Psoriasis
   mentors:
     -
@@ -263,6 +268,7 @@
   active: true
   origin: Louisiana State University Shreveport
   image: CCoehoorn.jpg
+  link: https://www.lsus.edu/cory-coehoorn-phd
   project_title: Impact of rapid heat acquisition on neural function, decision-making, stress, and inflammation.
   mentors:
     -
@@ -279,6 +285,7 @@
   active: true
   origin: Louisiana State University Shreveport
   image: SD'Mello.jpg
+  link: https://www.lsus.edu/santosh-dmello-phd
   project_title: Preclinical Development of Small Molecule Therapeutics for Alzheimer's Disease
   collaborators:
     -
@@ -731,6 +738,8 @@
       name: Full Project
       period: May 1, 2015 - April 30, 2018
 
+
+      
 -
   name: Paul Kim
   active: false
@@ -752,6 +761,7 @@
   active: true
   origin: Xavier University of Louisiana
   image: VKolesnichenko.jpg
+  link: https://www.xula.edu/directory//people/vkolesni.html
   project_title: Nano particulate magnetic imaging Agents for Cancer Diagnostic
   mentors:
     -
@@ -862,6 +872,7 @@
   active: true
   origin: University of Louisiana at Monroe
   image: GMatthaiolampakis.jpg
+  link: https://webservices.ulm.edu/facultyactivities/profile/matthaiolampakis
   project_title: miR-mediated Inhibition of Lung Cancer Progression
   mentors:
     -
@@ -968,6 +979,7 @@
   active: true
   origin: University of Louisiana at Monroe
   image: SMurru.jpg
+  link: https://www.ulm.edu/~murru/
   project_title: Development of Pyrazoles and Related Heterocyclic Compounds as Anti-Cancer Agents &colon; Design, Synthesis and Anti-cancer Activity Studies
   mentors:
     -
@@ -1096,6 +1108,7 @@
   active: true
   origin: Xavier University of Louisiana
   image: EPerez.jpg
+  link: https://www.xula.edu/directory//people/eperez.html
   project_title: The interaction between kainate (KRs) and nicotinic acetylcholine receptors (nAChRs) in modulating nicotine-associated behaviors.
   funding:
     -
@@ -1109,6 +1122,7 @@
   origin: Southeastern Louisiana University
   image: KPiller.jpg
   ftimage: KPillerft.jpg
+  link: https://www.southeastern.edu/acad_research/depts/biol/faculty/directory/piller.html
   project_title: Life in the fast lane&colon; Testing for congruence among transcriptomic signatures
   mentors:
     -
@@ -1157,6 +1171,7 @@
   active: true
   origin: University of Louisiana at Monroe
   image: JRakus.jpeg
+  link: https://webservices.ulm.edu/facultyactivities/profile/rakus
   project_title: Characterization of Hsc70 interactions regulating LPS stimulated RAW264.7 cells.
   funding:
     -
@@ -1186,6 +1201,7 @@
   active: true
   origin: Louisiana State University Shreveport
   image: VSalim.jpg?v1.2
+  link: https://www.lsus.edu/vonny-salim-phd
   project_title: Elucidation of Plant-Derived Drug Biosynthetic Pathways and Molecular Mechanisms as Anticancer Agents
   mentors:
     -
@@ -1228,6 +1244,7 @@
   active: true
   origin: Southeastern University of Louisiana
   image: KSekeroglu.jpg
+  link: https://www.southeastern.edu/acad_research/depts/comp_sci/faculty/index.html
   project_title: A Multi-View Spatiotemporal Hierarchical Deep Fusion Learning Model for Decoding Human Brain Activity.
   mentors:
     -
@@ -1280,6 +1297,7 @@
   active: true
   origin: Southeastern Louisiana University
   image: OSoysal.jpg
+  link: https://www.southeastern.edu/acad_research/depts/comp_sci/faculty/index.html
   project_title: |
     MindPrint: Exploring uniqueness of individuals' brain signals
   mentors:
@@ -1355,6 +1373,7 @@
   active: true
   origin: University of Louisiana at Monroe 
   image: AWalker.jpg
+  link: https://webservices.ulm.edu/facultyactivities/profile/awalker
   project_title: Formulation and characterization of pluronic lecithin organogel as an efficient transdermal delivery vehicle of the flavonol fisetin and its potent derivatives.
   mentors:
     -

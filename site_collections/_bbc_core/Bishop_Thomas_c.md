@@ -6,9 +6,10 @@ school: Louisiana Tech University, Center for Biomedical Engineering and Rehabil
 project-type: TestElement
 image: "BBC-Core/BBC-Thomas-Bishop.jpg"
 categories: project-investigator
-email: bishop@latech.edu
-phone: (318) 257-5209
+email: 
+phone: 
 zip: 71272
 city: Ruston
 state: Louisiana
+link: https://www.lsu.edu/eng/cimm/Profiles/BishopT.php
 ---

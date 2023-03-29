@@ -6,9 +6,10 @@ school: Louisiana Tech University, Biological Sciences, Center for Biomedical En
 project-type: TestElement
 image: "giorno.jpg"
 categories: project-investigator
-email: rgiorno@latech.edu
-phone: (318) 257-3665
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://www.latech.edu/faculty-staff/single-entry/name/rebecca-mcconnell/
 ---

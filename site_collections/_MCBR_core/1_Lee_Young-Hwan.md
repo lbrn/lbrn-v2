@@ -6,9 +6,10 @@ school: Louisiana State University, Biological Sciences
 project-type: TestElement
 image: "lee.jpg"
 categories: project-investigator
-email: yhlee@lsu.edu
-phone: (225) 578-0522
+email: 
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
+link: https://www.lsu.edu/science/biosci/faculty-and-staff/faculty-pages/lee.php
 ---
