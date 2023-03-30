@@ -7,3 +7,4 @@ startTime: 5:30pm
 endTime: 7:00pm
 description: Location to be Determined, The LSU Summer Program Welcome Dinner for students. 
 ---
+Location to be Determined, The LSU Summer Program Welcome Dinner for students. 
