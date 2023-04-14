@@ -6,7 +6,7 @@ school: Louisiana State University
 project-type: TestElement
 image: "NEED.jpg"
 categories: project-investigator
-email: lbrnq@lsu.edu
+email: lbrn@lsu.edu
 phone: 
 zip: 70803
 city: Baton Rouge
