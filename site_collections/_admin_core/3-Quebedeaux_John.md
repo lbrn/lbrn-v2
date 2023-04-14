@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Computer Manager
-author: John I. Quebedeaux Jr.
-school: Louisiana State University, School of Veterinary Medicine / Center for Computation and Technology
+author: 
+school: Louisiana State University
 project-type: TestElement
-image: "jquebedeaux.png"
+image: "NEED.jpg"
 categories: project-investigator
 email: johnq@lsu.edu
-phone: (225) 578-0062
+phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
