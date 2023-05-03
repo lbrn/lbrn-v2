@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LBRN Summer Research Program Application 2023
-tags: featured
+tags: news
 featuredImageUrl: "images/2023_LBRN_Summer_Program.png"
 featuredImageUrlSquare: "images/2023_LBRN_Summer_Program.png"
 excerpt_separator: <!--more-->
