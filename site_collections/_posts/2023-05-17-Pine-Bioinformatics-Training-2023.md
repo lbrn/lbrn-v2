@@ -11,4 +11,4 @@ link: /downloads/2023 Pine Bioinformatics Training.pdf
 Enabling Students and Faculty to Conduct Research in the Age of Big Data
 Register Today! 
 
-LBRN campus applicants may be eligible for financial assistance for the training.
+Financial aid for this training is available for LBRN campuses applicants.
