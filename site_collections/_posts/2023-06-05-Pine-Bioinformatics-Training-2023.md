@@ -5,7 +5,7 @@ tags: featured
 featuredImageUrl: "images/2023-Pine-Bioinformatics-Training.png"
 featuredImageUrlSquare: "images/2023-Pine-Bioinformatics-Training.png"
 excerpt_separator: <!--more-->
-eventDate: June 5, 2022
+eventDate: June 5, 2023
 link: https://edu.omicslogic.com/lsu-biommed/
 ---
 Enabling Students and Faculty to Conduct Research in the Age of Big Data
