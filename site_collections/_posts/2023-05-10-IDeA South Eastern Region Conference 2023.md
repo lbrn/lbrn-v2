@@ -10,7 +10,7 @@ link: https://www.scinbre.org/seidea23
 ---
 
 Where: Columbia, South Carolina              
-
+          
 When: September 15-17, 2023  
 
 Know more about event: https://www.scinbre.org/seidea23 
