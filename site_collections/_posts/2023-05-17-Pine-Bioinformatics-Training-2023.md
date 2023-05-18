@@ -11,4 +11,4 @@ link: /downloads/2023 Pine Bioinformatics Training.pdf
 Enabling Students and Faculty to Conduct Research in the Age of Big Data
 Register Today! 
 
-FREE Bioinformatic training for LSU and LBRN student
+LBRN campus applicants may be eligible for financial assistance for the training.
