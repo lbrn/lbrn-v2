@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIGMS Sandbox - A Cloud-Based Learning Platform
-tags: featured
+tags: news
 featuredImageUrl: "images/2023-NIGMS-Sandbox.png"
 featuredImageUrlSquare: "images/2023-NIGMS-Sandbox.png"
 excerpt_separator: <!--more-->
