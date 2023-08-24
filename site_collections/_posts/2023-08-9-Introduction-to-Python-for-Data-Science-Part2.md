@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Python for Data Science – Part 2
-tags: featured
+tags: news
 featuredImageUrl: "images/2023 ScHARe An Introduction to Python for Data Science Part 2.png"
 featuredImageUrlSquare: "images/2023 ScHARe An Introduction to Python for Data Science Part 2.png"
 excerpt_separator: <!--more-->
