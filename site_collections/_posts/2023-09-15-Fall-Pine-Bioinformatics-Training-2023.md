@@ -12,4 +12,4 @@ link: /downloads/OmicsLogic LBRN LSU Fall Programs 2023.pdf
       
 Financial aid for this training is available for LBRN campuses applicants.
     
-FOR MORE DETAILS, REACH OUT TO DR.EMMANUELLE RUIZ, AT DR.KOUSOULAS LAB (ERUIZ10@LSU.EDU | OFFICE: 225-578-9084)
+FOR MORE DETAILS, REACH OUT TO DR.EMMANUELLE RUIZ, AT DR.KOUSOULAS LAB (ERUIZ10 at LSU.EDU)
