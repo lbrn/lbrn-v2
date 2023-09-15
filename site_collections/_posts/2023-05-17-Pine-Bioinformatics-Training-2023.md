@@ -9,6 +9,5 @@ eventDate: Live orientation on June 18, 2023
 link: /downloads/2023 Pine Bioinformatics Training.pdf
 ---
 Enabling Students and Faculty to Conduct Research in the Age of Big Data
-Register Today! 
 
 Financial aid for this training is available for LBRN campuses applicants.
