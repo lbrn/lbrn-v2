@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IDeA Southeast Regional Conference 2023
-tags: featured
+tags: news
 featuredImageUrl: "images/2023_IDeA_South_Eastern_Region_Conference.png"
 featuredImageUrlSquare: "images/2023_IDeA_South_Eastern_Region_Conference.png"
 excerpt_separator: <!--more-->
