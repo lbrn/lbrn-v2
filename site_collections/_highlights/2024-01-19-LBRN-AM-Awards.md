@@ -18,7 +18,7 @@ For information about: <a href="https://lbrn.lsu.edu/annual-meetings.html">2024 
     <article id="speakers">		
 		
 		<ul>Undergraduate Student Poster Winners
-		<li>1st Place: Zachary Wiggins (ULM)</li>
+		<li>1st Place: Testing (ULM)</li>
 		<li>2nd Place (tie): Moosavi Behbahani (LSUS); Audrey Lashley (LSUS); Kade Malone (ULM)</li>
 		</ul>
 		<ul>Graduate Student Poster Winners
