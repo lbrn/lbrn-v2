@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OmicsLogic Bioinformatics & Data Science Fall Semester Training for LBRN students
-tags: featured
+tags: news
 featuredImageUrl: "images/2023-Fall-Pine-Bioinformatics-Training.png"
 featuredImageUrlSquare: "images/2023-Fall-Pine-Bioinformatics-Training.png"
 excerpt_separator: <!--more-->

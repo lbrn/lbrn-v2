@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CPCCR Research Symposium 2023
-tags: featured
+tags: news
 featuredImageUrl: "images/2023 CPCCR Symposium.png"
 featuredImageUrlSquare: "images/2023 CPCCR Symposium.png"
 excerpt_separator: <!--more-->
