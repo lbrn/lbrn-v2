@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Save the Date for LBRN - 22nd Annual Meeting
+title: Registration is Now Open for LBRN - 22nd Annual Meeting
 tags: featured
 featuredImageUrl: "images/lbrn24-save-the-Date-2024.png"
 featuredImageUrlSquare: "images/lbrn24-save-the-Date-2024.png"
 excerpt_separator: <!--more-->
-eventDate: Save the Date for 22nd LBRN Annual Meeting
+eventDate: January 19-20, 2024 
 link: /annual-meetings.html
 ---
 
