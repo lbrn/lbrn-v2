@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registration is Now Open for LBRN - 22nd Annual Meeting
-tags: featured
+tags: news
 featuredImageUrl: "images/lbrn24-save-the-Date-2024.png"
 featuredImageUrlSquare: "images/lbrn24-save-the-Date-2024.png"
 excerpt_separator: <!--more-->
