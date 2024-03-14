@@ -10,5 +10,5 @@ link: /summer-research-program.html
 ---
 
       
-The Louisiana Biomedical Research Network (LBRN) sponsors a summer research program in support of undergraduate students, graduate students and faculty from any Louisiana institute. We offer qualified participants the opportunity to work in established research laboratories at Louisiana State University, LSU Health Sciences Center in New Orleans, LSU Health Sciences Center in Shreveport, Tulane Medical Center, or Tulane National Primate Research Center. 
+The Louisiana Biomedical Research Network (LBRN) sponsors a summer research program in support of undergraduate students, graduate students and faculty from any Louisiana institute. We offer qualified participants the opportunity to work in established research laboratories on their own campus or LBRN flagship institutions at Louisiana State University, LSU Health Sciences Center in New Orleans, LSU Health Sciences Center in Shreveport, Tulane Medical Center, or Tulane National Primate Research Center. 
     
