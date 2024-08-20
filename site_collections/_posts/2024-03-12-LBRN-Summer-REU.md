@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024 LBRN Summer Research Program
-tags: featured
+tags: news
 featuredImageUrl: "images/2024 LBRN Summer Program Brochure v2.png"
 featuredImageUrlSquare: "images/2024 LBRN Summer Program Brochure v2.png"
 excerpt_separator: <!--more-->
