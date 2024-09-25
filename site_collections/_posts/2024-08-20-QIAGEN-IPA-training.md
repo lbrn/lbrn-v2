@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QIAGEN Ingenuity Pathway Analysis (IPA) training
-tags: featured
+tags: news
 featuredImageUrl: "images/IPA training 2024 aug.png"
 featuredImageUrlSquare: "images/IPA training 2024 aug.png"
 excerpt_separator: <!--more-->
