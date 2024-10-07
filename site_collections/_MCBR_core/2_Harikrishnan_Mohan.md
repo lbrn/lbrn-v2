@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Associate Director and Protein Core Manager
-author: Gianluca Veggiani
+title: BioMMED Researcher
+author: Harikrishnan Mohan
 school: Louisiana State University, School of Veterinary Medicine
 project-type: TestElement
-image: "gveggiani.jpg"
+image: "Harikrishnan_Mohan.jpg"
 categories: project-investigator
-email: 
+email:  
 phone: 
 zip: 70803
 city: Baton Rouge
 state: Louisiana
-link: https://www.lsu.edu/vetmed/faculty/veggiani.php
+
 ---
 
